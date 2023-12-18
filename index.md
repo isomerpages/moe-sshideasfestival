@@ -36,10 +36,16 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Hacking the STEM fields
+      id: infopic
+      description: |-
+        Talks on how the
+        humanities and social sciences are
+        shaping Singapore's technological
+        fields.
+      button: Learn more
+      url: /week2-page/
+      image: /images/Hack_image.png
+      alt: Image alt text
 ---
