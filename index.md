@@ -20,6 +20,26 @@ sections:
         - title: workshops
           description: A month long of events
           url: /privacy/
+  - textcards:
+      title: Upcoming events this week
+      subtitle: Add informational text
+      id: textcards
+      cards:
+        - title: All about Computational Social Science
+          description: |-
+            Date: 22 Mar 2024
+            Time: 2.30-5.30pm
+            Venue: Infuse Theatre
+          linktext: Register here
+          url: www.smu.edu.sg
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
