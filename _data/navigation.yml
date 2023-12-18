@@ -4,8 +4,6 @@ links:
     url: /about-us/
   - title: Speakers
     url: /speakers-page/
-  - title: Example Folder
-    collection: example-folder
   - title: Events
     url: /permalink
     sublinks:
@@ -17,3 +15,5 @@ links:
         url: /permalink
       - title: Week 4
         url: /permalink
+  - title: Post Events
+    collection: example-folder
