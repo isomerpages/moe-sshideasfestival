@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Horizon Series Singapore
@@ -12,17 +12,13 @@ sections:
       background: /images/hero-banner.png
       key_highlights:
         - title: Watch a video
-          description: Watch our researchers chat
+          description: Researchers chat
           url: https://google.com
         - title: speakers
           description: Get to know them better
           url: https://gmail.com
-        - title: workshops
-          description: A month long of events
-          url: /privacy/
   - textcards:
       title: Upcoming events this week
-      subtitle: Add informational text
       id: textcards
       cards:
         - title: All about Computational Social Science
