@@ -28,14 +28,18 @@ sections:
             Venue: Infuse Theatre
           linktext: Register here
           url: www.smu.edu.sg
+        - title: Gazing into the Metaverse
+          description: |-
+            Date: 26 Mar 2024
+            Time: 4-6pm
+            Venue: ARI, NUS
+          linktext: Register here
+          url: www.nus.edu.sg
         - title: Card
           description: Card description
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+      subtitle: Join us for exciting programs
   - infopic:
       title: Hacking the STEM fields
       id: infopic
