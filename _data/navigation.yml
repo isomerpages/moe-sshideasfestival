@@ -4,6 +4,8 @@ links:
     url: /about-us/
   - title: Speakers
     url: /speakers-page/
+  - title: Launch
+    url: /permalink
   - title: Events
     url: /permalink
     sublinks:
