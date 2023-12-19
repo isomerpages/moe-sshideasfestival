@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - "Events: Week 3.md"
       - "Events: Week 2.md"
       - "Events: Week 1.md"
