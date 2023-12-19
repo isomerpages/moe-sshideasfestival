@@ -3,6 +3,8 @@ links:
   - title: About Us
     url: /our-mission
     sublinks:
+      - title: Our Mission
+        url: /our-mission
       - title: Organising Committee
         url: /organising-committee
       - title: Press Coverage
