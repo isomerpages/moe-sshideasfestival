@@ -9,3 +9,10 @@ links:
     collection: newsletter
   - title: Launch
     url: /permalink
+  - title: Events
+    collection: events
+  - title: Post events
+    url: /permalink
+    sublinks:
+      - title: Newsletters
+        url: /permalink
