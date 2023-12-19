@@ -1,21 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /about-us/
+    url: /permalink
+    sublinks:
+      - title: Press Coverage
+        url: /permalink
   - title: Speakers
-    url: /speakers-page/
+    collection: newsletter
   - title: Launch
     url: /permalink
-  - title: Events
-    url: moe-sshideasfestival/events
-    sublinks:
-      - title: Week 1
-        url: /permalink
-      - title: Week 2
-        url: /permalink
-      - title: Week 3
-        url: /permalink
-      - title: Week 4
-        url: /permalink
-  - title: Post Event
-    collection: newsletter
