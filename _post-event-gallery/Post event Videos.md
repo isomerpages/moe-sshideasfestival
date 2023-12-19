@@ -4,4 +4,4 @@ permalink: /permalink/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Links to event videos</p>
