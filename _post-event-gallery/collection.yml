@@ -1,4 +1,5 @@
 collections:
   post-event-gallery:
     output: true
-    order: []
+    order:
+      - Post event Photos.md
