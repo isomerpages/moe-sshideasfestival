@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About us
-    collection: about-us
   - title: Speakers
     collection: speakers
   - title: Launch
