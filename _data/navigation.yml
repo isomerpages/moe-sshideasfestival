@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /about-us
+    url: /our-mission
     sublinks:
+      - title: Organising Committee
+        url: /organising-committee
       - title: Press Coverage
         url: /press-coverage
   - title: Speakers
