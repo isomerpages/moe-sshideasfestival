@@ -2,5 +2,6 @@ collections:
   speakers:
     output: true
     order:
+      - Speaker 2.md
       - Speaker 1.md
       - Speakers' Videos & Podcasts.md
