@@ -1,5 +1,0 @@
-collections:
-  speakers:
-    output: true
-    order:
-      - Speaker 1.md
