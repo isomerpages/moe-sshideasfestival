@@ -16,3 +16,8 @@ links:
     collection: events
   - title: Post Events
     collection: post-event-gallery
+  - title: Post Events
+    url: /permalink
+    sublinks:
+      - title: New submenu
+        url: /permalink
