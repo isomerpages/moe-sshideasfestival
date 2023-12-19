@@ -1,5 +1,4 @@
 collections:
   events:
     output: true
-    order:
-      - "Events: Week 4.md"
+    order: []
