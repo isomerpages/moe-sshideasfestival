@@ -6,7 +6,10 @@ links:
       - title: Press Coverage
         url: /press-coverage
   - title: Speakers
-    collection: speakers
+    url: /speakers
+    sublinks:
+      - title: Speakers' Videos & Podcasts
+        url: /speakers-videos-and-podcasts
   - title: Launch
     url: /launch-event
   - title: Events
