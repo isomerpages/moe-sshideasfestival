@@ -17,5 +17,5 @@ links:
         url: /permalink
       - title: Week 4
         url: /permalink
-  - title: Post Events
-    collection: example-folder
+  - title: Newsletter
+    collection: newsletter
