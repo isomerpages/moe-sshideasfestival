@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Horizon Series Singapore
+      title: Ideas Festival Singapore
       subtitle: Perspectives from the Humanities and Social Sciences
       background: /images/hero-banner.png
       key_highlights:
