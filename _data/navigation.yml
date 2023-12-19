@@ -13,6 +13,6 @@ links:
   - title: Launch
     url: /launch-event
   - title: Events
-    collection: post-event-gallery
+    collection: events
   - title: Post Events
     collection: post-event-gallery
