@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: Watch a video
           description: Researchers chat
-          url: https://google.com
+          url: /speakers-videos-and-podcasts/
         - title: speakers
           description: Get to know them better
-          url: https://gmail.com
+          url: /speakers/
   - textcards:
       title: Upcoming events this week
       id: textcards
