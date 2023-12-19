@@ -12,5 +12,7 @@ links:
         url: /speakers-videos-and-podcasts
   - title: Launch
     url: /launch-event
+  - title: Events
+    collection: events
   - title: Post Events
     collection: post-event-gallery
