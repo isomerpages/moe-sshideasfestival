@@ -11,8 +11,5 @@ links:
     url: /event-summary
   - title: Events
     collection: events
-  - title: Post events
-    url: /post-event-gallery
-    sublinks:
-      - title: Newsletters
-        url: /newsletters
+  - title: Post Events
+    collection: post-event-gallery
