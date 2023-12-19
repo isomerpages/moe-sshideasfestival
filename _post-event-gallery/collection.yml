@@ -2,4 +2,5 @@ collections:
   post-event-gallery:
     output: true
     order:
+      - Post event Videos.md
       - Post event Photos.md
