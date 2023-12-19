@@ -10,8 +10,10 @@ links:
   - title: Speakers
     url: /speakers
     sublinks:
-      - title: Speakers' Videos & Podcasts
-        url: /speakers-videos-and-podcasts
+      - title: Profile
+        url: /profiles
+      - title: Videos & Podcasts
+        url: /videos-and-podcasts
   - title: Launch
     url: /launch-event
   - title: Events
