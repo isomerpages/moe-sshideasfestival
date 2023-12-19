@@ -4,10 +4,4 @@ permalink: /speaker-1/
 variant: tiptap
 description: ""
 ---
-Speakers
-
-* Alastair Gornall (Digital Humanities, History, and Religion, SUTD) - “Humanities Computing” 
-* Nilanjan Raghunath (Sociology and labor economy, SUTD) – “The Relevance of Sociology in the Age of AI” 
-* Yow Wei Quin (Psychology and behavior studies, SUTD) – ““Psychology of Science” 
-* Gordon Tan (Finance and technology, SUTD), 
-* Setsuko Yokoyama (Digital Humanities, SUTD), "Fairness in Singlish speech recognition"
+<p>Speakers</p><ul data-tight="true" class="tight"><li><p>Alastair Gornall (Digital Humanities, History, and Religion, SUTD) - “Humanities Computing”</p><ul data-tight="true" class="tight"><li><p>Short write up</p></li><li><p>Link to the event that speaker is participating</p><p></p></li></ul></li><li><p>Nilanjan Raghunath (Sociology and labor economy, SUTD) – “The Relevance of Sociology in the Age of AI”</p><ul data-tight="true" class="tight"><li><p>Short write up</p></li><li><p>Link to the event that speaker is participating</p><p></p></li></ul></li><li><p>Yow Wei Quin (Psychology and behavior studies, SUTD) – ““Psychology of Science”</p><ul data-tight="true" class="tight"><li><p>Short write up</p></li><li><p>Link to the event that speaker is participating</p><p></p></li></ul></li><li><p>Gordon Tan (Finance and technology, SUTD)</p><ul data-tight="true" class="tight"><li><p>Short write up</p></li><li><p>Link to the event that speaker is participating</p></li></ul><p></p></li><li><p>Setsuko Yokoyama (Digital Humanities, SUTD), "Fairness in Singlish speech recognition"</p><ul data-tight="true" class="tight"><li><p>Short write up</p></li><li><p>Link to the event that speaker is participating</p></li></ul></li></ul><p></p>
