@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: Watch a video
           description: Researchers chat
-          url: /speakers-videos-and-podcasts/
+          url: /videos-and-podcasts/
         - title: speakers
           description: Get to know them better
-          url: /speakers/
+          url: /profiles/
   - textcards:
       title: Upcoming events this week
       id: textcards
