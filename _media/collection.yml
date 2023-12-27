@@ -1,5 +1,5 @@
 collections:
-  post-event-gallery:
+  media:
     output: true
     order:
       - Newsletters.md
