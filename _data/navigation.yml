@@ -1,16 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /our-mission
-    sublinks:
-      - title: Our Mission
-        url: /our-mission
-  - title: Speakers
-    url: /profiles
-    sublinks:
-      - title: Profiles
-        url: /profiles
-      - title: Videos & Podcasts
-        url: /videos-and-podcasts
+    url: /about-us
+    sublinks: []
   - title: Events
     collection: events
+  - title: Media
+    collection: media
