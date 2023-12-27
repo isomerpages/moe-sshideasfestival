@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Newsletters.md
-      - Post event Photos.md
