@@ -5,10 +5,6 @@ links:
     sublinks:
       - title: Our Mission
         url: /our-mission
-      - title: Organising Committee
-        url: /organising-committee
-      - title: Press Coverage
-        url: /press-coverage
   - title: Speakers
     url: /profiles
     sublinks:
@@ -16,9 +12,5 @@ links:
         url: /profiles
       - title: Videos & Podcasts
         url: /videos-and-podcasts
-  - title: Launch
-    url: /launch-event
   - title: Events
     collection: events
-  - title: Post Events
-    collection: post-event-gallery
