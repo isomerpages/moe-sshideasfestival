@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: The Organisers
 contacts:
   - content:
-      - phone: ""
+      - phone: +65 9662 2999
       - email: careers@abc.gov.sg
       - other: ""
     title: NUS
