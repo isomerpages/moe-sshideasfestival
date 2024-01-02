@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Ideas Festival Singapore
-      subtitle: Perspectives from the Humanities and Social Sciences
+      subtitle: Insights from the Humanities and Social Sciences
       background: /images/hero-banner.png
       key_highlights:
         - title: Watch a video
