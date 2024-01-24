@@ -1,0 +1,6 @@
+collections:
+  media:
+    output: true
+    order:
+      - Newsletters.md
+      - Press Coverage.md
