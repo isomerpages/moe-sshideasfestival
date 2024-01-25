@@ -28,10 +28,6 @@ sections:
             Venue: ARI, NUS
           linktext: Register here
           url: www.nus.edu.sg
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
       subtitle: Join us for exciting programs
   - infopic:
       title: Hacking the STEM fields
