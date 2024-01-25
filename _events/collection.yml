@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Launch Event.md
       - Week 1/.keep
       - Week 1/Event 1 Summary.md
       - Week 1/Event 2 Summary.md
