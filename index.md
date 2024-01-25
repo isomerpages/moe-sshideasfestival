@@ -29,6 +29,9 @@ sections:
           linktext: Register here
           url: www.nus.edu.sg
       subtitle: Join us for exciting programs
+      description: Upcoming events this weekUpcoming events this weekUpcoming events
+        this weekUpcoming events this weekUpcoming events this weekUpcoming
+        events this weekUpcoming events this weekUpcoming events this wee
   - infopic:
       title: Hacking the STEM fields
       id: infopic
