@@ -39,7 +39,9 @@ sections:
         Talks on how the
         humanities and social sciences are
         shaping Singapore's technological
-        fields.
+        fields.Talks on how the
+        humanities and social sciences are
+        shaping Sikkkkk
       button: Learn more
       url: /week2-page/
       image: /images/Hack_image.png
