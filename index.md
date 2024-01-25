@@ -10,13 +10,6 @@ sections:
       title: Ideas Festival Singapore
       subtitle: Insights from the Humanities and Social Sciences
       background: /images/hero-banner.png
-      key_highlights:
-        - title: Watch a video
-          description: Researchers chat
-          url: /videos-and-podcasts/
-        - title: speakers
-          description: Get to know them better
-          url: /profiles/
   - textcards:
       title: Upcoming events this week
       id: textcards
