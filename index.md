@@ -44,4 +44,5 @@ sections:
       url: /week2-page/
       image: /images/Hack_image.png
       alt: Image alt text
+      subtitle: subtitle
 ---
