@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Launch Event.md
-      - Week 1/.keep
-      - Week 1/Event 1 Summary.md
-      - Week 1/Event 2 Summary.md
-      - Week 1/Event 3 Summary.md
+      - Week 1 (20   24 March)/.keep
+      - Week 1 (20   24 March)/Event 1 Summary.md
+      - Week 1 (20   24 March)/Event 2 Summary.md
+      - Week 1 (20   24 March)/Event 3 Summary.md
       - Week 2/.keep
       - Week 2/Event 1 Summary.md
       - Week 2/Event 2 Summary.md
