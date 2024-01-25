@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Videos & Podcasts.md
-      - Newsletters.md
       - Press Coverage.md
+      - Newsletters.md
