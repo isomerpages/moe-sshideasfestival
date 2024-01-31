@@ -48,7 +48,10 @@ metaverse open for SSH scholars in Singapore?</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Image to provide</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_profile_picture_973460_640.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prof Tim Winter</p>
@@ -68,7 +71,10 @@ University Press, 2022)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Image to provide</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_profile_picture_973460_640.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Natalie Grincheva (LASALLE College of the Arts)</p>
@@ -88,7 +94,10 @@ Oxford. She is the author of three monographs: Geopolitics of Digital Heritage
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Image to provide</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_profile_picture_973460_640.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Chaewon Ahn</p>
@@ -107,7 +116,10 @@ practices in urban planning decision making processes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Image to provide</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_profile_picture_973460_640.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Nien Yuan Cheng</p>
