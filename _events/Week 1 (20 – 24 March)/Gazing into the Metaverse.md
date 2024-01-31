@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Week 1 (20 – 24 March)
 ---
 <h1>Gazing into the Metaverse</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gazing_in_the_metaverse.jpg">
+</div>
 <p>Date: 26 March 2024</p>
 <p>Time: 4.00 - 5.30pm</p>
 <p>Venue: NUS ARI Seminar Room</p>
