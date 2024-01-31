@@ -127,7 +127,7 @@ of Hawaii Press (2024)</p>
 </tr>
 </tbody>
 </table>
-<p>Location map</p>
-<p>Contact Us</p>
-<p>Registration</p>
+<p>Location map (to provide image/link)</p>
+<p>Contact Us (to provide info)</p>
+<p>Registration (to provide link)</p>
 <p></p>
