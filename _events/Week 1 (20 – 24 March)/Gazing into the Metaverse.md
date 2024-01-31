@@ -8,7 +8,7 @@ third_nav_title: Week 1 (20 – 24 March)
 <h1>Gazing into the Metaverse</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gazing_in_the_metaverse.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/gazing_in_the_metaverse.jpg">
 </div>
 <p>Date: 26 March 2024</p>
 <p>Time: 4.00 - 5.30pm</p>
@@ -50,7 +50,7 @@ metaverse open for SSH scholars in Singapore?</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_profile_picture_973460_640.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Prof_Tim_Winter__NUS___ARI_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +73,7 @@ University Press, 2022)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_profile_picture_973460_640.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Natalie_Grincheva__LASALLE_College_of_the_Arts_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,7 +96,7 @@ Oxford. She is the author of three monographs: Geopolitics of Digital Heritage
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_profile_picture_973460_640.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Chaewon_Ahn__Yale_NUS_College_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,7 +118,7 @@ practices in urban planning decision making processes.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_profile_picture_973460_640.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Nien_Yuan_Cheng___Singapore_University_of_Technology_and_Design_.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
