@@ -13,11 +13,13 @@ third_nav_title: Week 1 (20 – 24 March)
 <p>Date: 26 March 2024</p>
 <p>Time: 4.00 - 5.30pm</p>
 <p>Venue: NUS ARI Seminar Room</p>
-<p>Join us as we glimpse into the metaverse and the computer-generated worlds
-that are now in development. Organised by the Asia Research Institute (ARI),
-this Roundtable will consider the key questions, implications and themes
-that researchers in the social sciences and humanities are now asking about
-this next stage in our digital journey, particularly in Asia</p>
+<p>This Roundtable is organised by the Asia Research Institute (ARI) engages
+with the metaverse and the computer-generated worlds that are now in development.
+The Roundtable will provide a brief introduction to the metaverse, and
+consider some of the key questions and themes that researchers in the social
+sciences and humanities are now asking about this next stage in our digital
+journey. Particular attention will be paid to developments and implications
+of the metaverse in Asia.</p>
 <p>Discussion Themes include:</p>
 <ul data-tight="true" class="tight">
 <li>
