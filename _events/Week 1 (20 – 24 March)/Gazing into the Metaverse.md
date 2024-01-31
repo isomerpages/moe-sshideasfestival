@@ -33,25 +33,100 @@ experiences of these emergent worlds?</p>
 metaverse open for SSH scholars in Singapore?</p>
 </li>
 </ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>list of speakers (link to the Speakers page)</p>
-</li>
-</ul>
-<p>Location map</p>
-<p>Contact Us</p>
-<p>Registration</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Featuring:</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p>Event 2 Title</p>
-<p>Date:</p>
-<p>Time:</p>
-<p>Venue:</p>
-<p>Summary</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>list of speakers (link to the Speakers page)</p>
-</li>
-</ul>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Image to provide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Tim Winter</p>
+<p>Cluster Leader &amp; Senior Research Fellow, Asia Research Institute (ARI),
+National University of Singapore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Winter has led the development of heritage diplomacy as a cross-disciplinary
+concept and introduced geocultural power to the analysis of international
+affairs. Recent articles on these topics appear in Geopolitics, International
+Affairs, International Journal of Cultural Policy, and Environmental and
+Planning D. His most recent books are Geocultural Power: China's Quest
+to Revive the Silk Roads for the Twenty First Century (University of Chicago
+Press 2019) and The Silk Road: Connecting Histories and Futures (Oxford
+University Press, 2022)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Image to provide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Natalie Grincheva (LASALLE College of the Arts)</p>
+<p>Program Leader Arts Management, LASALLE College of the Arts, University
+of the Arts Singapore</p>
+<p>Honorary Senior Research Fellow, Digital Studio, University of Melbourne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Grincheva's research focuses on innovative forms and global trends
+in contemporary museology, digital diplomacy and international cultural
+relations. In 2020 she was awarded Oxford Fellowship for her visiting research
+residency at the Digital Diplomacy Research Center at the University of
+Oxford. She is the author of three monographs: Geopolitics of Digital Heritage
+(Cambridge University Press: 2024), Museum Diplomacy in the Digital Age
+(Routledge: 2020), and Global Trends in Museum Diplomacy (Routledge 2019).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Image to provide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chaewon Ahn</p>
+<p>Assistance Professor, Department of Architecture, National University
+of Singapore (Joint appointment with the Urban Studies program at Yale-NUS
+College)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Ahn is an urban researcher who studies the role of urban data and analytical
+frameworks in shaping the urban environment, with a special focus on the
+nexus of community, smart city, innovation policy and urban models. In
+her work, she combines spatial analytics, data visualisation and participatory
+data collection methods, while also critically examining the model making
+practices in urban planning decision making processes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Image to provide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Nien Yuan Cheng</p>
+<p>Faculty Early Career Award (FECA) Fellow Singapore University of Technology
+and Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Cheng is a Singaporean performance scholar and dramaturg. She obtained
+her PhD in Theatre and Performance Studies at the University of Sydney
+in 2020. Her work explores the poetics of storytelling and dramaturg in
+the digital age, intercultural theatre, and oral histories in/as performance.
+Her work has been published in the Oral History Review, Studies in Theatre
+and Performance, and Performance Paradigm among others. She has a forthcoming
+book, The Storytelling State: Performing Lives published by the University
+of Hawaii Press (2024)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Location map</p>
 <p>Contact Us</p>
 <p>Registration</p>
