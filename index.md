@@ -20,14 +20,14 @@ sections:
             Time: 2.30-5.30pm
             Venue: Infuse Theatre
           linktext: Register here
-          url: www.smu.edu.sg
+          url: https://www.smu.edu.sg/
         - title: Gazing into the Metaverse
           description: |-
             Date: 26 Mar 2024
             Time: 4-6pm
             Venue: ARI, NUS
           linktext: Register here
-          url: www.nus.edu.sg
+          url: https://www.nus.edu.sg/
       subtitle: Join us for exciting programs
       description: Upcoming events this weekUpcoming events this weekUpcoming events
         this weekUpcoming events this weekUpcoming events this weekUpcoming
