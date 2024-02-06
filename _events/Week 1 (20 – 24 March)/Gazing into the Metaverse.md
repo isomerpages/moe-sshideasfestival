@@ -39,7 +39,7 @@ metaverse open for SSH scholars in Singapore?</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>&lt;p style="color:red;"&gt;Featuring:&lt;/p&gt;</p>
+<p>Featuring:</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
