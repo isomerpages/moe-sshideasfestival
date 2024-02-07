@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Week 1 (20 – 24 March)
 ---
-<h1>Gazing into the Metaverse</h1>
+<h1>Gazing into the Metaverse (Version 2)</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/gazing_in_the_metaverse.jpg">
