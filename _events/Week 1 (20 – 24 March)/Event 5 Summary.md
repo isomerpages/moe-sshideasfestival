@@ -78,7 +78,7 @@ University Press, 2022)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Natalie Grincheva (LASALLE College of the Arts)</p>
+<h4>Dr Natalie Grincheva</h4>
 <p>Program Leader Arts Management, LASALLE College of the Arts, University
 of the Arts Singapore</p>
 <p>Honorary Senior Research Fellow, Digital Studio, University of Melbourne</p>
