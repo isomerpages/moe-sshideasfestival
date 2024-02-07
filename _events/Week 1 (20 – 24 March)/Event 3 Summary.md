@@ -35,7 +35,95 @@ experiences of these emergent worlds?</p>
 metaverse open for SSH scholars in Singapore?</p>
 </li>
 </ul>
-<p></p><a class="isomer-image-wrapper" href="https://www.nus.edu.sg/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Register_button.png"></a>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Prof Tim Winter</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prof_Tim_Winter__NUS___ARI_.jpeg">
+</div>
+<p>Cluster Leader &amp; Senior Research Fellow, Asia Research Institute (ARI),</p>
+<p>National University of Singapore</p>
+<p>Prof Winter has led the development of heritage diplomacy as a cross-disciplinary
+concept and introduced geocultural power to the analysis of international
+affairs. Recent articles on these topics appear in Geopolitics, International
+Affairs, International Journal of Cultural Policy, and Environmental and
+Planning D. His most recent books are Geocultural Power: China's Quest
+to Revive the Silk Roads for the Twenty First Century (University of Chicago
+Press 2019) and The Silk Road: Connecting Histories and Futures (Oxford
+University Press, 2022)</p>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Dr Natalie Grincheva</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Natalie_Grincheva__LASALLE_College_of_the_Arts_.jpg">
+</div>
+<p>Program Leader Arts Management, LASALLE College of the Arts, University
+of the Arts Singapore</p>
+<p>Honorary Senior Research Fellow, Digital Studio, University of Melbourne</p>
+<p>Dr Grincheva's research focuses on innovative forms and global trends
+in contemporary museology, digital diplomacy and international cultural
+relations. In 2020 she was awarded Oxford Fellowship for her visiting research
+residency at the Digital Diplomacy Research Center at the University of
+Oxford. She is the author of three monographs: Geopolitics of Digital Heritage
+(Cambridge University Press: 2024), Museum Diplomacy in the Digital Age
+(Routledge: 2020), and Global Trends in Museum Diplomacy (Routledge 2019).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Chaewon_Ahn__Yale_NUS_College_.jpg">
+</div>
+<h4>Dr Chaewon Ahn</h4>
+<p>Assistance Professor, Department of Architecture, National University
+of Singapore (Joint appointment with the Urban Studies program at Yale-NUS
+College)</p>
+<p>Dr Ahn is an urban researcher who studies the role of urban data and analytical
+frameworks in shaping the urban environment, with a special focus on the
+nexus of community, smart city, innovation policy and urban models. In
+her work, she combines spatial analytics, data visualisation and participatory
+data collection methods, while also critically examining the model making
+practices in urban planning decision making processes.</p>
+</td>
+<td rowspan="1" colspan="1">
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Nien_Yuan_Cheng___Singapore_University_of_Technology_and_Design_.jpeg">
+</div>
+<h4>Dr Nien Yuan Cheng</h4>
+<p>Faculty Early Career Award (FECA) Fellow</p>
+<p>Singapore University of Technology and Design</p>
+<p>Dr Cheng is a Singaporean performance scholar and dramaturg. She obtained
+her PhD in Theatre and Performance Studies at the University of Sydney
+in 2020. Her work explores the poetics of storytelling and dramaturg in
+the digital age, intercultural theatre, and oral histories in/as performance.
+Her work has been published in the Oral History Review, Studies in Theatre
+and Performance, and Performance Paradigm among others. She has a forthcoming
+book, The Storytelling State: Performing Lives published by the University
+of Hawaii Press (2024).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table><a class="isomer-image-wrapper" href="https://www.nus.edu.sg/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Register_button.png"></a>
 <p>Location map (to provide image/link)</p>
 <p>Contact Us (to provide info)</p>
 <p></p>
