@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Week 1 (20 – 24 March)
 ---
-<h1>Gazing into the Metaverse (Version 1)</h1>
+<h1>(Version 3)</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/gazing_in_the_metaverse.jpg">
@@ -79,7 +79,7 @@ University Press, 2022)</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Natalie Grincheva (LASALLE College of the Arts)</p>
+<p>Dr Natalie Grincheva</p>
 <p>Program Leader Arts Management, LASALLE College of the Arts, University
 of the Arts Singapore</p>
 <p>Honorary Senior Research Fellow, Digital Studio, University of Melbourne</p>
