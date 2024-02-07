@@ -76,13 +76,16 @@ University Press, 2022)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Natalie_Grincheva__LASALLE_College_of_the_Arts_.jpg">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Dr Natalie Grincheva (LASALLE College of the Arts)</p>
 <p>Program Leader Arts Management, LASALLE College of the Arts, University
 of the Arts Singapore</p>
 <p>Honorary Senior Research Fellow, Digital Studio, University of Melbourne</p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Dr Grincheva's research focuses on innovative forms and global trends
 in contemporary museology, digital diplomacy and international cultural
 relations. In 2020 she was awarded Oxford Fellowship for her visiting research
