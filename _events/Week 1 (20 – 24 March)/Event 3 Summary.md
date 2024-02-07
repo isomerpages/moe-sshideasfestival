@@ -47,9 +47,10 @@ metaverse open for SSH scholars in Singapore?</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Prof Tim Winter</h4>
+<p><strong>Prof Tim Winter</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prof_Tim_Winter__NUS___ARI_.jpeg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Prof_Tim_Winter__NUS___ARI_.jpeg">
 </div>
 <p>Cluster Leader &amp; Senior Research Fellow, Asia Research Institute (ARI),</p>
 <p>National University of Singapore</p>
@@ -63,9 +64,10 @@ Press 2019) and The Silk Road: Connecting Histories and Futures (Oxford
 University Press, 2022)</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Dr Natalie Grincheva</h4>
+<p><strong>Dr Natalie Grincheva</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Natalie_Grincheva__LASALLE_College_of_the_Arts_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dr_Natalie_Grincheva__LASALLE_College_of_the_Arts_.jpg">
 </div>
 <p>Program Leader Arts Management, LASALLE College of the Arts, University
 of the Arts Singapore</p>
@@ -83,9 +85,10 @@ Oxford. She is the author of three monographs: Geopolitics of Digital Heritage
 <td rowspan="1" colspan="1">
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Chaewon_Ahn__Yale_NUS_College_.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Dr_Chaewon_Ahn__Yale_NUS_College_.jpg">
 </div>
-<h4>Dr Chaewon Ahn</h4>
+<p><strong>Dr Chaewon Ahn</strong>
+</p>
 <p>Assistance Professor, Department of Architecture, National University
 of Singapore (Joint appointment with the Urban Studies program at Yale-NUS
 College)</p>
@@ -99,9 +102,10 @@ practices in urban planning decision making processes.</p>
 <td rowspan="1" colspan="1">
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Nien_Yuan_Cheng___Singapore_University_of_Technology_and_Design_.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dr_Nien_Yuan_Cheng___Singapore_University_of_Technology_and_Design_.jpeg">
 </div>
-<h4>Dr Nien Yuan Cheng</h4>
+<p><strong>Dr Nien Yuan Cheng</strong>
+</p>
 <p>Faculty Early Career Award (FECA) Fellow</p>
 <p>Singapore University of Technology and Design</p>
 <p>Dr Cheng is a Singaporean performance scholar and dramaturg. She obtained
