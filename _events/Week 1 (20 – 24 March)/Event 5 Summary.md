@@ -101,13 +101,16 @@ Oxford. She is the author of three monographs: Geopolitics of Digital Heritage
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Chaewon_Ahn__Yale_NUS_College_.jpg">
 </div>
-<p></p>
-<p>Dr Chaewon Ahn</p>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Dr Chaewon Ahn</h4>
 <p>Assistance Professor, Department of Architecture, National University
 of Singapore (Joint appointment with the Urban Studies program at Yale-NUS
 College)</p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Dr Ahn is an urban researcher who studies the role of urban data and analytical
 frameworks in shaping the urban environment, with a special focus on the
 nexus of community, smart city, innovation policy and urban models. In
@@ -122,12 +125,15 @@ practices in urban planning decision making processes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Nien_Yuan_Cheng___Singapore_University_of_Technology_and_Design_.jpeg">
 </div>
-<p></p>
-<p>Dr Nien Yuan Cheng</p>
-<p>Faculty Early Career Award (FECA) Fellow Singapore University of Technology
-and Design</p>
 </td>
 <td rowspan="1" colspan="1">
+<h4>Dr Nien Yuan Cheng</h4>
+<p>Faculty Early Career Award (FECA) Fellow</p>
+<p>Singapore University of Technology and Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Dr Cheng is a Singaporean performance scholar and dramaturg. She obtained
 her PhD in Theatre and Performance Studies at the University of Sydney
 in 2020. Her work explores the poetics of storytelling and dramaturg in
@@ -140,9 +146,8 @@ of Hawaii Press (2024)</p>
 </tr>
 </tbody>
 </table>
-<p></p><a class="isomer-image-wrapper" href="https://www.nus.edu.sg/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Register_button.png"></a>
-<p>Location map (to provide image/link)</p>
-<p>Contact Us (to provide info)</p>
-<p>Registration (to provide link)</p>
-<h4></h4>
+<p></p><a class="isomer-image-wrapper" href="https://ari.nus.edu.sg/events/metaverse/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Register_button.png"></a>
+<p>Location map</p>
+<p><a href="https://www.google.com/maps/place/Asia+Research+Institute/@1.2960533,103.7675576,17z/data=!3m2!4b1!5s0x31da1af91c1237c3:0x4ca0bb517686f568!4m6!3m5!1s0x31da1a030cb0a309:0xda62cb8efcaaac9!8m2!3d1.2960479!4d103.7724285!16s%2Fg%2F1ptzm0l9q?entry=ttu" rel="noopener noreferrer nofollow" target="_blank">NUS, Asia Research Institute (ARI)</a> 
+</p>
 <p></p>
