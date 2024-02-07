@@ -136,6 +136,7 @@ and Design</p>
 </tr>
 </tbody>
 </table>
+<p></p><a class="isomer-image-wrapper" href="https://www.nus.edu.sg/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Register_button.png"></a>
 <p>Location map (to provide image/link)</p>
 <p>Contact Us (to provide info)</p>
 <p>Registration (to provide link)</p>
