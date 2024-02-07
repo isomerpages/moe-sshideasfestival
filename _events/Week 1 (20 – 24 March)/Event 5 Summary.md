@@ -53,8 +53,7 @@ metaverse open for SSH scholars in Singapore?</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Prof Tim Winter</strong>
-</p>
+<h4><strong>Prof Tim Winter</strong></h4>
 <p>Cluster Leader &amp; Senior Research Fellow, Asia Research Institute (ARI),
 National University of Singapore</p>
 </td>
@@ -142,4 +141,5 @@ of Hawaii Press (2024)</p>
 <p>Location map (to provide image/link)</p>
 <p>Contact Us (to provide info)</p>
 <p>Registration (to provide link)</p>
+<h4></h4>
 <p></p>
