@@ -8,7 +8,7 @@ third_nav_title: Week 1 (20 – 24 March)
 <h1>(Version 2)</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/gazing_in_the_metaverse.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/gazing_in_the_metaverse.jpg">
 </div>
 <p>Date: 26 March 2024</p>
 <p>Time: 4.00 - 5.30pm</p>
@@ -39,7 +39,7 @@ metaverse open for SSH scholars in Singapore?</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Featuring</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
