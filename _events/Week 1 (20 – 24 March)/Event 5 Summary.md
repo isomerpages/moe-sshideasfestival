@@ -78,7 +78,6 @@ University Press, 2022)</p>
 <p>Program Leader Arts Management, LASALLE College of the Arts, University
 of the Arts Singapore</p>
 <p>Honorary Senior Research Fellow, Digital Studio, University of Melbourne</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Grincheva's research focuses on innovative forms and global trends
