@@ -49,7 +49,7 @@ metaverse open for SSH scholars in Singapore?</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Prof_Tim_Winter__NUS___ARI_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Prof_Tim_Winter__NUS___ARI_.png">
 </div>
 <p></p>
 <p>Prof Winter has led the development of heritage diplomacy as a cross-disciplinary
