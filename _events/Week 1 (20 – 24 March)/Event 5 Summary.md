@@ -148,6 +148,6 @@ of Hawaii Press (2024)</p>
 </table>
 <p></p><a class="isomer-image-wrapper" href="https://ari.nus.edu.sg/events/metaverse/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Register_button.png"></a>
 <p>Location map</p>
-<p><a href="https://www.google.com/maps/place/Asia+Research+Institute/@1.2960533,103.7675576,17z/data=!3m2!4b1!5s0x31da1af91c1237c3:0x4ca0bb517686f568!4m6!3m5!1s0x31da1a030cb0a309:0xda62cb8efcaaac9!8m2!3d1.2960479!4d103.7724285!16s%2Fg%2F1ptzm0l9q?entry=ttu" rel="noopener noreferrer nofollow" target="_blank">NUS, Asia Research Institute (ARI)</a> 
+<p><a href="https://www.google.com/maps/place/Asia+Research+Institute/@1.2960533,103.7675576,17z/data=!3m2!4b1!5s0x31da1af91c1237c3:0x4ca0bb517686f568!4m6!3m5!1s0x31da1a030cb0a309:0xda62cb8efcaaac9!8m2!3d1.2960479!4d103.7724285!16s%2Fg%2F1ptzm0l9q?entry=ttu" rel="noopener noreferrer nofollow" target="_blank">NUS, Asia Research Institute (ARI)</a>
 </p>
 <p></p>
