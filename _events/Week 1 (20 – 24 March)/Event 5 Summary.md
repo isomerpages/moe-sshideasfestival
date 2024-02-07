@@ -51,12 +51,16 @@ metaverse open for SSH scholars in Singapore?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Prof_Tim_Winter__NUS___ARI_.png">
 </div>
-<p></p>
-<p>Prof Tim Winter</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Prof Tim Winter</strong>
+</p>
 <p>Cluster Leader &amp; Senior Research Fellow, Asia Research Institute (ARI),
 National University of Singapore</p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Prof Winter has led the development of heritage diplomacy as a cross-disciplinary
 concept and introduced geocultural power to the analysis of international
 affairs. Recent articles on these topics appear in Geopolitics, International
