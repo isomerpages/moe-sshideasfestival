@@ -44,6 +44,12 @@ metaverse open for SSH scholars in Singapore?</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -66,12 +72,10 @@ University Press, 2022)</p>
 <p>Cluster Leader &amp; Senior Research Fellow, Asia Research Institute (ARI),
 National University of Singapore</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Natalie_Grincheva__LASALLE_College_of_the_Arts_.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Natalie_Grincheva__LASALLE_College_of_the_Arts_.jpg">
 </div>
 <p></p>
 <p>Dr Grincheva's research focuses on innovative forms and global trends
@@ -93,7 +97,7 @@ of the Arts Singapore</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Chaewon_Ahn__Yale_NUS_College_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Chaewon_Ahn__Yale_NUS_College_.jpg">
 </div>
 <p></p>
 <p>Dr Ahn is an urban researcher who studies the role of urban data and analytical
@@ -109,12 +113,10 @@ practices in urban planning decision making processes.</p>
 of Singapore (Joint appointment with the Urban Studies program at Yale-NUS
 College)</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Nien_Yuan_Cheng___Singapore_University_of_Technology_and_Design_.jpeg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Nien_Yuan_Cheng___Singapore_University_of_Technology_and_Design_.jpeg">
 </div>
 <p></p>
 <p>Dr Cheng is a Singaporean performance scholar and dramaturg. She obtained
