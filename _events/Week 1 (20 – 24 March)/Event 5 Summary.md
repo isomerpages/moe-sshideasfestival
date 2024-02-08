@@ -77,60 +77,60 @@ who serves on the Media Literacy Council will follow the talk.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>&nbsp;Event schedule</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Event Schedule</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>16:00 – 16:05</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>WELCOME AND INTRODUCTORY REMARKS</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9:00 – 9:30 am</strong>
+<p><strong>16:05 – 16:45</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Registration</strong>
+<p><strong>PRESENTATIONS</strong>
+</p>
+<p><strong>Digital Twin Modelling and the Metaverse<br>Dr Chaewon Ahn | Yale-NUS College</strong>
+</p>
+<p><strong>The Metaverse in Museum Diplomacy<br>Dr Natalie Grincheva | University of the Arts Singapore</strong>
+</p>
+<p><strong>Performing the Metaverse<br>Dr Nien Yuan Cheng&nbsp;| Singapore University of Technology and Design</strong>
+</p>
+<p><strong>Asian History in the Metaverse: Who’s Going to Curate the Past?<br>Prof Tim Winter | National University of Singapore</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9:30 – 9:40 am</strong>
+<p><strong>16:45 – 17:30</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Welcome Speech</strong>
+<p><strong>OPEN DISCUSSION</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>9:45 – 11:15am</strong>
+<p><strong>17:30</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Roundtable</strong>
+<p><strong>END</strong>
 </p>
-<p>To promote research exchanges and collaborations, this informal networking
-session will bring stakeholders,</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Break</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>12:00 – 1:30pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Networking</strong>
-</p>
-<p>To promote research exchanges and collaborations, this informal networking
-session will bring stakeholders, policy-makers, agencies, practitioners,
-researchers, and research students into deeper conversation.</p>
 </td>
 </tr>
 </tbody>
