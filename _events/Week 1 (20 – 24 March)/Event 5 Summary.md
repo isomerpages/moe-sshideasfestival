@@ -47,33 +47,17 @@ third_nav_title: Week 1 (20 – 24 March)
 </tr>
 </tbody>
 </table>
-<p>From Animal Crossing to Bard and ChatGPT, childhood today involves a distinct,
-technologically-charged set of ABCs. Children are using technology avidly,
-consuming a vast quantity and mind-boggling diversity of media content
-via growing array of devices that connect seamlessly to the internet. Indeed,
-the household is the principal site of their formative media experiences,
-and parents the key architects of their media environments.</p>
-<p>The bruising Covid-19 pandemic further accelerated household adoption
-of online social interaction, e-learning and myriad forms of digital entertainment
-– all underpinned by AI. What are the promises and pitfalls in children’s
-technology use in an AI-fuelled world that boasts of disruptive innovations
-such as the metaverse and generative AI? Immersive and interactive augmented
-reality environments present engaging and highly customized learning experiences
-for children. But these may come at the cost of excessive screentime and
-device dependency. Social media platforms may be able to detect when children
-are consuming questionable content and send alerts to parents. Yet this
-needs to be weighed against reduced control over personal data and children’s
-rights to autonomy and agency. Growing up in a world marked by digital
-acceleration certainly presents many quandaries to parents and children
-but possibilities as well.</p>
-<p>This talk will draw on humanities and social sciences research on the
-social implications of AI to discuss the challenges and opportunities parents
-and children face as the deployment of AI intensifies rapidly. It will
-also touch on how parents can seek to boost their own and their children’s
-understanding of the implications of the rising prevalence of AI. It will
-close by highlighting resources that can support parents and children through
-these disruptions. A question and answer session moderated by a parent
-who serves on the Media Literacy Council will follow the talk.</p>
+<p>This Roundtable is organised by the Asia Research Institute (ARI) engages
+with the metaverse and the computer-generated worlds that are now in development.
+The Roundtable will provide a brief introduction to the metaverse, and
+consider some of the key questions and themes that researchers in the social
+sciences and humanities are now asking about this next stage in our digital
+journey. Particular attention will be paid to developments and implications
+of the metaverse in Asia. - What versions of Asia – urban, national, civilizational
+and at other scales – are rising to prominence? - What narratives of Asian
+pasts and futures are bound up with embodied experiences of these emergent
+worlds? - What present and future collaborative research possibilities
+does the metaverse open for SSH scholars in Singapore?</p>
 <table>
 <tbody>
 <tr>
