@@ -5,8 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Week 1 (20 – 24 March)
 ---
-<p></p><a class="isomer-image-wrapper" href="https://ari.nus.edu.sg/events/metaverse/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Register_button.png"></a>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_2_41_24_PM.jpeg">
+</div>
 <table>
 <tbody>
 <tr>
