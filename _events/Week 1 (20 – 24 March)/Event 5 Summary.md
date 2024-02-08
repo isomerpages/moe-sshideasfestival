@@ -118,7 +118,7 @@ does the metaverse open for SSH scholars in Singapore?</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Prof_Tim_Winter__NUS___ARI_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,10 +146,11 @@ Histories and Futures (Oxford University Press, 2022).</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Natalie_Grincheva__LASALLE_College_of_the_Arts_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<h4></h4>
 <h4>Dr Natalie Grincheva</h4>
 <p>Program Leader Arts Management, LASALLE College of the Arts, University
 of the Arts Singapore</p>
@@ -174,10 +175,11 @@ Global Trends in Museum Diplomacy (Routledge: 2019).</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Chaewon_Ahn__Yale_NUS_College_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM__1_.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<h4></h4>
 <h4>Dr Chaewon Ahn</h4>
 <p>Assistance Professor, Department of Architecture, National University
 of Singapore (Joint appointment with the Urban Studies program at Yale-NUS
@@ -201,7 +203,7 @@ in urban planning decision making processes.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/Dr_Nien_Yuan_Cheng___Singapore_University_of_Technology_and_Design_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
