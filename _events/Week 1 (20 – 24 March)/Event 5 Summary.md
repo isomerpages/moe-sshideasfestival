@@ -77,60 +77,48 @@ who serves on the Media Literacy Council will follow the talk.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Event Schedule</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<h3>Event Schedule</h3>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>16:00 – 16:05</strong>
-</p>
+<p>16:00 – 16:05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>WELCOME AND INTRODUCTORY REMARKS</strong>
-</p>
+<p>WELCOME AND INTRODUCTORY REMARKS</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>16:05 – 16:45</strong>
-</p>
+<p>16:05 – 16:45</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PRESENTATIONS</strong>
-</p>
-<p><strong>Digital Twin Modelling and the Metaverse<br>Dr Chaewon Ahn | Yale-NUS College</strong>
-</p>
-<p><strong>The Metaverse in Museum Diplomacy<br>Dr Natalie Grincheva | University of the Arts Singapore</strong>
-</p>
-<p><strong>Performing the Metaverse<br>Dr Nien Yuan Cheng&nbsp;| Singapore University of Technology and Design</strong>
-</p>
-<p><strong>Asian History in the Metaverse: Who’s Going to Curate the Past?<br>Prof Tim Winter | National University of Singapore</strong>
-</p>
+<p>PRESENTATIONS</p>
+<p>Digital Twin Modelling and the Metaverse
+<br>Dr Chaewon Ahn | Yale-NUS College</p>
+<p>The Metaverse in Museum Diplomacy
+<br>Dr Natalie Grincheva | University of the Arts Singapore</p>
+<p>Performing the Metaverse
+<br>Dr Nien Yuan Cheng&nbsp;| Singapore University of Technology and Design</p>
+<p>Asian History in the Metaverse: Who’s Going to Curate the Past?
+<br>Prof Tim Winter | National University of Singapore</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>16:45 – 17:30</strong>
-</p>
+<p>16:45 – 17:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>OPEN DISCUSSION</strong>
-</p>
+<p>OPEN DISCUSSION</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>17:30</strong>
-</p>
+<p>17:30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>END</strong>
-</p>
+<p>END</p>
 </td>
 </tr>
 </tbody>
@@ -138,11 +126,8 @@ who serves on the Media Literacy Council will follow the talk.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Featuring:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<h3>Speakers Profile:</h3>
 </th>
 </tr>
 <tr>
@@ -256,7 +241,4 @@ Performing Lives published by the University of Hawaii Press (2024).</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
