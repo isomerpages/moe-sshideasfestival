@@ -56,11 +56,21 @@ The Roundtable will provide a brief introduction to the metaverse, and
 consider some of the key questions and themes that researchers in the social
 sciences and humanities are now asking about this next stage in our digital
 journey. Particular attention will be paid to developments and implications
-of the metaverse in Asia. - What versions of Asia – urban, national, civilizational
-and at other scales – are rising to prominence? - What narratives of Asian
-pasts and futures are bound up with embodied experiences of these emergent
-worlds? - What present and future collaborative research possibilities
-does the metaverse open for SSH scholars in Singapore?</p>
+of the metaverse in Asia.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What versions of Asia – urban, national, civilizational and at other scales
+– are rising to prominence?</p>
+</li>
+<li>
+<p>What narratives of Asian pasts and futures are bound up with embodied
+experiences of these emergent worlds?</p>
+</li>
+<li>
+<p>What present and future collaborative research possibilities does the
+metaverse open for SSH scholars in Singapore?</p>
+</li>
+</ul>
 <table>
 <tbody>
 <tr>
@@ -121,7 +131,7 @@ does the metaverse open for SSH scholars in Singapore?</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,11 +159,10 @@ Histories and Futures (Oxford University Press, 2022).</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4></h4>
 <h4>Dr Natalie Grincheva</h4>
 <p>Program Leader Arts Management, LASALLE College of the Arts, University
 of the Arts Singapore</p>
@@ -178,11 +187,10 @@ Global Trends in Museum Diplomacy (Routledge: 2019).</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM__1_.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM__1_.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4></h4>
 <h4>Dr Chaewon Ahn</h4>
 <p>Assistance Professor, Department of Architecture, National University
 of Singapore (Joint appointment with the Urban Studies program at Yale-NUS
@@ -206,7 +214,7 @@ in urban planning decision making processes.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
