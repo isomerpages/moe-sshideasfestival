@@ -126,7 +126,7 @@ session will bring stakeholders,</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Networking </strong>
+<p><strong>Networking</strong>
 </p>
 <p>To promote research exchanges and collaborations, this informal networking
 session will bring stakeholders, policy-makers, agencies, practitioners,
