@@ -35,8 +35,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Cluster Leader &amp; Senior Research Fellow, Asia Research Institute (ARI),
-National University of Singapore</p>
+<p><em>Cluster Leader &amp; Senior Research Fellow, Asia Research Institute (ARI), National University of Singapore</em>
+</p>
 </td>
 </tr>
 <tr>
