@@ -21,21 +21,6 @@ sections:
   - textcards:
       title: Upcoming events this week
       id: textcards
-      cards:
-        - title: All about Computational Social Science
-          description: |-
-            Date: 22 Mar 2024
-            Time: 2.30-5.30pm
-            Venue: Infuse Theatre
-          linktext: Register here
-          url: https://www.smu.edu.sg/
-        - title: Gazing into the Metaverse
-          description: |-
-            Date: 26 Mar 2024
-            Time: 4-6pm
-            Venue: ARI, NUS
-          linktext: Register here
-          url: https://www.nus.edu.sg/
       subtitle: Join us for exciting programs
       description: >-
         Upcoming events this weekUpcoming events this weekUpcoming events this
@@ -63,9 +48,13 @@ sections:
       id: announcements
       subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
-          date: 13 February 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+        - title: Gazing Into the Metaverse
+          date: 26 March 2024
+          announcement: Join us from 2.30 - 5.30pm at Asia Research Insitute, NUS for
+            exciting programs! exciting programs!exciting programs!exciting
+            programs!exciting programs!exciting programs!exciting
+            programs!exciting programs!exciting programs!exciting
+            programs!exciting programs!exciting programs programs (299 char)
+          link_text: Register now!
+          link_url: https://ari.nus.edu.sg/events/metaverse/
 ---
