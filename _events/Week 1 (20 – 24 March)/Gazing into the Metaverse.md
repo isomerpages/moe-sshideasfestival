@@ -128,7 +128,7 @@ metaverse open for SSH scholars in Singapore?</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
