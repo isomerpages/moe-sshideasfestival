@@ -2,5 +2,5 @@ collections:
   full-profiles:
     output: true
     order:
-      - Blank Profile.md
+      - Dr Natalie Grincheva.md
       - Professor Tim Winter.md
