@@ -32,7 +32,7 @@ workplace.</p>
 </div>
 <h4>Organising Committee</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/full-profiles/timwinter/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Tim Winter" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tim Winter</div><div class="isomer-card-description">Prof Winter is Cluster Leader and Senior Research Fellow at the Asia Research Institute (ARI), NUS. He has led the development of heritage diplomacy as a cross-disciplinary concept and introduced geocultural power to the analysis of international affairs.</div><div class="isomer-card-link">Link to faculty profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/full-profiles/nataliegrincheva/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Natalie Grincheva" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
