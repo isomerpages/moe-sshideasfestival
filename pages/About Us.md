@@ -4,4 +4,38 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
-<p>Description on the festival's mission and vision</p><p>Organising Committee</p><p>Name 1</p><p>Profile</p><p>Photo?</p><p></p><p>Name 2</p><p>Profile</p><p>Photo?</p><p></p><p>Name 3</p><p>Profile</p><p>Photo</p>
+<p>[PLACEHOLDER] The Ideas Festival is a showcase of the latest insights
+and contributions from social science and humanities researchers in Singapore.
+Co-organised by local universities and Singapore's Social Science Research
+Council, the inaugural Festival offers events that cover a diverse range
+of topics - from artificial intelligence to well-being and the changing
+workplace.</p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Events</div><div class="isomer-card-description">Find and register for our free events!
+</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Media Room</div>
+<div class="isomer-card-description">Hear from our local experts through podcasts and videos!</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="contact us" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Contact Us</div><div class="isomer-card-description">Have any questions or feedback? </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p>Organising Committee</p>
+<p>Name 1</p>
+<p>Profile</p>
+<p>Photo?</p>
+<p></p>
+<p>Name 2</p>
+<p>Profile</p>
+<p>Photo?</p>
+<p></p>
+<p>Name 3</p>
+<p>Profile</p>
+<p>Photo</p>
