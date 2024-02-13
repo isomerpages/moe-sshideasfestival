@@ -4,27 +4,14 @@ permalink: /full-profiles/nataliegrincheva/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
+</div>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Dr Natalie Grincheva</strong>
-</p>
+<h4><strong>Dr Natalie Grincheva</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
