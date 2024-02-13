@@ -10,6 +10,14 @@ sections:
       title: Ideas Festival Singapore
       subtitle: Insights from the Humanities and Social Sciences
       background: /images/hero-banner.png
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar descriptionInfobar descriptionInfobar descriptionInfobar
+        descriptionInfobar descriptionInfobar descriptionInfobar
+        descriptionInfobar descriptio(159char)
+      button: Button Text
   - textcards:
       title: Upcoming events this week
       id: textcards
