@@ -156,7 +156,7 @@ Histories and Futures (Oxford University Press, 2022).</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,7 +184,7 @@ Global Trends in Museum Diplomacy (Routledge: 2019).</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM__1_.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM__1_.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -211,7 +211,7 @@ in urban planning decision making processes.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
