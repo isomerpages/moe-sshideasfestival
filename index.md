@@ -55,4 +55,14 @@ sections:
       image: /images/Hack_image.png
       alt: Image alt text
       subtitle: subtitlesubtitlesubtitlesubtit
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 13 February 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
