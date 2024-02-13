@@ -30,15 +30,7 @@ workplace.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="contact us" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Contact Us</div><div class="isomer-card-description">Have any questions or feedback?</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<p>Organising Committee</p>
-<p>Name 1</p>
-<p>Profile</p>
-<p>Photo?</p>
-<p></p>
-<p>Name 2</p>
-<p>Profile</p>
-<p>Photo?</p>
-<p></p>
+<h4>Organising Committee</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Tim Winter" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tim Winter</div><div class="isomer-card-description">Prof Winter is Cluster Leader and Senior Research Fellow at the Asia Research Institute (ARI), NUS. He has led the development of heritage diplomacy as a cross-disciplinary concept and introduced geocultural power to the analysis of international affairs.</div><div class="isomer-card-link">Link to faculty profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
@@ -71,6 +63,4 @@ international cultural relations.</div>
 </div>
 </a>
 </div>
-<p>Name 3</p>
-<p>Profile</p>
-<p>Photo</p>
+<p></p>
