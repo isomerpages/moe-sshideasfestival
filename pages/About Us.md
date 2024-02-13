@@ -4,6 +4,7 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
+<p>[Insert Ideas Festival Logo Here]</p>
 <p>[PLACEHOLDER] The Ideas Festival is a showcase of the latest insights
 and contributions from social science and humanities researchers in Singapore.
 Co-organised by local universities and Singapore's Social Science Research
