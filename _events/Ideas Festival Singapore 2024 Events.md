@@ -4,4 +4,12 @@ permalink: /launch-event/
 variant: tiptap
 description: ""
 ---
-<p>Date: 20 March 2024, Wednesday</p><p>Time: 9.30am – 11.30am</p><p>Venue: NUS University Hall Auditorium</p><p>The launch event aims to signal support for Social Science and Humanities Research (SSHR) and commitment to develop the local SSHR ecosystem.</p><p></p><p>Format:</p><p>a) Sharing by distinguished researchers on developments in the local SSHR ecosystem and their vision for SSHR in Singapore.</p><p>b) Panel discussion on supporting the development of the local SSHR ecosystem.</p><p></p><p><em>Organised by MOE and NUS.</em></p>
+<p>Join us for a series of events that gathers the best minds and</p>
+<p>developments in the Humanities and Social Sciences (HSS).</p>
+<p>With networking sessions, workshops and roundtable</p>
+<p>discussions that focus on today's most pertinent topics,</p>
+<p>including Al, the metaverse, mental health and well-being,</p>
+<p>the changing workplace and much more. Ideal for HSS</p>
+<p>practitioners and enthusiasts alike.</p>
+<p></p>
+<p></p>
