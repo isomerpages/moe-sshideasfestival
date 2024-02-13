@@ -33,7 +33,7 @@ sections:
         this weekUpcoming events this weekUpcoming events this weekUpcoming
         events this weekUpcoming events this weekUpcoming events this wee
   - infopic:
-      title: Hacking the STEM fields
+      title: Hacking the STEM fieldsHacking the STEmmm mmm mmmmmmmm mmmmm
       id: infopic
       description: |-
         Talks on how the
@@ -46,5 +46,5 @@ sections:
       url: /week2-page/
       image: /images/Hack_image.png
       alt: Image alt text
-      subtitle: subtitle
+      subtitle: subtitlesubtitlesubtitlesubtit
 ---
