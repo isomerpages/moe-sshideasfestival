@@ -44,7 +44,7 @@ National University of Singapore</p>
 <p>Prof Winter has led the development of heritage diplomacy as a cross-disciplinary
 concept and introduced geocultural power to the analysis of international
 affairs. Recent articles on these topics appear in Geopolitics, International
-Affairs, International Journal of Cultural Policy, and Environmental and
+Affairs, International Journal of Cultural Policy, and Environment and
 Planning D. His most recent books are Geocultural Power: China's Quest
 to Revive the Silk Roads for the Twenty First Century (University of Chicago
 Press 2019) and The Silk Road: Connecting Histories and Futures (Oxford
