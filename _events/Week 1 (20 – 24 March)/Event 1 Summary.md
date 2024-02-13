@@ -8,7 +8,7 @@ third_nav_title: Week 1 (20 – 24 March)
 <h1>(Version 3)</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Week 1/Gazing into the metaverse/gazing_in_the_metaverse.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_2_41_24_PM.jpeg">
 </div>
 <p>Date: 26 March 2024</p>
 <p>Time: 4.00 - 5.30pm</p>
@@ -36,13 +36,42 @@ metaverse open for SSH scholars in Singapore?</p>
 </li>
 </ul>
 <h4>Featuring</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Prof_Tim_Winter__NUS___ARI_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM.jpeg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Prof Tim Winter</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Cluster Leader &amp; Senior Research Fellow, Asia Research Institute (ARI),
 National University of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Prof Winter has led the development of heritage diplomacy as a cross-disciplinary
 concept and introduced geocultural power to the analysis of international
 affairs. Recent articles on these topics appear in Geopolitics, International
@@ -51,15 +80,43 @@ Planning D. His most recent books are Geocultural Power: China's Quest
 to Revive the Silk Roads for the Twenty First Century (University of Chicago
 Press 2019) and The Silk Road: Connecting Histories and Futures (Oxford
 University Press, 2022).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Dr_Natalie_Grincheva__LASALLE_College_of_the_Arts_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Dr Natalie Grincheva</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Program Leader Arts Management, LASALLE College of the Arts, University
 of the Arts Singapore</p>
 <p>Honorary Senior Research Fellow, Digital Studio, University of Melbourne</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Dr Grincheva's research focuses on innovative forms and global trends
 in contemporary museology, digital diplomacy and international cultural
 relations. In 2020 she was awarded Oxford Fellowship for her visiting research
@@ -67,6 +124,10 @@ residency at the Digital Diplomacy Research Center at the University of
 Oxford. She is the author of three monographs: Geopolitics of Digital Heritage
 (Cambridge University Press: 2024), Museum Diplomacy in the Digital Age
 (Routledge: 2020), and Global Trends in Museum Diplomacy (Routledge 2019).</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dr_Chaewon_Ahn__Yale_NUS_College_.jpg">
