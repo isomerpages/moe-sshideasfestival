@@ -10,7 +10,6 @@ sections:
       title: Ideas Festival Singapore
       subtitle: Insights from the Humanities and Social Sciences
       background: /images/hero-banner.png
-      button: text
       url: https://www.youtube.com/watch?v=gIArlw4mkW8&ab_channel=Jeopardy%21
       key_highlights:
         - title: Date
