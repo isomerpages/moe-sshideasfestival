@@ -10,6 +10,18 @@ sections:
       title: Ideas Festival Singapore
       subtitle: Insights from the Humanities and Social Sciences
       background: /images/hero-banner.png
+      button: text
+      url: https://www.youtube.com/watch?v=gIArlw4mkW8&ab_channel=Jeopardy%21
+      key_highlights:
+        - title: Date
+          description: 22 Mar - 19 Apr 2024
+          url: ""
+        - title: 14 Events
+          description: Across 5 universities
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar
       subtitle: Add informational text
