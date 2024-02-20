@@ -31,11 +31,11 @@ workplace.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="contact us" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Contact Us</div><div class="isomer-card-description">Have any questions or feedback?</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <h4>Organising Committee</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/full-profiles/timwinter/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Tim Winter" src="/images/Winter_resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tim Winter</div><div class="isomer-card-description">Prof Winter is Cluster Leader and Senior Research Fellow at the Asia Research Institute (ARI), NUS. He has led the development of heritage diplomacy as a cross-disciplinary concept and introduced geocultural power to the analysis of international affairs.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/full-profiles/timwinter/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Tim Winter" src="/images/Screenshot_2024_02_20_at_7_02_37_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tim Winter</div><div class="isomer-card-description">Prof Winter is Cluster Leader and Senior Research Fellow at the Asia Research Institute (ARI), NUS. He has led the development of heritage diplomacy as a cross-disciplinary concept and introduced geocultural power to the analysis of international affairs.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/full-profiles/nataliegrincheva/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Natalie Grincheva" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Natalie Grincheva" src="/images/Screenshot_2024_02_20_at_6_47_36_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -49,7 +49,7 @@ international cultural relations.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM__1_.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_02_20_at_7_07_39_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
