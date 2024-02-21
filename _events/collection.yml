@@ -2,13 +2,12 @@ collections:
   events:
     output: true
     order:
-      - Week 5 (15 – 21 April)/.keep
       - Ideas Festival Singapore 2024 Events.md
       - Week 1 (20 – 24 March)/.keep
       - Week 1 (20 – 24 March)/Insights and Applications from Computational
         Social Science.md
-      - Week 2 (25 – 31 March)/Gazing into the Metaverse.md
       - Week 2 (25 – 31 March)/.keep
+      - Week 2 (25 – 31 March)/Gazing into the Metaverse.md
       - Week 3 (1 – 7 April)/.keep
       - Week 3 (1 – 7 April)/How can scientists help the youth become leaders of
         sustainable and climate resilient societies?.md
@@ -24,3 +23,4 @@ collections:
       - Week 4 (8 – 14 April)/Foundations of home–based work.md
       - "Week 4 (8 – 14 April)/Roundtable: Whole–of–society approach to
         well–being.md"
+      - Week 5 (15 – 21 April)/.keep
