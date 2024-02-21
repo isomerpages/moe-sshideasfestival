@@ -52,13 +52,15 @@ of mental health in Singapore, with the COVID-19 pandemic sparking more
 open conversations about the measurable and immeasurable costs of poor
 mental health. However, stigma against persons with mental health conditions
 (PMHCs) continues to delay and even prevent, in some cases, help-seeking,
-to deleterious effect.</p>
-<p>Stories have an impact on perceptions and experiences of reality. Even
+to deleterious effect.
+<br>
+<br>Stories have an impact on perceptions and experiences of reality. Even
 well-meaning cultural text producers, such as television drama writers,
 novelists, and playwrights, can inadvertently perpetuate stigma against
 PMHCs through inaccurate or stereotyped portrayals of mental health conditions
-(MHCs).</p>
-<p>This roundtable by NTU will introduce an SSRTG-funded project to develop
+(MHCs).
+<br>
+<br>This roundtable by NTU will introduce an SSRTG-funded project to develop
 resources on mental health narrative ethical considerations for cultural
 text producers in Singapore. These resources are being developed in consultation
 with the Institute of Mental Health (IMH), based on close reading of local
