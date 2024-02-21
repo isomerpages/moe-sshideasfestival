@@ -55,16 +55,16 @@ spending time traveling in India, where he studied Buddhism and Asian religions.
 What allowed these tech innovators to stand apart from their peers was
 their ability to anticipate future challenges and seek out opportunity
 for growth using the strategic and creative skills that they honed as students
-of the humanities and social sciences. This roundtable brings together
-practitioners and academics from across the humanities and social science
-fields for an exciting conversation about how tech innovations in anthropology,
-sociology, psychology, urban planning, Asian studies, communications and
-media studies, financial technology, and the digital humanities can help
-us answer important social and cultural issues and challenges in Singapore
-and our globalized world. In the process, we’ll have a chance to discuss
-how tech innovation can help us advance our dreams for Singapore’s future
-and help us develop a happier, healthier, fairer, more just, and more equal
-society.</p>
+of the humanities and social sciences.</p>
+<p>This roundtable brings together practitioners and academics from across
+the humanities and social science fields for an exciting conversation about
+how tech innovations in anthropology, sociology, psychology, urban planning,
+Asian studies, communications and media studies, financial technology,
+and the digital humanities can help us answer important social and cultural
+issues and challenges in Singapore and our globalized world. In the process,
+we’ll have a chance to discuss how tech innovation can help us advance
+our dreams for Singapore’s future and help us develop a happier, healthier,
+fairer, more just, and more equal society.</p>
 <table>
 <tbody>
 <tr>
