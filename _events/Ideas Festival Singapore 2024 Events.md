@@ -15,20 +15,20 @@ topics,including Al, the metaverse, mental health and well-being, the changing
 workplace and much more. Ideal for HSS practitioners and enthusiasts alike.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-2/event-1/" rel="noopener noreferrer nofollow" target="_blank">Gazing into the Metaverse</a>
+<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-2/gazing-into-the-metaverse/" rel="noopener noreferrer nofollow" target="_blank">Gazing into the Metaverse</a>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-1/event-2/" rel="noopener noreferrer nofollow" target="_blank">How the Humanities and Social Sciences can Help us 'Hack' the STEM fields?</a>
+<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-3/how-the-humanities//" rel="noopener noreferrer nofollow" target="_blank">How the Humanities and Social Sciences can Help us 'Hack' the STEM fields?</a>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-1/event-3/" rel="noopener noreferrer nofollow" target="_blank">Postgrad Networking Event</a>
+<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-3/postgrad-networking-event/" rel="noopener noreferrer nofollow" target="_blank">Postgrad Networking Event</a>
 </p>
 </li>
 <li>
-<p>Growing Up In an AI-Fuelled World: Reflections on Childhood Amid Digital
-Acceleration</p>
+<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-3/growing-up-in/" rel="noopener noreferrer nofollow" target="_blank">Growing up in an AI-fuelled world: Reflections on Childhood amid Digital Acceleration</a>
+</p>
 </li>
 </ol>
 <p></p>
