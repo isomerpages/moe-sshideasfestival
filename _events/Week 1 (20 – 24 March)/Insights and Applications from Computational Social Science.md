@@ -38,7 +38,7 @@ third_nav_title: Week 1 (20 – 24 March)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong> 
+<p><strong>Location Map:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
