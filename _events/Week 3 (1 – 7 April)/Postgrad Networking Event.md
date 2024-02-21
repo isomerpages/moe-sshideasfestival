@@ -47,26 +47,29 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 </tbody>
 </table>
-<p>Theme: "After the PhD: The Early Years."</p>
-<p>It is no mean feat navigating the final stages of graduate school and
+<p>Theme: "After the PhD: The Early Years."
+<br>
+<br>It is no mean feat navigating the final stages of graduate school and
 the period immediately following the completion of one’s PhD. How does
 one grapple with the academic job market, address the questions of whether
 and how to explore non-academic (alt-ac) paths, or handle those initial
 years in a research position? In particular, how do those with graduate
-degrees in the humanities and social sciences met those challenges? A strong
-support network, not just friends and family, but supportive colleagues
-and mentors, is critical for anyone hoping to survive and thrive in the
-late- and post-PhD phases.</p>
-<p>This postgraduate networking event, organized by the College of Integrative
+degrees in the humanities and social sciences met those challenges?
+<br>A strong support network, not just friends and family, but supportive
+colleagues and mentors, is critical for anyone hoping to survive and thrive
+in the late- and post-PhD phases.
+<br>
+<br>This postgraduate networking event, organized by the College of Integrative
 Studies at SMU, is an opportunity for senior and graduating PhD students
 in the humanities and social sciences to further build up their support
-network. Do join us! At this event, several researchers from the local
-universities will share briefly about their experiences with early career
-research and/or alt-ac options. Following that, during a networking session
-and over light refreshments, senior postgraduate students will be able
-to strike up conversations informally with these speakers, other senior
-scholars from the local universities in attendance, and make connections
-with many postgraduate students in cognate fields.</p>
+network.
+<br>Do join us! At this event, several researchers from the local universities
+will share briefly about their experiences with early career research and/or
+alt-ac options. Following that, during a networking session and over light
+refreshments, senior postgraduate students will be able to strike up conversations
+informally with these speakers, other senior scholars from the local universities
+in attendance, and make connections with many postgraduate students in
+cognate fields.</p>
 <table>
 <tbody>
 <tr>
