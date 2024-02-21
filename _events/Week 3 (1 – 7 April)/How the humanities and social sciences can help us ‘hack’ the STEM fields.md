@@ -55,8 +55,9 @@ spending time traveling in India, where he studied Buddhism and Asian religions.
 What allowed these tech innovators to stand apart from their peers was
 their ability to anticipate future challenges and seek out opportunity
 for growth using the strategic and creative skills that they honed as students
-of the humanities and social sciences.</p>
-<p>This roundtable brings together practitioners and academics from across
+of the humanities and social sciences.
+<br>
+<br>This roundtable brings together practitioners and academics from across
 the humanities and social science fields for an exciting conversation about
 how tech innovations in anthropology, sociology, psychology, urban planning,
 Asian studies, communications and media studies, financial technology,
