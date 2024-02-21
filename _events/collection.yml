@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Week 5 (15 – 21 April)/.keep
       - Ideas Festival Singapore 2024 Events.md
       - Week 1 (20 – 24 March)/.keep
       - Week 1 (20 – 24 March)/Insights and Applications from Computational
