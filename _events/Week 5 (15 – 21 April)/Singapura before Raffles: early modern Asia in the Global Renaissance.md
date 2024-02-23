@@ -193,11 +193,11 @@ of Singapore. Her research interests lie in the intersections between gender
 studies and performances of Shakespeare in Asia.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Test" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Emily Soon</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Test" src="/images/Speaker_EmilySoon_LG.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Emily Soon</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Joshua Ehrlich" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Joshua Ehrlich" src="/images/Ehrlich.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
