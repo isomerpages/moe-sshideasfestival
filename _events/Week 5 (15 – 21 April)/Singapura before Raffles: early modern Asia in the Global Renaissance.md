@@ -183,17 +183,17 @@ Conviction in Early Modern England (2023).</div>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Test 3" src="/images/Screenshot_2024_02_21_at_12_34_05_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Melissa" src="/images/Melissa_Tu.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">[PLACEHOLDER] Dr Grincheva is the Program Leader Arts Management, LASALLE
-College of the Arts, University of the Arts Singapore. Her research focuses
-on innovative forms and global trends in contemporary museology, digital
-diplomacy and international cultural relations.</div>
+<div class="isomer-card-title">Dr Melissa Tu</div>
+<div class="isomer-card-description">Melissa Tu is a Lecturer of English Literature in the Humanities, Arts
+and Social Sciences (HASS) at Singapore University of Technology and Design
+(SUTD). She earned her PhD in English Literature from Yale University in
+2023. Her work focuses on medieval literature, music and media theory.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Test" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
