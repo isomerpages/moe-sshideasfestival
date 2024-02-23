@@ -164,11 +164,11 @@ we look ahead to the next chapter in our shared Singapore story.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Roweena" src="/images/Rowena_Resized_3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Roweena Yip</div><div class="isomer-card-description">Roweena Yip is a Lecturer in the Humanities at the National University of Singapore. Her research interests lie in the intersections between gender studies and performances of Shakespeare in Asia. </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Roweena" src="/images/Rowena_Resized_3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Roweena Yip</div><div class="isomer-card-description">Roweena Yip is a Lecturer in the Humanities at the National University of Singapore. Her research interests lie in the intersections between gender studies and performances of Shakespeare in Asia.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Walter" src="/images/Walter_Resized_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Walter" src="/images/Walter_Resized.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
