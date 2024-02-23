@@ -164,7 +164,7 @@ we look ahead to the next chapter in our shared Singapore story.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rowena" src="/images/Dr_Roweena_Yip__NUS_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Rowena Yip</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rowena" src="/images/Dr_Roweena_Yip__NUS_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Rowena Yip</div><div class="isomer-card-description">[PLACEHOLDER] Dr Grincheva is the Program Leader Arts Management, LASALLE College of the Arts, University of the Arts Singapore. Her research focuses on innovative forms and global trends in contemporary museology, digital diplomacy and international cultural relations.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -173,10 +173,13 @@ we look ahead to the next chapter in our shared Singapore story.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">[PLACEHOLDER] Dr Grincheva is the Program Leader Arts Management, LASALLE
+College of the Arts, University of the Arts Singapore. Her research focuses
+on innovative forms and global trends in contemporary museology, digital
+diplomacy and international cultural relations.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Rowena_Resized_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Rowena_Resized_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">[PLACEHOLDER] Dr Grincheva is the Program Leader Arts Management, LASALLE College of the Arts, University of the Arts Singapore. Her research focuses on innovative forms and global trends in contemporary museology, digital diplomacy and international cultural relations.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -185,9 +188,12 @@ we look ahead to the next chapter in our shared Singapore story.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">[PLACEHOLDER] Dr Grincheva is the Program Leader Arts Management, LASALLE
+College of the Arts, University of the Arts Singapore. Her research focuses
+on innovative forms and global trends in contemporary museology, digital
+diplomacy and international cultural relations.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Test" src="/images/nien2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Test" src="/images/nien2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">[PLACEHOLDER] Dr Grincheva is the Program Leader Arts Management, LASALLE College of the Arts, University of the Arts Singapore. Her research focuses on innovative forms and global trends in contemporary museology, digital diplomacy and international cultural relations.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
