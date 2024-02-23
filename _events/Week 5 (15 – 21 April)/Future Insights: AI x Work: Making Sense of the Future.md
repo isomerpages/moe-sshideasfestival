@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Week 5 (15 – 21 April)
 ---
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://ari.nus.edu.sg/events/metaverse/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_2_41_24_PM.jpeg"></a>
+<a class="isomer-image-wrapper" href="https://ari.nus.edu.sg/events/metaverse/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_2_41_24_PM.jpeg"></a>
 <table>
 <tbody>
 <tr>
@@ -137,58 +136,6 @@ will affect their lives?”&nbsp;</p>
 <th rowspan="1" colspan="2">
 <h3>Speakers Profile:</h3>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
