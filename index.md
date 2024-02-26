@@ -4,7 +4,8 @@ title: Ideas Festival Singapore 2024
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: 20 MARCH TO 19 APRIL 2024. 14 EXCITING EVENTS. WITH LEADING MINDS
+  IN HUMANITIES & THE SOCIAL SCIENCES (HSS)
 sections:
   - hero:
       title: Ideas Festival Singapore
@@ -21,6 +22,8 @@ sections:
         - title: WITH LEADING MINDS IN HUMANITIES & THE SOCIAL SCIENCES (HSS)
           description: ""
           url: ""
+      variant: floating
+      size: sm
   - infobar:
       title: Infobar
       subtitle: Add informational text
