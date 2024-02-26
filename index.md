@@ -12,14 +12,14 @@ sections:
       background: /images/hero-banner.png
       url: https://www.youtube.com/watch?v=gIArlw4mkW8&ab_channel=Jeopardy%21
       key_highlights:
-        - title: Date
-          description: 22 Mar - 19 Apr 2024
+        - title: 20 MARCH TO 19 APRIL 2024
+          description: ""
           url: ""
-        - title: 14 Events
-          description: Across 5 universities
+        - title: 14 EXCITING EVENTS
+          description: ""
           url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: WITH LEADING MINDS IN HUMANITIES & THE SOCIAL SCIENCES (HSS)
+          description: ""
           url: ""
   - infobar:
       title: Infobar
