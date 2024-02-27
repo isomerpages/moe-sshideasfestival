@@ -120,7 +120,7 @@ towards a more sustainable and resilient future for all.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ben Horton" src="/images/Week 3/Ben_Horton.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Benjamin P. Horton</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ben Horton" src="/images/Week 3/Ben_Horton.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Benjamin P. Horton</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -136,7 +136,7 @@ towards a more sustainable and resilient future for all.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Yong Ming Lee" src="/images/Week 3/Yong_Ming_Lee.png">
+<img style="width: 100%" height="auto" width="100%" alt="Yong Ming Lee" src="/images/Week 3/Yong_Ming_Lee.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
