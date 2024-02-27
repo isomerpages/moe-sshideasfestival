@@ -135,7 +135,7 @@ and unintended consequences.
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chuang Shin Wee" src="/images/Week 5/Chuang_Shin_Wee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chuang Shin Wee</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lee Chei Sian" src="/images/Week 5/Chei_Sian_Lee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Lee Chei Sian</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -147,6 +147,6 @@ and unintended consequences.
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lee Chei Sian" src="/images/Week 5/Chei_Sian_Lee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Lee Chei Sian</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chuang Shin Wee" src="/images/Week 5/Chuang_Shin_Wee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chuang Shin Wee</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
