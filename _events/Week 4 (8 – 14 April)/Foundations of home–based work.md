@@ -144,7 +144,7 @@ mins) - Natalie
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Lilian Chee" src="/images/Week 4/Lilian_Chee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Lilian Chee" src="/images/Week 4/Lilian_Chee_updated.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
