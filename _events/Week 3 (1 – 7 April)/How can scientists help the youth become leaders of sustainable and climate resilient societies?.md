@@ -124,23 +124,23 @@ towards a more sustainable and resilient future for all.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shirley Ho" src="/images/Week 3/Shirley_Ho.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Shirley Ho</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yong Ming Lee" src="/images/Week 3/Yong_Ming_Lee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Yong Ming Lee</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Janice Lee" src="/images/Week 3/Janice_Lee.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Asst Prof Janice Lee</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shirley Ho" src="/images/Week 3/Shirley_Ho.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Shirley Ho</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Yong Ming Lee" src="/images/Week 3/Yong_Ming_Lee.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Asst Prof Yong Ming Lee</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
