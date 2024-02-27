@@ -142,6 +142,18 @@ and communities, such as mental health professionals and writers.</p>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bhing Leet TAN" src="/images/Week 3/Bhing_Leet_TAN.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Tan Bhing Leet </div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bhing Leet TAN" src="/images/Week 3/Bhing_Leet_TAN.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Tan Bhing Leet</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mahita Vas" src="/images/Week 3/Mahita_Vas.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mahita Vas</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
 </div>
 <p></p>
