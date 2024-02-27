@@ -236,3 +236,30 @@ Performing Lives published by the University of Hawaii Press (2024).</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tim Winter" src="/images/Week 2/TIm_Winter.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tim Winter</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nien Yuan Cheng" src="/images/Week 2/Nien_Yuan_Cheng.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Nien Yuan Cheng</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Natalie Grincheva" src="/images/Week 2/Natalie_Grincheva.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Natalie Grincheva</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chaewon Ahn" src="/images/Week 2/Chaewon_Ahn.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Asst Prof Chaewon Ahn</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p></p>
