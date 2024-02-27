@@ -38,7 +38,7 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong> 
+<p><strong>Location Map:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,58 +121,20 @@ and unintended consequences.
 <h3>Speakers Profile:</h3>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Edson Tandoc" src="/images/Week 5/Edson_Tandoc.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Edson Tandoc</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lee Mong Li" src="/images/Week 5/Mong_Li.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Lee Mong Li</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chuang Shin Wee" src="/images/Week 5/Chuang_Shin_Wee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chuang Shin Wee</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
