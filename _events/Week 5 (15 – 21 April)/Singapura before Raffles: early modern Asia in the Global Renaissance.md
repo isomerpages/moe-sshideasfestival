@@ -116,7 +116,7 @@ we look ahead to the next chapter in our shared Singapore story.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Walter" src="/images/Week 5/Walter_Resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Walter" src="/images/Week 5/Walter_Lim.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -131,7 +131,7 @@ Conviction in Early Modern England (2023).</div>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Roweena" src="/images/Week 5/Rowena_Resized_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Roweena" src="/images/Week 5/Roweena.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
