@@ -44,10 +44,7 @@ includes the global history of the Cold War, empires and decolonisation.</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jennifer Ang" src="/images/About Us/Jennifer_Ang.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Jennifer Ang</div><div class="isomer-card-description">Jennifer is Assoc Professor of Philosophy at the S R
-Nathan School of Human Development, SUSS. She is the
-author of Sartre and the Moral Limits of War and Terrorism, and
-a forthcoming book Unforgiveness towards Injustice. Her recent projects examine the role of ethics in AI decision-making. </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/about-suss/faculty-and-staff/detail/jennifer-ang" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jennifer Ang" src="/images/About Us/Jennifer_Ang.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Jennifer Ang</div><div class="isomer-card-description">Jennifer is Assoc Professor of Philosophy at the S R Nathan School of Human Development, SUSS. She is the author of Sartre and the Moral Limits of War and Terrorism, and a forthcoming book Unforgiveness towards Injustice. Her recent projects examine the role of ethics in AI decision-making.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
 <p></p>
