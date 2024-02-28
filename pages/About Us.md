@@ -17,36 +17,22 @@ workplace.</p>
 <p></p>
 <p></p>
 <h4>Organising Committee</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/full-profiles/timwinter/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Prof Tim Winter" src="/images/Winter_resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tim Winter</div><div class="isomer-card-description">Prof Winter is Cluster Leader and Senior Research Fellow at the Asia Research Institute (ARI), NUS. He has led the development of heritage diplomacy as a cross-disciplinary concept and introduced geocultural power to the analysis of international affairs.</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/full-profiles/nataliegrincheva/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://profile.nus.edu.sg/fass/geoehle/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elaine Ho" src="/images/About Us/Elaine_Ho.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Elaine Ho</div><div class="isomer-card-description">Elaine Ho is Provost Chair Professor at NUS Geography, Vice-Dean of Research at FASS, and Senior Research Fellow at the Asia Research Institute. Her research addresses citizenship geographies, focusing on transnational ageing and care in the Asia-Pacific, and diaspora engagement and diplomacy.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/ngoei-wen-qing-2326" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Natalie Grincheva" src="/images/Screenshot_2024_02_21_at_12_35_22_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ngoei Wen Qing" src="/images/About Us/Wen_Qing.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Natalie Grincheva</div>
-<div class="isomer-card-description">Dr Grincheva is the Program Leader Arts Management, LASALLE College of
-the Arts, University of the Arts Singapore. Her research focuses on innovative
-forms and global trends in contemporary museology, digital diplomacy and
-international cultural relations.</div>
+<div class="isomer-card-title">Assoc Prof Ngoei Wen Qing</div>
+<div class="isomer-card-description">Wen-Qing is Assoc Professor of History and Assoc Dean (External Engagement)
+at the College of Integrative Studies, SMU. His interests lie in foreign
+policy and international affairs, particularly US-SEA relations. His expertise
+includes the global history of the Cold War, empires and decolonisation.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/rhema-hokama/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rhema Hokama" src="/images/About Us/Rhema.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rhema Hokama</div><div class="isomer-card-description">Rhema Hokama is Assistant Professor of English Literature in the faculty of Humanities, Arts and Social Sciences, SUTD. She is a scholar of early modern English literature and religious culture, and her recent research interests centers around early modern European travel accounts about East Asia. </div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_02_20_at_7_07_39_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Dr_Chaewon_Ahn__Yale_NUS_College_.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
-</div>
 <p></p>
