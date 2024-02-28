@@ -128,109 +128,31 @@ metaverse open for SSH scholars in Singapore?</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_28_at_3_47_19_PM.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Prof Tim Winter</h4>
-<p>Cluster Leader &amp; Senior Research Fellow, Asia Research Institute (ARI),</p>
-<p>National University of Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Tim Winter is Cluster Leader and Senior Research Fellow at the Asia Research
-Institute (ARI), National University of Singapore. He moved to ARI from
-University of Western of Australia, where he was Professorial Future Fellow
-of the Australian Research Council. Tim has led the development of heritage
-diplomacy as a cross-disciplinary concept and introduced geocultural power
-to the analysis of international affairs. Recent articles on these topics
-appear in Geopolitics, International Affairs, International Journal of
-Cultural Policy, and Environment and Planning D. His most recent books
-are Geocultural Power: China’s Quest to Revive the Silk Roads for the Twenty
-First Century (University of Chicago Press 2019) and The Silk Road: Connecting
-Histories and Futures (Oxford University Press, 2022).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM__1_.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<h4>Dr Natalie Grincheva</h4>
-<p>Program Leader Arts Management, LASALLE College of the Arts, University
-of the Arts Singapore</p>
-<p>Honorary Senior Research Fellow, Digital Studio, University of Melbourne</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Natalia Grincheva is Program Leader in Arts Management at LASALLE College
-of the Arts, University of the Arts Singapore, and Honorary Senior Research
-Fellow in the Digital Studio at the University of Melbourne. Her research
-focuses on innovative forms and global trends in contemporary museology,
-digital diplomacy and international cultural relations. In 2020 she was
-awarded Oxford Fellowship for her visiting research residency at the Digital
-Diplomacy Research Center at the University of Oxford. She is the author
-of three monographs: Geopolitics of Digital Heritage (Cambridge University
-Press: 2024), Museum Diplomacy in the Digital Age (Routledge: 2020) and
-Global Trends in Museum Diplomacy (Routledge: 2019).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_30_PM__1_.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<h4>Dr Chaewon Ahn</h4>
-<p>Assistance Professor, Department of Architecture, National University
-of Singapore (Joint appointment with the Urban Studies program at Yale-NUS
-College)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Chaewon Ahn is an Assistant Professor at the Department of Architecture
-at the National University of Singapore, who holds a joint appointment
-with the Urban Studies program at the Yale-NUS College. She is an urban
-researcher who studies the role of urban data and analytical frameworks
-in shaping the urban environment, with a special focus on the nexus of
-community, smart city, innovation policy and urban models. In her work,
-she combines spatial analytics, data visualization and participatory data
-collection methods, while also critically examining the model making practices
-in urban planning decision making processes.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_12_50_31_PM.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<h4>Dr Nien Yuan Cheng</h4>
-<p>Faculty Early Career Award (FECA) Fellow</p>
-<p>Singapore University of Technology and Design</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Nien Yuan Cheng is a Singaporean performance scholar and dramaturg. She
-is presently a Faculty Early Career Award Fellow at the Singapore University
-of Technology and Design. She obtained her PhD in Theatre and Performance
-Studies at the University of Sydney in 2020. Her work explores the poetics
-of storytelling and dramaturgy in the digital age, intercultural theatre,
-and oral histories in/as performance. Her work has been published in the
-Oral History Review, Studies in Theatre and Performance, and Performance
-Paradigm among others. She has a forthcoming book, The Storytelling State:
-Performing Lives published by the University of Hawaii Press (2024).</p>
+<p>This Roundtable is organised by the Asia Research Institute (ARI) engages
+with the metaverse and the computer-generated worlds that are now in development.
+The Roundtable will provide a brief introduction to the metaverse, and
+consider some of the key questions and themes that researchers in the social
+sciences and humanities are now asking about this next stage in our digital
+journey. Particular attention will be paid to developments and implications
+of the metaverse in Asia.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What versions of Asia – urban, national, civilizational and at other scales
+– are rising to prominence?</p>
+</li>
+<li>
+<p>What narratives of Asian pasts and futures are bound up with embodied
+experiences of these emergent worlds?</p>
+</li>
+<li>
+<p>What present and future collaborative research possibilities does the
+metaverse open for SSH scholars in Singapore?</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
