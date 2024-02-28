@@ -6,7 +6,10 @@ description: ""
 third_nav_title: Week 2 (25 – 31 March)
 ---
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://ari.nus.edu.sg/events/metaverse/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_2_41_24_PM.jpeg"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.jpg">
+</div>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -127,32 +130,11 @@ metaverse open for SSH scholars in Singapore?</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_28_at_3_47_19_PM.png">
-</div>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This Roundtable is organised by the Asia Research Institute (ARI) engages
-with the metaverse and the computer-generated worlds that are now in development.
-The Roundtable will provide a brief introduction to the metaverse, and
-consider some of the key questions and themes that researchers in the social
-sciences and humanities are now asking about this next stage in our digital
-journey. Particular attention will be paid to developments and implications
-of the metaverse in Asia.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>What versions of Asia – urban, national, civilizational and at other scales
-– are rising to prominence?</p>
-</li>
-<li>
-<p>What narratives of Asian pasts and futures are bound up with embodied
-experiences of these emergent worlds?</p>
-</li>
-<li>
-<p>What present and future collaborative research possibilities does the
-metaverse open for SSH scholars in Singapore?</p>
-</li>
-</ul>
+<p>&nbsp;SUSS&nbsp;SUSS</p>
 </td>
 </tr>
 </tbody>
