@@ -32,7 +32,19 @@ policy and international affairs, particularly US-SEA relations. His expertise
 includes the global history of the Cold War, empires and decolonisation.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/rhema-hokama/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rhema Hokama" src="/images/About Us/Rhema.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rhema Hokama</div><div class="isomer-card-description">Rhema Hokama is Assistant Professor of English Literature in the faculty of Humanities, Arts and Social Sciences, SUTD. She is a scholar of early modern English literature and religious culture, and her recent research interests centers around early modern European travel accounts about East Asia. </div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/rhema-hokama/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rhema Hokama" src="/images/About Us/Rhema.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rhema Hokama</div><div class="isomer-card-description">Rhema Hokama is Assistant Professor of English Literature in the faculty of Humanities, Arts and Social Sciences, SUTD. She is a scholar of early modern English literature and religious culture, and her recent research interests centers around early modern European travel accounts about East Asia.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="KK Luke" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jennifer Ang" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
 <p></p>
