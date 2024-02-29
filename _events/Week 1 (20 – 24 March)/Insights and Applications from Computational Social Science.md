@@ -14,11 +14,10 @@ third_nav_title: Week 1 (20 – 24 March)
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date: </strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>22 March 2024</strong>
+<p><strong>Date: 22 March 2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,11 +29,10 @@ third_nav_title: Week 1 (20 – 24 March)
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time: </strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TBC</strong>
+<p><strong>Time: TBC</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,11 +44,10 @@ third_nav_title: Week 1 (20 – 24 March)
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: </strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TBC</strong>
+<p><strong>Venue: TBC</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,15 +55,15 @@ third_nav_title: Week 1 (20 – 24 March)
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Location Map:</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
