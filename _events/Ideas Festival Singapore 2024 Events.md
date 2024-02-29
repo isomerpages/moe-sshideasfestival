@@ -13,23 +13,20 @@ in the Humanities and Social Sciences (HSS). With networking sessions,
 workshops and roundtable discussions that focus on today's most pertinent
 topics,including Al, the metaverse, mental health and well-being, the changing
 workplace and much more. Ideal for HSS practitioners and enthusiasts alike.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-2/gazing-into-the-metaverse/" rel="noopener noreferrer nofollow" target="_blank">Gazing into the Metaverse</a>
-</p>
-</li>
-<li>
-<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-3/how-the-humanities//" rel="noopener noreferrer nofollow" target="_blank">How the Humanities and Social Sciences can Help us 'Hack' the STEM fields?</a>
-</p>
-</li>
-<li>
-<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-3/postgrad-networking-event/" rel="noopener noreferrer nofollow" target="_blank">Postgrad Networking Event</a>
-</p>
-</li>
-<li>
-<p><a href="https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-3/growing-up-in/" rel="noopener noreferrer nofollow" target="_blank">Growing up in an AI-fuelled world: Reflections on Childhood amid Digital Acceleration</a>
-</p>
-</li>
-</ol>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This week's events</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Next week's events</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <p></p>
 <p></p>
