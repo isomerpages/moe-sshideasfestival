@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Week 2 (25 – 31 March)
 ---
-<p></p>
+<h1>Gazing into the Metaverse</h1>
 <p></p>
 <table>
 <tbody>
@@ -38,8 +38,7 @@ third_nav_title: Week 2 (25 – 31 March)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong>  <a href="https://www.google.com/maps/place/Asia+Research+Institute/@1.2960533,103.7675576,17z/data=!3m2!4b1!5s0x31da1af91c1237c3:0x4ca0bb517686f568!4m6!3m5!1s0x31da1a030cb0a309:0xda62cb8efcaaac9!8m2!3d1.2960479!4d103.7724285!16s%2Fg%2F1ptzm0l9q?entry=ttu" rel="noopener noreferrer nofollow" target="_blank">NUS, Asia Research Institute (ARI)</a>
-</p>
+<p></p><a class="isomer-image-wrapper" href="https://www.google.com/maps/place/Asia+Research+Institute/@1.2960533,103.7675576,17z/data=!3m2!4b1!5s0x31da1af91c1237c3:0x4ca0bb517686f568!4m6!3m5!1s0x31da1a030cb0a309:0xda62cb8efcaaac9!8m2!3d1.2960479!4d103.7724285!16s%2Fg%2F1ptzm0l9q?entry=ttu"><img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_29_at_7_06_38_PM.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -117,26 +116,8 @@ metaverse open for SSH scholars in Singapore?</p>
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h3>Speakers Profile:</h3>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;SUSS&nbsp;SUSS</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<hr>
+<h3>Speakers Profile</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tim Winter" src="/images/Week 2/TIm_Winter.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tim Winter</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
