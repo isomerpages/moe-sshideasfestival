@@ -6,9 +6,6 @@ description: ""
 third_nav_title: Week 2 (25 – 31 March)
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.jpg">
-</div>
 <p></p>
 <table>
 <tbody>
