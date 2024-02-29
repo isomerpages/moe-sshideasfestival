@@ -20,7 +20,7 @@ third_nav_title: Week 2 (25 – 31 March)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 4.00 - 5.30pm</strong>
+<p><strong>Time: 4.00pm - 5.30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
