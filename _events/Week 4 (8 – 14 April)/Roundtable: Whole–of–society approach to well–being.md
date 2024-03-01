@@ -29,7 +29,7 @@ third_nav_title: Week 4 (8 – 14 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Level 8, SUSS Block C</strong>
+<p><strong>Venue: SUSS Block C, Level 8</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ third_nav_title: Week 4 (8 – 14 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/6otDCqd2rXEbMaFT8" rel="noopener noreferrer nofollow" target="_blank">Level 8, SUSS Block C</a>
+<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/6otDCqd2rXEbMaFT8" rel="noopener noreferrer nofollow" target="_blank">SUSS Block C, Level 8</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
