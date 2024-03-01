@@ -23,15 +23,12 @@ sections:
         descriptionInfobar descriptio(159char)
       button: Button Text
   - textcards:
-      title: Upcoming events this week
+      title: Gathering the best minds & insights in HSS
       id: textcards
-      subtitle: Join us for exciting programs
-      description: >-
-        Upcoming events this weekUpcoming events this weekUpcoming events this
-        weekUpcoming events this weekUpcoming events this weekUpcoming events
-        this weekUpcoming events this weekUpcoming eve (199char
-
-        )
+      subtitle: ABOUT THE IDEAS FESTIVAL
+      description: In this rapidly-changing world, how does HSS help us to understand
+        and better our society? Join our series of thought-provoking events.
+        Open to all!
   - infopic:
       title: Hacking the STEM fieldsHacking the STEmmm mmm mmmmmmmm mmmmm
       id: infopic
