@@ -21,8 +21,6 @@ sections:
       description: In this rapidly-changing world, how does HSS help us to understand
         and better our society? Join our series of thought-provoking events.
         Open to all!
-      button: sign up now
-      url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/launch-event/
   - textcards:
       title: Upcoming sessions this week
       id: textcards
