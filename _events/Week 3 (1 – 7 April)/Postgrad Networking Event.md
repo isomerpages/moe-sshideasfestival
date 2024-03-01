@@ -20,7 +20,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 5.00 - 7:00pm</strong>
+<p><strong>Time: 5.00pm - 7:00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +29,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: University Lounge, SMU Admin Building Level 6</strong>
+<p><strong>Venue: SMU Admin Building, Level 6, University Lounge</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/GvgTZbPGSVFifdjx8" rel="noopener noreferrer nofollow" target="_blank">University Lounge, SMU Admin Building Level 6</a>
+<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/GvgTZbPGSVFifdjx8" rel="noopener noreferrer nofollow" target="_blank">SMU Admin Building, Level 6, University Lounge</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
