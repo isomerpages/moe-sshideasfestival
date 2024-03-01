@@ -30,7 +30,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Lecture Theatre 2A, NTU</strong>
+<p><strong>Venue: Lecture NTU, Theatre 2A</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/eMAPaExqTQLTuiE18" rel="noopener noreferrer nofollow" target="_blank">Lecture Theatre 2A, NTU</a>
+<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/eMAPaExqTQLTuiE18" rel="noopener noreferrer nofollow" target="_blank">NTU, Lecture Theatre 2A</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
