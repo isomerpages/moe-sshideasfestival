@@ -19,7 +19,7 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 3.30 - 5.00pm</strong>
+<p><strong>Time: 3.30pm - 5.00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -28,7 +28,7 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SUTD, Hokkien Foundation Lecture Theatre 4</strong>
+<p><strong>Venue: SUTD Hokkien Foundation Lecture Theatre 4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/aXbmVfsL4t9ihdqeA" rel="noopener noreferrer nofollow" target="_blank">SUTD, Hokkien Foundation Lecture Theatre 4</a>
+<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/aXbmVfsL4t9ihdqeA" rel="noopener noreferrer nofollow" target="_blank">SUTD Hokkien Foundation Lecture Theatre 4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,12 +77,12 @@ lives. We think about the future in diverse situations and contexts, such
 as sourcing for suitable health insurance against probable critical illnesses
 or simply looking forward to celebrating one’s favourite holiday. The same
 goes with other more elaborate goals, such as galvanizing the global community
-to mitigate against future climate change impacts.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However,
-as alluded to by the three preceding examples, the idea of “future”, though
-imperative, is both enigmatic and elusive. For example, what matters in
-the future and the time frame in which a future is defined are not uniformly
-understood across society.&nbsp;&nbsp; In a first of its kind study in
-Singapore, we conducted a population survey to establish a baseline understanding
+to mitigate against future climate change impacts. However, as alluded
+to by the three preceding examples, the idea of “future”, though imperative,
+is both enigmatic and elusive. For example, what matters in the future
+and the time frame in which a future is defined are not uniformly understood
+across society.&nbsp;&nbsp; In a first of its kind study in Singapore,
+we conducted a population survey to establish a baseline understanding
 of how, why and what Singaporeans think about when it comes to their respective
 futures.&nbsp;&nbsp;&nbsp;Our presentation will share insights from the
 survey data and offers provocative answers to perennial questions such
