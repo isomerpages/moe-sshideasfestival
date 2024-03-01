@@ -24,9 +24,9 @@ sections:
       button: sign up now
       url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/launch-event/
   - textcards:
-      title: Gathering the best minds & insights in HSS
+      title: Upcoming sessions this week
       id: textcards
-      subtitle: ABOUT THE IDEAS FESTIVAL
+      subtitle: JOIN US FOR EXCITING EVENTS
       description: In this rapidly-changing world, how does HSS help us to understand
         and better our society? Join our series of thought-provoking events.
         Open to all!
