@@ -20,7 +20,7 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 3.00 - 5.00pm</strong>
+<p><strong>Time: 3.00pm - 5.00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +29,7 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: AS8 Seminar Room, NUS</strong>
+<p><strong>Venue: NUS AS8 Seminar Room</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/iYjgFRqraTMt1gri8" rel="noopener noreferrer nofollow" target="_blank">AS8 Seminar Room, NUS</a>
+<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/iYjgFRqraTMt1gri8" rel="noopener noreferrer nofollow" target="_blank">NUS AS8 Seminar Room</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
