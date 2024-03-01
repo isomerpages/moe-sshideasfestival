@@ -15,13 +15,14 @@ sections:
       size: md
       backgroundColor: white
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: Gathering the best minds & insights in HSS
+      subtitle: ABOUT THE IDEAS FESTIVAL
       id: infobar
-      description: Infobar descriptionInfobar descriptionInfobar descriptionInfobar
-        descriptionInfobar descriptionInfobar descriptionInfobar
-        descriptionInfobar descriptio(159char)
-      button: Button Text
+      description: In this rapidly-changing world, how does HSS help us to understand
+        and better our society? Join our series of thought-provoking events.
+        Open to all!
+      button: sign up now
+      url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/launch-event/
   - textcards:
       title: Gathering the best minds & insights in HSS
       id: textcards
