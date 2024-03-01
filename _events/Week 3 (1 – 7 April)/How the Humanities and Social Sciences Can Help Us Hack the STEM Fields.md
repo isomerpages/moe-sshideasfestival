@@ -20,7 +20,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 3.00 - 5:00pm</strong>
+<p><strong>Time: 3.00pm - 5:00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +29,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Think Tank 19, SUTD</strong>
+<p><strong>Venue: SUTD Think Tank 19</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/M7Wx6vXDChYsuzSXA" rel="noopener noreferrer nofollow" target="_blank">Think Tank 19, SUTD</a>
+<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/M7Wx6vXDChYsuzSXA" rel="noopener noreferrer nofollow" target="_blank">SUTD Think Tank 19</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
