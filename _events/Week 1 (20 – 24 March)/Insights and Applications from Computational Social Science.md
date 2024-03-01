@@ -24,12 +24,6 @@ third_nav_title: Week 1 (20 – 24 March)
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -44,12 +38,6 @@ third_nav_title: Week 1 (20 – 24 March)
 <td rowspan="1" colspan="1">
 <p><strong>Time: TBC</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -72,12 +60,6 @@ third_nav_title: Week 1 (20 – 24 March)
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -92,12 +74,6 @@ third_nav_title: Week 1 (20 – 24 March)
 <td rowspan="1" colspan="1">
 <p><strong>Location Map:</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
