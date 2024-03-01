@@ -64,7 +64,7 @@ PMHCs through inaccurate or stereotyped portrayals of mental health conditions
 resources on mental health narrative ethical considerations for cultural
 text producers in Singapore. These resources are being developed in consultation
 with the Institute of Mental Health (IMH), based on close reading of local
-mental health narratives, focus group discussions with PMHCs, and multi-disciplinary
+mental health narratives, focus group discussions with PMHCs, and multidisciplinary
 and cross-sector roundtables with representatives from different industries
 and communities, such as mental health professionals and writers.</p>
 <table>
