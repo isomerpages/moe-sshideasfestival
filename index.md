@@ -25,7 +25,17 @@ sections:
       title: Upcoming sessions this week
       id: textcards
       subtitle: JOIN US FOR EXCITING EVENTS
-      description: In this rapidly-changing world, how does HSS help us to understand
-        and better our society? Join our series of thought-provoking events.
-        Open to all!
+      description: >-
+        With lectures, panel discussions, workshops, roundtables and more,
+        there’s something for every
+
+        HSS student, practitioner and enthusiast alike. Register early!
+      cards:
+        - title: Insights and Applications from Computational Soci
+          description: |-
+            Date: 22 March 2024
+            Time: TBC
+            Venue: TBC
+          linktext: Learn more
+          url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-1/insights-and-applications/
 ---
