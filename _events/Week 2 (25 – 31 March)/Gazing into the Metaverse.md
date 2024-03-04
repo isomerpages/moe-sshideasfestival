@@ -68,6 +68,11 @@ experiences of these emergent worlds?</p>
 metaverse open for SSH scholars in Singapore?</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+</div>
+<p></p>
 <table>
 <tbody>
 <tr>
