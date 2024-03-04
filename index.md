@@ -11,7 +11,7 @@ sections:
       subtitle: Insights from the Humanities and Social Sciences (HSS)
       background: /images/720x260.jpg
       url: https://www.youtube.com/watch?v=gIArlw4mkW8&ab_channel=Jeopardy%21
-      variant: side
+      variant: center
       size: md
       backgroundColor: white
       alignment: left
