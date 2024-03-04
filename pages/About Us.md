@@ -7,6 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MINIMUM_SIZE_VERSION.png">
 </div>
+<p></p>
 <p>[PLACEHOLDER] The Ideas Festival is a showcase of the latest insights
 and contributions from social science and humanities researchers in Singapore.
 Co-organised by local universities and Singapore's Social Science Research
@@ -47,4 +48,8 @@ Her recent projects examine the role of ethics in AI decision-making.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/rhema-hokama/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rhema Hokama" src="/images/About Us/Rhema.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rhema Hokama</div><div class="isomer-card-description">Rhema is Assistant Professor of English Literature in the faculty of Humanities, Arts and Social Sciences, SUTD. She is a scholar of early modern English literature and religious culture, and her recent research interests centers around early modern European travel accounts about East Asia.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Website_assets_image_1920x250.png">
+</div>
 <p></p>
