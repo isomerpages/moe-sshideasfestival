@@ -12,7 +12,7 @@ sections:
       background: /images/Website_assets_image_965x720.png
       url: https://www.youtube.com/watch?v=gIArlw4mkW8&ab_channel=Jeopardy%21
       variant: side
-      size: md
+      size: sm
       backgroundColor: white
   - infobar:
       title: Gathering the best minds & insights in HSS
