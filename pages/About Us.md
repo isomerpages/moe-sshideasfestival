@@ -19,15 +19,15 @@ workplace.</p>
 <a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp00470" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="KK Luke" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="KK Luke" src="/images/About Us/kk_luke.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof KK Luke</div>
-<div class="isomer-card-description">Luke is President’s Chair in Linguistics and Acting Chair of the School
-of Humanities, NTU. His research spans phonology, syntax, sociolinguistics,
-and natural language understanding. His recent work focuses on talk and
-social interaction using an Ethnomethodological Conversation Analytic approach.</div>
+<div class="isomer-card-description">K.K. is the President’s Chair in Linguistics and Acting Chair of the School
+of Humanities in NTU. His research spans linguistics and social interaction.
+His recent work focuses on talk and body language in medical settings using
+Ethnomethodology and Conversation Analysis.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/ngoei-wen-qing-2326" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ngoei Wen Qing" src="/images/About Us/Wen_Qing.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Ngoei Wen Qing</div><div class="isomer-card-description">Wen-Qing is Assoc Professor of History and Assoc Dean (External Engagement) at the College of Integrative Studies, SMU. His interests lie in foreign policy and international affairs, particularly US-SEA relations. His expertise includes the global history of the Cold War, empires and decolonisation.</div><div class="isomer-card-link">Click for full profile</div></div></a>
