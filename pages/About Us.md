@@ -49,7 +49,8 @@ Her recent projects examine the role of ethics in AI decision-making.</div>
 </div>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Website_assets_image_1920x250.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos.png">
 </div>
 <p></p>
