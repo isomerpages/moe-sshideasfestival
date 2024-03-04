@@ -9,11 +9,12 @@ sections:
   - hero:
       title: Ideas Festival Singapore
       subtitle: Insights from the Humanities and Social Sciences (HSS)
-      background: /images/Website_assets_image_965x720.png
+      background: /images/1200x630_01.png
       url: https://www.youtube.com/watch?v=gIArlw4mkW8&ab_channel=Jeopardy%21
-      variant: side
-      size: sm
+      variant: center
+      size: md
       backgroundColor: white
+      alignment: left
   - infobar:
       title: Gathering the best minds & insights in HSS
       subtitle: ABOUT THE IDEAS FESTIVAL
