@@ -10,7 +10,7 @@ sections:
       title: Ideas Festival Singapore
       subtitle: Insights from the Humanities and Social Sciences (HSS)
       background: /images/720x260_2.jpg
-      variant: center
+      variant: side
       size: sm
       backgroundColor: white
       alignment: left
