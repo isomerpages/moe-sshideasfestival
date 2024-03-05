@@ -19,7 +19,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 5.00 - 7:00pm</strong>
+<p><strong>Time: 5.00pm - 7:00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
