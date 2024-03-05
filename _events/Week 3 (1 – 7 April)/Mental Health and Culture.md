@@ -85,7 +85,6 @@ and communities, such as mental health professionals and writers.</p>
 <p></p>
 <hr>
 <p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
