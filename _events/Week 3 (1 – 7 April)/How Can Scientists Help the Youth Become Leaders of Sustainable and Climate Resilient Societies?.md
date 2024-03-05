@@ -81,6 +81,11 @@ an opportunity to pose questions to the panellists.
 <br>By illuminating effective tactics and strategies for collaboration between
 scientists and youth, this discussion aims to inspire collective efforts
 towards a more sustainable and resilient future for all.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+</div>
+<p></p>
 <table>
 <tbody>
 <tr>
