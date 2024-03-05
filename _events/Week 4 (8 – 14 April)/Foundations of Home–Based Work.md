@@ -37,8 +37,7 @@ third_nav_title: Week 4 (8 – 14 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/zNvSbt3PBYV8hkjc7" rel="noopener noreferrer nofollow" target="_blank">NUS Central Library, Level 4, Seminar Room</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
