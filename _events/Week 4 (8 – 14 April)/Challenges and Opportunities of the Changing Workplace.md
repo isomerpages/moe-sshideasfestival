@@ -37,12 +37,24 @@ third_nav_title: Week 4 (8 – 14 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/6otDCqd2rXEbMaFT8" rel="noopener noreferrer nofollow" target="_blank">SUSS Block C, Level 8</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/6otDCqd2rXEbMaFT8"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_29_at_7_06_38_PM.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
+</div>
+</th>
 </tr>
 </tbody>
 </table>
