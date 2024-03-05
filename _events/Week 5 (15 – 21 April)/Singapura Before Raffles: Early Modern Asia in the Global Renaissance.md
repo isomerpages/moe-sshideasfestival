@@ -75,47 +75,6 @@ we look ahead to the next chapter in our shared Singapore story.</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<h3>Event Schedule</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
 <th rowspan="1" colspan="2">
 <h3>Speakers Profiles:</h3>
 </th>
