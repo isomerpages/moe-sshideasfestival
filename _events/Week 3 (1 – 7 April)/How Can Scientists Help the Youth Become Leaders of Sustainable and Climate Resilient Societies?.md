@@ -86,6 +86,9 @@ towards a more sustainable and resilient future for all.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
 </div>
 <p></p>
+<hr>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
