@@ -67,7 +67,9 @@ the household is the principal site of their formative media experiences,
 and parents the key architects of their media environments. The bruising
 Covid-19 pandemic further accelerated household adoption of online social
 interaction, e-learning and myriad forms of digital entertainment – all
-underpinned by AI.
+underpinned by AI.</p>
+<hr>
+<p>
 <br>What are the promises and pitfalls in children’s technology use in an
 AI-fuelled world that boasts of disruptive innovations such as the metaverse
 and generative AI? Immersive and interactive augmented reality environments
@@ -77,15 +79,21 @@ Social media platforms may be able to detect when children are consuming
 questionable content and send alerts to parents. Yet this needs to be weighed
 against reduced control over personal data and children’s rights to autonomy
 and agency. Growing up in a world marked by digital acceleration certainly
-presents many quandaries to parents and children but possibilities as well.
+presents many quandaries to parents and children but possibilities as well.</p>
+<hr>
+<p>
 <br>This talk will draw on humanities and social sciences research on the
 social implications of AI to discuss the challenges and opportunities parents
 and children face as the deployment of AI intensifies rapidly. It will
 also touch on how parents can seek to boost their own and their children’s
 understanding of the implications of the rising prevalence of AI. It will
 close by highlighting resources that can support parents and children through
-these disruptions. A question and answer session moderated by a parent
-who serves on the Media Literacy Council will follow the talk.</p>
+these disruptions.</p>
+<hr>
+<p>A Q&amp;A session moderated by Jiow Hee Jhee, a parent, member of the
+Media Literacy Council and Associate Professor at the Singapore Institute
+of Technology, will follow the talk.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
