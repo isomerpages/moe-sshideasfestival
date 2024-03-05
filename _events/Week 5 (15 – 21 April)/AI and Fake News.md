@@ -19,7 +19,7 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 1.00 - 5.00pm</strong>
+<p><strong>Time: 1.00pm - 5.00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,22 +69,26 @@ manipulations will become more widespread and convincing. What can we do
 to prepare our communities? This panel will bring together academic, policy,
 and industry partners, focusing on three main areas:
 <br>
-<br>1. Examining the role of AI in exacerbating the fake news problem: This
-session will delve into the ways in which AI technologies, such as generative
-AI, can be exploited to create and propagate false information, including
-the creation of deep fakes;
-<br>2. Exploring AI-powered solutions for fact-checking and detection: This
-segment will focus on the positive applications of AI in combating fake
-news. Participants will engage in discussions about AI-based approaches,
+<br>1. <strong>Examining the role of AI in exacerbating the fake news problem</strong>:
+This session will delve into the ways in which AI technologies, such as
+generative AI, can be exploited to create and propagate false information,
+including the creation of deep fakes;</p>
+<hr>
+<p>
+<br>2. <strong>Exploring AI-powered solutions for fact-checking and detection</strong>:
+This segment will focus on the positive applications of AI in combating
+fake news. Participants will engage in discussions about AI-based approaches,
 algorithms, and tools that can enhance fact-checking processes, improve
 the detection of misinformation, and empower journalists, researchers,
-and the general public in their fight against fake news;
-<br>3. Addressing ethical and regulatory considerations: This session will
-critically examine the ethical implications of employing AI in addressing
-fake news. Participants will discuss the importance of developing responsible
-AI systems, ensuring transparency and accountability, and navigating legal
-and regulatory frameworks to protect against potential AI-related abuses
-and unintended consequences.
+and the general public in their fight against fake news;</p>
+<hr>
+<p>
+<br>3. <strong>Addressing ethical and regulatory considerations</strong>: This
+session will critically examine the ethical implications of employing AI
+in addressing fake news. Participants will discuss the importance of developing
+responsible AI systems, ensuring transparency and accountability, and navigating
+legal and regulatory frameworks to protect against potential AI-related
+abuses and unintended consequences.
 <br>
 </p>
 <div class="isomer-image-wrapper">
