@@ -57,7 +57,7 @@ both avoid pitfalls and enhance the value-added contributions from computational
 social science.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
 </div>
 <p></p>
 <table>
