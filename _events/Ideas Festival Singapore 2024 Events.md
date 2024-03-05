@@ -4,10 +4,6 @@ permalink: /launch-event/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_29_at_6_12_00_PM.png">
-</div>
 <p>Join us for a series of events that gathers the best minds and developments
 in the Humanities and Social Sciences (HSS). With networking sessions,
 workshops and roundtable discussions that focus on today's most pertinent
