@@ -62,24 +62,28 @@ third_nav_title: Week 4 (8 – 14 April)
 </tr>
 </tbody>
 </table>
-<p>What does home-based work look like in neighbourhoods, and how do family
-dynamics, policies and neighbourhood amenities impact the ways people engage
-in work? This workshop is based on our interdisciplinary project which
-is concerned with the spatial, social and technological dimensions of home-based
-work (HBW) in Singapore. By HBW we mean paid employment done in the home,
+<p>What does home-based work (HBW) look like in neighbourhoods, and how do
+family dynamics, policies and neighbourhood amenities impact the ways people
+engage in work? This workshop is based on our interdisciplinary project
+which is concerned with the spatial, social and technological dimensions
+of HBW in Singapore. By HBW, we mean paid employment done in the home,
 for non-domestic purposes. This includes home-based businesses (e.g. baking,
-dressmaking,) and piece-workers, gig economy workers (e.g. drivers and
-deliveries), and telecommuters (e.g. designers, data analysts). Our first
-project objective is to chart and theorise the social geographies of HBW:
-what is the policy framework surrounding this kind of work; who is involved
-in it; what kind of living do they make; in which housing types and neighbourhoods
-is this work happening? Next, we want to document local ecologies of resilience
-and adaptability in HBW: both at home and within the community/neighbourhood.
-Finally, we suggest pathways for accommodating HBW in our lives through
-design and policy recommendations.
+dressmaking) and piece-workers, gig economy workers (e.g. drivers and deliveries),
+and telecommuters (e.g. designers, data analysts).</p>
+<p></p>
+<p>Our first project objective is to chart and theorise the social geographies
+of HBW: what is the policy framework surrounding this kind of work; who
+is involved in it; what kind of living do they make; in which housing types
+and neighbourhoods is this work happening? Next, we want to document local
+ecologies of resilience and adaptability in HBW: both at home and within
+the community/neighbourhood. Finally, we suggest pathways for accommodating
+HBW in our lives through design and policy recommendations.</p>
+<p></p>
+<p>This workshop will present key findings from our research, Q&amp;A, and
+a guided tour around the exhibition of data visualisations, models and
+drawings.
 <br>
-<br>This workshop will present key findings from our research, Q+A, and a
-guided tour around the exhibition of data visualisations, models and drawings.</p>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
