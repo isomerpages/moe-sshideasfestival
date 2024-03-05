@@ -47,13 +47,14 @@ third_nav_title: Week 2 (25 – 31 March)
 </tr>
 </tbody>
 </table>
-<p>This Roundtable is organised by the Asia Research Institute (ARI) engages
-with the metaverse and the computer-generated worlds that are now in development.
-The Roundtable will provide a brief introduction to the metaverse, and
-consider some of the key questions and themes that researchers in the social
-sciences and humanities are now asking about this next stage in our digital
-journey. Particular attention will be paid to developments and implications
-of the metaverse in Asia.</p>
+<p>This Roundtable is organised by the Asia Research Institute (ARI) and
+engages with the metaverse and the computer-generated worlds that are now
+in development. The Roundtable will provide a brief introduction to the
+metaverse, and consider some of the key questions and themes that researchers
+in the social sciences and humanities are now asking about this next stage
+in our digital journey. Particular attention will be paid to developments
+and implications of the metaverse in Asia.</p>
+<p>Discussion themes include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>What versions of Asia – urban, national, civilizational and at other scales
