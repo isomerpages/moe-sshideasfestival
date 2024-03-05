@@ -58,10 +58,10 @@ third_nav_title: Week 4 (8 – 14 April)
 </tr>
 </tbody>
 </table>
-<p>For most, general wellbeing has declined during the pandemic years, but
-there are also reported improvement in general wellbeing for some. This
-round-table brings together researchers from different disciplines to share
-highlights of their findings through different perspectives on wellbeing,
+<p>For most, general well-being has declined during the pandemic years, but
+there are also reported improvement in general well-being for some. This
+roundtable brings together researchers from different disciplines to share
+highlights of their findings through different perspectives on well-being,
 approaches and challenges of research conducted on this topic in recent
 3 years. Through each of their research project, researchers will share
 how their academic research translates into meaningful involvement with
