@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Week 5 (15 – 21 April)
 ---
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://ari.nus.edu.sg/events/metaverse/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_2_41_24_PM.jpeg"></a>
 <table>
 <tbody>
 <tr>
@@ -38,12 +37,24 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Location Map:</strong>  <a href="https://maps.app.goo.gl/iYjgFRqraTMt1gri8" rel="noopener noreferrer nofollow" target="_blank">NUS AS8 Seminar Room</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/iYjgFRqraTMt1gri8"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_29_at_7_06_38_PM.png"></a>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
+</div>
+</th>
 </tr>
 </tbody>
 </table>
