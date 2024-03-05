@@ -20,7 +20,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 3.00 - 7:00pm (TBC)</strong>
+<p><strong>Time: 3.00pm - 7:00pm (TBC)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +29,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Lecture NTU, Theatre 2A</strong>
+<p><strong>Venue: NTU Lecture Theatre 2A</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
