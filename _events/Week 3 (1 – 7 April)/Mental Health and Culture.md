@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Week 3 (1 – 7 April)
 ---
 <p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
