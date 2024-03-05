@@ -48,8 +48,8 @@ third_nav_title: Week 1 (20 – 24 March)
 </tr>
 </tbody>
 </table>
-<p>This event, comprising one or two brief lectures followed by a panel discussion
-with researchers from SMU and A*STAR, will examine scientific and practical
+<p>This event, comprising brief lectures followed by a panel discussion with
+researchers from SMU and A*STAR, will examine scientific and practical
 issues involving insights and applications from the emerging field of computational
 social science (CSS), with a focus on the research, practice, and policy
 contexts of Singapore. Drawing on examples from the ongoing research on
