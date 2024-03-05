@@ -78,6 +78,11 @@ with the Institute of Mental Health (IMH), based on close reading of local
 mental health narratives, focus group discussions with PMHCs, and multidisciplinary
 and cross-sector roundtables with representatives from different industries
 and communities, such as mental health professionals and writers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+</div>
+<p></p>
 <table>
 <tbody>
 <tr>
