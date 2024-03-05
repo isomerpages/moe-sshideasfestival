@@ -19,7 +19,7 @@ third_nav_title: Week 4 (8 – 14 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 9:00am - 1:00pm</strong>
+<p><strong>Time: 9:00am - 1:30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,20 +58,21 @@ third_nav_title: Week 4 (8 – 14 April)
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p>What are some of the challenges and opportunities presented by the changing
 nature of work, the workplace, and the workforce? What are the possible
-impacts these challenges and opportunities have on the wellbeing of workers?
-This round-table brings together researchers from different disciplines
+impacts these challenges and opportunities have on the well-being of workers?</p>
+<p></p>
+<p>This roundtable brings together researchers from different disciplines
 to share highlights of their different perspectives of work and the workplace,
 and discuss their approaches and challenges of research in this area. Through
-each of their research project, researchers will share how their academic
+each of their research projects, researchers will share how their academic
 research translates into meaningful involvement with research end-users
 for mutual benefits, engagement with external stakeholders and public participation,
 and collaboration with strategic stakeholders. They will also share how
 academic research is able to create social impact beyond academia, such
 as areas of health, public policy, culture, environment, economy and standards
 of living, etc.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
