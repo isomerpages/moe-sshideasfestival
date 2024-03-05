@@ -10,10 +10,10 @@ description: ""
 <p></p>
 <p>[PLACEHOLDER] The Ideas Festival is a showcase of the latest insights
 and contributions from social science and humanities researchers in Singapore.
-Co-organised by local universities and Singapore's Social Science Research
-Council, the inaugural Festival offers events that cover a diverse range
-of topics - from artificial intelligence to well-being and the changing
-workplace.</p>
+Co-organised by local universities and supported by Singapore's Social
+Science Research Council, the inaugural Festival offers events that cover
+a diverse range of topics - from artificial intelligence to well-being
+and the changing workplace.</p>
 <h4>Organising Committee</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://profile.nus.edu.sg/fass/geoehle/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elaine Ho" src="/images/About Us/Elaine_Ho.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Elaine Ho</div><div class="isomer-card-description">Elaine is Provost Chair Professor at NUS Geography, Vice-Dean of Research at FASS, and Senior Research Fellow at the Asia Research Institute. Her research addresses citizenship geographies, focusing on transnational ageing and care in the Asia-Pacific, and diaspora engagement and diplomacy.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp00470" class="isomer-card">
