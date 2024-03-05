@@ -58,20 +58,25 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p>Is it true that Singapore was a small fishing village before Sir Stamford
 Raffles set foot in Southeast Asia? Or is there more to discover about
-Singapore’s story in the early global age? This panel will discuss how
-early modern Singapore and Asia played important roles in shaping global
-ideas about maritime trade, global commerce, international law, political
-governance, and literary and artistic flourishing. Drawing on new and exciting
-interdisciplinary research from teachers and scholars across Singapore’s
-universities and the wider Asia region, this interactive event will allow
-audience members to uncover some of the untold stories about Singapore
-and Asia’s historical and cultural importance for the global exchange of
-ideas and goods—stories that begin more than 500 years ago and continue
-to unfold in our present time. Our discussion aims to shed new light on
-important stories about Asia’s diverse, inclusive, and vibrant past as
-we look ahead to the next chapter in our shared Singapore story.</p>
+Singapore’s story in the early global age?</p>
+<hr>
+<p>This panel will discuss how early modern Singapore and Asia played important
+roles in shaping global ideas about maritime trade, global commerce, international
+law, political governance, and literary and artistic flourishing.</p>
+<hr>
+<p>Drawing on new and exciting interdisciplinary research from teachers and
+scholars across Singapore’s universities and the wider Asia region, this
+interactive event will allow audience members to uncover some of the untold
+stories about Singapore and Asia’s historical and cultural importance for
+the global exchange of ideas and goods—stories that begin more than 500
+years ago and continue to unfold in our present time.</p>
+<hr>
+<p>Our discussion aims to shed new light on important stories about Asia’s
+diverse, inclusive, and vibrant past as we look ahead to the next chapter
+in our shared Singapore story.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
