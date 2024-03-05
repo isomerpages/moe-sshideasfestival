@@ -70,6 +70,15 @@ and public participation, and collaboration with strategic stakeholders.
 They will also share how academic research is able to create social impact
 beyond academia, such as areas of health, public policy, culture, environment,
 economy and standards of living, etc.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+</div>
+<p></p>
+<hr>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
