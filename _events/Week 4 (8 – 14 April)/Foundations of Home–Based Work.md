@@ -75,18 +75,7 @@ Finally, we suggest pathways for accommodating HBW in our lives through
 design and policy recommendations.
 <br>
 <br>This workshop will present key findings from our research, Q+A, and a
-guided tour around the exhibition of data visualisations, models and drawings.
-<br>
-<br>Event Schedule (Pls place this in a Table like Metaverse)
-<br>9am : Opening / Introduction by A/P Lilian Chee (20 mins)
-<br>9.20am : The ecological landscape of home-based work by A/P Natalie Pang
-(20 mins)
-<br>9.40am : Policies and third spaces by Prof Audrey Yue (20 mins)
-<br>10am : Making HBW work in the home by Prof Jane Jacobs (20 mins)
-<br>10.20am : Tea break / networking (30 mins)
-<br>10.40am : Panel Discussion + Q&amp;A (40 mins)
-<br>11.20am : Touring the Exhibition (20-30 mins) – by A/P Lilian Chee
-<br>11.20am : Touring the Exhibition (20-30 mins) – by A/P Lilian Chee</p>
+guided tour around the exhibition of data visualisations, models and drawings.</p>
 <table>
 <tbody>
 <tr>
@@ -96,34 +85,58 @@ guided tour around the exhibition of data visualisations, models and drawings.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>09:00 – 09:20</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Opening / Introduction by A/P Lilian Chee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>09:20 – 09:40</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The ecological landscape of home-based work by A/P Natalie Pang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>09:40 – 10:00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Policies and third spaces by Prof Audrey Yue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:00 – 10:20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Making HBW work in the home by Prof Jane Jacobs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:20 – 10:40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tea break / networking</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:40 – 11:20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Panel Discussion + Q&amp;A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11:20 – 11:50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Touring the Exhibition (20-30 mins) – by A/P Lilian Chee</p>
 </td>
 </tr>
 </tbody>
