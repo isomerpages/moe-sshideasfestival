@@ -81,6 +81,11 @@ refreshments, senior postgraduate students will be able to strike up conversatio
 informally with these speakers, other senior scholars from the local universities
 in attendance, and make connections with many postgraduate students in
 cognate fields.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+</div>
+<p></p>
 <table>
 <tbody>
 <tr>
