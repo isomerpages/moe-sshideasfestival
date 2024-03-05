@@ -82,7 +82,7 @@ design and policy recommendations.
 guided tour around the exhibition of data visualisations, models and drawings.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
 </div>
 <table>
 <tbody>
@@ -149,6 +149,9 @@ guided tour around the exhibition of data visualisations, models and drawings.</
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -158,7 +161,6 @@ guided tour around the exhibition of data visualisations, models and drawings.</
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Audrey Yue" src="/images/Week 4/Audrey_Yue.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Audrey Yue</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
