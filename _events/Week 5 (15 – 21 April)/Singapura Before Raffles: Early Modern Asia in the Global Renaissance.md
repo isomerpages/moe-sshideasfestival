@@ -72,6 +72,11 @@ ideas and goods—stories that begin more than 500 years ago and continue
 to unfold in our present time. Our discussion aims to shed new light on
 important stories about Asia’s diverse, inclusive, and vibrant past as
 we look ahead to the next chapter in our shared Singapore story.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+</div>
+<p></p>
 <table>
 <tbody>
 <tr>
