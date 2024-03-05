@@ -81,7 +81,6 @@ design and policy recommendations.
 <br>This workshop will present key findings from our research, Q+A, and a
 guided tour around the exhibition of data visualisations, models and drawings.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
 </div>
