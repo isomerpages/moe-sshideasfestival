@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Week 3 (1 – 7 April)
 ---
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://ari.nus.edu.sg/events/metaverse/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_02_08_at_2_41_24_PM.jpeg"></a>
 <table>
 <tbody>
 <tr>
