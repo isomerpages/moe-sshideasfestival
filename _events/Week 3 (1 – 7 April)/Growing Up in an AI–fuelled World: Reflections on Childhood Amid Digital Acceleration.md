@@ -91,6 +91,8 @@ who serves on the Media Literacy Council will follow the talk.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
 </div>
 <p></p>
+<hr>
+<p></p>
 <table>
 <tbody>
 <tr>
