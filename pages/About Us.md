@@ -19,7 +19,7 @@ workplace.</p>
 <a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp00470" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="KK Luke" src="/images/About Us/kk_luke.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="KK Luke" src="/images/About Us/Luke_Ong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
