@@ -58,8 +58,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 </tbody>
 </table>
-<p>Theme: "After the PhD: The Early Years."
-<br>
+<p>Postgrad Networking Session
 <br>It is no mean feat navigating the final stages of graduate school and
 the period immediately following the completion of one’s PhD. How does
 one grapple with the academic job market, address the questions of whether
@@ -70,10 +69,18 @@ degrees in the humanities and social sciences met those challenges?
 colleagues and mentors, is critical for anyone hoping to survive and thrive
 in the late- and post-PhD phases.
 <br>
+</p>
+<hr>
+<p>A strong support network, not just friends and family, but supportive
+colleagues and mentors, is critical for anyone hoping to survive and thrive
+in the late- and post-PhD phases.</p>
+<p>
 <br>This postgraduate networking event, organized by the College of Integrative
 Studies at SMU, is an opportunity for senior and graduating PhD students
 in the humanities and social sciences to further build up their support
-network.
+network.</p>
+<hr>
+<p>
 <br>Do join us! At this event, several researchers from the local universities
 will share briefly about their experiences with early career research and/or
 alt-ac options. Following that, during a networking session and over light
