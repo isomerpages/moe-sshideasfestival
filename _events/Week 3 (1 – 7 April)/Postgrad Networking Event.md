@@ -88,7 +88,6 @@ cognate fields.</p>
 <p></p>
 <hr>
 <p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
