@@ -28,7 +28,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SUTD Think Tank 19</strong>
+<p><strong>Venue: SUTD Think Tank 19, Building 2, Level 3, Room 2.304</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,13 +70,13 @@ of the humanities and social sciences.
 <br>
 <br>This roundtable brings together practitioners and academics from across
 the humanities and social science fields for an exciting conversation about
-how tech innovations in anthropology, sociology, psychology, urban planning,
-Asian studies, communications and media studies, financial technology,
-and the digital humanities can help us answer important social and cultural
-issues and challenges in Singapore and our globalized world. In the process,
-we’ll have a chance to discuss how tech innovation can help us advance
-our dreams for Singapore’s future and help us develop a happier, healthier,
-fairer, more just, and more equal society.</p>
+how tech innovations in anthropology, psychology, Asian studies, communications
+and media studies, financial technology, and the digital humanities can
+help us answer important social and cultural issues and challenges in Singapore
+and our globalized world. In the process, we’ll have a chance to discuss
+how tech innovation can help us advance our dreams for Singapore’s future
+and help us develop a happier, healthier, fairer, more just, and more equal
+society.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
