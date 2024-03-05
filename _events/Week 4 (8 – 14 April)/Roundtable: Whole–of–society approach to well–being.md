@@ -78,7 +78,6 @@ economy and standards of living, etc.</p>
 <p></p>
 <hr>
 <p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
