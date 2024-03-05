@@ -37,7 +37,7 @@ third_nav_title: Week 1 (20 – 24 March)
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_29_at_7_06_38_PM.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_29_at_7_06_38_PM.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -60,7 +60,7 @@ both avoid pitfalls and enhance the value-added contributions from computational
 social science.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
 </div>
 <p></p>
 <hr>
