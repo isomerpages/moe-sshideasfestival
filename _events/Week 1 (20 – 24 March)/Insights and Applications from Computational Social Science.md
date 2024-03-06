@@ -27,24 +27,9 @@ third_nav_title: Week 1 (20 – 24 March)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Location Map</a>
+</p>
 </td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_29_at_7_06_38_PM.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</th>
 </tr>
 </tbody>
 </table>
@@ -59,8 +44,7 @@ methodological, and practical issues that will need to be addressed to
 both avoid pitfalls and enhance the value-added contributions from computational
 social science.</p>
 <hr>
-<h2><strong>REGISTER NOW</strong></h2>
-<p></p>
+<h3><strong>REGISTER NOW</strong></h3>
 <hr>
 <p></p>
 <table>
