@@ -22,7 +22,7 @@ sections:
         and better our society? Join our series of thought-provoking events.
         Open to all!
   - textcards:
-      title: Join us for exciting events
+      title: Upcoming events
       id: textcards
       description: >-
         With lectures, panel discussions, workshops, roundtables and more,
@@ -30,8 +30,8 @@ sections:
 
         Humanities, Social Science student, practitioner and enthusiast alike. Register early!
       cards:
-        - title: Upcoming session this week!
-          description: Insights and Applications from Computational Social Science.
+        - title: 22 March | NUS
+          description: Insights and Applications from Computational Social Science
           linktext: Learn more
           url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-1/insights-and-applications/
 ---
