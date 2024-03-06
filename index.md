@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Ideas Festival Singapore
+      title: Ideas Festival
       subtitle: Insights from the Humanities and Social Sciences (HSS)
       background: /images/720x260.jpg
       variant: center
