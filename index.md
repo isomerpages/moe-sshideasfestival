@@ -22,7 +22,7 @@ sections:
         and better our society? Join our series of thought-provoking events.
         Open to all!
   - textcards:
-      title: JOIN US FOR EXCITING EVENTS
+      title: Join us for exciting events
       id: textcards
       description: >-
         With lectures, panel discussions, workshops, roundtables and more,
