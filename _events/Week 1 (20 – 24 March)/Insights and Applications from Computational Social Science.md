@@ -37,12 +37,12 @@ third_nav_title: Week 1 (20 – 24 March)
 researchers from SMU and A*STAR, will examine scientific and practical
 issues involving insights and applications from the emerging field of computational
 social science (CSS), with a focus on the research, practice, and policy
-contexts of Singapore. Drawing on examples from the ongoing research on
-modeling adaptability and resilience in the SMU-A*STAR Joint Lab as well
-as other studies, the discussion aims to explicate the key conceptual,
-methodological, and practical issues that will need to be addressed to
-both avoid pitfalls and enhance the value-added contributions from computational
-social science.</p>
+contexts of Singapore.
+<br>Drawing on examples from the ongoing research on modeling adaptability
+and resilience in the SMU-A*STAR Joint Lab as well as other studies, the
+discussion aims to explicate the key conceptual, methodological, and practical
+issues that will need to be addressed to both avoid pitfalls and enhance
+the value-added contributions from computational social science.</p>
 <hr>
 <h3><strong>REGISTER NOW</strong></h3>
 <hr>
@@ -56,7 +56,7 @@ social science.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="David Chan" src="/images/Week 1/David_Chan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof David Chan</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="David Chan" src="/images/Week 1/David_Chan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof David Chan</div><div class="isomer-card-description">David is Lee Kong Chian Professor of Psychology and Director of the Behavioural Sciences Initiative at SMU, and Adjunct Principal Scientist and Scientific Advisor at A*STAR. He is named in the top one percent worldwide for his research's impact.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -65,8 +65,11 @@ social science.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Quek Boon Kiat</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-description">Boon Kiat is the Senior Principal Scientist and Deputy Executive Director
+at A*STAR. He is the pioneer of psychographic modelling and inference technology
+within the Social Cognitive and Computing department, with extensive experience
+in software prototyping, research validation, and IP creation.</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
 </a>
 </div>
