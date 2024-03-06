@@ -54,7 +54,8 @@ metaverse, and consider some of the key questions and themes that researchers
 in the social sciences and humanities are now asking about this next stage
 in our digital journey. Particular attention will be paid to developments
 and implications of the metaverse in Asia.</p>
-<p>Discussion themes include:</p>
+<p><strong>Discussion themes include:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>What versions of Asia – urban, national, civilizational and at other scales
