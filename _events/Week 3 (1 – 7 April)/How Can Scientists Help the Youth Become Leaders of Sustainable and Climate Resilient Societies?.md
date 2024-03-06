@@ -65,11 +65,10 @@ role in building the resilient and sustainable cities of tomorrow.
 <br>This panel discussion focuses on the crucial collaboration between scientists
 from different backgrounds to effectively convey science advancements to
 and engage with the younger generations. Anchored by the new Climate Transformation
-Programme led by the Earth Observatory of Singapore, this event brings
-together scientists, educators, and youth representatives to discuss how
-scientists can bridge the gap and empower youth to take meaningful action
-against climate change and actively contribute to the development of sustainable
-societies.
+Programme led by NTU Singapore, this event brings together scientists,
+educators, and youth representatives to discuss how scientists can bridge
+the gap and empower youth to take meaningful action against climate change
+and actively contribute to the development of sustainable societies.
 <br>
 <br>Brief presentations will provide an overview of both the physical and
 social sciences relevant to climate change, setting the stage for a panel
@@ -98,7 +97,7 @@ towards a more sustainable and resilient future for all.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ben Horton" src="/images/Week 3/Ben_Horton.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Benjamin P. Horton</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ben Horton" src="/images/Week 3/Ben_Horton.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Benjamin P. Horton</div><div class="isomer-card-description">Benjamin is Director of the Earth Observatory of Singapore and a Professor in Earth Science at the Asian School of the Environment in Nanyang Technological University (NTU). He has been appointed the AXA-Nanyang Professor in Natural Hazards.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -107,10 +106,13 @@ towards a more sustainable and resilient future for all.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Shirley Ho</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Shirley is Associate Vice President (Humanities, Social Sciences &amp;
+Research Communication) in the President's Office at Nanyang Technological
+University. She is also the President's Chair and Professor of Communication
+Studies in the Wee Kim Wee School of Communication and Information at NTU.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yong Ming Lee" src="/images/Week 3/Yong_Ming_Lee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Yong Ming Lee</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yong Ming Lee" src="/images/Week 3/Yong_Ming_Lee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Yong Ming Lee</div><div class="isomer-card-description">Ming Lee teaches Psychology and Child, and Development at National Institute of Education (NIE). She is also a licensed psychologist (USA) and had obtained her Ph.D. in School Psychology from the University of Washington.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -119,9 +121,27 @@ towards a more sustainable and resilient future for all.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Asst Prof Janice Lee</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Janice teaches at the Asian School of the Environment at Nanyang Technological
+University (NTU). She is also the Principal Investigator for the Coupled
+Human and Natural Systems Lab. She focuses on the social and ecological
+consequences of human impacts on Southeast Asia.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Eugene Wambeck" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eugene Wambeck</div><div class="isomer-card-description">Eugene is the Director for Exhibitions at the Science Centre Singapore. He is also a Board member of the Promotion of Women in Engineering, Research and Science (POWERS) at Nanyang Technological University. </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rachael Goh" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Rachael Goh</div>
+<div class="isomer-card-description">Rachael is a student from the Asian School of the Environment (ASE) at
+Nanyang Technological University in Singapore. She is also the Co-Director
+of Nature Guiding at Earthlink, the largest environmental sustainability
+student group in NTU.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Isha Singh" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Isha Singh</div><div class="isomer-card-description">Isha is a student from the School of Physical and Mathematical Sciences at Nanyang Technological University in Singapore. She is also the Co-President of GreenSparks, a student-based eco-group which encourages student involvement with sustainability issues in NTU.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
