@@ -62,18 +62,15 @@ third_nav_title: Week 5 (15 – 21 April)
 <p>Is it true that Singapore was a small fishing village before Sir Stamford
 Raffles set foot in Southeast Asia? Or is there more to discover about
 Singapore’s story in the early global age?</p>
-<hr>
 <p>This panel will discuss how early modern Singapore and Asia played important
 roles in shaping global ideas about maritime trade, global commerce, international
 law, political governance, and literary and artistic flourishing.</p>
-<hr>
 <p>Drawing on new and exciting interdisciplinary research from teachers and
 scholars across Singapore’s universities and the wider Asia region, this
 interactive event will allow audience members to uncover some of the untold
 stories about Singapore and Asia’s historical and cultural importance for
 the global exchange of ideas and goods—stories that begin more than 500
 years ago and continue to unfold in our present time.</p>
-<hr>
 <p>Our discussion aims to shed new light on important stories about Asia’s
 diverse, inclusive, and vibrant past as we look ahead to the next chapter
 in our shared Singapore story.</p>
@@ -95,7 +92,7 @@ in our shared Singapore story.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/About Us/Rhema.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rhema Hokama</div><div class="isomer-card-description">[PLACEHOLDER] Dr Grincheva is the Program Leader Arts Management, LASALLE College of the Arts, University of the Arts Singapore. Her research focuses on innovative forms and global trends in contemporary museology, digital diplomacy and international cultural relations.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/About Us/Rhema.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rhema Hokama</div><div class="isomer-card-description">Rhema received her PhD in English literature from Harvard University and is an Assistant Professor of English Literature from the Humanities, Arts and Social Sciences at Singapore University of Technology and Design.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -104,13 +101,13 @@ in our shared Singapore story.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Assoc Prof Walter Lim</div>
-<div class="isomer-card-description">Walter S. H. Lim is Associate Professor of English Literature in the Department
+<div class="isomer-card-description">Walter is an Associate Professor of English Literature in the Department
 of English, Linguistics and Theatre Studies at the National University
-of Singapore. His most recent book is Shakespeare and the Theater of Religious
-Conviction in Early Modern England (2023).</div>
+of Singapore (NUS). His most recent book is Shakespeare and the Theatre
+of Religious Conviction in Early Modern England (2023).</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Melissa" src="/images/Week 5/Melissa_Tu.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Melissa Tu</div><div class="isomer-card-description">Melissa Tu is a Lecturer of English Literature in the Humanities, Arts and Social Sciences (HASS) at Singapore University of Technology and Design (SUTD). She earned her PhD in English Literature from Yale University in 2023. Her work focuses on medieval literature, music and media theory.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Melissa" src="/images/Week 5/Melissa_Tu.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Melissa Tu</div><div class="isomer-card-description">Melissa is a Lecturer of English Literature in the Humanities, Arts and Social Sciences (HASS) at Singapore University of Technology and Design (SUTD). She earned her PhD in English Literature from Yale University in 2023. Her work focuses on medieval literature, music and media theory.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -119,12 +116,9 @@ Conviction in Early Modern England (2023).</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Roweena Yip</div>
-<div class="isomer-card-description">Roweena Yip is a Lecturer in the Humanities at the National University
-of Singapore. Her research interests lie in the intersections between gender
-studies and performances of Shakespeare in Asia.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Test" src="/images/Week 5/Speaker_EmilySoon_LG.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Emily Soon</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Test" src="/images/Week 5/Speaker_EmilySoon_LG.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Emily Soon</div><div class="isomer-card-description">Emily is a Lecturer for English Literature and holds a joint appointment at the College of Integrative Studies and School of Social Sciences, both at Singapore Management University. Her doctoral dissertation explored how the East Indies inspired early modern English writers.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -133,10 +127,13 @@ studies and performances of Shakespeare in Asia.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Asst Prof Joshua Ehrlich</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Joshua is an Assistant Professor of History with the Faculty of Arts and
+Humanities at University of Macau. He is an award-winning historian of
+knowledge and political thought with a focus on the East India Company
+and the British Empire.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Andrew Hui" src="/images/Week 5/Andrew_Hui.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Andrew Hui</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Andrew Hui" src="/images/Week 5/Andrew_Hui.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Andrew Hui</div><div class="isomer-card-description">Andrew received his PhD from Princeton University, and is an Associate Professor in Comparative Literature at Yale-NUS College. He is the author of The Poetics of Ruins in Renaissance Literature, A Theory of the Aphorism, and the forthcoming The Study: The Inner Life of Libraries.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -145,7 +142,10 @@ studies and performances of Shakespeare in Asia.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Hannah Smith-Drelich</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Hannah is a Lecturer for English Literature at NUS College. Her research
+examines themes of appetite, hunger, and disgust in the literature of early
+modern England. Her teaching expertise ranges from Renaissance literature
+to the contemporary food memoir.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a>
