@@ -58,29 +58,23 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 </tbody>
 </table>
-<p>Postgrad Networking Session
+<p><strong>Postgrad Networking Session </strong>
 <br>It is no mean feat navigating the final stages of graduate school and
 the period immediately following the completion of one’s PhD. How does
 one grapple with the academic job market, address the questions of whether
 and how to explore non-academic (alt-ac) paths, or handle those initial
 years in a research position? In particular, how do those with graduate
 degrees in the humanities and social sciences met those challenges?
+<br>
 <br>A strong support network, not just friends and family, but supportive
 colleagues and mentors, is critical for anyone hoping to survive and thrive
 in the late- and post-PhD phases.
 <br>
-</p>
-<hr>
-<p>A strong support network, not just friends and family, but supportive
-colleagues and mentors, is critical for anyone hoping to survive and thrive
-in the late- and post-PhD phases.</p>
-<p>
 <br>This postgraduate networking event, organized by the College of Integrative
 Studies at SMU, is an opportunity for senior and graduating PhD students
 in the humanities and social sciences to further build up their support
-network.</p>
-<hr>
-<p>
+network.
+<br>
 <br>Do join us! At this event, several researchers from the local universities
 will share briefly about their experiences with early career research and/or
 alt-ac options. Following that, during a networking session and over light
@@ -105,7 +99,7 @@ cognate fields.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kung Chien-Wen" src="/images/Week 3/Kung_Chien_Wen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Kung Chien Wen</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kung Chien-Wen" src="/images/Week 3/Kung_Chien_Wen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Kung Chien Wen</div><div class="isomer-card-description">Chien Wen is a Singaporean historian, who teaches in the Department of History, Faculty of Arts and Social Sciences, NUS. His first book, Diasporic Cold Warriors, explores the rise of the Philippine Chinese as Southeast Asia's most ardent overseas Chinese supporters of the KMT.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -114,9 +108,12 @@ cognate fields.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Assoc Prof Setoh Pei Pei</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Peipei is a developmental psychologist and the Director of the Early Cognition
+Lab. She teaches in School of Social Sciences at Nanyang Technological
+University in Singapore. Her research goal is to see children thrive and
+achieve their potential.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ng Teng Kuan" src="/images/Week 3/ng_teng_kuan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Ng Teng Kuan</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ng Teng Kuan" src="/images/Week 3/ng_teng_kuan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Ng Teng Kuan</div><div class="isomer-card-description">Teng Kuan is Assistant Professor of Religious Studies in the College of Integrative Studies at Singapore Management University. His research focuses on the interdisciplinary study of religion and film in East Asia. At SMU, he teaches students to grapple with issues of social and global import.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
