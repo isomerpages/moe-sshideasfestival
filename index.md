@@ -4,7 +4,7 @@ title: Ideas Festival Singapore 2024
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Site Development in Progress - Watch this space for updates!
 sections:
   - hero:
       title: Ideas Festival
