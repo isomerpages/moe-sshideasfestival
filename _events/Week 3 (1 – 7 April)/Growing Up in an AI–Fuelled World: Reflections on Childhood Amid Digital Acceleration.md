@@ -108,7 +108,7 @@ of Technology, will follow the talk.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lim Sun Sun" src="/images/Week 3/Sun_Sun.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Lim Sun Sun</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lim Sun Sun" src="/images/Week 3/Sun_Sun.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Lim Sun Sun</div><div class="isomer-card-description">Sun Sun is Vice President, Partnerships and Engagement at the Singapore Management University where she is concurrently Professor of Communication and Technology at its College of Integrative Studies. She is an honouree of the inaugural Singapore 100 Women in Tech list in 2020.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -117,9 +117,12 @@ of Technology, will follow the talk.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Assoc Prof Jiow Hee Jhee</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Hee Jhee is an Associate Professor and Programme Leader of Digital Communications
+and Integrated Media at Singapore Institute of Technology (SIT). He also
+serves as a member of the Media Literacy Council (IMDA) and Films Consultative
+Panel (IMDA).</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Terry Van Gevelt" src="/images/Week 3/Terry_van_gevelt.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Terry Van Gevelt</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Terry Van Gevelt" src="/images/Week 3/Terry_van_gevelt.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Terry Van Gevelt</div><div class="isomer-card-description">Terry teaches Urban Sustainability and is the Lee Kong Chian Fellow at the College of Integrative Studies, Singapore Management University. He is an interdisciplinary social scientist focused on bridging the sustainability science-policy divide.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
