@@ -125,7 +125,7 @@ metaverse open for SSH scholars in Singapore?</p>
 </table>
 <hr>
 <h3>Speakers Profile</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tim Winter" src="/images/Week 2/TIm_Winter.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tim Winter</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tim Winter" src="/images/Week 2/TIm_Winter.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Tim Winter</div><div class="isomer-card-description">Tim is Cluster Leader and Senior Research Fellow at the Asia Research Institute (ARI), National University of Singapore. He moved to ARI from University of Western of Australia, where he was Professorial Future Fellow of the Australian Research Council.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -134,10 +134,13 @@ metaverse open for SSH scholars in Singapore?</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Nien Yuan Cheng</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Nien Yuan is a Singaporean performance scholar. She is a Faculty Early
+Career Award Fellow at the Singapore University of Technology and Design.
+Her work has been published in the Oral History Review, Studies in Theatre
+and Performance, and Performance Paradigm among others.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Natalie Grincheva" src="/images/Week 2/Natalie_Grincheva.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Natalie Grincheva</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Natalie Grincheva" src="/images/Week 2/Natalie_Grincheva.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Natalie Grincheva</div><div class="isomer-card-description">Natalia is Program Leader in Arts Management at LASALLE College of the Arts, University of the Arts Singapore, and Honorary Senior Research Fellow in the Digital Studio at The University of Melbourne.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -146,7 +149,10 @@ metaverse open for SSH scholars in Singapore?</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Asst Prof Chaewon Ahn</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Chaewon is Assistant Professor at the Department of Architecture at the
+National University of Singapore, who holds a joint appointment with the
+Urban Studies program at the Yale-NUS College. She is an urban researcher
+with a special focus on smart city, innovation policy and urban models.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a>
