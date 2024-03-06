@@ -62,8 +62,7 @@ seminar featuring two presentations that shed light on interesting and
 highly pertinent topics of our times. Join us for an exciting and insightful
 session!</p>
 <p><strong>AI x Workers: 10 Designs to Craft an Inclusive Future of Work. </strong>
-</p>
-<p><strong>Mr Poon King Wang &amp; Dr Thijs Willems</strong> 
+<br><strong>Mr Poon King Wang &amp; Dr Thijs Willems</strong>
 </p>
 <p>AI's impact on work and workers has come to the fore again. The discussions
 however often fall short because they focus on a small subset of dimensions
@@ -83,8 +82,7 @@ new approach. In the increasingly complex future of work, such integrated
 and interdisciplinary approaches will raise the quality of research and
 practice.</p>
 <p><strong>An Eye to the Future or Back to the Future? </strong>
-</p>
-<p><strong>Dr Harvey Neo, Dr Samuel Chng &amp; Dr Sarah Chan</strong> 
+<br><strong>Dr Harvey Neo, Dr Samuel Chng &amp; Dr Sarah Chan</strong>
 </p>
 <p>While some people profess to live in/for the present moment, it is neither
 practicable nor perspicacious to ignore the future (or the past, for that
@@ -123,7 +121,7 @@ non-plussed about existential issues which will affect their lives?”</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PK" src="/images/Week 5/Poon_King.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Poon King Wang</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PK" src="/images/Week 5/Poon_King.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Poon King Wang</div><div class="isomer-card-description">King Wang is the Chief Strategy Officer and Director of the Lee Kuan Yew Centre for Innovative Cities, both at Singapore University of Technology and Design. He serves on the SkillsFuture Research Advisory Panel, and the Institute of Human Resource Professional Job Redesign Expert Panel.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -132,10 +130,13 @@ non-plussed about existential issues which will affect their lives?”</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Harvey Neo</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Harvey is a Professorial Research Fellow at Lee Kuan Yew Centre for Innovative
+Cities, in Singapore University of Technology and Design. His research
+focuses on critical urban studies. citizen urban science and policy-making
+as well as nature-society interactions.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TW" src="/images/Week 5/Thijs_Willems.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Thijs Willems</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TW" src="/images/Week 5/Thijs_Willems.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Thijs Willems</div><div class="isomer-card-description">Thijs is a Research Fellow at Lee Kuan Yew Centre for Innovative Cities, in Singapore University of Technology and Design. He Is currently engaged in research on the Impact or technologies - such as Al - on work practices and technology-mediated interactions in the workplace.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -144,9 +145,12 @@ non-plussed about existential issues which will affect their lives?”</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Sarah Chan</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Sarah is a Chan Heng Chee Research Fellow at Lee Kuan Yew Centre for Innovative
+Cities in SUTD. She is environmental psychologist whose research revolve
+around understanding the synergies and trade-offs between environmental
+sustainability, technological and urban development, and human well-being.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Samuel" src="/images/Week 5/Sam_Chng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Samuel Chng</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Samuel" src="/images/Week 5/Sam_Chng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Samuel Chng</div><div class="isomer-card-description">Samuel is a Research Fellow and also heads the Urban Psychology Lab at Lee Kuan Yew Centre for Innovative Cities in SUTD. He is an applied social psychologist who focuses on human behaviour and decisions in cities across a range of areas including mobility, sustainability and well-being.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
