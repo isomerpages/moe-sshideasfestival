@@ -116,6 +116,9 @@ of Religious Conviction in Early Modern England (2023).</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Roweena Yip</div>
+<div class="isomer-card-description">Roweena is a Lecturer at the Humanities department in NUS College. Her
+research interests lie in the intersections between gender studies and
+performances of Shakespeare in Asia.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Test" src="/images/Week 5/Speaker_EmilySoon_LG.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Emily Soon</div><div class="isomer-card-description">Emily is a Lecturer for English Literature and holds a joint appointment at the College of Integrative Studies and School of Social Sciences, both at Singapore Management University. Her doctoral dissertation explored how the East Indies inspired early modern English writers.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
