@@ -61,9 +61,9 @@ third_nav_title: Week 4 (8 – 14 April)
 <p>&nbsp;</p>
 <p>What are some of the challenges and opportunities presented by the changing
 nature of work, the workplace, and the workforce? What are the possible
-impacts these challenges and opportunities have on the well-being of workers?</p>
-<p></p>
-<p>This roundtable brings together researchers from different disciplines
+impacts these challenges and opportunities have on the well-being of workers?
+<br>
+<br>This roundtable brings together researchers from different disciplines
 to share highlights of their different perspectives of work and the workplace,
 and discuss their approaches and challenges of research in this area. Through
 each of their research projects, researchers will share how their academic
@@ -90,7 +90,7 @@ of living, etc.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fang Zheng" src="/images/Week 4/Fang_Zheng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Fang Zheng</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fang Zheng" src="/images/Week 4/Fang_Zheng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Fang Zheng</div><div class="isomer-card-description">Zheng is the Director from the Office of Graduate Studies at Singapore University of Social Sciences. She leads a research project that surveys 300 individuals aged 65 and above, that seeks to find the connection between lifelong learning and the subjective well-being of elderly in Singapore.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -99,10 +99,13 @@ of living, etc.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Assoc Prof Ada Wong</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Ada is an Associate Professor with the Marketing Programme in the School
+of Business at SUSS. She leads the research project that seeks to improve
+employee satisfaction and potentially reduce turnover intentions, supporting
+the development of a more resilient and engaged workforce.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Wang Jiunwen" src="/images/Week 4/Wang_Jiun_Wen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wang Jiunwen</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Wang Jiunwen" src="/images/Week 4/Wang_Jiun_Wen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wang Jiunwen</div><div class="isomer-card-description">Jiun Wen is Senior Lecturer at Human Resource Management Programme with S R Nathan School of Human Development in Singapore University of Social Sciences. She leads the research project Transformative Learning via Work Attachment Experiences to maximise learning of students during work attachments.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -111,7 +114,10 @@ of living, etc.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Sheryl Chua</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Sheryl is a lecturer and Deputy Head of Public Safety and Security Programme
+with the School of Humanities and Behavioural Sciences at Singapore University
+of Social Sciences. She is part of the research proiect Work, Well-being,
+and Resilience: Understanding Singapore's Mature Workforce.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a>
