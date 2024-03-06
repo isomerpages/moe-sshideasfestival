@@ -148,7 +148,7 @@ drawings.
 <p>11:20 – 11:50</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Touring the Exhibition (20-30 mins) – by A/P Lilian Chee</p>
+<p>Touring the Exhibition – by A/P Lilian Chee</p>
 </td>
 </tr>
 </tbody>
@@ -165,7 +165,7 @@ drawings.
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Audrey Yue" src="/images/Week 4/Audrey_Yue.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Audrey Yue</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Audrey Yue" src="/images/Week 4/Audrey_Yue.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Audrey Yue</div><div class="isomer-card-description">Audrey is the Head of Department of Communications and New Media, and Deputy Director of the Centre for Trusted Internet and Community both at NUS. She is Editorial Board Member of International Journal of Communication, Television and New Media, Sexualities, and Feminist Media Studies.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -174,10 +174,13 @@ drawings.
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Jane Jacobs</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Jane is an Honorary Research Fellow with the School of Geography, Earth
+and Atmospheric Sciences, The University of Melbourne, and an Adjunct Professor
+with Monash Indonesia, Jakarta. She has published on postcolonial geographies,
+architecture and society, and high-rise urbanism.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Natalie Pang" src="/images/Week 4/Natalie_Pang.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Natalie Pang</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Natalie Pang" src="/images/Week 4/Natalie_Pang.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Natalie Pang</div><div class="isomer-card-description">Natalie is Deputy Head at the Department of Communications and New Media, and Principal Investigator at the Centre for Trusted Internet and Community, both at the National University of Singapore. She is also University Librarian at the NUS Libraries.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -186,7 +189,10 @@ drawings.
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Assoc Prof Lilian Chee</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Lilian teaches Architectural Theory and Design at the National University
+of Singapore, where she co-leads the Research by Design Cluster. She is
+also Academic Director of the NUS Museum, and leads the Social Science
+Research Council-funded Foundations for Home-based Work.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a>
