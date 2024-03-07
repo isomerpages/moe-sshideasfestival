@@ -41,7 +41,10 @@ discussion aims to explicate the key conceptual, methodological, and practical
 issues that will need to be addressed to both avoid pitfalls and enhance
 the value-added contributions from computational social science.</p>
 <hr>
-<h3><strong>REGISTER NOW</strong></h3>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+</div>
 <hr>
 <p></p>
 <table>
