@@ -25,14 +25,11 @@ third_nav_title: Week 1 (20 – 24 March)
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Location Map</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets_Location_button_150x38.png">
+</div>
 <p>This event, comprising brief lectures followed by a panel discussion with
 researchers from SMU and A*STAR, will examine scientific and practical
 issues involving insights and applications from the emerging field of computational
