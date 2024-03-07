@@ -108,8 +108,8 @@ of Technology, will follow the talk.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lim Sun Sun" src="/images/Week 3/Sun_Sun.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Lim Sun Sun</div><div class="isomer-card-description">Sun Sun is Vice President, Partnerships and Engagement at the Singapore Management University where she is concurrently Professor of Communication and Technology at its College of Integrative Studies. She is an honouree of the inaugural Singapore 100 Women in Tech list in 2020.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/sun-sun-lim-6861" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lim Sun Sun" src="/images/Week 3/Sun_Sun.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Lim Sun Sun</div><div class="isomer-card-description">Sun Sun is Vice President, Partnerships and Engagement at the Singapore Management University where she is concurrently Professor of Communication and Technology at its College of Integrative Studies. She is an honouree of the inaugural Singapore 100 Women in Tech list in 2020.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.singaporetech.edu.sg/directory/faculty/hee-jhee-jiow" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jiow Hee Jhee" src="/images/Week 3/Jiow_Hee_Jhee.jpg">
@@ -121,8 +121,8 @@ of Technology, will follow the talk.</p>
 and Integrated Media at Singapore Institute of Technology (SIT). He also
 serves as a member of the Media Literacy Council (IMDA) and Films Consultative
 Panel (IMDA).</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Terry Van Gevelt" src="/images/Week 3/Terry_van_gevelt.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Terry Van Gevelt</div><div class="isomer-card-description">Terry teaches Urban Sustainability and is the Lee Kong Chian Fellow at the College of Integrative Studies, Singapore Management University. He is an interdisciplinary social scientist focused on bridging the sustainability science-policy divide.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://cis.smu.edu.sg/faculty/profile/6576/terry-van-gevelt" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Terry Van Gevelt" src="/images/Week 3/Terry_van_gevelt.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Terry Van Gevelt</div><div class="isomer-card-description">Terry teaches Urban Sustainability and is the Lee Kong Chian Fellow at the College of Integrative Studies, Singapore Management University. He is an interdisciplinary social scientist focused on bridging the sustainability science-policy divide.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
