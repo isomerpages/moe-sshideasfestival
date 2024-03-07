@@ -96,6 +96,16 @@ drawings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>09:00 – 09:20</p>
 </td>
 <td rowspan="1" colspan="1">
