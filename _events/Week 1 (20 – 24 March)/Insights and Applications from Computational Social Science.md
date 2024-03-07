@@ -50,18 +50,152 @@ third_nav_title: Week 1 (20 – 24 March)
 </tr>
 </tbody>
 </table>
-<p>This event, comprising brief lectures followed by a panel discussion with
-researchers from SMU and A*STAR, will examine scientific and practical
-issues involving insights and applications from the emerging field of computational
-social science (CSS), with a focus on the research, practice, and policy
-contexts of Singapore.
-<br>Drawing on examples from the ongoing research on modeling adaptability
-and resilience in the SMU-A*STAR Joint Lab as well as other studies, the
-discussion aims to explicate the key conceptual, methodological, and practical
-issues that will need to be addressed to both avoid pitfalls and enhance
-the value-added contributions from computational social science.</p>
-<hr><a class="isomer-image-wrapper" href="https://forms.office.com/r/3yw9n2sb8J"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
+<p>In the last two decades, there has been an exponential increase in collaborations
+between researchers/ technologists from the computing sciences and researchers
+from the social and behavioural sciences. The term computational social
+science (CSS) is used collectively to refer to these joint efforts focused
+on using computational approaches to study social and behavioural phenomena.
+<br>
+<br>When adequately grounded in scientific evidence and appropriately applied
+in practice, CSS can help increase our understanding of social and behavioural
+issues and provide effective solutions to real-world problems.
+<br>
+<br>The purpose of this informal conversation session is to engage scientists,
+practitioners, and public officers involved in policymaking and provide
+them a platform to discuss the contributions and challenges in applying
+CSS approaches and consider issues from different perspectives and in multiple
+dimensions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png">
+</div>
+<p></p>
 <hr>
+<h4>Event Schedule</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 2.25pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration
+<br>(Audience to be seated by 2.25pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2:30pm - 2.35pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welcome Remarks by Dr. Quek Boon Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.35pm - 3.05pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In Conversation with Professor David Chan</p>
+<p>"Contributions from Computational Social Science:</p>
+<p>Issues, Insights, and Applications in the Singapore Context"
+<br>Speaker: Professor David Chan
+<br>Moderator: Dr Quek Boon Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.05pm - 3.35pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A with audience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.35pm - 3.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Break</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.45pm - 4.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSS Work-in-Progress from SMU-A*STAR Lab</p>
+<p>"Social Sciences &amp; Social Computing in A*STAR: The Journey So Far"</p>
+<p>by Dr. Quek Boon Kiat</p>
+<p>"Individuals, Attitudes, and Online Communications:</p>
+<p>Opportunities from Digital Data and Al for Understanding People"</p>
+<p>by Dr. Joe Simons</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.15pm - 4.35pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Q&amp;A with audience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.35pm - 4.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closing Remarks by Professor David Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.45pm - 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Networking Reception</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table>
 <tbody>
