@@ -71,6 +71,6 @@ within the Social Cognitive and Computing department, with extensive experience
 in software prototyping, research validation, and IP creation.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Joe Simons" src="/images/Week 1/Joe_Simons.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Joe Simons</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Joe Simons" src="/images/Week 1/Joe_Simons_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Joe Simons</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
