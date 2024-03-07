@@ -28,23 +28,16 @@ third_nav_title: Week 1 (20 – 24 March)
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/maps/place/Connexis/@1.298866,103.7825308,17z/data=!3m2!4b1!5s0x7b8593506c56278f:0x8cc308c19613721d!4m6!3m5!1s0x31da1a4557b2d37d:0xb55f22dfc9302a2e!8m2!3d1.298866!4d103.7873964!16s%2Fg%2F11g65g9j61?entry=ttu"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_29_at_7_06_38_PM.png"></a>
-</th>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>This event, comprising brief lectures followed by a panel discussion with
 researchers from SMU and A*STAR, will examine scientific and practical
 issues involving insights and applications from the emerging field of computational
@@ -56,9 +49,8 @@ discussion aims to explicate the key conceptual, methodological, and practical
 issues that will need to be addressed to both avoid pitfalls and enhance
 the value-added contributions from computational social science.</p>
 <hr>
-<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png">
 </div>
 <hr>
 <p></p>
