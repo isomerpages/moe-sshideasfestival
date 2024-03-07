@@ -48,7 +48,7 @@ third_nav_title: Week 3 (1 – 7 April)
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/sfHmGdQofVnRaNwq9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -83,13 +83,9 @@ with the Institute of Mental Health (IMH), based on close reading of local
 mental health narratives, focus group discussions with PMHCs, and multidisciplinary
 and cross-sector roundtables with representatives from different industries
 and communities, such as mental health professionals and writers.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://ntu.sg/Roundtable-MHC2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -99,7 +95,6 @@ and communities, such as mental health professionals and writers.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp00487" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Graham Matthews" src="/images/Week 3/Graham_Mathews.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Graham Matthews</div><div class="isomer-card-description">Graham teaches Medical Humanities at Nanyang Technological University. He currently leads an interdisciplinary and cross-sector research project on culture and mental health stigma in collaboration with the Institute of Mental Health (IMH).</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.singhealth.com.sg/profile/david-teo-choon-liang" class="isomer-card">
 <div class="isomer-card-image">
