@@ -99,8 +99,8 @@ cognate fields.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kung Chien-Wen" src="/images/Week 3/Kung_Chien_Wen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Kung Chien Wen</div><div class="isomer-card-description">Chien Wen is a Singaporean historian, who teaches in the Department of History, Faculty of Arts and Social Sciences, NUS. His first book, Diasporic Cold Warriors, explores the rise of the Philippine Chinese as Southeast Asia's most ardent overseas Chinese supporters of the KMT.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://fass.nus.edu.sg/hist/people/kung-chien-wen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kung Chien-Wen" src="/images/Week 3/Kung_Chien_Wen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Kung Chien Wen</div><div class="isomer-card-description">Chien Wen is a Singaporean historian, who teaches in the Department of History, Faculty of Arts and Social Sciences, NUS. His first book, Diasporic Cold Warriors, explores the rise of the Philippine Chinese as Southeast Asia's most ardent overseas Chinese supporters of the KMT.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp00925" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Setoh Pei Pei" src="/images/Week 3/Setoh_Pei_Pei.jpg">
@@ -112,8 +112,8 @@ cognate fields.</p>
 Lab. She teaches in School of Social Sciences at Nanyang Technological
 University in Singapore. Her research goal is to see children thrive and
 achieve their potential.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ng Teng Kuan" src="/images/Week 3/ng_teng_kuan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Ng Teng Kuan</div><div class="isomer-card-description">Teng Kuan is Assistant Professor of Religious Studies in the College of Integrative Studies at Singapore Management University. His research focuses on the interdisciplinary study of religion and film in East Asia. At SMU, he teaches students to grapple with issues of social and global import.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/ng-teng-kuan-5921" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ng Teng Kuan" src="/images/Week 3/ng_teng_kuan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Ng Teng Kuan</div><div class="isomer-card-description">Teng Kuan is Assistant Professor of Religious Studies in the College of Integrative Studies at Singapore Management University. His research focuses on the interdisciplinary study of religion and film in East Asia. At SMU, he teaches students to grapple with issues of social and global import.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
