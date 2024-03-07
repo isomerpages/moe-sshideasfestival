@@ -99,7 +99,7 @@ society.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/yow-wei-quin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Quin" src="/images/Week 3/Quin.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Yow Wei Quin</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/yow-wei-quin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Quin" src="/images/Week 3/Quin.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Yow Wei Quin</div><div class="isomer-card-description">Wei Quin is a Professor and Head of Humanities, Arts, and Social Sciences Department at Singapore University of Technology and Design. Her research interests lie in social sciences and her discipline is in psychology.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/setsuko-yokoyama/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -108,10 +108,14 @@ society.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Setsuko Yokoyama</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Setsuko is Assistant Professor of Digital Humanities, at Humanities, Arts,
+and Social Sciences in Singapore University of Technology and Design. Her
+current research concerns the literary history of speech-to-text technology
+(STT), and reimagines the contemporary discourse on fairness in speech
+AI.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/gordon-tan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Gordon Tan" src="/images/Week 3/Gordon.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Gordon Tan</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/gordon-tan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Gordon Tan" src="/images/Week 3/Gordon.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Gordon Tan</div><div class="isomer-card-description">Gordon is Assistant Professor of Geography at Humanities, Arts, and Social Sciences in Singapore University of Technology and Design. He is a financial geographer with a focus on fintech and how digital platforms and blockchain technologies are changing the way people live, work, and play.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/andrew-yee/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -120,10 +124,13 @@ society.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Andrew Yee</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Andrew is Assistant Professor of Communication in Humanities, Arts, and
+Social Sciences of Singapore University of Technology and Design. His current
+work examines youth digital media use, where his team is using screenomes
+to better understand and dissect smartphone use.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/alastair-gornall/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Alastair Gornall" src="/images/Week 3/Alastair_Gornall.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Alastair Gornall</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/alastair-gornall/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Alastair Gornall" src="/images/Week 3/Alastair_Gornall.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Alastair Gornall</div><div class="isomer-card-description">Alastair is Associate Professor of History and Religion, and Associate Head of Research and Faculty Affairs at Humanities, Arts, and Social Sciences in Singapore University of Technology and Design. He teaches courses in Asian religion, history, and the digital humanities.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/lyle-fearnley/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -132,7 +139,9 @@ society.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Lyle Fearnley</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Lyle is Associate Professor of Anthropology and Associate Head of Cluster
+(Education) at the Humanities, Arts, and Social Sciences (HASS) department
+in Singapore University of Technology and Design.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
 </a>
