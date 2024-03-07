@@ -35,7 +35,7 @@ third_nav_title: Week 1 (20 – 24 March)
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/maps/place/Asia+Research+Institute/@1.2960533,103.7675576,17z/data=!3m2!4b1!5s0x31da1af91c1237c3:0x4ca0bb517686f568!4m6!3m5!1s0x31da1a030cb0a309:0xda62cb8efcaaac9!8m2!3d1.2960479!4d103.7724285!16s%2Fg%2F1ptzm0l9q?entry=ttu"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_29_at_7_06_38_PM.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/maps/place/Connexis/@1.298866,103.7825308,17z/data=!3m2!4b1!5s0x7b8593506c56278f:0x8cc308c19613721d!4m6!3m5!1s0x31da1a4557b2d37d:0xb55f22dfc9302a2e!8m2!3d1.298866!4d103.7873964!16s%2Fg%2F11g65g9j61?entry=ttu"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_29_at_7_06_38_PM.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
