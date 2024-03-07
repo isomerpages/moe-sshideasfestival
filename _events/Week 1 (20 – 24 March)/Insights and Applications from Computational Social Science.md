@@ -27,10 +27,7 @@ third_nav_title: Week 1 (20 – 24 March)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </td>
 </tr>
 </tbody>
@@ -48,10 +45,7 @@ and resilience in the SMU-A*STAR Joint Lab as well as other studies, the
 discussion aims to explicate the key conceptual, methodological, and practical
 issues that will need to be addressed to both avoid pitfalls and enhance
 the value-added contributions from computational social science.</p>
-<hr>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png">
-</div>
+<hr><a class="isomer-image-wrapper" href="https://forms.office.com/r/3yw9n2sb8J"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <hr>
 <p></p>
 <table>
