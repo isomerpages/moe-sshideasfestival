@@ -98,7 +98,6 @@ Media Literacy Council and Associate Professor at the Singapore Institute
 of Technology, will follow the talk.</p>
 <p></p><a class="isomer-image-wrapper" href="https://eventregistration.smu.edu.sg/event/6bdbca6a-9905-4d6c-acea-bfb54f758599/summary?rp=d7f92f83-1a0e-44d6-abc0-706980007c9f"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
-<p></p>
 <hr>
 <p></p>
 <table>
