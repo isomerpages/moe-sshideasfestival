@@ -92,8 +92,8 @@ in our shared Singapore story.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/About Us/Rhema.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rhema Hokama</div><div class="isomer-card-description">Rhema received her PhD in English literature from Harvard University and is an Assistant Professor of English Literature from the Humanities, Arts and Social Sciences at Singapore University of Technology and Design.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/rhema-hokama/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/About Us/Rhema.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rhema Hokama</div><div class="isomer-card-description">Rhema received her PhD in English literature from Harvard University and is an Assistant Professor of English Literature from the Humanities, Arts and Social Sciences at Singapore University of Technology and Design.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://profile.nus.edu.sg/fass/elllimw/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Walter" src="/images/Week 5/Walter_Lim.jpg">
@@ -105,10 +105,10 @@ in our shared Singapore story.</p>
 of English, Linguistics and Theatre Studies at the National University
 of Singapore (NUS). His most recent book is Shakespeare and the Theatre
 of Religious Conviction in Early Modern England (2023).</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Melissa" src="/images/Week 5/Melissa_Tu.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Melissa Tu</div><div class="isomer-card-description">Melissa is a Lecturer of English Literature in the Humanities, Arts and Social Sciences (HASS) at Singapore University of Technology and Design (SUTD). She earned her PhD in English Literature from Yale University in 2023. Her work focuses on medieval literature, music and media theory.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/melissa-shao-hsuan-tu/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Melissa" src="/images/Week 5/Melissa_Tu.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Melissa Tu</div><div class="isomer-card-description">Melissa is a Lecturer of English Literature in the Humanities, Arts and Social Sciences (HASS) at Singapore University of Technology and Design (SUTD). She earned her PhD in English Literature from Yale University in 2023. Her work focuses on medieval literature, music and media theory.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://discovery.nus.edu.sg/22789-roweena-yip" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Roweena" src="/images/Week 5/Roweena.jpg">
@@ -119,10 +119,10 @@ of Religious Conviction in Early Modern England (2023).</div>
 <div class="isomer-card-description">Roweena is a Lecturer at the Humanities department in NUS College. Her
 research interests lie in the intersections between gender studies and
 performances of Shakespeare in Asia.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Test" src="/images/Week 5/Speaker_EmilySoon_LG.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Emily Soon</div><div class="isomer-card-description">Emily is a Lecturer for English Literature and holds a joint appointment at the College of Integrative Studies and School of Social Sciences, both at Singapore Management University. Her doctoral dissertation explored how the East Indies inspired early modern English writers.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/emily-soon-1726" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Test" src="/images/Week 5/Speaker_EmilySoon_LG.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Emily Soon</div><div class="isomer-card-description">Emily is a Lecturer for English Literature and holds a joint appointment at the College of Integrative Studies and School of Social Sciences, both at Singapore Management University. Her doctoral dissertation explored how the East Indies inspired early modern English writers.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://fah.um.edu.mo/joshua-ehrlich/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Joshua Ehrlich" src="/images/Week 5/Ehrlich.jpg">
@@ -134,10 +134,10 @@ performances of Shakespeare in Asia.</div>
 Humanities at University of Macau. He is an award-winning historian of
 knowledge and political thought with a focus on the East India Company
 and the British Empire.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Andrew Hui" src="/images/Week 5/Andrew_Hui.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Andrew Hui</div><div class="isomer-card-description">Andrew received his PhD from Princeton University, and is an Associate Professor in Comparative Literature at Yale-NUS College. He is the author of The Poetics of Ruins in Renaissance Literature, A Theory of the Aphorism, and the forthcoming The Study: The Inner Life of Libraries.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.yale-nus.edu.sg/faculty/andrew-hui/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Andrew Hui" src="/images/Week 5/Andrew_Hui.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Andrew Hui</div><div class="isomer-card-description">Andrew received his PhD from Princeton University, and is an Associate Professor in Comparative Literature at Yale-NUS College. He is the author of The Poetics of Ruins in Renaissance Literature, A Theory of the Aphorism, and the forthcoming The Study: The Inner Life of Libraries.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://discovery.nus.edu.sg/22789-roweena-yip" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hannah" src="/images/Week 5/Hannah.jpg">
@@ -149,7 +149,7 @@ and the British Empire.</div>
 examines themes of appetite, hunger, and disgust in the literature of early
 modern England. Her teaching expertise ranges from Renaissance literature
 to the contemporary food memoir.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
 </a>
 </div>
