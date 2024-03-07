@@ -95,8 +95,8 @@ and communities, such as mental health professionals and writers.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Graham Matthews" src="/images/Week 3/Graham_Mathews.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Graham Matthews</div><div class="isomer-card-description">Graham teaches Medical Humanities at Nanyang Technological University. He currently leads an interdisciplinary and cross-sector research project on culture and mental health stigma in collaboration with the Institute of Mental Health (IMH).</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp00487" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Graham Matthews" src="/images/Week 3/Graham_Mathews.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Graham Matthews</div><div class="isomer-card-description">Graham teaches Medical Humanities at Nanyang Technological University. He currently leads an interdisciplinary and cross-sector research project on culture and mental health stigma in collaboration with the Institute of Mental Health (IMH).</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.singhealth.com.sg/profile/david-teo-choon-liang" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="David Teo Choon Liang" src="/images/Week 3/David_Teo.jpg">
@@ -108,10 +108,10 @@ and communities, such as mental health professionals and writers.</p>
 is also a Senior Consultant Psychiatrist with the Department of Psychological
 Medicine and Department of Sleep Medicine Surgery and Science at Changi
 General Hospital (CGH).</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mythily Subramaniam" src="/images/Week 3/Mythily_Subramaniam.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Mythily Subramaniam</div><div class="isomer-card-description">Mythily is Assistant Chairman of the Medical Board (Research) at the Institute of Mental Health (IMH). She has a concurrent teaching appointment at the Saw Swee Hock School of Public Health, National University Singapore.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://sph.nus.edu.sg/faculty-directory/subramaniam-mythily/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mythily Subramaniam" src="/images/Week 3/Mythily_Subramaniam.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Mythily Subramaniam</div><div class="isomer-card-description">Mythily is Assistant Chairman of the Medical Board (Research) at the Institute of Mental Health (IMH). She has a concurrent teaching appointment at the Saw Swee Hock School of Public Health, National University Singapore.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/daniellelim-author/?originalSubdomain=sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Danielle" src="/images/Week 3/Danielle_Lim.jpg">
@@ -123,10 +123,10 @@ General Hospital (CGH).</div>
 Sound of SCH: A Mental Breakdown, a Life Journey, won the Singapore Literature
 Prize 2016 (non-fiction), which looks at mental health; giving a moving
 account of human resiliency and sacrifice in the face of brokenness.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bhing Leet TAN" src="/images/Week 3/bhing_leet_tan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Tan Bhing Leet</div><div class="isomer-card-description">Bhing Leet is Cluster Director of the Health and Social Sciences Cluster, Singapore Institute of Technology (SIT). She oversees the Allied Health and Nursing faculty and teaches mental health in the Occupational Therapy programme at SIT.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.singaporetech.edu.sg/directory/faculty/bhing-leet-tan" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bhing Leet TAN" src="/images/Week 3/bhing_leet_tan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Tan Bhing Leet</div><div class="isomer-card-description">Bhing Leet is Cluster Director of the Health and Social Sciences Cluster, Singapore Institute of Technology (SIT). She oversees the Allied Health and Nursing faculty and teaches mental health in the Occupational Therapy programme at SIT.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.marshallcavendish.com/our-authors/author/mahita-vas" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mahita Vas" src="/images/Week 3/Mahita_Vas.jpg">
@@ -138,7 +138,7 @@ account of human resiliency and sacrifice in the face of brokenness.</div>
 book, Praying to the Goddess of Mercy: A Memoir of Mood Swings. Mahita
 also volunteers regularly with Transient Workers Count Too, a migrant worker
 welfare charity.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
 </a>
 </div>
