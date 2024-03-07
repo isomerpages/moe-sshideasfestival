@@ -58,7 +58,7 @@ third_nav_title: Week 4 (8 – 14 April)
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p>What are some of the challenges and opportunities presented by the changing
 nature of work, the workplace, and the workforce? What are the possible
 impacts these challenges and opportunities have on the well-being of workers?
