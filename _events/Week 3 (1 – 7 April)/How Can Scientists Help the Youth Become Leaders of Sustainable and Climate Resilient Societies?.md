@@ -127,11 +127,11 @@ Human and Natural Systems Lab. She focuses on the social and ecological
 consequences of human impacts on Southeast Asia.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/eugene-wambeck-22116418/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Eugene Wambeck" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eugene Wambeck</div><div class="isomer-card-description">Eugene is the Director for Exhibitions at the Science Centre Singapore. He is also a Board member of the Promotion of Women in Engineering, Research and Science (POWERS) at Nanyang Technological University.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/eugene-wambeck-22116418/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Eugene Wambeck" src="/images/Website_assets_800x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eugene Wambeck</div><div class="isomer-card-description">Eugene is the Director for Exhibitions at the Science Centre Singapore. He is also a Board member of the Promotion of Women in Engineering, Research and Science (POWERS) at Nanyang Technological University.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/rachael-goh-34a441226/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&amp;originalSubdomain=sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rachael Goh" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Rachael Goh" src="/images/Website_assets_800x200.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -142,6 +142,6 @@ of Nature Guiding at Earthlink, the largest environmental sustainability
 student group in NTU.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/isha-le-xue-singh-633957150/?originalSubdomain=sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Isha Singh" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Isha Singh</div><div class="isomer-card-description">Isha is a student from the School of Physical and Mathematical Sciences at Nanyang Technological University in Singapore. She is also the Co-President of GreenSparks, a student-based eco-group which encourages student involvement with sustainability issues in NTU.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/isha-le-xue-singh-633957150/?originalSubdomain=sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Isha Singh" src="/images/Website_assets_800x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Isha Singh</div><div class="isomer-card-description">Isha is a student from the School of Physical and Mathematical Sciences at Nanyang Technological University in Singapore. She is also the Co-President of GreenSparks, a student-based eco-group which encourages student involvement with sustainability issues in NTU.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
