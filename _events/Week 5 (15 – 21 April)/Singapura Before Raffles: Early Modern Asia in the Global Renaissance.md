@@ -48,7 +48,7 @@ third_nav_title: Week 5 (15 – 21 April)
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/aXbmVfsL4t9ihdqeA"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </td>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -80,11 +80,10 @@ diverse, inclusive, and vibrant past as we look ahead to the next chapter
 in our shared Singapore story.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png">
 </div>
 <p></p>
 <hr>
-<p></p>
 <p></p>
 <table>
 <tbody>
@@ -95,7 +94,6 @@ in our shared Singapore story.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/rhema-hokama/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rhema" src="/images/About Us/Rhema.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rhema Hokama</div><div class="isomer-card-description">Rhema received her PhD in English literature from Harvard University and is an Assistant Professor of English Literature from the Humanities, Arts and Social Sciences at Singapore University of Technology and Design.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://profile.nus.edu.sg/fass/elllimw/" class="isomer-card">
 <div class="isomer-card-image">
