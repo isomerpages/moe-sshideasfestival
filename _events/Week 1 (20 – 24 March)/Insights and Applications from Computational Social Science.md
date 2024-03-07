@@ -21,7 +21,7 @@ third_nav_title: Week 1 (20 – 24 March)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Infuse Theatre, Level 14, Connexis South Tower, 1 Fusionopolis Way, Singapore 138632</strong>
+<p><strong>Venue: Infuse Theatre, Level 14, Connexis South Tower</strong>
 </p>
 </td>
 </tr>
