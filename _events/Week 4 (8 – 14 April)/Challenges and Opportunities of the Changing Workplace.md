@@ -90,8 +90,8 @@ of living, etc.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fang Zheng" src="/images/Week 4/Fang_Zheng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Fang Zheng</div><div class="isomer-card-description">Zheng is the Director from the Office of Graduate Studies at Singapore University of Social Sciences. She leads a research project that surveys 300 individuals aged 65 and above, that seeks to find the connection between lifelong learning and the subjective well-being of elderly in Singapore.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/about-suss/faculty-and-staff/detail/fang-zheng" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fang Zheng" src="/images/Week 4/Fang_Zheng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Fang Zheng</div><div class="isomer-card-description">Zheng is the Director from the Office of Graduate Studies at Singapore University of Social Sciences. She leads a research project that surveys 300 individuals aged 65 and above, that seeks to find the connection between lifelong learning and the subjective well-being of elderly in Singapore.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/about-suss/faculty-and-staff/detail/ada-wong" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ada Wong" src="/images/Week 4/Ada_Wong.jpg">
@@ -103,10 +103,10 @@ of living, etc.</p>
 of Business at SUSS. She leads the research project that seeks to improve
 employee satisfaction and potentially reduce turnover intentions, supporting
 the development of a more resilient and engaged workforce.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Wang Jiunwen" src="/images/Week 4/Wang_Jiun_Wen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wang Jiunwen</div><div class="isomer-card-description">Jiun Wen is Senior Lecturer at Human Resource Management Programme with S R Nathan School of Human Development in Singapore University of Social Sciences. She leads the research project Transformative Learning via Work Attachment Experiences to maximise learning of students during work attachments.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/about-suss/faculty-and-staff/detail/wang-jiunwen" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Wang Jiunwen" src="/images/Week 4/Wang_Jiun_Wen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Wang Jiunwen</div><div class="isomer-card-description">Jiun Wen is Senior Lecturer at Human Resource Management Programme with S R Nathan School of Human Development in Singapore University of Social Sciences. She leads the research project Transformative Learning via Work Attachment Experiences to maximise learning of students during work attachments.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/about-suss/faculty-and-staff/detail/sheryl-chua-hwee-chin" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sheryl Chua" src="/images/Week 4/Sheryl_Chua.jpg">
@@ -118,7 +118,7 @@ the development of a more resilient and engaged workforce.</div>
 with the School of Humanities and Behavioural Sciences at Singapore University
 of Social Sciences. She is part of the research proiect Work, Well-being,
 and Resilience: Understanding Singapore's Mature Workforce.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
 </a>
 </div>
