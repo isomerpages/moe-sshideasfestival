@@ -49,7 +49,7 @@ Ethnomethodology and Conversation Analysis.</div>
 <div class="isomer-card-description">Jennifer is Associate Professor of Philosophy at the S R Nathan School
 of Human Development, SUSS. She is the author of Sartre and the Moral Limits
 of War and Terrorism, and a forthcoming book Unforgiveness towards Injustice.
-Her recent projects examine the role of ethics in AI decision-making.</div>
+Her recent projects examine ethics, AI, time and space</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/rhema-hokama/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rhema Hokama" src="/images/About Us/Rhema.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rhema Hokama</div><div class="isomer-card-description">Rhema is Assistant Professor of English Literature in the faculty of Humanities, Arts and Social Sciences, SUTD. She is a scholar of early modern English literature and religious culture, and her recent research interests center around early modern European travel accounts about East Asia.</div><div class="isomer-card-link">Click for full profile</div></div></a>
