@@ -48,7 +48,7 @@ third_nav_title: Week 3 (1 – 7 April)
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/GvgTZbPGSVFifdjx8"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -87,10 +87,7 @@ refreshments, senior postgraduate students will be able to strike up conversatio
 informally with these speakers, other senior scholars from the local universities
 in attendance, and make connections with many postgraduate students in
 cognate fields.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://eventregistration.smu.edu.sg/5kxVEq"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
 <p></p>
@@ -103,7 +100,6 @@ cognate fields.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://fass.nus.edu.sg/hist/people/kung-chien-wen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kung Chien-Wen" src="/images/Week 3/Kung_Chien_Wen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Kung Chien Wen</div><div class="isomer-card-description">Chien Wen is a Singaporean historian, who teaches in the Department of History, Faculty of Arts and Social Sciences, NUS. His first book, Diasporic Cold Warriors, explores the rise of the Philippine Chinese as Southeast Asia's most ardent overseas Chinese supporters of the KMT.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp00925" class="isomer-card">
 <div class="isomer-card-image">
