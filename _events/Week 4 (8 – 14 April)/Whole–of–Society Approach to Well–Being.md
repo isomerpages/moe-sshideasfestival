@@ -48,7 +48,7 @@ third_nav_title: Week 4 (8 – 14 April)
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/6otDCqd2rXEbMaFT8"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -76,10 +76,7 @@ They will also share how academic research is able to create social impact
 beyond academia, such as areas of health, public policy, culture, environment,
 economy and standards of living, etc.</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://suss.au1.qualtrics.com/jfe/form/SV_6kQNrVSd5nZk2Kq"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
 <p></p>
