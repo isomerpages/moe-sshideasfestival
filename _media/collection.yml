@@ -2,6 +2,6 @@ collections:
   media:
     output: true
     order:
-      - Videos & Podcasts.md
+      - Videos.md
       - Press Coverage.md
       - Newsletters.md
