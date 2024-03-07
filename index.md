@@ -24,11 +24,9 @@ sections:
   - textcards:
       title: Upcoming events
       id: textcards
-      description: >-
-        With lectures, panel discussions, workshops, roundtables and more,
-        there’s something for every
-
-        Humanities, Social Science student, practitioner and enthusiast alike. Register early!
+      description: With lectures, panel discussions, workshops, roundtables and more,
+        there’s something for every student, practitioner and enthusiast alike.
+        Register early!
       cards:
         - title: 22 March | NUS
           description: Insights and Applications from Computational Social Science
