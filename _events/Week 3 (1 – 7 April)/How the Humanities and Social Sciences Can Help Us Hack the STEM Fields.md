@@ -48,7 +48,7 @@ third_nav_title: Week 3 (1 – 7 April)
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/M7Wx6vXDChYsuzSXA"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -83,8 +83,9 @@ how tech innovation can help us advance our dreams for Singapore’s future
 and help us develop a happier, healthier, fairer, more just, and more equal
 society.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png">
 </div>
 <p></p>
 <hr>
@@ -98,7 +99,6 @@ society.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/yow-wei-quin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Quin" src="/images/Week 3/Quin.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Yow Wei Quin</div><div class="isomer-card-description">Wei Quin is a Professor and Head of Humanities, Arts, and Social Sciences Department at Singapore University of Technology and Design. Her research interests lie in social sciences and her discipline is in psychology.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/setsuko-yokoyama/" class="isomer-card">
 <div class="isomer-card-image">
