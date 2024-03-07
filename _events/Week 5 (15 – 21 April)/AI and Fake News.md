@@ -48,7 +48,7 @@ third_nav_title: Week 5 (15 – 21 April)
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/sbDkhk5iivQRtMr5A"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </td>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -68,8 +68,9 @@ targeted at, the problem of fake news as artificial intelligence makes
 it an even more formidable threat. With generative AI lowering barriers
 to digital, visual, and audio editing, deepfakes and other types of AI-powered
 manipulations will become more widespread and convincing. What can we do
-to prepare our communities? This panel will bring together academic, policy,
-and industry partners, focusing on three main areas:
+to prepare our communities?</p>
+<p>This panel will bring together academic, policy, and industry partners,
+focusing on three main areas:
 <br>
 <br><strong>Examining the role of AI in exacerbating the fake news problem</strong>:
 This session will delve into the ways in which AI technologies, such as
@@ -88,15 +89,10 @@ session will critically examine the ethical implications of employing AI
 in addressing fake news. Participants will discuss the importance of developing
 responsible AI systems, ensuring transparency and accountability, and navigating
 legal and regulatory frameworks to protect against potential AI-related
-abuses and unintended consequences.
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
-</div>
+abuses and unintended consequences.</p>
+<p></p><a class="isomer-image-wrapper" href="https://ntu.sg/Panel-AIFN2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
-<p></p>
 <p></p>
 <table>
 <tbody>
