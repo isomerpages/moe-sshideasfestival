@@ -165,8 +165,8 @@ drawings.
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Audrey Yue" src="/images/Week 4/Audrey_Yue.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Audrey Yue</div><div class="isomer-card-description">Audrey is the Head of Department of Communications and New Media, and Deputy Director of the Centre for Trusted Internet and Community both at NUS. She is Editorial Board Member of International Journal of Communication, Television and New Media, Sexualities, and Feminist Media Studies.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://fass.nus.edu.sg/cnmcrc/management/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Audrey Yue" src="/images/Week 4/Audrey_Yue.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Audrey Yue</div><div class="isomer-card-description">Audrey is the Head of Department of Communications and New Media, and Deputy Director of the Centre for Trusted Internet and Community both at NUS. She is Editorial Board Member of International Journal of Communication, Television and New Media, Sexualities, and Feminist Media Studies.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.monash.edu/indonesia/about-monash-in-indonesia/our-people/jane-jacobs" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jane Jacobs" src="/images/Week 4/Jane_Jacobs.jpg">
@@ -178,10 +178,10 @@ drawings.
 and Atmospheric Sciences, The University of Melbourne, and an Adjunct Professor
 with Monash Indonesia, Jakarta. She has published on postcolonial geographies,
 architecture and society, and high-rise urbanism.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Natalie Pang" src="/images/Week 4/Natalie_Pang.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Natalie Pang</div><div class="isomer-card-description">Natalie is Deputy Head at the Department of Communications and New Media, and Principal Investigator at the Centre for Trusted Internet and Community, both at the National University of Singapore. She is also University Librarian at the NUS Libraries.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://profile.nus.edu.sg/fass/cnmnpls/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Natalie Pang" src="/images/Week 4/Natalie_Pang.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Natalie Pang</div><div class="isomer-card-description">Natalie is Deputy Head at the Department of Communications and New Media, and Principal Investigator at the Centre for Trusted Internet and Community, both at the National University of Singapore. She is also University Librarian at the NUS Libraries.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://cde.nus.edu.sg/arch/staffs/lilian-chee-dr/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Assoc Prof Lilian Chee" src="/images/Week 4/Lilian_Chee_updated.jpg">
@@ -193,7 +193,7 @@ architecture and society, and high-rise urbanism.</div>
 of Singapore, where she co-leads the Research by Design Cluster. She is
 also Academic Director of the NUS Museum, and leads the Social Science
 Research Council-funded Foundations for Home-based Work.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
 </a>
 </div>
