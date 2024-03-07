@@ -76,7 +76,7 @@ dimensions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Event Schedule</h4>
+<h3>Event Schedule</h3>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
