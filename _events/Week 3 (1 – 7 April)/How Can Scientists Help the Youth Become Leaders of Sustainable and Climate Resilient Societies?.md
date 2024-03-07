@@ -20,7 +20,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 3.00pm - 7:00pm (TBC)</strong>
+<p><strong>Time: 4.00pm - 6:00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +29,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: NTU Lecture Theatre 2A</strong>
+<p><strong>Venue: NTU LT2, North Spine</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,14 +85,9 @@ an opportunity to pose questions to the panellists.
 <br>By illuminating effective tactics and strategies for collaboration between
 scientists and youth, this discussion aims to inspire collective efforts
 towards a more sustainable and resilient future for all.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://ntu.sg/Panel-sustainability2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
-<p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -111,13 +106,13 @@ towards a more sustainable and resilient future for all.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof Shirley Ho</div>
-<div class="isomer-card-description">Shirley is Associate Vice President (Humanities, Social Sciences &amp;
-Research Communication) in the President's Office at Nanyang Technological
-University. She is also the President's Chair and Professor of Communication
-Studies in the Wee Kim Wee School of Communication and Information at NTU.</div>
+<div class="isomer-card-description">Shirley is Associate Vice President of the Humanities, Social Sciences
+&amp; Research Communication, and President's Chair of Communication Studies
+in the Wee Kim Wee School of Communication Studies, both at Nanyang Technological
+University.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp01627" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yong Ming Lee" src="/images/Week 3/Yong_Ming_Lee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Yong Ming Lee</div><div class="isomer-card-description">Ming Lee teaches Psychology and Child, and Development at National Institute of Education (NIE). She is also a licensed psychologist (USA) and had obtained her Ph.D. in School Psychology from the University of Washington.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp01627" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yong Ming Lee" src="/images/Week 3/Yong_Ming_Lee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Yong Ming Lee</div><div class="isomer-card-description">Ming Lee teaches Psychology and Child, and Development at National Institute of Education (NIE) at Nanyang Technological University. She is also a licensed psychologist (USA) and had obtained her Ph.D. in School Psychology from the University of Washington.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.ntu.edu.sg/ase/aboutus/staff-directory/staff-details/janice-lee" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
