@@ -37,7 +37,7 @@ third_nav_title: Week 2 (25 – 31 March)
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/tb6eGasqjHMmDsQg8"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -75,11 +75,9 @@ experiences of these emergent worlds?</p>
 metaverse open for SSH scholars in Singapore?</p>
 </li>
 </ul>
+<p></p><a class="isomer-image-wrapper" href="https://ari.nus.edu.sg/events/metaverse/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
-</div>
-<p></p>
+<hr>
 <table>
 <tbody>
 <tr>
