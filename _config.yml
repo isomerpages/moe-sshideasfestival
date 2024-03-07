@@ -15,7 +15,11 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: The official website of the 2024 Ideas Festival, a showcase of the
+  latest insights and contributions from humanities and social sciences (HSS) in
+  Singapore. Sign up for our series of diverse and exciting events, ranging from
+  the impact of artificial intelligence on society, to well-being and the
+  changing workplace.
 permalink: none
 baseurl: ""
 exclude:
