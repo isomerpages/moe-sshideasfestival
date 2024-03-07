@@ -47,7 +47,7 @@ third_nav_title: Week 5 (15 – 21 April)
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/aXbmVfsL4t9ihdqeA"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -110,11 +110,10 @@ which we know and agree that we should do?”; “why do some people appear
 non-plussed about existential issues which will affect their lives?”</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png">
 </div>
 <p></p>
 <hr>
-<p></p>
 <p></p>
 <table>
 <tbody>
@@ -125,7 +124,6 @@ non-plussed about existential issues which will affect their lives?”</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/centre-leadership/poon-king-wang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PK" src="/images/Week 5/Poon_King.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Poon King Wang</div><div class="isomer-card-description">King Wang is the Chief Strategy Officer and Director of the Lee Kuan Yew Centre for Innovative Cities, both at Singapore University of Technology and Design. He serves on the SkillsFuture Research Advisory Panel, and the Institute of Human Resource Professional Job Redesign Expert Panel.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/centre-leadership/harvey-neo/" class="isomer-card">
 <div class="isomer-card-image">
