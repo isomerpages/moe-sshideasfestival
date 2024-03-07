@@ -29,7 +29,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SMU Admin Building, Level 6, Function Room 6.1</strong>
+<p><strong>Venue: SMU Admin Building, Level 6, Function Room</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,7 +49,7 @@ third_nav_title: Week 3 (1 – 7 April)
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/GvgTZbPGSVFifdjx8"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -77,7 +77,7 @@ underpinned by AI.
 <br>What are the promises and pitfalls in children’s technology use in an
 AI-fuelled world that boasts of disruptive innovations such as the metaverse
 and generative AI? Immersive and interactive augmented reality environments
-present engaging and highly customized learning experiences for children.
+present engaging and highly customised learning experiences for children.
 But these may come at the cost of excessive screentime and device dependency.
 Social media platforms may be able to detect when children are consuming
 questionable content and send alerts to parents. Yet this needs to be weighed
@@ -96,11 +96,8 @@ these disruptions.
 <br>A Q&amp;A session moderated by Jiow Hee Jhee, a parent, member of the
 Media Literacy Council and Associate Professor at the Singapore Institute
 of Technology, will follow the talk.</p>
+<p></p><a class="isomer-image-wrapper" href="https://eventregistration.smu.edu.sg/event/6bdbca6a-9905-4d6c-acea-bfb54f758599/summary?rp=d7f92f83-1a0e-44d6-abc0-706980007c9f"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
-</div>
 <p></p>
 <hr>
 <p></p>
