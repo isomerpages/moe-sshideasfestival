@@ -58,7 +58,6 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>Is it true that Singapore was a small fishing village before Sir Stamford
 Raffles set foot in Southeast Asia? Or is there more to discover about
 Singapore’s story in the early global age?</p>
