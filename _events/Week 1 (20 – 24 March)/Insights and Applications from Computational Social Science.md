@@ -71,9 +71,17 @@ dimensions.</p>
 </div>
 <p></p>
 <hr>
-<h4>Event Schedule</h4>
+<h4></h4>
 <table>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h4>Event Schedule</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Time</p>
