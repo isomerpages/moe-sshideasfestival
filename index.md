@@ -14,6 +14,10 @@ sections:
       size: sm
       backgroundColor: white
       alignment: left
+      key_highlights:
+        - title: Don't miss our exciting events. Click to find out more!
+          description: ""
+          url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/launch-event/
   - infobar:
       title: Gathering the best minds & insights in HSS
       subtitle: ABOUT THE IDEAS FESTIVAL
