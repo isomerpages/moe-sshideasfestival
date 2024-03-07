@@ -105,8 +105,8 @@ abuses and unintended consequences.
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Edson Tandoc" src="/images/Week 5/Edson_Tandoc.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Edson Tandoc</div><div class="isomer-card-description">Edson teaches at the Wee Kim Wee School of Communication and Information at Nanyang Technological University, where he is also Deputy Chair and Associate Chair for Research. He is also the Director of Centre Centre for Information Integrity and the Internet (IN-cube), NTU Singapore.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp00621" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Edson Tandoc" src="/images/Week 5/Edson_Tandoc.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Edson Tandoc</div><div class="isomer-card-description">Edson teaches at the Wee Kim Wee School of Communication and Information at Nanyang Technological University, where he is also Deputy Chair and Associate Chair for Research. He is also the Director of Centre Centre for Information Integrity and the Internet (IN-cube), NTU Singapore.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.comp.nus.edu.sg/cs/people/leeml/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lee Mong Li" src="/images/Week 5/Mong_Li.jpg">
@@ -119,10 +119,10 @@ of Singapore and is the Director at the NUS Centre for Trusted Internet
 and Community. She is an expert in data management and specialises in areas
 such as data fusion, and the analysis of semistructured and spatio-temporal
 data.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lee Chei Sian" src="/images/Week 5/Chei_Sian_Lee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Lee Chei Sian</div><div class="isomer-card-description">Chei Sian is currently Associate Chair (Faculty) at the Wee Kim Wee School of Communication and Information at the Nanyang Technological University. She is actively involved in research on issues related to everyday user-information interaction within digital environments.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp00497" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lee Chei Sian" src="/images/Week 5/Chei_Sian_Lee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Lee Chei Sian</div><div class="isomer-card-description">Chei Sian is currently Associate Chair (Faculty) at the Wee Kim Wee School of Communication and Information at the Nanyang Technological University. She is actively involved in research on issues related to everyday user-information interaction within digital environments.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/cris/rp/rp00853" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Saifuddin Ahmed" src="/images/Week 5/Saifuddin_Ahmed.jpg">
@@ -134,8 +134,8 @@ data.</div>
 and Information at Nanyang Technological University. He is investigating
 the effects of AI on politics, including the public opinion of AI technologies
 and the sociopolitical impact of deepfakes.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chuang Shin Wee" src="/images/Week 5/Chuang_Shin_Wee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chuang Shin Wee</div><div class="isomer-card-description">Shin Wee is the Founder and CEO of Pand.ai, a Singapore-headquartered specialist in conversational AI, which serves a number of blue-chip companies across Southeast Asia. In 2022, the company launched Singapore’s first WhatsApp-only digital insurance broker, GINA.sg.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/shinwee/?originalSubdomain=sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chuang Shin Wee" src="/images/Week 5/Chuang_Shin_Wee.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chuang Shin Wee</div><div class="isomer-card-description">Shin Wee is the Founder and CEO of Pand.ai, a Singapore-headquartered specialist in conversational AI, which serves a number of blue-chip companies across Southeast Asia. In 2022, the company launched Singapore’s first WhatsApp-only digital insurance broker, GINA.sg.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
