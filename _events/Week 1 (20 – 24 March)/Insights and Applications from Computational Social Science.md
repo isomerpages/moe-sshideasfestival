@@ -25,11 +25,6 @@ third_nav_title: Week 1 (20 – 24 March)
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
