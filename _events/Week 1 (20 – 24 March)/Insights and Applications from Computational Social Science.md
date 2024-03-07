@@ -26,10 +26,7 @@ third_nav_title: Week 1 (20 – 24 March)
 </td>
 </tr>
 </tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png">
-</div>
+</table><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 <p>This event, comprising brief lectures followed by a panel discussion with
 researchers from SMU and A*STAR, will examine scientific and practical
 issues involving insights and applications from the emerging field of computational
