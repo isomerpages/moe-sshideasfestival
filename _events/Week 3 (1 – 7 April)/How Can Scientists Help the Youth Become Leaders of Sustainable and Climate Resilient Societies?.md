@@ -62,9 +62,7 @@ third_nav_title: Week 3 (1 – 7 April)
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
