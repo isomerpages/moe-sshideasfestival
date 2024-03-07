@@ -87,6 +87,16 @@ metaverse open for SSH scholars in Singapore?</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>16:00 – 16:05</p>
 </td>
 <td rowspan="1" colspan="1">
