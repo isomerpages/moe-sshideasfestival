@@ -121,8 +121,8 @@ non-plussed about existential issues which will affect their lives?”</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PK" src="/images/Week 5/Poon_King.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Poon King Wang</div><div class="isomer-card-description">King Wang is the Chief Strategy Officer and Director of the Lee Kuan Yew Centre for Innovative Cities, both at Singapore University of Technology and Design. He serves on the SkillsFuture Research Advisory Panel, and the Institute of Human Resource Professional Job Redesign Expert Panel.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/centre-leadership/poon-king-wang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PK" src="/images/Week 5/Poon_King.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Poon King Wang</div><div class="isomer-card-description">King Wang is the Chief Strategy Officer and Director of the Lee Kuan Yew Centre for Innovative Cities, both at Singapore University of Technology and Design. He serves on the SkillsFuture Research Advisory Panel, and the Institute of Human Resource Professional Job Redesign Expert Panel.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/centre-leadership/harvey-neo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="H Neo" src="/images/Week 5/Harvey_Neo.jpg">
@@ -134,10 +134,10 @@ non-plussed about existential issues which will affect their lives?”</p>
 Cities, in Singapore University of Technology and Design. His research
 focuses on critical urban studies. citizen urban science and policy-making
 as well as nature-society interactions.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TW" src="/images/Week 5/Thijs_Willems.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Thijs Willems</div><div class="isomer-card-description">Thijs is a Research Fellow at Lee Kuan Yew Centre for Innovative Cities, in Singapore University of Technology and Design. He Is currently engaged in research on the Impact or technologies - such as Al - on work practices and technology-mediated interactions in the workplace.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/researchers/thijs-willems/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TW" src="/images/Week 5/Thijs_Willems.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Thijs Willems</div><div class="isomer-card-description">Thijs is a Research Fellow at Lee Kuan Yew Centre for Innovative Cities, in Singapore University of Technology and Design. He Is currently engaged in research on the Impact or technologies - such as Al - on work practices and technology-mediated interactions in the workplace.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/researchers/sarah-chan-hian-may/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sarah" src="/images/Week 5/Sarah.jpg">
@@ -149,8 +149,8 @@ as well as nature-society interactions.</div>
 Cities in SUTD. She is environmental psychologist whose research revolve
 around understanding the synergies and trade-offs between environmental
 sustainability, technological and urban development, and human well-being.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Samuel" src="/images/Week 5/Sam_Chng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Samuel Chng</div><div class="isomer-card-description">Samuel is a Research Fellow and also heads the Urban Psychology Lab at Lee Kuan Yew Centre for Innovative Cities in SUTD. He is an applied social psychologist who focuses on human behaviour and decisions in cities across a range of areas including mobility, sustainability and well-being.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/researchers/samuel-chng-chong-wei/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Samuel" src="/images/Week 5/Sam_Chng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Samuel Chng</div><div class="isomer-card-description">Samuel is a Research Fellow and also heads the Urban Psychology Lab at Lee Kuan Yew Centre for Innovative Cities in SUTD. He is an applied social psychologist who focuses on human behaviour and decisions in cities across a range of areas including mobility, sustainability and well-being.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
