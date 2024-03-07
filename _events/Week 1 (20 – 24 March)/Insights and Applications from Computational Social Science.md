@@ -56,8 +56,8 @@ the value-added contributions from computational social science.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="David Chan" src="/images/Week 1/David_Chan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof David Chan</div><div class="isomer-card-description">David is Lee Kong Chian Professor of Psychology and Director of the Behavioural Sciences Initiative at SMU, and Adjunct Principal Scientist and Scientific Advisor at A*STAR. He is named in the top one percent worldwide for his research's impact.</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/david-chan-2256" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="David Chan" src="/images/Week 1/David_Chan.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Professor David Chan</div><div class="isomer-card-description">David is Lee Kong Chian Professor of Psychology and Director of the Behavioural Sciences Initiative at SMU, and Adjunct Principal Scientist and Scientific Advisor at A*STAR. He is named in the top one percent worldwide for his research's impact.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/boonkiatquek/?originalSubdomain=sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Quek Boon Kiat" src="/images/Week 1/Quek_Boon_Kiat.jpg">
