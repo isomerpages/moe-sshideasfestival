@@ -48,7 +48,7 @@ third_nav_title: Week 4 (8 – 14 April)
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/zNvSbt3PBYV8hkjc7"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -82,13 +82,11 @@ HBW in our lives through design and policy recommendations.</p>
 <p></p>
 <p>This workshop will present key findings from our research, Q&amp;A, and
 a guided tour around the exhibition of data visualisations, models and
-drawings.
-<br>
-</p>
+drawings.</p>
+<p></p><a class="isomer-image-wrapper" href="http://tinyurl.com/ideasfest-2024-hbw"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Website_assets_Register_button_250x250.png">
-</div>
+<hr>
+<p></p>
 <table>
 <tbody>
 <tr>
