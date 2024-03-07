@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Videos.md
-      - Press Coverage.md
       - Newsletters.md
