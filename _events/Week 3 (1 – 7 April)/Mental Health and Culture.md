@@ -60,9 +60,6 @@ third_nav_title: Week 3 (1 – 7 April)
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
