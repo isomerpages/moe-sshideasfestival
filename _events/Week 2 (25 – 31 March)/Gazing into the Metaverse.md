@@ -144,7 +144,7 @@ in the Digital Studio at The University of Melbourne.</div>
 <a rel="noopener noreferrer nofollow" href="https://hass.sutd.edu.sg/faculty/cheng-nien-yuan/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nien Yuan Cheng" src="/images/Week 2/Chaewon_Ahn.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Nien Yuan Cheng" src="/images/Week 2/Nien_Yuan_Cheng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
