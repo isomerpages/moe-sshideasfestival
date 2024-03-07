@@ -1,7 +1,11 @@
 ---
 layout: homepage
 title: Ideas Festival Singapore 2024
-description: An Isomer site of the Singapore Government
+description: The official website of the 2024 Ideas Festival, a showcase of the
+  latest insights and contributions from humanities and social sciences (HSS) in
+  Singapore. Sign up for our series of diverse and exciting events, ranging from
+  the impact of artificial intelligence on society, to well-being and the
+  changing workplace.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Site Development in Progress - Watch this space for updates!
