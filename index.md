@@ -6,7 +6,7 @@ description: The official website of the 2024 Ideas Festival, a showcase of the
   Singapore. Sign up for our series of diverse and exciting events, ranging from
   the impact of artificial intelligence on society, to well-being and the
   changing workplace.
-image: /images/isomer-logo.svg
+image: /images/MINIMUM_SIZE_VERSION.png
 permalink: /
 notification: ""
 sections:
