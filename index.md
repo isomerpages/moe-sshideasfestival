@@ -21,7 +21,7 @@ sections:
       key_highlights:
         - title: Don't miss our exciting events!
           description: Click here to find out more
-          url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/launch-event/
+          url: https://www.ideasfestival.edu.sg/launch-event/
   - infobar:
       title: Gathering the best minds & insights in HSS
       subtitle: ABOUT THE IDEAS FESTIVAL
@@ -30,7 +30,7 @@ sections:
         and better our society? Join our series of thought-provoking events.
         Open to all!
       button: our events and speakers
-      url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/launch-event/
+      url: https://www.ideasfestival.edu.sg/launch-event/
   - textcards:
       title: Upcoming events
       id: textcards
@@ -41,5 +41,5 @@ sections:
         - title: 22 March | NUS
           description: Insights and Applications from Computational Social Science
           linktext: Learn more
-          url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/events/week-1/insights-and-applications/
+          url: https://www.ideasfestival.edu.sg/events/week-1/insights-and-applications/
 ---
