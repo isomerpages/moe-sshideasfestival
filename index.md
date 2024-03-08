@@ -8,7 +8,7 @@ description: The official website of the 2024 Ideas Festival, a showcase of the
   changing workplace.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Site Development in Progress - Watch this space for updates!
+notification: ""
 sections:
   - hero:
       title: Ideas Festival
