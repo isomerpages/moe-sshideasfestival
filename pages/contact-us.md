@@ -2,31 +2,32 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: The Organisers
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6516 6666
+      - email: nus.comms@nus.edu.sg
+      - other: ""
+    title: NUS
+  - content:
+      - phone: +65 6791 1744
+      - email: MediaEnquiry@ntu.edu.sg
+      - other: ""
+    title: NTU
+  - content:
+      - phone: +65 6828 0980
+      - email: newsroom@smu.edu.sg
+      - other: ""
+    title: SMU
+  - content:
+      - phone: +65 6248 9777
+      - email: ""
+      - other: ""
+    title: SUSS
+  - content:
+      - phone: +65 6303 6600
+      - email: enquiry@sutd.edu.sg
+      - other: ""
+    title: SUTD
+feedback: ""
 ---
