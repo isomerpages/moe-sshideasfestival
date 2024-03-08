@@ -38,7 +38,7 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 22 March | NUS
+        - title: 22 March | SMU-A*STAR
           description: Insights and Applications from Computational Social Science
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-1/insights-and-applications/
