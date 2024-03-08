@@ -6,9 +6,6 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement_banner.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_assets_image_1198x564.png">
 </div>
 <p>Join us for a series of events that gathers the best minds and developments
