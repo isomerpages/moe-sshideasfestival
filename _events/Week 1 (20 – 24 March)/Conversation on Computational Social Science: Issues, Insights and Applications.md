@@ -66,10 +66,7 @@ practitioners, and public officers involved in policymaking and provide
 them a platform to discuss the contributions and challenges in applying
 CSS approaches and consider issues from different perspectives and in multiple
 dimensions.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/3yw9n2sb8J"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
 <h4></h4>
