@@ -116,7 +116,7 @@ University.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.ntu.edu.sg/ase/aboutus/staff-directory/staff-details/janice-lee" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Janice Lee" src="/images/Week 3/Janice.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Janice Lee" src="/images/Week 3/Janice_Lee.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
