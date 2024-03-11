@@ -68,7 +68,7 @@ role in building the resilient and sustainable cities of tomorrow.
 <br>
 <br>This panel discussion focuses on the crucial collaboration between scientists
 and researchers from different backgrounds to effectively convey academic
-findings to and engage with the younger generations. Anchored by the new
+findings to, and engage with the younger generations. Anchored by the new
 Climate Transformation Programme led by NTU Singapore, this event brings
 together researchers, educators, and youth representatives to discuss how
 the youth can be empowered to take meaningful action against climate change
