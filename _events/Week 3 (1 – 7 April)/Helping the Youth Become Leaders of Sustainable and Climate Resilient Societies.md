@@ -135,10 +135,10 @@ consequences of human impacts on Southeast Asia.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Rachael Goh</div>
-<div class="isomer-card-description">Rachael is a student from the Asian School of the Environment (ASE) at
-Nanyang Technological University in Singapore. She is also the Co-Director
-of Nature Guiding at Earthlink, the largest environmental sustainability
-student group in NTU.</div>
+<div class="isomer-card-description">Rachael is a student from the Asian School of the Environment at Nanyang
+Technological University in Singapore. She is also the Co-Director of Nature
+Guiding at Earthlink, the largest environmental sustainability student
+group in NTU.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/isha-le-xue-singh-633957150/?originalSubdomain=sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Isha Singh" src="/images/Week 3/Isha.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Isha Singh</div><div class="isomer-card-description">Isha is a student from the School of Physical and Mathematical Sciences at Nanyang Technological University in Singapore. She is also the Co-President of GreenSparks, a student-based eco-group which encourages student involvement with sustainability issues in NTU.</div><div class="isomer-card-link">Learn more</div></div></a>
