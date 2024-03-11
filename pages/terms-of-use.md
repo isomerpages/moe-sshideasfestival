@@ -45,7 +45,7 @@ variant: markdown
     
 *   If you create a link or frame to The Website you do so at your own risk.
     
-*   Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at contact@moe.gov.sg, with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
+*   Private entities who wish to have their websites hyperlinked on The Website can write to The Webmaster at [MOE\_SSRC\_secretariat@moe.gov.sg](mailto:MOE_SSRC_secretariat@moe.gov.sg), with their contact details, the Uniform Resource Locator (URL) of the proposed link, a brief write-up of their website’s function, and reasons for wanting to be hyperlinked on The Website.
     
 *   We reserve the right to object to, or disable any link or frame to or from The Website.
     
@@ -54,7 +54,7 @@ variant: markdown
 
 ### Intellectual Property
 
-*   Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (© Ministry of Education, Government of Singapore)
+*   Materials, including design, source codes, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials are owned or licensed to us. All rights reserved (Social Science Research Council (SSRC), Singapore)
     
 *   Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted by law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission. The modification of the materials on The Website is prohibited.
     
