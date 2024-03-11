@@ -67,11 +67,11 @@ third_nav_title: Week 3 (1 – 7 April)
 role in building the resilient and sustainable cities of tomorrow.
 <br>
 <br>This panel discussion focuses on the crucial collaboration between scientists
-from different backgrounds to effectively convey science advancements to
-and engage with the younger generations. Anchored by the new Climate Transformation
-Programme led by NTU Singapore, this event brings together scientists,
-educators, and youth representatives to discuss how scientists can bridge
-the gap and empower youth to take meaningful action against climate change
+and researchers from different backgrounds to effectively convey academic
+findings to and engage with the younger generations. Anchored by the new
+Climate Transformation Programme led by NTU Singapore, this event brings
+together researchers, educators, and youth representatives to discuss how
+the youth can be empowered to take meaningful action against climate change
 and actively contribute to the development of sustainable societies.
 <br>
 <br>Brief presentations will provide an overview of both the physical and
