@@ -63,26 +63,24 @@ third_nav_title: Week 3 (1 – 7 April)
 </tr>
 </tbody>
 </table>
-<p>In recent years, increasing attention has been paid to the importance
-of mental health in Singapore, with the COVID-19 pandemic sparking more
-open conversations about the measurable and immeasurable costs of poor
-mental health. However, stigma against persons with mental health conditions
-(PMHCs) continues to delay and even prevent, in some cases, help-seeking,
-to deleterious effect.
-<br>
-<br>Stories have an impact on perceptions and experiences of reality. Even
-well-meaning cultural text producers, such as television drama writers,
-novelists, and playwrights, can inadvertently perpetuate stigma against
-PMHCs through inaccurate or stereotyped portrayals of mental health conditions
-(MHCs).
-<br>
-<br>This roundtable by NTU will introduce an SSRTG-funded project to develop
+<p>Stigma against persons with mental health conditions (PMHCs) continues
+to delay and in some cases, even prevent help-seeking, to deleterious effect.
+Stories have an impact on perceptions and experiences of reality. Television
+writers, novelists and playwrights can play an important role in changing
+public attitudes towards PMHCs by developing nuanced and carefully crafted
+representations of mental health conditions.</p>
+<p></p>
+<p>This roundtable by NTU will introduce an SSRTG-funded project to develop
 resources on mental health narrative ethical considerations for cultural
 text producers in Singapore. These resources are being developed in consultation
 with the Institute of Mental Health (IMH), based on close reading of local
 mental health narratives, focus group discussions with PMHCs, and multidisciplinary
 and cross-sector roundtables with representatives from different industries
-and communities, such as mental health professionals and writers.</p>
+and communities, such as mental health professionals and writers.
+<br>
+<br>Join us as we bring together academics, mental health professionals, patients,
+caregivers and writers for an insightful discussion about the ethical considerations
+involved in the cultural representation of mental health in Singapore.</p>
 <p></p><a class="isomer-image-wrapper" href="https://ntu.sg/Roundtable-MHC2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
