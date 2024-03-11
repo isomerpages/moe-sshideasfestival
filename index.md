@@ -13,8 +13,8 @@ sections:
   - hero:
       title: Ideas Festival
       subtitle: Insights from the Humanities and Social Sciences (HSS)
-      background: /images/Updated2.jpg
-      variant: image
+      background: /images/Website_1920x500_4.png
+      variant: center
       size: sm
       backgroundColor: white
       alignment: left
@@ -22,17 +22,6 @@ sections:
         - title: Don't miss our exciting events!
           description: Click here to find out more
           url: https://www.ideasfestival.edu.sg/launch-event/
-  - infopic:
-      title: Gathering the best minds & insights in HSS
-      subtitle: ABOUT THE IDEAS FESTIVAL
-      id: infopic
-      description: In this rapidly-changing world, how does HSS help us to understand
-        and better our society? Join our series of thought-provoking events.
-        Open to all!
-      button: Our events & speakers
-      url: https://www.ideasfestival.edu.sg/launch-event/
-      image: /images/Website_assets_Logo_200x130.png
-      alt: Ideas festival
   - infobar:
       title: Gathering the best minds & insights in HSS
       subtitle: ABOUT THE IDEAS FESTIVAL
