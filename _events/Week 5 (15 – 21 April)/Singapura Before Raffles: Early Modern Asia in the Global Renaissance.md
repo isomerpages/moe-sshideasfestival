@@ -80,7 +80,7 @@ diverse, inclusive, and vibrant past as we look ahead to the next chapter
 in our shared Singapore story.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Registration opening soon button" src="/images/Website_assets.png">
 </div>
 <p></p>
 <hr>
