@@ -66,7 +66,7 @@ third_nav_title: Week 5 (15 – 21 April)
 seminar featuring two presentations that shed light on interesting and
 highly pertinent topics of our times. Join us for an exciting and insightful
 session!</p>
-<p><strong>AI x Workers: 10 Designs to Craft an Inclusive Future of Work.</strong>
+<p><strong>AI x Workers: 10 Designs to Craft an Inclusive Future of Work.</strong> 
 <br><strong>Mr Poon King Wang &amp; Dr Thijs Willems</strong> 
 <br>If skills are the answer to Al's impact on jobs, why do so many questions
 persist about workers future?
