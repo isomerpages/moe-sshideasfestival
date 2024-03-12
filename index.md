@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_1920x500_logo_1920x500_with_LOGO.png
+      background: /images/Website_assets_3.png
       variant: center
       size: sm
       backgroundColor: white
