@@ -6,14 +6,14 @@ description: The official website of the 2024 Ideas Festival, a showcase of the
   Singapore. Sign up for our series of diverse and exciting events, ranging from
   the impact of artificial intelligence on society, to well-being and the
   changing workplace.
-image: /images/isomer-logo.svg
+image: /images/MINIMUM_SIZE_VERSION.png
 permalink: /
 notification: ""
 sections:
   - hero:
       title: Ideas Festival
       subtitle: Insights from the Humanities and Social Sciences (HSS)
-      background: /images/Website_1920x500_3.png
+      background: /images/Website_1920x500_4.png
       variant: center
       size: sm
       backgroundColor: white
@@ -39,7 +39,7 @@ sections:
         Register early!
       cards:
         - title: 22 March | SMU-A*STAR
-          description: Insights and Applications from Computational Social Science
+          description: Issues, Insights, and Applications on Computational Social Science
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-1/insights-and-applications/
 ---
