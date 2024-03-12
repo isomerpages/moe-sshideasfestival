@@ -20,7 +20,6 @@ sections:
         - title: Don't miss our exciting events!
           description: Click here to find out more
           url: https://www.ideasfestival.edu.sg/launch-event/
-      title: "          "
   - infobar:
       title: Gathering the best minds & insights in HSS
       subtitle: ABOUT THE IDEAS FESTIVAL
