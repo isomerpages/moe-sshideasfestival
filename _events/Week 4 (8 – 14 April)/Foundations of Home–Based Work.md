@@ -106,7 +106,7 @@ drawings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:00 – 09:20</p>
+<p>09:00 – 09:10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Opening / Introduction by A/P Lilian Chee</p>
@@ -114,7 +114,7 @@ drawings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:20 – 09:40</p>
+<p>09:10 – 09:30</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The ecological landscape of home-based work by A/P Natalie Pang</p>
@@ -122,7 +122,7 @@ drawings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>09:40 – 10:00</p>
+<p>09:30 – 09:50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Policies and third spaces by Prof Audrey Yue</p>
@@ -130,7 +130,7 @@ drawings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:00 – 10:20</p>
+<p>09:50 – 10:10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Making HBW work in the home by Prof Jane Jacobs</p>
@@ -138,15 +138,15 @@ drawings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:20 – 10:40</p>
+<p>10:10 – 10:40</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tea break / networking</p>
+<p>Tea break / Networking</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10:40 – 11:20</p>
+<p>10:40 – 11:30</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Panel Discussion + Q&amp;A</p>
@@ -154,7 +154,7 @@ drawings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11:20 – 11:50</p>
+<p>11:30 – 12:30</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Touring the Exhibition – by A/P Lilian Chee</p>

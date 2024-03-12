@@ -48,7 +48,7 @@ third_nav_title: Week 3 (1 – 7 April)
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/eMAPaExqTQLTuiE18"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -66,10 +66,10 @@ third_nav_title: Week 3 (1 – 7 April)
 <p>In the urgent quest to tackle the climate crisis, the youth play a critical
 role in building the resilient and sustainable cities of tomorrow.
 <br>
-<br>This panel discussion focuses on the crucial collaboration between scientists
-and researchers from different backgrounds to effectively convey academic
-findings to, and engage with the younger generations. Anchored by the new
-Climate Transformation Programme led by NTU Singapore, this event brings
+<br>This panel discussion focuses on the crucial collaboration between researchers
+and scientists from different backgrounds to effectively convey academic
+findings to, and engage with, the younger generations. Anchored by the
+new Climate Transformation Programme led by NTU Singapore, this event brings
 together researchers, educators, and youth representatives to discuss how
 the youth can be empowered to take meaningful action against climate change
 and actively contribute to the development of sustainable societies.
