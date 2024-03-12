@@ -48,7 +48,7 @@ third_nav_title: Week 3 (1 – 7 April)
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/eMAPaExqTQLTuiE18"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
