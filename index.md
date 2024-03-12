@@ -12,7 +12,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Website_assets_3.png
-      variant: image
+      variant: center
       size: sm
       backgroundColor: white
       alignment: left
