@@ -13,8 +13,8 @@ sections:
   - hero:
       title: Ideas Festival
       subtitle: Insights from the Humanities and Social Sciences (HSS)
-      background: /images/Website_1920x500_4.png
-      variant: center
+      background: /images/Website_1920x500_logo_1920x500_with_LOGO.png
+      variant: image
       size: sm
       backgroundColor: white
       alignment: left
