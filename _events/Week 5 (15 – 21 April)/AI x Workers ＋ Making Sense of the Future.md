@@ -69,11 +69,12 @@ session!</p>
 <p><strong>AI x Workers: 10 Designs to Craft an Inclusive Future of Work.</strong> 
 <br><strong>Mr Poon King Wang &amp; Dr Thijs Willems</strong> 
 <br>If skills are the answer to Al's impact on jobs, why do so many questions
-persist about workers' future? New strategies that extend beyond automation,
-augmentation, and even co-piloting are essential.
+persist about workers' future?
 <br>
-<br>Through 10 designs, we show why and how we can craft meaningful careers,
-transitions, collaborations, options, and trust in each other and AI.</p>
+<br>New strategies that extend beyond automation, augmentation, and even co-piloting
+are essential. We show why and how, through 10 designs, we can craft meaningful
+careers, transitions, collaborations, options, and trust in each other
+and AI.</p>
 <p><strong>An Eye to the Future or Back to the Future? </strong>
 <br><strong>Dr Harvey Neo, Dr Samuel Chng &amp; Dr Sarah Chan</strong> 
 <br>How far ahead do we think about the future? While some people profess
