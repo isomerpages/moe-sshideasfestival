@@ -1,5 +1,5 @@
 ---
-title: AI x Work ＋ Making Sense of the Future
+title: AI x Workers ＋ Making Sense of the Future
 permalink: /events/week-5/future-insights-ai/
 variant: tiptap
 description: ""
@@ -18,7 +18,7 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 3.30pm - 5.00pm</strong>
+<p><strong>Time: 3.30pm - 5.30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,12 +69,12 @@ session!</p>
 <p><strong>AI x Workers: 10 Designs to Craft an Inclusive Future of Work.</strong> 
 <br><strong>Mr Poon King Wang &amp; Dr Thijs Willems</strong> 
 <br>If skills are the answer to Al's impact on jobs, why do so many questions
-persist about workers future?
+persist about workers' future?
 <br>
 <br>New strategies that extend beyond automation, augmentation, and even co-piloting
 are essential. We show why and how, through 10 designs, we can craft meaningful
 careers, transitions, collaborations, options, and trust in each other
-an AI.</p>
+and AI.</p>
 <p><strong>An Eye to the Future or Back to the Future? </strong>
 <br><strong>Dr Harvey Neo, Dr Samuel Chng &amp; Dr Sarah Chan</strong> 
 <br>How far ahead do we think about what we think? While some people profess
@@ -134,6 +134,6 @@ around understanding the synergies and trade-offs between environmental
 sustainability, technological and urban development, and human well-being.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/researchers/samuel-chng-chong-wei/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Samuel" src="/images/Week 5/Sam_Chng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Samuel Chng</div><div class="isomer-card-description">Samuel is a Research Fellow and also heads the Urban Psychology Lab at Lee Kuan Yew Centre for Innovative Cities in SUTD. He is an applied social psychologist who focuses on human behaviour and decisions in cities across a range of areas including mobility, sustainability and well-being.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/researchers/samuel-chng-chong-wei/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Samuel" src="/images/Week 5/Sam_Chng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Samuel Chng</div><div class="isomer-card-description">Samuel is a Senior Research Fellow and also heads the Urban Psychology Lab at Lee Kuan Yew Centre for Innovative Cities in SUTD. He is an applied social psychologist who focuses on human behaviour and decisions in cities across a range of areas including mobility, sustainability and well-being.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
