@@ -82,11 +82,7 @@ and our globalized world. In the process, we’ll have a chance to discuss
 how tech innovation can help us advance our dreams for Singapore’s future
 and help us develop a happier, healthier, fairer, more just, and more equal
 society.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
-</div>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/cNVqCjFasB"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <hr>
 <p></p>
 <table>
