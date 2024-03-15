@@ -28,7 +28,7 @@ third_nav_title: Week 5 (15 – 21 April)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: NUS AS8 Seminar Room</strong>
+<p><strong>Venue: NUS AS8 Seminar Room 04-04</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,7 +134,7 @@ knowledge and political thought with a focus on the East India Company
 and the British Empire.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.yale-nus.edu.sg/faculty/andrew-hui/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Andrew Hui" src="/images/Week 5/Andrew_Hui.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Andrew Hui</div><div class="isomer-card-description">Andrew received his PhD from Princeton University, and is an Associate Professor in Comparative Literature at Yale-NUS College. He is the author of The Poetics of Ruins in Renaissance Literature, A Theory of the Aphorism, and the forthcoming The Study: The Inner Life of Libraries.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.yale-nus.edu.sg/faculty/andrew-hui/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Andrew Hui" src="/images/Week 5/Andrew_Hui.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Andrew Hui</div><div class="isomer-card-description">Andrew received his PhD from Princeton University, and is an Associate Professor in Comparative Literature at Yale-NUS College. He is the author of The Poetics of Ruins in Renaissance Literature, A Theory of the Aphorism, and the forthcoming The Study: The Inner Life of Libraries.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://discovery.nus.edu.sg/23315-hannah-smithdrelich" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
