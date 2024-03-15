@@ -77,7 +77,7 @@ careers, transitions, collaborations, options, and trust in each other
 and AI.</p>
 <p><strong>An Eye to the Future or Back to the Future? </strong>
 <br><strong>Dr Harvey Neo, Dr Samuel Chng &amp; Dr Sarah Chan</strong> 
-<br>How far ahead do we think about the future? While some people profess
+<br>How far ahead do we think about what we think? While some people profess
 to live in the moment, it is not practical nor possible to ignore the future
 (or past). We think about the future in diverse situations, such as sourcing
 for suitable health insurance or simply looking forward to celebrating
