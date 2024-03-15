@@ -4,7 +4,10 @@ permalink: /videos/
 variant: tiptap
 description: ""
 ---
-<a class="isomer-image-wrapper" href="https://youtu.be/kp1_qPjKZGs"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media/Video2.jpg"></a>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kp1_qPjKZGs?si=bo-DqxLojd1HRiW3"></iframe>
+</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/kp1_qPjKZGs"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media/Video2.jpg"></a>
 <h4>AI &amp; the Metaverse</h4>
 <p>What is the metaverse, and how might AI affect our lives? Hear from Professors
 Edson Tandoc and Tim Winter as they discuss the social implications of
