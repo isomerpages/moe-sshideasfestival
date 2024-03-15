@@ -4,9 +4,7 @@ permalink: /videos/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media/Video2.jpg">
-</div>
+<a class="isomer-image-wrapper" href="https://youtu.be/kp1_qPjKZGs"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media/Video2.jpg"></a>
 <h4>AI &amp; the Metaverse</h4>
 <p>What is the metaverse, and how might AI affect our lives? Hear from Professors
 Edson Tandoc and Tim Winter as they discuss the social implications of
