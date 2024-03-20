@@ -80,11 +80,11 @@ Studies at SMU, is an opportunity for senior and graduating PhD students
 in the humanities and social sciences to further build up their support
 network.
 <br>
-<br>Do join us! At this event, several researchers from the local universities
-will share briefly about their experiences with early career research and/or
-alt-ac options. Following that, during a networking session and over light
-refreshments, senior postgraduate students will be able to strike up conversations
-informally with these speakers, other senior scholars from the local universities
+<br>At this event, several researchers from the local universities will share
+briefly about their experiences with early career research and/or alt-ac
+options. Following that, during a networking session and over light refreshments,
+senior postgraduate students will be able to strike up conversations informally
+with these speakers, other senior scholars from the local universities
 in attendance, and make connections with many postgraduate students in
 cognate fields.</p>
 <p></p>
