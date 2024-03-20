@@ -87,7 +87,6 @@ refreshments, senior postgraduate students will be able to strike up conversatio
 informally with these speakers, other senior scholars from the local universities
 in attendance, and make connections with many postgraduate students in
 cognate fields.</p>
-<p></p><a class="isomer-image-wrapper" href="https://eventregistration.smu.edu.sg/5kxVEq"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
 <p></p>
