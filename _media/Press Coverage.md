@@ -17,9 +17,5 @@ image: /images/Website_assets_3.png
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6tIe8praF0A?si=wk2q_55a6hmj8HAc"></iframe>
 </div>
 <p></p>
-<h4>The Straits Times - 21 March 2024</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Straits_Times_21_Mar_2024_Ideas_Festival_write_up.jpg">
-</div>
+<h4>The Straits Times - 21 March 2024</h4><a class="isomer-image-wrapper" href="https://www.straitstimes.com/singapore/social-science-research-offering-good-solutions-will-be-recognised-chan-chun-sing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Straits_Times_21_Mar_2024_Ideas_Festival_write_up.jpg"></a>
 <p></p>
