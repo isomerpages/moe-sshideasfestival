@@ -10,10 +10,7 @@ description: The inaugural Ideas Festival is a showcase of the latest insights
 image: /images/Website_assets_3.png
 ---
 <p></p>
-<h4>Speech by Minister Chan Chun Sing at the Inaugural Ideas Festival Launch Event</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets_Logo_200x130.png">
-</div>
+<h4>Speech by Minister Chan Chun Sing at the Inaugural Ideas Festival Launch Event</h4><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/news/speeches/20240320-speech-by-minister-chan-chun-sing-at-the-inaugural-ideas-festival-launch-event"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets_Logo_200x130.png"></a>
 <p></p>
 <h4>CNA Singapore Tonight - 20 Mar 2024</h4>
 <div class="iframe-wrapper">
