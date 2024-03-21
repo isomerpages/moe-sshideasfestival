@@ -16,7 +16,7 @@ contacts:
     title: NTU
   - content:
       - phone: +65 6828 0980
-      - email: newsroom@smu.edu.sg
+      - email: CIS_events@smu.edu.sg
       - other: ""
     title: SMU
   - content:
