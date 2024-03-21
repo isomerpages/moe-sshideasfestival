@@ -2,5 +2,4 @@ collections:
   media:
     output: true
     order:
-      - Press Coverage.md
       - Videos.md
