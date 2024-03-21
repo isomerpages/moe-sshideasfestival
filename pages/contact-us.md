@@ -11,7 +11,7 @@ contacts:
     title: NUS
   - content:
       - phone: +65 6791 1744
-      - email: MediaEnquiry@ntu.edu.sg
+      - email: HASSEvents@ntu.edu.sg
       - other: ""
     title: NTU
   - content:
@@ -26,7 +26,7 @@ contacts:
     title: SUSS
   - content:
       - phone: +65 6303 6600
-      - email: enquiry@sutd.edu.sg
+      - email: email@marcom.sutd.edu.sg
       - other: ""
     title: SUTD
 feedback: ""
