@@ -39,10 +39,10 @@ sections:
         - title: 26 March | NUS
           description: Gazing into the Metaverse
           linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-1/insights-and-applications/
+          url: https://www.ideasfestival.edu.sg/events/week-2/gazing-into-the-metaverse/
         - title: 1 April | NTU
           description: Helping the Youth Become Leaders of Sustainable and Climate
             Resilient Societies
           linktext: Learn more
-          url: ""
+          url: https://www.ideasfestival.edu.sg/events/week-3/how-can-scientists/
 ---
