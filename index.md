@@ -36,8 +36,13 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 22 March | SMU-A*STAR
-          description: Issues, Insights, and Applications on Computational Social Science
+        - title: 26 March | NUS
+          description: Gazing into the Metaverse
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-1/insights-and-applications/
+        - title: 1 April | NTU
+          description: Helping the Youth Become Leaders of Sustainable and Climate
+            Resilient Societies
+          linktext: Learn more
+          url: ""
 ---
