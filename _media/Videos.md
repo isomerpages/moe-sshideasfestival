@@ -5,23 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h4>Big Ideas: AI &amp; the Metaverse</h4>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1BdIGNYxf0I?si=_4vLajT9XJcR84F9"></iframe>
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <p>What is the metaverse, and how might AI affect our lives? Hear from Professors
 Edson Tandoc and Tim Winter as they discuss the social implications of
 these emerging technologies.</p>
@@ -39,8 +25,5 @@ these emerging technologies.</p>
 <div class="isomer-card-link">Register here</div>
 </div>
 </a>
-</div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1BdIGNYxf0I?si=_4vLajT9XJcR84F9"></iframe>
 </div>
 <p></p>
