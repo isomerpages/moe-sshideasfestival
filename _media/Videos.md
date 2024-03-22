@@ -4,10 +4,10 @@ permalink: /videos/
 variant: tiptap
 description: ""
 ---
+<h4>Big Ideas: AI &amp; the Metaverse</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1BdIGNYxf0I?si=_4vLajT9XJcR84F9"></iframe>
 </div>
-<h4>Big Ideas: AI &amp; the Metaverse</h4>
 <p>What is the metaverse, and how might AI affect our lives? Hear from Professors
 Edson Tandoc and Tim Winter as they discuss the social implications of
 these emerging technologies.</p>
@@ -26,4 +26,10 @@ these emerging technologies.</p>
 </div>
 </a>
 </div>
-<p></p>
+<h4>Big Ideas: Society and Well-being</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1BdIGNYxf0I?si=_4vLajT9XJcR84F9"></iframe>
+</div>
+<p>[Placeholder] What are the top 3 social media apps for Singaporeans? Can
+screen-time be used to improve our well-being? Hear from Professors Lim
+Sun Sun and Emily Ortega on how technology is affecting our well-being.</p>
