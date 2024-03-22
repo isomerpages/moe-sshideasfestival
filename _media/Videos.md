@@ -33,3 +33,9 @@ these emerging technologies.</p>
 <p>[Placeholder] What are the top 3 social media apps for Singaporeans? Can
 screen-time be used to improve our well-being? Hear from Professors Lim
 Sun Sun and Emily Ortega on how technology is affecting our well-being.</p>
+<p></p>
+<blockquote>
+<p>'Our job is to study what we need, what other people have done, and come
+up with new solutions that can inspire.' - Minister Chan Chun Sing</p>
+</blockquote>
+<p></p>
