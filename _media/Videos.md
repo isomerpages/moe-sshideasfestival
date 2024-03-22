@@ -4,10 +4,10 @@ permalink: /videos/
 variant: tiptap
 description: ""
 ---
+<h4>Big Ideas: AI &amp; the Metaverse</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1BdIGNYxf0I?si=_4vLajT9XJcR84F9"></iframe>
 </div>
-<h4>Big Ideas: AI &amp; the Metaverse</h4>
 <p>What is the metaverse, and how might AI affect our lives? Hear from Professors
 Edson Tandoc and Tim Winter as they discuss the social implications of
 these emerging technologies.</p>
