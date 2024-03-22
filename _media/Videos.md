@@ -4,7 +4,7 @@ permalink: /videos/
 variant: tiptap
 description: ""
 ---
-<h4>Big Ideas: AI &amp; the Metaverse</h4>
+<h4>Big Ideas: AI &amp; the Metaverse<br></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1BdIGNYxf0I?si=_4vLajT9XJcR84F9"></iframe>
 </div>
@@ -26,11 +26,4 @@ these emerging technologies.</p>
 </div>
 </a>
 </div>
-<h4>Big Ideas: Society and Well-being</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1BdIGNYxf0I?si=_4vLajT9XJcR84F9"></iframe>
-</div>
-<p>[Placeholder] What are the top 3 social media apps for Singaporeans? Can
-screen-time be used to improve our well-being? Hear from Professors Lim
-Sun Sun and Emily Ortega on how technology is affecting our well-being.</p>
 <p></p>
