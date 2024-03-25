@@ -37,6 +37,9 @@ sections:
       url: https://www.ideasfestival.edu.sg/videos/
       image: /images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg
       alt: Image alt text
+      description: A series of videos where the experts explain their big ideas in the
+        simplest form. Hear about their research interests and how it can be
+        helpful to society!
   - textcards:
       title: Upcoming events
       id: textcards
