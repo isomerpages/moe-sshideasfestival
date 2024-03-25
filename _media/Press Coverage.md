@@ -22,24 +22,7 @@ description: ""
 <p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/news/speeches/20240320-speech-by-minister-chan-chun-sing-at-the-inaugural-ideas-festival-launch-event"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MinChan_IDEASfes_20240320_020.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Photo by Ray Photography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
