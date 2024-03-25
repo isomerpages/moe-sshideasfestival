@@ -67,6 +67,7 @@ them a platform to discuss the contributions and challenges in applying
 CSS approaches and consider issues from different perspectives and in multiple
 dimensions.</p>
 <hr>
+<h4>In conversation with Professor David Chan</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GuH7SNOsRvA?si=rNjQ9VRmI-MAydgp"></iframe>
 </div>
