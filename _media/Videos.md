@@ -28,6 +28,10 @@ these emerging technologies.</p>
 </div>
 <p></p>
 <h4>Big Ideas: Society &amp; Well-Being</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_21_at_3_57_08_PM.png">
+</div>
 <p>What are the top 3 social media apps for Singaporeans? Can screen-time
 be used to improve our well-being? Hear from Professors Lim Sun Sun and
 Emily Ortega on the impact of technology on our well-being.</p>
