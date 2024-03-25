@@ -57,7 +57,7 @@ sections:
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-3/how-can-scientists/
   - resources:
-      title: Resources
+      title: Press Coverage
       subtitle: Add a preview and link to your Resource Room
       id: resources
 ---
