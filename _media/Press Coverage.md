@@ -7,6 +7,28 @@ description: ""
 <table>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<h4>Speech by Minister Chan Chun Sing at the Inaugural Ideas Festival Launch Event</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <h4>CNA Singapore Tonight - 20 March 2024</h4>
 </th>
