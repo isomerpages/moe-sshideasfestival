@@ -29,6 +29,14 @@ sections:
         Open to all!
       button: our events and speakers
       url: https://www.ideasfestival.edu.sg/launch-event/
+  - infopic:
+      title: Big Ideas
+      subtitle: Video series
+      id: infopic
+      button: Watch now
+      url: https://www.ideasfestival.edu.sg/videos/
+      image: /images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg
+      alt: Image alt text
   - textcards:
       title: Upcoming events
       id: textcards
