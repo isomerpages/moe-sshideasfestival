@@ -56,8 +56,4 @@ sections:
             Resilient Societies
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-3/how-can-scientists/
-  - resources:
-      title: Press Coverage
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
