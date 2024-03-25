@@ -67,6 +67,11 @@ them a platform to discuss the contributions and challenges in applying
 CSS approaches and consider issues from different perspectives and in multiple
 dimensions.</p>
 <hr>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GuH7SNOsRvA?si=rNjQ9VRmI-MAydgp"></iframe>
+</div>
+<p></p>
+<hr>
 <table>
 <tbody>
 <tr>
@@ -199,7 +204,7 @@ dimensions.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <table>
 <tbody>
 <tr>
