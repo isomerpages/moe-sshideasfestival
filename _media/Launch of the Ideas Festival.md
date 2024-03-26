@@ -12,7 +12,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><em><sup>Image by Ray Photography</sup></em>
+<p><em><sup>Images by Ray Photography</sup></em>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -39,6 +39,18 @@ Lily Kong (President, Singapore Management University) and Professor Wang
 Gungwu (University Professor, NUS), which underscored the importance of
 social sciences and humanities research in all aspects of life, and as
 a key strategic asset for Singapore in an era of disruptive change.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prof_Lily_Kong.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prof_Wang_Gungwu.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_2024_03_27_001710545.png">
+</div>
 </td>
 </tr>
 </tbody>
