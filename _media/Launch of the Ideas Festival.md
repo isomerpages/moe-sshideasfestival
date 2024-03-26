@@ -33,7 +33,10 @@ Lily Kong (President, Singapore Management University) and Professor Wang
 Gungwu (University Professor, NUS), which underscored the importance of
 social sciences and humanities research in all aspects of life, and as
 a key strategic asset for Singapore in an era of disruptive change.</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fest_composite.jpg">
 </div>
@@ -41,10 +44,11 @@ a key strategic asset for Singapore in an era of disruptive change.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6tIe8praF0A?si=bdpHp7obPw0eRef4"></iframe>
 </div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/social-science-research-offering-good-solutions-will-be-recognised-chan-chun-sing" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">The Straits Times</div><div class="isomer-card-description">Social science research offering good solutions will be recognised: Chan Chun Sing</div><div class="isomer-card-link">Click for full article</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.zaobao.com.sg/news/singapore/story20240320-3188378" class="isomer-card">
 <div class="isomer-card-body">
