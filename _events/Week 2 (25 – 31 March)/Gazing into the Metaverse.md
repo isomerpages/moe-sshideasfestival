@@ -75,7 +75,6 @@ experiences of these emergent worlds?</p>
 metaverse open for SSH scholars in Singapore?</p>
 </li>
 </ul>
-<p></p><a class="isomer-image-wrapper" href="https://ari.nus.edu.sg/events/metaverse/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
 <table>
