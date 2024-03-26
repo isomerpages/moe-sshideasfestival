@@ -56,6 +56,7 @@ a key strategic asset for Singapore in an era of disruptive change.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
