@@ -20,6 +20,17 @@ sections:
         - title: Don't miss our exciting events!
           description: Click here to find out more
           url: https://www.ideasfestival.edu.sg/launch-event/
+  - infopic:
+      title: Big Ideas!
+      subtitle: Video series
+      id: infopic
+      button: Watch now
+      url: https://www.ideasfestival.edu.sg/videos/
+      image: /images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg
+      alt: Image alt text
+      description: How can HSS help us to better understand the society we live in
+        today? Watch our experts break down the big ideas and challenges in fun,
+        bite-sized videos!
   - infobar:
       title: Gathering the best minds & insights in HSS
       subtitle: ABOUT THE IDEAS FESTIVAL
@@ -29,17 +40,6 @@ sections:
         Open to all!
       button: our events and speakers
       url: https://www.ideasfestival.edu.sg/launch-event/
-  - infopic:
-      title: Big Ideas
-      subtitle: Video series
-      id: infopic
-      button: Watch now
-      url: https://www.ideasfestival.edu.sg/videos/
-      image: /images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg
-      alt: Image alt text
-      description: A series of videos where the experts explain their big ideas in the
-        simplest form. Hear about their research interests and how it can be
-        helpful to society!
   - textcards:
       title: Upcoming events
       id: textcards
