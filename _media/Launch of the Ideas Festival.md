@@ -25,7 +25,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="3">
 <p>The Ideas Festival was officially launched on 20 March 2024 at the National
-University of Singapore (NUS), with an <a href="https://www.moe.gov.sg/news/press-releases/20240320-inaugural-social-science-and-humanities-ideas-festival-examines-societal-challenges-in-an-age-of-disruption" rel="noopener noreferrer nofollow" target="_blank">opening address</a> by
+University of Singapore (NUS), beginning with an <a href="https://www.moe.gov.sg/news/press-releases/20240320-inaugural-social-science-and-humanities-ideas-festival-examines-societal-challenges-in-an-age-of-disruption" rel="noopener noreferrer nofollow" target="_blank">opening address</a> by
 Minister for Education (Singapore) Mr Chan Chun Sing, who highlighted the
 importance of social sciences and humanities (SSH) research in enriching
 our understanding of social issues, which are inherently complex and dynamic,
