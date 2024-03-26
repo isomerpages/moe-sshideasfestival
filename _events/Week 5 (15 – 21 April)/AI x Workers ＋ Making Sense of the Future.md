@@ -89,9 +89,7 @@ to perennial questions such as "Why are we unable to do things which we
 know, and agree we should do?" and "Why do some people appear nonplussed
 about existential issues which will affect their lives?"</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Registration opening soon button" src="/images/Website_assets.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://forms.gle/G2XXjVXf7WFxavtM7"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
 <p></p>
