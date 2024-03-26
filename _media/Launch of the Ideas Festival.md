@@ -48,13 +48,10 @@ a key strategic asset for Singapore in an era of disruptive change.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6tIe8praF0A?si=bdpHp7obPw0eRef4"></iframe>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.zaobao.com.sg/news/singapore/story20240320-3188378" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lianhe Zaobao</div><div class="isomer-card-description">陈振声：社会科学和人文学者与各方加强合作寻求创新方案</div><div class="isomer-card-link">Full article</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://news.smu.edu.sg/news/2024/03/22/advancing-breakthroughs-social-science-and-humanities" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">SMU Newsroom</div>
-<div class="isomer-card-description">Advancing breakthroughs with Social Science and Humanities</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.zaobao.com.sg/news/singapore/story20240320-3188378" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lianhe Zaobao</div><div class="isomer-card-description">陈振声：社会科学和人文学者与各方加强合作寻求创新方案</div><div class="isomer-card-link">Click for full article</div></div></a>
 </div>
-</a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/social-science-research-offering-good-solutions-will-be-recognised-chan-chun-sing" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">The Straits Times</div><div class="isomer-card-description">Social science research offering good solutions will be recognised: Chan Chun Sing</div><div class="isomer-card-link">Click for full article</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://news.smu.edu.sg/news/2024/03/22/advancing-breakthroughs-social-science-and-humanities" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">SMU Newsroom</div><div class="isomer-card-description">Advancing breakthroughs with Social Science and Humanities</div><div class="isomer-card-link">Click for full article</div></div></a>
 </div>
 <p></p>
