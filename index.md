@@ -56,4 +56,9 @@ sections:
           description: Mental Health and Culture
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-3/mental-health-and/
+        - title: 3 April | SUTD
+          description: How the Humanities and Social Sciences Can Help Us Hack the STEM
+            Fields
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-3/how-the-humanities/
 ---
