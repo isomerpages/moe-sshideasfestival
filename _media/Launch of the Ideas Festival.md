@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4>Inaugural Ideas Festival Launch Event</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MinChan_IDEASfes_20240320_020.jpg">
 </div>
