@@ -11,15 +11,9 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="3">
 <p><em><sup>Images by Ray Photography</sup></em>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
