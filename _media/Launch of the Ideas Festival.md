@@ -68,12 +68,12 @@ a key strategic asset for Singapore in an era of disruptive change.</p>
 <div class="isomer-card-description">陈振声：社会科学和人文学者与各方加强合作寻求创新方案</div>
 <div class="isomer-card-link">Click for full article</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://news.smu.edu.sg/news/2024/03/22/advancing-breakthroughs-social-science-and-humanities" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">SMU Newsroom</div><div class="isomer-card-description">Advancing breakthroughs with Social Science and Humanities</div><div class="isomer-card-link">Click for full article</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=lShV9LV8-hY" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=lShV9LV8-hY" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Berita Mediacorp</div><div class="isomer-card-description">Liputan Wartawan | Festival Idea Sains Sosial &amp; Kemanusiaan</div><div class="isomer-card-link">Click for full video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://news.smu.edu.sg/news/2024/03/22/advancing-breakthroughs-social-science-and-humanities" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Berita Mediacorp</div>
-<div class="isomer-card-description">Liputan Wartawan | Festival Idea Sains Sosial &amp; Kemanusiaan</div>
-<div class="isomer-card-link">Click for full video</div>
+<div class="isomer-card-title">SMU Newsroom</div>
+<div class="isomer-card-description">Advancing breakthroughs with Social Science and Humanities</div>
+<div class="isomer-card-link">Click for full article</div>
 </div>
 </a>
 </div>
