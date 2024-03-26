@@ -33,6 +33,7 @@ Lily Kong (President, Singapore Management University) and Professor Wang
 Gungwu (University Professor, NUS), which underscored the importance of
 social sciences and humanities research in all aspects of life, and as
 a key strategic asset for Singapore in an era of disruptive change.</p>
+<p></p>
 </td>
 </tr>
 <tr>
