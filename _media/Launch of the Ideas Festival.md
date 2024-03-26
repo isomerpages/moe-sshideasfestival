@@ -43,7 +43,6 @@ a key strategic asset for Singapore in an era of disruptive change.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prof_Lily_Kong.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prof_Wang_Gungwu.jpg">
 </div>
