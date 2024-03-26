@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h4>Inaugural Ideas Festival Launch Event</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download_isomer.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MinChan_IDEASfes_20240320_020.jpg">
 </div>
 <table>
 <tbody>
@@ -27,12 +28,12 @@ description: ""
 <p>The Ideas Festival was officially launched on 20 March 2024 at the National
 University of Singapore (NUS), with an opening address by Minister for
 Education (Singapore) Mr Chan Chun Sing, who highlighted the importance
-of SSH research in enriching our understanding of social issues, which
-are inherently complex and dynamic, shaped by historical developments and
-disrupted by the latest technological advances. Minister Chan also emphasised
-the Government's continued commitment to supporting the development of
-the local SSH research ecosystem and scholarship about Singapore and the
-region.</p>
+of social sciences and humanities (SSH) research in enriching our understanding
+of social issues, which are inherently complex and dynamic, shaped by historical
+developments and disrupted by the latest technological advances. Minister
+Chan also emphasised the Government's continued commitment to supporting
+the development of the local SSH research ecosystem and scholarship about
+Singapore and the region.</p>
 <p></p>
 <p>Minister Chan's address was followed by two keynote speeches by Professor
 Lily Kong (President, Singapore Management University) and Professor Wang
