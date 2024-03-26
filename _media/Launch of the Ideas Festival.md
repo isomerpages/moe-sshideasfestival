@@ -39,14 +39,24 @@ Lily Kong (President, Singapore Management University) and Professor Wang
 Gungwu (University Professor, NUS), which underscored the importance of
 social sciences and humanities research in all aspects of life, and as
 a key strategic asset for Singapore in an era of disruptive change.</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prof_Lily_Kong.jpg">
 </div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prof_Wang_Gungwu.jpg">
 </div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_2024_03_27_001710545.png">
 </div>
@@ -73,11 +83,5 @@ a key strategic asset for Singapore in an era of disruptive change.</p>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.zaobao.com.sg/news/singapore/story20240320-3188378" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lianhe Zaobao</div><div class="isomer-card-description">陈振声：社会科学和人文学者与各方加强合作寻求创新方案</div><div class="isomer-card-link">Click for full article</div></div></a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://news.smu.edu.sg/news/2024/03/22/advancing-breakthroughs-social-science-and-humanities" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">SMU Newsroom</div><div class="isomer-card-description">Advancing breakthroughs with Social Science and Humanities</div><div class="isomer-card-link">Click for full article</div></div></a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=lShV9LV8-hY" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Berita Mediacorp</div><div class="isomer-card-description">Liputan Wartawan | Festival Idea Sains Sosial &amp; Kemanusiaan</div><div class="isomer-card-link">Click for full video</div></div></a>
 </div>
 <p></p>
