@@ -28,9 +28,9 @@ sections:
       url: https://www.ideasfestival.edu.sg/videos/
       image: /images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg
       alt: Image alt text
-      description: How can HSS help us to better understand the society we live in
-        today? Watch our experts break down the big ideas and challenges in fun,
-        bite-sized videos!
+      description: How do HSS insights help us better understand the society we live
+        in today? Watch our experts break down the big ideas and challenges in
+        fun, bite-sized videos!
   - infobar:
       title: Gathering the best minds & insights in HSS
       subtitle: ABOUT THE IDEAS FESTIVAL
