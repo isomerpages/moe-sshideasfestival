@@ -62,7 +62,8 @@ sections:
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-3/how-the-humanities/
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: Press Coverage
+      subtitle: In the news
       id: resources
+      button: see all coverage
 ---
