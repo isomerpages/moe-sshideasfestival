@@ -35,12 +35,15 @@ the local SSH research ecosystem and scholarship about Singapore and the
 region.</p>
 <p></p>
 <p>Minister Chan's address was followed by two keynote speeches by Professor
-Lily Kong (President of the Singapore Management University) and Professor
-Wang Gungwu (University Professor, NUS), who underscored the importance
-of social sciences and humanities research in all aspects of life, and
-as a key asset for Singapore to meet emerging challenges.</p>
+Lily Kong (President, Singapore Management University) and Professor Wang
+Gungwu (University Professor, NUS), who underscored the importance of social
+sciences and humanities research in all aspects of life, and as a key asset
+for Singapore to meet emerging challenges.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6tIe8praF0A?si=bdpHp7obPw0eRef4"></iframe>
+</div>
 <p></p>
