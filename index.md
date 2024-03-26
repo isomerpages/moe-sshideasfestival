@@ -29,7 +29,7 @@ sections:
       image: /images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg
       alt: Image alt text
       description: How do HSS insights help us better understand the society we live
-        in today? Watch our experts break down the big ideas and challenges in
+        in today? Watch our experts break down the big ideas and concepts in
         fun, bite-sized videos!
   - infobar:
       title: Gathering the best minds & insights in HSS
