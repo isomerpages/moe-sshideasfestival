@@ -25,8 +25,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="3">
 <p>The Ideas Festival was officially launched on 20 March 2024 at the National
-University of Singapore (NUS), featuring an opening address by Minister
-for Education (Singapore) Mr Chan Chun Sing, who highlighted the importance
+University of Singapore (NUS), with an opening address by Minister for
+Education (Singapore) Mr Chan Chun Sing, who highlighted the importance
 of SSH research in enriching our understanding of social issues, which
 are inherently complex and dynamic, shaped by historical developments and
 disrupted by the latest technological advances. Minister Chan also emphasised
