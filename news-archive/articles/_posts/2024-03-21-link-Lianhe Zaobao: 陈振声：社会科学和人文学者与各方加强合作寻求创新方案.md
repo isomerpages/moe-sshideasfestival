@@ -1,9 +1,0 @@
----
-title: "Lianhe Zaobao: 陈振声：社会科学和人文学者与各方加强合作寻求创新方案"
-date: 2024-03-21
-layout: link
-description: ""
-image: ""
-variant: tiptap
-external: https://www.zaobao.com.sg/news/singapore/story20240320-3188378
----
