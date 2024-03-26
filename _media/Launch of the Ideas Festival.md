@@ -40,7 +40,6 @@ Gungwu (University Professor, NUS), which underscored the importance of
 social sciences and humanities research in all aspects of life, and as
 a key strategic asset for Singapore in an era of disruptive change.</p>
 <p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -80,7 +79,7 @@ a key strategic asset for Singapore in an era of disruptive change.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Berita Mediacorp</div>
 <div class="isomer-card-description">Liputan Wartawan | Festival Idea Sains Sosial &amp; Kemanusiaan</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Click for full video</div>
 </div>
 </a>
 </div>
