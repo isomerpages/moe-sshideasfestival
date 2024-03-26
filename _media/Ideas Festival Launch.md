@@ -4,7 +4,7 @@ permalink: /ideas-festival-launch/
 variant: tiptap
 description: ""
 ---
-<h4>Inaugural Ideas Festival Launch Event </h4>
+<h4>Inaugural Ideas Festival Launch Event</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/download_isomer.jpg">
 </div>
