@@ -4,7 +4,7 @@ permalink: /videos/
 variant: tiptap
 description: ""
 ---
-<h4>Big Ideas 1: AI &amp; the Metaverse</h4>
+<h4>Big Ideas: AI &amp; the Metaverse</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1BdIGNYxf0I?si=_4vLajT9XJcR84F9"></iframe>
 </div>
