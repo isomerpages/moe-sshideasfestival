@@ -36,7 +36,7 @@ region.</p>
 <p></p>
 <p>Minister Chan's address was followed by two keynote speeches by Professor
 Lily Kong (President of the Singapore Management University) and Professor
-Wang Gungwu (University Professor, NUS), which underscored the importance
+Wang Gungwu (University Professor, NUS), who underscored the importance
 of social sciences and humanities research in all aspects of life, and
 as a key asset for Singapore to meet emerging challenges.</p>
 </td>
