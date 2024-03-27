@@ -73,7 +73,7 @@ a key strategic asset for Singapore in an era of disruptive change.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">SMU Newsroom</div>
 <div class="isomer-card-description">Advancing breakthroughs with Social Science and Humanities</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Click for full article</div>
 </div>
 </a>
 </div>
