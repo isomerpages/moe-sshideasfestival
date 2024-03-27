@@ -67,6 +67,7 @@ them a platform to discuss the contributions and challenges in applying
 CSS approaches and consider issues from different perspectives and in multiple
 dimensions.</p>
 <hr>
+<hr>
 <table>
 <tbody>
 <tr>
@@ -199,7 +200,7 @@ dimensions.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <table>
 <tbody>
 <tr>

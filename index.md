@@ -20,6 +20,17 @@ sections:
         - title: Don't miss our exciting events!
           description: Click here to find out more
           url: https://www.ideasfestival.edu.sg/launch-event/
+  - infopic:
+      title: Big Ideas!
+      subtitle: Video series
+      id: infopic
+      button: Watch now
+      url: https://www.ideasfestival.edu.sg/videos/
+      image: /images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg
+      alt: Image alt text
+      description: How do HSS insights help us better understand the society we live
+        in today? Watch our experts break down the big ideas and challenges in
+        fun, bite-sized videos!
   - infobar:
       title: Gathering the best minds & insights in HSS
       subtitle: ABOUT THE IDEAS FESTIVAL
@@ -36,13 +47,18 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 26 March | NUS
-          description: Gazing into the Metaverse
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-2/gazing-into-the-metaverse/
         - title: 1 April | NTU
           description: Helping the Youth Become Leaders of Sustainable and Climate
             Resilient Societies
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-3/how-can-scientists/
+        - title: 2 April | NTU
+          description: Mental Health and Culture
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-3/mental-health-and/
+        - title: 3 April | SUTD
+          description: How the Humanities and Social Sciences Can Help Us Hack the STEM
+            Fields
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-3/how-the-humanities/
 ---
