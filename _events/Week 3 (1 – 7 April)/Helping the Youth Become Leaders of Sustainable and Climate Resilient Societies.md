@@ -84,7 +84,6 @@ an opportunity to pose questions to the panellists.
 <br>By illuminating effective tactics and strategies for collaboration between
 scientists and youth, this discussion aims to inspire collective efforts
 towards a more sustainable and resilient future for all.</p>
-<p></p><a class="isomer-image-wrapper" href="https://ntu.sg/Panel-sustainability2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
 <table>
