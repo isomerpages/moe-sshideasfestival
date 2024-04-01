@@ -47,11 +47,6 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 1 April | NTU
-          description: Helping the Youth Become Leaders of Sustainable and Climate
-            Resilient Societies
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-3/how-can-scientists/
         - title: 2 April | NTU
           description: Mental Health and Culture
           linktext: Learn more
@@ -61,4 +56,8 @@ sections:
             Fields
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-3/how-the-humanities/
+        - title: 4 April | SUTD
+          description: "After the PhD: The Early Years"
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-3/postgrad-networking-event/
 ---
