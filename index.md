@@ -47,10 +47,6 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 2 April | NTU
-          description: Mental Health and Culture
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-3/mental-health-and/
         - title: 3 April | SUTD
           description: How the Humanities and Social Sciences Can Help Us Hack the STEM
             Fields
@@ -60,4 +56,8 @@ sections:
           description: "After the PhD: The Early Years"
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-3/postgrad-networking-event/
+        - title: 5 April | SMU
+          description: Reflections on Childhood Amid Digital Acceleration
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-3/growing-up-in/
 ---
