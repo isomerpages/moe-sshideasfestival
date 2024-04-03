@@ -47,11 +47,6 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 3 April | SUTD
-          description: How the Humanities and Social Sciences Can Help Us Hack the STEM
-            Fields
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-3/how-the-humanities/
         - title: 4 April | SUTD
           description: "After the PhD: The Early Years"
           linktext: Learn more
@@ -60,4 +55,8 @@ sections:
           description: Reflections on Childhood Amid Digital Acceleration
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-3/growing-up-in/
+        - title: 11 April | SUSS
+          description: Challenges and Opportunities of the Changing Workplace
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-4/challenges-and-opportunities/
 ---
