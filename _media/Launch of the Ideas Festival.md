@@ -75,7 +75,7 @@ a key strategic asset for Singapore in an era of disruptive change.</p>
 <div class="isomer-card-description">Advancing breakthroughs with Social Science and Humanities</div>
 <div class="isomer-card-link">Click for full article</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://news.nus.edu.sg/ideas-festival-2024-shining-a-spotlight-on-the-importance-of-social-science-and-humanities-research-on-society/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">NUS News</div><div class="isomer-card-description">Ideas Festival 2024: Shining a spotlight on the importance of social science and humanities research on society</div><div class="isomer-card-link">Click for full article</div></div></a>
 </div>
 <p></p>
 <p></p>

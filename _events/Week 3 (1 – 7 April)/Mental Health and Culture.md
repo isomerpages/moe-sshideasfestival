@@ -81,7 +81,7 @@ and communities, such as mental health professionals and writers.
 <br>Join us as we bring together academics, mental health professionals, patients,
 caregivers and writers for an insightful discussion about the ethical considerations
 involved in the cultural representation of mental health in Singapore.</p>
-<p></p><a class="isomer-image-wrapper" href="https://ntu.sg/Roundtable-MHC2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
+<p></p>
 <p></p>
 <hr>
 <table>
