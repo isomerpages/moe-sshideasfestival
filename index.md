@@ -47,10 +47,6 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 4 April | SUTD
-          description: "After the PhD: The Early Years"
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-3/postgrad-networking-event/
         - title: 5 April | SMU
           description: Reflections on Childhood Amid Digital Acceleration
           linktext: Learn more
@@ -59,4 +55,8 @@ sections:
           description: Challenges and Opportunities of the Changing Workplace
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-4/challenges-and-opportunities/
+        - title: 12 April | NUS
+          description: Foundations of Home-Based Work
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-4/foundations-of-home/
 ---
