@@ -55,8 +55,11 @@ well-being.
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/98K0dscGBqc?si=rDLISOkI10pfk8Ns"></iframe>
 </div>
-<p></p>
-<p></p>
+<p>What are the biggest challenges facing us in the future, and are we even
+thinking that far ahead? How about our past – how far do we look back,
+and what can we discover? Dr Rowenna Yip and Dr Harvey Neo discuss these
+issues and more.
+<br>Watch now, and register for their events below!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/events/week-5/singapura-before-raffles/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapura Before Raffles: Early Modern Asia in the Global Renaissance" src="/images/600x400_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapura Before Raffles: Early Modern Asia in the Global Renaissance</div><div class="isomer-card-description">17 April | 3.00pm - 5.00pm</div><div class="isomer-card-link">Register here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/events/week-5/future-insights-ai/" class="isomer-card">
 <div class="isomer-card-image">
