@@ -56,8 +56,8 @@ well-being.
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/98K0dscGBqc?si=rDLISOkI10pfk8Ns"></iframe>
 </div>
 <p>How far ahead do we think about the future, and what are the biggest challenges
-Singapore will face in the years ahead? Conversely, how far do we look
-back when thinking about the past, and what can history tell us about Singapore
+facing Singapore in the years ahead? Conversely, how far do we look back
+when thinking about the past, and what can history tell us about Singapore
 today? Join Dr Rowenna Yip and Dr Harvey Neo as they discuss Singapore's
 past and future.
 <br>Watch now, and be sure to register for their events below!</p>
