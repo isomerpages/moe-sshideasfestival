@@ -60,7 +60,7 @@ facing Singapore in the years ahead? Conversely, how far do we look back
 when thinking about the past, and what can history tell us about Singapore
 today? Join Dr Rowenna Yip and Dr Harvey Neo as they discuss Singapore's
 past and future.
-<br>Watch now, and be sure to register for their events below!</p>
+<br>Find out more by registering for their events below!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/events/week-5/singapura-before-raffles/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapura Before Raffles: Early Modern Asia in the Global Renaissance" src="/images/600x400_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapura Before Raffles: Early Modern Asia in the Global Renaissance</div><div class="isomer-card-description">17 April | 3.00pm - 5.00pm</div><div class="isomer-card-link">Register here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/events/week-5/future-insights-ai/" class="isomer-card">
 <div class="isomer-card-image">
