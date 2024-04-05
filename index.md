@@ -47,10 +47,6 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 5 April | SMU
-          description: Reflections on Childhood Amid Digital Acceleration
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-3/growing-up-in/
         - title: 11 April | SUSS
           description: Challenges and Opportunities of the Changing Workplace
           linktext: Learn more
@@ -59,4 +55,8 @@ sections:
           description: Foundations of Home-Based Work
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-4/foundations-of-home/
+        - title: 13 Apr | SUSS
+          description: Whole-of-Society Approach to Well-Being
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-4/roundtable-whole-of/
 ---
