@@ -47,10 +47,6 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 11 April | SUSS
-          description: Challenges and Opportunities of the Changing Workplace
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-4/challenges-and-opportunities/
         - title: 12 April | NUS
           description: Foundations of Home-Based Work
           linktext: Learn more
@@ -59,4 +55,9 @@ sections:
           description: Whole-of-Society Approach to Well-Being
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-4/roundtable-whole-of/
+        - title: 17 April | SUTD/NUS
+          description: "Singapura Before Raffles: Early Modern Asia in the Global
+            Renaissance"
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-5/singapura-before-raffles/
 ---
