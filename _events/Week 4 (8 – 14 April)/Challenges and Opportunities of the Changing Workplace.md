@@ -79,8 +79,6 @@ academic research is able to create social impact beyond academia, such
 as areas of health, public policy, culture, environment, economy and standards
 of living, etc.</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://suss.au1.qualtrics.com/jfe/form/SV_6kQNrVSd5nZk2Kq"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
-<p></p>
 <hr>
 <p></p>
 <table>
