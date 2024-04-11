@@ -47,6 +47,10 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
+        - title: 12 Apr | NUS
+          description: Foundations of Home-Based Work
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-4/foundations-of-home/
         - title: 13 Apr | SUSS
           description: Whole-of-Society Approach to Well-Being
           linktext: Learn more
@@ -56,8 +60,4 @@ sections:
             Renaissance"
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-5/singapura-before-raffles/
-        - title: 18 Apr | SUTD
-          description: AI x Workers + Making Sense of the Future
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-5/future-insights-ai/
 ---
