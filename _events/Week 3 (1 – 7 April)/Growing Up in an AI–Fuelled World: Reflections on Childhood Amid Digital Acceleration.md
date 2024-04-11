@@ -97,6 +97,8 @@ these disruptions.
 Media Literacy Council and Associate Professor at the Singapore Institute
 of Technology, will follow the talk.</p>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/lost-on-how-to-guide-your-child-online-be-on-the-same-apps-they-use-expert" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">The Straits Times</div><div class="isomer-card-description">Lost on how to guide your child online? Be on the same apps they use: Expert</div><div class="isomer-card-link">Click for full article</div></div></a>
+</div>
 <hr>
 <p></p>
 <table>
