@@ -47,10 +47,6 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 13 Apr | SUSS
-          description: Whole-of-Society Approach to Well-Being
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-4/roundtable-whole-of/
         - title: 17 April | SUTD/NUS
           description: "Singapura Before Raffles: Early Modern Asia in the Global
             Renaissance"
@@ -60,4 +56,8 @@ sections:
           description: AI x Workers + Making Sense of the Future
           linktext: Learn more
           url: https://www.ideasfestival.edu.sg/events/week-5/future-insights-ai/
+        - title: 19 Apr | NTU
+          description: AI and Fake News
+          linktext: Learn more
+          url: https://www.ideasfestival.edu.sg/events/week-5/ai-and-fake/
 ---
