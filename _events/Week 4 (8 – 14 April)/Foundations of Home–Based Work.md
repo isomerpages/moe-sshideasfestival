@@ -71,7 +71,6 @@ of HBW in Singapore. By HBW, we mean paid employment done in the home,
 for non-domestic purposes. This includes home-based businesses (e.g. baking,
 dressmaking) and piece-workers, gig economy workers (e.g. drivers and deliveries),
 and telecommuters (e.g. designers, data analysts).</p>
-<p></p>
 <p>Our first project objective is to chart and theorise the social geographies
 of HBW: what is the policy framework surrounding this kind of work; who
 is involved in it; what kind of living do they make; in which housing types
@@ -79,91 +78,11 @@ and neighbourhoods is this work happening? Next, we want to document local
 ecologies of resilience and adaptability in HBW: both at home and within
 the community/neighbourhood. Finally, we suggest pathways for accommodating
 HBW in our lives through design and policy recommendations.</p>
-<p></p>
 <p>This workshop will present key findings from our research, Q&amp;A, and
 a guided tour around the exhibition of data visualisations, models and
 drawings.</p>
-<p></p><a class="isomer-image-wrapper" href="http://tinyurl.com/ideasfest-2024-hbw"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
-<p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<h3>Event Schedule</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Programme</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>09:00 – 09:10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Opening / Introduction by A/P Lilian Chee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>09:10 – 09:30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The ecological landscape of home-based work by A/P Natalie Pang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>09:30 – 09:50</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Policies and third spaces by Prof Audrey Yue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>09:50 – 10:10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Making HBW work in the home by Prof Jane Jacobs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10:10 – 10:40</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tea break / Networking</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10:40 – 11:30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Panel Discussion + Q&amp;A</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11:30 – 12:30</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Touring the Exhibition – by A/P Lilian Chee</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<p></p>
 <p></p>
 <table>
 <tbody>
