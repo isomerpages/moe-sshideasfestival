@@ -76,6 +76,13 @@ a key strategic asset for Singapore in an era of disruptive change.</p>
 <div class="isomer-card-link">Click for full article</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://news.nus.edu.sg/ideas-festival-2024-shining-a-spotlight-on-the-importance-of-social-science-and-humanities-research-on-society/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">NUS News</div><div class="isomer-card-description">Ideas Festival 2024: Shining a spotlight on the importance of social science and humanities research on society</div><div class="isomer-card-link">Click for full article</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.zaobao.com.sg/forum/views/story20240414-3422962" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lianhe Zaobao</div>
+<div class="isomer-card-description">王赓武：在颠覆性变革时代反思人文与社科之作用</div>
+<div class="isomer-card-link">Click for full article</div>
+</div>
+</a>
 </div>
 <p></p>
 <p></p>
