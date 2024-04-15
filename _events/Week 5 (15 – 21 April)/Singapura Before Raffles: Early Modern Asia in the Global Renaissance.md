@@ -48,7 +48,7 @@ third_nav_title: Week 5 (15 – 21 April)
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/aXbmVfsL4t9ihdqeA"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/J1NNVF89XLTmKHyD9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
 </td>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
