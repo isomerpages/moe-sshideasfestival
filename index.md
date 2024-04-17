@@ -47,11 +47,6 @@ sections:
         there’s something for every student, practitioner and enthusiast alike.
         Register early!
       cards:
-        - title: 17 April | SUTD/NUS
-          description: "Singapura Before Raffles: Early Modern Asia in the Global
-            Renaissance"
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-5/singapura-before-raffles/
         - title: 18 Apr | SUTD
           description: AI x Workers + Making Sense of the Future
           linktext: Learn more
