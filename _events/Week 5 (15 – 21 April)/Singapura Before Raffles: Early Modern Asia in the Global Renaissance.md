@@ -78,7 +78,7 @@ years ago and continue to unfold in our present time.</p>
 <p>Our discussion aims to shed new light on important stories about Asia’s
 diverse, inclusive, and vibrant past as we look ahead to the next chapter
 in our shared Singapore story.</p>
-<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/rXgDSXzRY9"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
+<p></p>
 <hr>
 <p></p>
 <table>
