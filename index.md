@@ -40,15 +40,4 @@ sections:
         Open to all!
       button: our events and speakers
       url: https://www.ideasfestival.edu.sg/launch-event/
-  - textcards:
-      title: Upcoming events
-      id: textcards
-      description: With lectures, panel discussions, workshops, roundtables and more,
-        there’s something for every student, practitioner and enthusiast alike.
-        Register early!
-      cards:
-        - title: 19 Apr | NTU
-          description: AI and Fake News
-          linktext: Learn more
-          url: https://www.ideasfestival.edu.sg/events/week-5/ai-and-fake/
 ---
