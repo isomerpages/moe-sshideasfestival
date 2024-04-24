@@ -25,9 +25,10 @@ sections:
       subtitle: Ongoing exhibition
       id: infopic
       description: From now until 9 May
-      button: exhibition info
+      button: learn more
       url: https://foundationsforhomebasedwork.com/events/ssrc-ideas-festival-2024-visualising-home-based-work
       alt: Image alt text
+      image: /images/Home_Based_Work.jpg
   - infopic:
       title: Big Ideas!
       subtitle: Video series
