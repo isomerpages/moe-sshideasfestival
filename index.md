@@ -24,7 +24,9 @@ sections:
       title: Visualising Home-Based Work
       subtitle: Ongoing exhibition
       id: infopic
-      description: From now until 9 May
+      description: Explore the spatial, social and technological dimensions of
+        home-based work in Singapore. Hosted at the NUS Central Library until 9
+        May 2024.
       button: learn more
       url: https://foundationsforhomebasedwork.com/events/ssrc-ideas-festival-2024-visualising-home-based-work
       alt: Image alt text
