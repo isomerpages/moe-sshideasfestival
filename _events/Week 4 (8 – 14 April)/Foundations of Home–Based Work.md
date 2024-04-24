@@ -82,6 +82,9 @@ HBW in our lives through design and policy recommendations.</p>
 a guided tour around the exhibition of data visualisations, models and
 drawings.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Home-based Work poster" src="/images/SSRC_Ideas_Fest_Poster.png">
+</div>
 <hr>
 <p></p>
 <table>
