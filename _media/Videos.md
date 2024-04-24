@@ -34,3 +34,22 @@ today? Join Dr Roweena Yip and Dr Harvey Neo as they discuss Singapore's
 past and future.
 <br>Find out more by registering for their events below!</p>
 <p></p>
+<h4>Big Ideas Video Series</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=1BdIGNYxf0I" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Metaverse" src="/images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Big Ideas: AI &amp; the Metaverse</div><div class="isomer-card-description">What is the metaverse, and how might AI affect our lives? Hear from Professors Edson Tandoc and Tim Winter as they discuss the social implications of these emerging technologies.</div><div class="isomer-card-link">Watch on Youtube</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=fasPV0nq3BM" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Society &amp; Well-Being" src="/images/Screenshot_2024_03_21_at_3_57_08_PM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Big Ideas 2: Society &amp; Well-Being</div>
+<div class="isomer-card-description">What are the top 3 social media apps that Singaporeans use? Can screen
+time actually help to improve our well-being? Hear from Professors Lim
+Sun Sun and Emily Ortega as they discuss the impact of technology on our
+well-being.</div>
+<div class="isomer-card-link">Watch on Youtube</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=98K0dscGBqc" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Big Ideas 3: The Road Ahead and The Journey Before</div><div class="isomer-card-description">How far ahead do we think about the future, and what are the biggest challenges we will face? How far do we look back when thinking about the past, and what can history tell us about Singapore today? Join Dr Roweena Yip and Dr Harvey Neo as they discuss Singapore's past and future.</div><div class="isomer-card-link">Watch on Youtube</div></div></a>
+</div>
+<p></p>
