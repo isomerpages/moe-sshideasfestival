@@ -28,7 +28,7 @@ sections:
       button: learn more
       url: https://foundationsforhomebasedwork.com/events/ssrc-ideas-festival-2024-visualising-home-based-work
       alt: Image alt text
-      image: /images/Home_Based_Work.jpg
+      image: /images/HBW3.png
   - infopic:
       title: Big Ideas!
       subtitle: Video series
