@@ -37,6 +37,7 @@ past and future.
 <br>Find out more by registering for their events below!</p>
 <p></p>
 <h4>Big Ideas Video Series</h4>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=1BdIGNYxf0I" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Metaverse" src="/images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Big Ideas: AI &amp; the Metaverse</div><div class="isomer-card-description">What is the metaverse, and how might AI affect our lives? Hear from Professors Edson Tandoc and Tim Winter as they discuss the social implications of these emerging technologies.</div><div class="isomer-card-link">Watch on Youtube</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=fasPV0nq3BM" class="isomer-card">
 <div class="isomer-card-image">
