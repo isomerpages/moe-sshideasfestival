@@ -40,4 +40,12 @@ sections:
         Open to all!
       button: our events and speakers
       url: https://www.ideasfestival.edu.sg/launch-event/
+  - infopic:
+      title: "Visualising Home-Based Work "
+      subtitle: "Ongoing exhibition "
+      id: infopic
+      description: From now until 9 May
+      button: exhibition info
+      url: https://foundationsforhomebasedwork.com/events/ssrc-ideas-festival-2024-visualising-home-based-work
+      alt: Image alt text
 ---
