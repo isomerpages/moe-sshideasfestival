@@ -8,16 +8,19 @@ description: How do social science and humanities insights help us better
 ---
 <h4>Podcast Series with CNA</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/listen/work-it/how-older-workers-can-add-value-their-companies-4281971" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Work It 1" src="/images/600x400_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Work It - How older workers can add value to their companies</div><div class="isomer-card-description">With retirement and re-employment ages set to be raised, the truth is that there will be more mature workers in our workforce. What are some unique challenges senior workers face and how can companies help them feel more valued? Our guest this week is Prof Yow Wei Quin, head of HASS at SUTD.</div><div class="isomer-card-link">Link for Podcast</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/listen/climate-conversations/why-complex-problem-climate-change-needs-multi-disciplinary-expertise-4290336" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CC1" src="/images/600x400_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Climate Conversations</div>
-<div class="isomer-card-description">Prof David Taylor and Assoc Prof Janice Lee discuss the importance of
-interdisciplinary research to address complex environmental challenges.</div>
+<div class="isomer-card-title">Climate Conversations - Why a complex problem like climate change needs
+multi-disciplinary expertise</div>
+<div class="isomer-card-description">Studied history or philosophy in school? Your knowledge can help to solve
+the biggest problems of climate change. Professor David Taylor from NUS
+and NTU’s Dr Janice Lee speak to Liling Tan and Jack Board checks in from
+the Pacific Islands on this week’s Climate Conversations.</div>
 <div class="isomer-card-link">Link for Podcast</div>
 </div>
 </a>
