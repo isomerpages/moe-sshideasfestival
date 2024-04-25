@@ -90,7 +90,6 @@ in addressing fake news. Participants will discuss the importance of developing
 responsible AI systems, ensuring transparency and accountability, and navigating
 legal and regulatory frameworks to protect against potential AI-related
 abuses and unintended consequences.</p>
-<p></p><a class="isomer-image-wrapper" href="https://ntu.sg/Panel-AIFN2024"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Register_button.png"></a>
 <p></p>
 <hr>
 <p></p>
