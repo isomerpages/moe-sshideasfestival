@@ -25,6 +25,24 @@ the Pacific Islands on this week’s Climate Conversations.</div>
 </div>
 </a>
 </div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/listen/work-it/flexible-work-shaping-office-future-hybrid-remote-4299241" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="fest logo" src="/images/600x400_2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Work It - Is flexible work shaping the office of the future?</div><div class="isomer-card-description">With new guidelines for flexible work arrangement requests kicking in by the end of the year, how can living and working spaces change to make hybrid work more accessible for all? Assoc Prof Lilian Chee from the NUS and Associate Prof Ada Wong from SUSS share their research. </div><div class="isomer-card-link">Click for Podcast</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/listen/climate-conversations/must-climate-communication-be-so-dense-heat-wettest-4307391" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fest logo" src="/images/600x400_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Climate Conversations - Must climate communication be so dense?</div>
+<div class="isomer-card-description">Explaining climate change can be frustrating when jargon gets in the way.
+Climate academics Prof Winston Chow and A/Prof Terry van Gevelt from SMU
+defend themselves against Liling Tan and Jack Board, who dials in from
+scorching Bangkok where the "feels-like” temperature hit 52 °C.</div>
+<div class="isomer-card-link">Click for Podcast</div>
+</div>
+</a>
+</div>
+<p></p>
 <h4>Big Ideas Video Series</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=1BdIGNYxf0I" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Metaverse" src="/images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Big Ideas: AI &amp; the Metaverse</div><div class="isomer-card-description">What is the metaverse, and how might AI affect our lives? Hear from Professors Edson Tandoc and Tim Winter as they discuss the social implications of these emerging technologies.</div><div class="isomer-card-link">Watch on Youtube</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=fasPV0nq3BM" class="isomer-card">

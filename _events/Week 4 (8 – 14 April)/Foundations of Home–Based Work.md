@@ -82,6 +82,22 @@ HBW in our lives through design and policy recommendations.</p>
 a guided tour around the exhibition of data visualisations, models and
 drawings.</p>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://news.nus.edu.sg/remote-work-isnt-always-work-from-home/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NUS News" src="/images/1920_20240430homebasedwork_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NUS News: When remote work isn't always 'work from home'</div><div class="isomer-card-description">Flexible work arrangements have gained prevalence in the post-Covid world. But the commonly used phrases “working from home” or “home-based work” do not always mean precisely that anymore, with many office workers eyeing what researchers call “third spaces” instead.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://foundationsforhomebasedwork.com/events/ssrc-ideas-festival-2024-visualising-home-based-work" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ongoing Exhibition" src="/images/HBW3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Exhibition: Visualising Home-Based Work</div>
+<div class="isomer-card-description">Explore the spatial, social and technological dimensions of home-based
+work in Singapore. Exhibition runs from now until 9 May at the NUS Central
+Library.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Home-based Work poster" src="/images/SSRC_Ideas_Fest_Poster.png">
 </div>
