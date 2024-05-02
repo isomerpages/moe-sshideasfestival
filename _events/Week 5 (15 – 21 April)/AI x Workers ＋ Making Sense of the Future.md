@@ -66,6 +66,8 @@ third_nav_title: Week 5 (15 – 21 April)
 seminar featuring two presentations that shed light on interesting and
 highly pertinent topics of our times. Join us for an exciting and insightful
 session!</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/blog/ai-x-workers-making-sense-of-the-future-a-double-seminar-for-the-moe-ideas-festival/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/image_2024_05_02_144626537.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Event Summary: “AI x Workers + Making Sense of the Future”</div><div class="isomer-card-description">Missed out on this double seminar? Read the event summary here!</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
 <p><strong>AI x Workers: 10 Designs to Craft an Inclusive Future of Work.</strong> 
 <br><strong>Mr Poon King Wang &amp; Dr Thijs Willems</strong> 
 <br>If skills are the answer to Al's impact on jobs, why do so many questions
@@ -89,8 +91,6 @@ to perennial questions such as "Why are we unable to do things which we
 know, and agree we should do?" and "Why do some people appear nonplussed
 about existential issues which will affect their lives?"</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/blog/ai-x-workers-making-sense-of-the-future-a-double-seminar-for-the-moe-ideas-festival/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/image_2024_05_02_144626537.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Event Summary: “AI x Workers + Making Sense of the Future”</div><div class="isomer-card-description">Missed out on this double seminar? Read the event summary here!</div><div class="isomer-card-link">Read more</div></div></a>
-</div>
 <hr>
 <p></p>
 <table>
