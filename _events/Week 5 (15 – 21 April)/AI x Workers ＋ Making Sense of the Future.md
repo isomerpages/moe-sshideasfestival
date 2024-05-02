@@ -89,7 +89,7 @@ to perennial questions such as "Why are we unable to do things which we
 know, and agree we should do?" and "Why do some people appear nonplussed
 about existential issues which will affect their lives?"</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/blog/ai-x-workers-making-sense-of-the-future-a-double-seminar-for-the-moe-ideas-festival/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/image_2024_05_02_123751915.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Event Summary: “AI x Workers + Making Sense of the Future” </div><div class="isomer-card-link">Click for event summary</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/blog/ai-x-workers-making-sense-of-the-future-a-double-seminar-for-the-moe-ideas-festival/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/image_2024_05_02_123751915.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Event Summary: “AI x Workers + Making Sense of the Future”</div><div class="isomer-card-description">Missed out on this event? Read the event summary here!</div><div class="isomer-card-link">Click for summary</div></div></a>
 </div>
 <hr>
 <p></p>
