@@ -29,7 +29,7 @@ sections:
       button: learn more
       url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/
       alt: Image alt text
-      image: /images/Newsletter.png
+      image: /images/newsletter_smaller.png
   - infopic:
       title: Big Ideas!
       subtitle: Video series
