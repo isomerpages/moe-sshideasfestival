@@ -17,8 +17,8 @@ sections:
       backgroundColor: white
       alignment: left
       key_highlights:
-        - title: Don't miss our exciting events!
-          description: Click here to find out more
+        - title: Ideas Festival Round-Up
+          description: Click here for our newsletter!
           url: https://www.ideasfestival.edu.sg/launch-event/
   - infopic:
       title: Missed out on our events?
