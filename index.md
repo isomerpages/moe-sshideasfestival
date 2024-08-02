@@ -24,7 +24,7 @@ sections:
       title: Missed out on our events?
       subtitle: Festival round-up
       id: infopic
-      description: Make sure to check out our handy newsletter for all our festival
+      description: Be sure to check out our handy newsletter for all our festival
         highlights!
       button: learn more
       url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/
