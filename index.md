@@ -21,16 +21,15 @@ sections:
           description: Click here to find out more
           url: https://www.ideasfestival.edu.sg/launch-event/
   - infopic:
-      title: Visualising Home-Based Work
-      subtitle: Ongoing exhibition
+      title: Missed out on our events?
+      subtitle: Festival round-up
       id: infopic
-      description: Explore the spatial, social and technological dimensions of
-        home-based work in Singapore. Exhibition runs from now until 9 May at
-        the NUS Central Library.
+      description: Make sure to check out our handy newsletter for all the festival
+        highlights!
       button: learn more
-      url: https://foundationsforhomebasedwork.com/events/ssrc-ideas-festival-2024-visualising-home-based-work
+      url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/
       alt: Image alt text
-      image: /images/HBW3.png
+      image: /images/Newsletter.png
   - infopic:
       title: Big Ideas!
       subtitle: Video series
