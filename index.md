@@ -25,7 +25,7 @@ sections:
       subtitle: Festival round-up
       id: infopic
       description: Be sure to check out our handy newsletter for all the highlights
-        from our festival !
+        from our festival!
       button: learn more
       url: https://ideasfestival.edu.sg/newsletter/
       alt: Image alt text
