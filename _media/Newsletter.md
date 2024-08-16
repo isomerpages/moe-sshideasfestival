@@ -6,7 +6,7 @@ description: Missed the festival? Download our newsletter round-up here!
 ---
 <h1><strong>Missed out on our events?</strong></h1>
 <p>We got you covered. Click on the link below to download our newsletter
-round-up of the entire festival.</p>
+round-up of the festival.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
