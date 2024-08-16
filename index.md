@@ -24,8 +24,8 @@ sections:
       title: Missed out on our events?
       subtitle: Festival round-up
       id: infopic
-      description: Be sure to check out our handy newsletter for all our festival
-        highlights!
+      description: Be sure to check out our handy newsletter for all the highlights
+        from our festival !
       button: learn more
       url: https://ideasfestival.edu.sg/newsletter/
       alt: Image alt text
