@@ -27,7 +27,7 @@ sections:
       description: Be sure to check out our handy newsletter for all our festival
         highlights!
       button: learn more
-      url: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com/
+      url: https://ideasfestival.edu.sg/newsletter/
       alt: Image alt text
       image: /images/newsletter_smaller.png
   - infopic:
