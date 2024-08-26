@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Be sure to check out our handy newsletter for all the highlights
         from our festival!
-      button: Click to download
+      button: download here
       url: https://www.ideasfestival.edu.sg/files/Ideas_Festival_Newsletter.pdf
       alt: Image alt text
       image: /images/Newsletter_centred.png
