@@ -29,7 +29,7 @@ sections:
       button: learn more
       url: https://www.ideasfestival.edu.sg/files/Ideas_Festival_Newsletter.pdf
       alt: Image alt text
-      image: /images/Newsletter.png
+      image: /images/Newsletter_centred.png
   - infopic:
       title: Big Ideas!
       subtitle: Video series
