@@ -19,7 +19,7 @@ sections:
       key_highlights:
         - title: Ideas Festival Round-Up
           description: Click here for our newsletter!
-          url: https://www.ideasfestival.edu.sg/files/Ideas_Festival_Newsletter.pdf
+          url: https://www.ideasfestival.edu.sg/newsletter/
   - infopic:
       title: Missed out on our events?
       subtitle: Festival round-up
