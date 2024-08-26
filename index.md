@@ -27,7 +27,7 @@ sections:
       description: Be sure to check out our handy newsletter for all the highlights
         from our festival!
       button: learn more
-      url: https://ideasfestival.edu.sg/newsletter/
+      url: https://www.ideasfestival.edu.sg/files/Ideas_Festival_Newsletter.pdf
       alt: Image alt text
       image: /images/newsletter_smaller.png
   - infopic:
