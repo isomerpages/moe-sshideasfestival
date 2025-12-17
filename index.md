@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_assets_3.png
+      background: /images/MOE_Ideas_Fest_Web_Banner_R1.jpg
       variant: center
       size: sm
       backgroundColor: white
