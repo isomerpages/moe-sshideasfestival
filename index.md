@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Variant_4.png
+      background: /images/Updated_banner.png
       variant: center
       size: sm
       backgroundColor: white
