@@ -12,7 +12,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Variant_4.png
-      variant: image
+      variant: center
       size: sm
       backgroundColor: white
       alignment: left
