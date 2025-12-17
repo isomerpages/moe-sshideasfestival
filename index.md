@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Test_Dimensions.png
+      background: /images/Updated_Dimensions.png
       variant: image
       size: sm
       backgroundColor: white
