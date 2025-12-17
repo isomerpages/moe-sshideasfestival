@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/MOE_Ideas_Fest_Web_Banner_R1.jpg
+      background: /images/Test_Dimensions.png
       variant: image
       size: sm
       backgroundColor: white
