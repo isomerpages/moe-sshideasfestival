@@ -17,11 +17,11 @@ sections:
       backgroundColor: white
       alignment: left
   - infopic:
-      title: Missed out on our events?
-      subtitle: Festival round-up
+      title: Reimagining Resilience
+      subtitle: Festival Theme
       id: infopic
-      description: Be sure to check out our handy newsletter for all the highlights
-        from our festival!
+      description: Explore how people, communities, and systems adapt as technology,
+        work, culture, and society transform the world around us.
       button: learn more
       url: https://www.ideasfestival.edu.sg/newsletter/
       alt: Image alt text
