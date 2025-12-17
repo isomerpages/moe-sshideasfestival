@@ -12,7 +12,7 @@ notification: ""
 sections:
   - hero:
       background: /images/MOE_Ideas_Fest_Web_Banner_R1.jpg
-      variant: center
+      variant: image
       size: sm
       backgroundColor: white
       alignment: left
