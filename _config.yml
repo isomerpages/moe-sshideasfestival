@@ -3,7 +3,7 @@ url: https://ideasfestival.edu.sg
 favicon: /images/Moe_isomer_32x32.png
 colors:
   primary-color: "#011a46"
-  secondary-color: "#011a46"
+  secondary-color: "#495976"
   media-colors:
     - title: media-color-one
       color: "#011a46"
