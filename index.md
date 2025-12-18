@@ -16,6 +16,10 @@ sections:
       size: sm
       backgroundColor: white
       alignment: left
+      key_highlights:
+        - title: what does it mean to be resilient in a changing world?
+          description: Sign up for our events!
+          url: ""
   - infopic:
       title: Reimagining Resilience
       subtitle: Festival Theme
