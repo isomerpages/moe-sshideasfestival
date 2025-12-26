@@ -1,11 +1,11 @@
 ---
 layout: homepage
-title: Ideas Festival Singapore 2024
-description: The official website of the 2024 Ideas Festival, a showcase of the
+title: Ideas Festival Singapore 2026
+description: The official website of the 2026 Ideas Festival, a showcase of the
   latest insights and contributions from humanities and social sciences (HSS) in
   Singapore. Sign up for our series of diverse and exciting events, ranging from
-  the impact of artificial intelligence on society, to well-being and the
-  changing workplace.
+  the impact of artificial intelligence on society, to well-being and the future
+  of work!
 image: /images/MINIMUM_SIZE_VERSION.png
 permalink: /
 notification: ""
