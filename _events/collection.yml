@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Ideas Festival Singapore 2026 Events.md
-      - Week 1 (20 – 24 March)/.keep
-      - "Week 1 (20 – 24 March)/Conversation on Computational Social Science:
-        Issues, Insights and Applications.md"
+      - AI & Emerging Technologies/.keep
+      - "AI & Emerging Technologies/Conversation on Computational Social
+        Science: Issues, Insights and Applications.md"
       - Week 2 (25 – 31 March)/.keep
       - Week 2 (25 – 31 March)/Gazing into the Metaverse.md
       - Week 3 (1 – 7 April)/.keep
