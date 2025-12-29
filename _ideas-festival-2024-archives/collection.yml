@@ -2,6 +2,7 @@ collections:
   ideas-festival-2024-archives:
     output: true
     order:
+      - AI and Fake News.md
       - AI x Workers ＋ Making Sense of the Future.md
       - "Singapura Before Raffles: Early Modern Asia in the Global
         Renaissance.md"
