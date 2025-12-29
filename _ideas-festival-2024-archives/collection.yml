@@ -2,6 +2,7 @@ collections:
   ideas-festival-2024-archives:
     output: true
     order:
+      - Challenges and Opportunities of the Changing Workplace.md
       - "Growing Up in an AI–Fuelled World: Reflections on Childhood Amid
         Digital Acceleration.md"
       - "After the PhD: The Early Years.md"
