@@ -1,4 +1,5 @@
 collections:
   events-by-theme:
     output: true
-    order: []
+    order:
+      - "Adapting to Change I: Urban, Social, Cultural.md"
