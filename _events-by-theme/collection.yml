@@ -2,6 +2,7 @@ collections:
   events-by-theme:
     output: true
     order:
+      - Research & Interdisciplinarity.md
       - Careers, Education and Skills for the Future.md
       - Resilience and Mental Wellbeing.md
       - "Adapting to Change I: Urban, Social, Cultural.md"
