@@ -2,5 +2,5 @@ collections:
   events-by-theme:
     output: true
     order:
-      - "Adapting to Change II:  AI & Emerging Technologies.md"
       - "Adapting to Change I: Urban, Social, Cultural.md"
+      - "Adapting to Change II:  AI & Emerging Technologies.md"
