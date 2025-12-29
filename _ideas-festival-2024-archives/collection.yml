@@ -1,4 +1,6 @@
 collections:
   ideas-festival-2024-archives:
     output: true
-    order: []
+    order:
+      - "Conversation on Computational Social Science: Issues, Insights and
+        Applications.md"
