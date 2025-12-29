@@ -27,7 +27,7 @@ sections:
       description: Explore how people, communities, and systems adapt as technology,
         work, culture, and society transform the world around us.
       button: learn more
-      url: https://www.ideasfestival.edu.sg/newsletter/
+      url: /events-landing/
       alt: Image alt text
       image: /images/Logos & Assets/MOE_Ideas_Fest_Website_Graphic.png
   - infopic:
