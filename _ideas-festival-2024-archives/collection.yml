@@ -2,5 +2,6 @@ collections:
   ideas-festival-2024-archives:
     output: true
     order:
+      - Gazing into the Metaverse.md
       - "Conversation on Computational Social Science: Issues, Insights and
         Applications.md"
