@@ -2,6 +2,8 @@ collections:
   calendar:
     output: true
     order:
+      - "Launch Week (26 – 28 Feb)/Choose your own ethical adventure: Exploring
+        the use of AI agents.md"
       - Launch Week (26 – 28 Feb)/.keep
       - "Launch Week (26 – 28 Feb)/Conversation on Computational Social Science:
         Issues, Insights and Applications.md"
