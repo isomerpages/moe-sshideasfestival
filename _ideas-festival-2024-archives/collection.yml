@@ -2,6 +2,7 @@ collections:
   ideas-festival-2024-archives:
     output: true
     order:
+      - Mental Health and Culture.md
       - Helping the Youth Become Leaders of Sustainable and Climate Resilient
         Societies.md
       - About Us (2024).md
