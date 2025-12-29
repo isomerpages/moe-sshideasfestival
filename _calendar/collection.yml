@@ -2,7 +2,6 @@ collections:
   calendar:
     output: true
     order:
-      - Ideas Festival Singapore 2026 Events.md
       - Launch Week (26 – 28 Feb)/.keep
       - "Launch Week (26 – 28 Feb)/Conversation on Computational Social Science:
         Issues, Insights and Applications.md"
