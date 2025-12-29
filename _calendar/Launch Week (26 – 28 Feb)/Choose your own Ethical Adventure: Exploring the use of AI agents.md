@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Launch Week (26 – 28 Feb)
 ---
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
