@@ -2,7 +2,7 @@ logo: /images/Logos & Assets/MOE_Ideas_Fest_Website_Logo.png
 links:
   - title: About us
     url: /about-us
-  - title: Events
+  - title: Events Calendar
     collection: events
   - title: Media
     collection: media
