@@ -12,13 +12,13 @@ third_nav_title: Week 2 (2 – 7 March)
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 3 March 2026</strong>
+<p><strong>Date: 4 &amp; 9 March 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 5.00pm – 8:00pm</strong>
+<p><strong>Time: 2.00pm – 5:00pm</strong>
 </p>
 </td>
 </tr>
@@ -30,7 +30,7 @@ third_nav_title: Week 2 (2 – 7 March)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: Resilience and Mental Wellbeing</strong>
+<p><strong>Theme: Regional, Policy, and Global Resilience</strong>
 </p>
 </td>
 </tr>
