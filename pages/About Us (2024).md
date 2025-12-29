@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MINIMUM_SIZE_VERSION.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MINIMUM_SIZE_VERSION.png">
 </div>
 <p>The inaugural Ideas Festival is a showcase of the latest insights and
 contributions from humanities and social science (HSS) researchers in Singapore.
