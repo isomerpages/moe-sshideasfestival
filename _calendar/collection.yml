@@ -1,5 +1,5 @@
 collections:
-  events:
+  calendar:
     output: true
     order:
       - Ideas Festival Singapore 2026 Events.md
