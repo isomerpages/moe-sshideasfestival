@@ -2,6 +2,8 @@ collections:
   ideas-festival-2024-archives:
     output: true
     order:
+      - How the Humanities and Social Sciences Can Help Us Hack the STEM
+        Fields.md
       - Mental Health and Culture.md
       - Helping the Youth Become Leaders of Sustainable and Climate Resilient
         Societies.md
