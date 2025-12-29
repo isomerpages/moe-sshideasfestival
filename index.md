@@ -29,7 +29,7 @@ sections:
       button: learn more
       url: https://www.ideasfestival.edu.sg/newsletter/
       alt: Image alt text
-      image: /images/MOE_Ideas_Fest_Website_Graphic.png
+      image: /images/Logos & Assets/MOE_Ideas_Fest_Website_Graphic.png
   - infopic:
       title: Big Ideas!
       subtitle: Video series
