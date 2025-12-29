@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Ideas Festival Singapore 2026 Events.md
+      - "Adapting to Change II:  AI & Emerging Technologies.md"
       - Week 1 (20 – 24 March)/.keep
       - "Week 1 (20 – 24 March)/Conversation on Computational Social Science:
         Issues, Insights and Applications.md"
