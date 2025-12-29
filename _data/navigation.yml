@@ -6,3 +6,5 @@ links:
     collection: events
   - title: Media
     collection: media
+  - title: Themes
+    collection: events-by-theme
