@@ -2,6 +2,7 @@ collections:
   events-by-theme:
     output: true
     order:
+      - Categories.md
       - Regional, Policy, and Global Resilience.md
       - Research & Interdisciplinarity.md
       - Careers, Education and Skills for the Future.md
