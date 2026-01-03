@@ -2,6 +2,5 @@ collections:
   media:
     output: true
     order:
-      - Newsletter.md
       - Video and Podcast Series.md
       - Launch of the Ideas Festival.md
