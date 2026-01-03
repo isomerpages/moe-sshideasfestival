@@ -62,4 +62,4 @@ description: ""
 psychophysics experiment, virtual reality simulations, driving simulator,
 hologram, eye tracker, and EEG), to experience the procedure in studying
 human visual perception, cognition, judgment and decision, and behaviours
-at Psychology Programme, School of Social Sciences, NTU.meaning in illness."</p>
+at Psychology Programme, School of Social Sciences, NTU</p>
