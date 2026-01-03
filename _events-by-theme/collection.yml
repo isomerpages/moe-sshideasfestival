@@ -1,5 +1,4 @@
 collections:
   events-by-theme:
     output: true
-    order:
-      - Overview.md
+    order: []
