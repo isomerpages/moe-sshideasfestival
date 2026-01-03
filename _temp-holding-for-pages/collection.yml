@@ -2,6 +2,8 @@ collections:
   temp-holding-for-pages:
     output: true
     order:
+      - What does it mean to be resilient? Voices from Patients, Caregivers, and
+        Practitioners.md
       - "Building Financial Resilience: Pensions & Financial Literacy.md"
       - "Failing Forward: What the Humanities and Social Sciences Teach Us About
         Resilience​.md"
