@@ -2,6 +2,7 @@ collections:
   temp-holding-for-pages:
     output: true
     order:
+      - Pedagogical Signatures of Resilience.md
       - Reimagining Regional Resilience in an Age of Great Power Rivalry.md
       - EMPOWER’s Spotlight on Transformative Research in Early Development.md
       - Launch of the Centre for Computational Social Science and Humanities.md
