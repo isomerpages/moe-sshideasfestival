@@ -12,7 +12,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">[25 Mar] Future Horizons: Envisioning the Humanities and Social Sciencesv</div>
+<div class="isomer-card-title">[25 Mar] Future Horizons: Envisioning the Humanities and Social Sciences</div>
 <div class="isomer-card-description">The journey forward: Why the human story will always lead the future.</div>
 <div class="isomer-card-link">Register here!</div>
 </div>
