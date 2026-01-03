@@ -2,6 +2,7 @@ collections:
   ideas-festival-2024-archives:
     output: true
     order:
+      - Video and Podcast Series.md
       - Newsletter.md
       - AI and Fake News.md
       - AI x Workers ＋ Making Sense of the Future.md
