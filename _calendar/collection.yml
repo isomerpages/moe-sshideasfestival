@@ -2,6 +2,7 @@ collections:
   calendar:
     output: true
     order:
+      - Week 2 (2 – 7 March).md
       - Launch Week (26 – 28 Feb).md
       - Week 3 (9 – 14 March)/Lab Visit for Studies in Experimental Psychology.md
       - Week 3 (9 – 14 March)/.keep
