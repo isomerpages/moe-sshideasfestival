@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Overview.md
-      - Regional, Policy, and Global Resilience.md
-      - Research & Interdisciplinarity.md
-      - Careers, Education and Skills for the Future.md
       - Resilience and Mental Wellbeing.md
+      - Regional, Policy, and Global Resilience.md
       - "Adapting to Change I: Urban, Social, Cultural.md"
       - "Adapting to Change II:  AI & Emerging Technologies.md"
+      - Research & Interdisciplinarity.md
+      - Careers, Education and Skills for the Future.md
