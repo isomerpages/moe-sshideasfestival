@@ -2,6 +2,7 @@ collections:
   temp-holding-for-pages:
     output: true
     order:
+      - SUSS Carnival.md
       - "From Exhibition to Economy: Exploring Cultural Economics in Action.md"
       - "Doing Creative Practice Research: Methods for Building Unusual
         Archives.md"
