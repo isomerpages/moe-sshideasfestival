@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - IF2026 Theme.md
       - Festival Committee.md
