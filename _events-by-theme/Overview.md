@@ -30,11 +30,11 @@ alike.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">What if cities are built around belonging, not buildings?</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Adapting to Change I: Urban, Social, Cultural</div>
+<div class="isomer-card-description">What if cities are built around belonging, not buildings?</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Adaptability" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Or if adapability is the most important skill?</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Adaptability" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Careers, Education and Skills for the Future</div><div class="isomer-card-description">Or if adapability is the most important skill?</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -42,8 +42,8 @@ alike.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">And if answers live between disciplines?</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">Research &amp; Interdisciplinarity</div>
+<div class="isomer-card-description">And if answers live between disciplines?</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a>
