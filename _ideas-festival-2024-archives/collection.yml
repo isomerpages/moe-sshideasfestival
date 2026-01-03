@@ -2,6 +2,7 @@ collections:
   ideas-festival-2024-archives:
     output: true
     order:
+      - Launch of the Ideas Festival.md
       - Video and Podcast Series.md
       - Newsletter.md
       - AI and Fake News.md
