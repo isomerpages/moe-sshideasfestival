@@ -19,7 +19,7 @@ sections:
       key_highlights:
         - title: Learn about resilience in a changing world
           description: Sign up for our events!
-          url: /calendar/
+          url: /launch-week/
   - infopic:
       title: Reimagining Resilience
       subtitle: Festival Theme
