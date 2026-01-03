@@ -2,6 +2,8 @@ collections:
   temp-holding-for-pages:
     output: true
     order:
+      - "Failing Forward: What the Humanities and Social Sciences Teach Us About
+        Resilience​.md"
       - "From Passion to Prosperity:  Prototyping Satellite Creative Community
         Labs for Social Impact.md"
       - "Choose your own Ethical Adventure: Exploring the use of AI agents.md"
