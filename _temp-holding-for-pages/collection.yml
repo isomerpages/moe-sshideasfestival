@@ -2,6 +2,10 @@ collections:
   temp-holding-for-pages:
     output: true
     order:
+      - "(27 Feb) Choose your own Ethical Adventure: Exploring the use of AI
+        agents.md"
+      - "Failing Forward: What the Humanities and Social Sciences Teach Us About
+        Resilience​.md"
       - Lab Visit for Studies in Experimental Psychology.md
       - SUSS Carnival.md
       - "From Exhibition to Economy: Exploring Cultural Economics in Action.md"
@@ -15,9 +19,5 @@ collections:
       - What does it mean to be resilient? Voices from Patients, Caregivers, and
         Practitioners.md
       - "Building Financial Resilience: Pensions & Financial Literacy.md"
-      - "Failing Forward: What the Humanities and Social Sciences Teach Us About
-        Resilience​.md"
       - "From Passion to Prosperity:  Prototyping Satellite Creative Community
         Labs for Social Impact.md"
-      - "(27 Feb) Choose your own Ethical Adventure: Exploring the use of AI
-        agents.md"
