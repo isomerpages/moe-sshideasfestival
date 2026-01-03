@@ -1,5 +1,4 @@
 collections:
   media:
     output: true
-    order:
-      - Launch of the Ideas Festival.md
+    order: []
