@@ -30,24 +30,4 @@ sections:
       url: /events-landing/
       alt: Image alt text
       image: /images/Logos & Assets/MOE_Ideas_Fest_Website_Graphic.png
-  - infopic:
-      title: Big Ideas!
-      subtitle: Video series
-      id: infopic
-      button: Watch now
-      url: https://www.ideasfestival.edu.sg/videos/
-      image: /images/Ideas_Festival_AI_METAVERSE_Thumbnail.jpg
-      alt: Image alt text
-      description: How do HSS insights help us better understand the society we live
-        in today? Watch our experts break down the big ideas and challenges in
-        fun, bite-sized videos!
-  - infobar:
-      title: Gathering the best minds & insights in HSS
-      subtitle: ABOUT THE IDEAS FESTIVAL
-      id: infobar
-      description: In this rapidly-changing world, how does HSS help us to understand
-        and better our society? Join our series of thought-provoking events.
-        Open to all!
-      button: our events and speakers
-      url: https://www.ideasfestival.edu.sg/launch-event/
 ---
