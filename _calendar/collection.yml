@@ -2,6 +2,7 @@ collections:
   calendar:
     output: true
     order:
+      - Week 4 (16 – 21 March).md
       - Launch Week (26 – 28 Feb).md
       - Week 2 (2 – 6 March).md
       - SUSS Carnival (7 Mar).md
