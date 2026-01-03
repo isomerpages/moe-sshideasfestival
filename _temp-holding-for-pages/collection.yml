@@ -2,6 +2,7 @@ collections:
   temp-holding-for-pages:
     output: true
     order:
+      - Embedding Holistic Wellbeing into the Fabric of the University.md
       - What does it mean to be resilient? Voices from Patients, Caregivers, and
         Practitioners.md
       - "Building Financial Resilience: Pensions & Financial Literacy.md"
