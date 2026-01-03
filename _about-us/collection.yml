@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Overview.md
       - 2026 Festival Theme.md
       - Festival Committee.md
