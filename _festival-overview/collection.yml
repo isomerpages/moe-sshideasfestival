@@ -1,4 +1,5 @@
 collections:
   festival-overview:
     output: true
-    order: []
+    order:
+      - Overview.md
