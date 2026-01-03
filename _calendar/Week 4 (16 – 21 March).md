@@ -20,12 +20,13 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">[18 Mar] Resonance and Resilience: Exploring the Nexus of Music and Mental
 Health</div>
+<div class="isomer-card-description">The therapeutic frequency that fosters emotional balance</div>
 <div class="isomer-card-link">Register here!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[19 Mar] Beyond the Degree: Careers That Value Social Science Thinking</div><div class="isomer-card-description">Beyond the Degree: Careers That Value Social Science Thinking</div><div class="isomer-card-link">This is a link for your card</div></div></a>
