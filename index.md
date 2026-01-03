@@ -27,7 +27,7 @@ sections:
       description: Explore how people, communities, and systems adapt as technology,
         work, culture, and society transform the world around us.
       button: learn more
-      url: /overview/
+      url: /if2026-theme/
       alt: Image alt text
       image: /images/Logos & Assets/MOE_Ideas_Fest_Website_Graphic.png
 ---
