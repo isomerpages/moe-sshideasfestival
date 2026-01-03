@@ -1,4 +1,5 @@
 collections:
   temp-holding-for-pages:
     output: true
-    order: []
+    order:
+      - "Choose your own Ethical Adventure: Exploring the use of AI agents.md"
