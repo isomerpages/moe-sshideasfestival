@@ -2,4 +2,6 @@ collections:
   temp-holding-for-pages:
     output: true
     order:
+      - "From Passion to Prosperity:  Prototyping Satellite Creative Community
+        Labs for Social Impact.md"
       - "Choose your own Ethical Adventure: Exploring the use of AI agents.md"
