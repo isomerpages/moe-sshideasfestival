@@ -1,4 +1,5 @@
 collections:
   week-2:
     output: true
-    order: []
+    order:
+      - (7 Mar) SUSS Carnival.md
