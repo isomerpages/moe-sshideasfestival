@@ -2,5 +2,4 @@ collections:
   media:
     output: true
     order:
-      - Video and Podcast Series.md
       - Launch of the Ideas Festival.md
