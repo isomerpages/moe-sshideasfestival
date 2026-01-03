@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Overview.md
-      - Careers, Education and Skills for the Future.md
       - Research & Interdisciplinarity.md
