@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - "Adapting to Change II:  AI & Emerging Technologies.md"
       - Careers, Education and Skills for the Future.md
       - Research & Interdisciplinarity.md
