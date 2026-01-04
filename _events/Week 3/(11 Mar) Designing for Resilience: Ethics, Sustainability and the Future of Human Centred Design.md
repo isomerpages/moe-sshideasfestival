@@ -48,4 +48,5 @@ consider how it can cultivate the capacities, whether social, material,
 and imaginative, that enable communities to endure, adapt, and even flourish
 under pressure. This includes asking how design can scaffold mutual care,
 create infrastructures that absorb shocks, and open up new ways of organising
-collective life in uncertain times.</p>
+collective life in uncertain times.</p><a class="isomer-image-wrapper" href="https://forms.office.com/r/Lamc6rGGYe"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<p></p>
