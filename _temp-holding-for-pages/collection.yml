@@ -2,8 +2,6 @@ collections:
   temp-holding-for-pages:
     output: true
     order:
-      - "(6 Mar) From Exhibition to Economy: Exploring Cultural Economics in
-        Action.md"
       - "(6 Mar) Doing Creative Practice Research: Methods for Building Unusual
         Archives.md"
       - Pedagogical Signatures of Resilience.md
