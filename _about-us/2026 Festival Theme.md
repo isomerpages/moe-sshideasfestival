@@ -5,9 +5,17 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Reimagining Resilience: Flourishing in a Changing World</strong></h2>
-<h4>The Ideas Festival is a month-long showcase of the latest insights and contributions from social science and humanities researchers in Singapore. The theme for 2026 is <strong>Reimagining Resilience: Flourishing in a Changing World</strong>, which explores how people, communities, and systems can adapt and thrive amid profound technological, cultural, and societal change.</h4>
-<h4><strong>Have you noticed the unique speech bubbles linked to each event? </strong>Resilience is a huge topic that matters to pretty much every field in the social sciences and humanities. With 32 events out there, we've split our events into six helpful categories, each focused on different questions and aspects of resilience.</h4>
-<h4>Read more about our respective sub-themes below!</h4>
+<p>The Ideas Festival is a month-long showcase of the latest insights and
+contributions from social science and humanities researchers in Singapore.
+Our theme for 2026 is <strong>Reimagining Resilience: Flourishing in a Changing World</strong>,
+which explores how people, communities, and systems can adapt and thrive
+amid profound technological, cultural, and societal change.</p>
+<p><strong>Have you noticed the unique speech bubbles linked to each event?</strong> Resilience
+is a huge topic that matters to pretty much every field in the social sciences
+and humanities. With 32 events out there, we've split our events into six
+helpful categories, each focused on different questions and aspects of
+resilience.</p>
+<p>Read more about our respective sub-themes below!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
