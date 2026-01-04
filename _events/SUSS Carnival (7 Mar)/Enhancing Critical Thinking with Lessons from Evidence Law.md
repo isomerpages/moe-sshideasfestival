@@ -24,7 +24,7 @@ third_nav_title: SUSS Carnival (7 Mar)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Seminar Room 3-12, SMU Yong Pung How School of Law, Level 3, 55 Armenian Street Singapore 179943</strong>
+<p><strong>Venue: TBC</strong>
 </p>
 </td>
 </tr>
