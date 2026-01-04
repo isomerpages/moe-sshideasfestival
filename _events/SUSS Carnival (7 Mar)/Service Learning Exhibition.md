@@ -18,7 +18,7 @@ third_nav_title: SUSS Carnival (7 Mar)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 9.00am – 11.30am</strong>
+<p><strong>Time: 10.00am – 4.00pm</strong>
 </p>
 </td>
 </tr>
@@ -30,7 +30,7 @@ third_nav_title: SUSS Carnival (7 Mar)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: Adapting to Change II: AI &amp; Emerging Technologies</strong>
+<p><strong>Theme: Research and Interdisciplinarity</strong>
 </p>
 </td>
 </tr>
