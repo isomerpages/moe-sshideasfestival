@@ -31,7 +31,7 @@ third_nav_title: Week 4
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: "Adapting to Change II: AI &amp; Emerging Technologies"</strong>
+<p><strong>Theme: Regional, Policy and Global Resilience</strong>
 </p>
 </td>
 </tr>
