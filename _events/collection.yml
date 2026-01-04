@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - "Week 1/(27 Feb) Choose your own Ethical Adventure: Exploring the use of
+        AI agents.md"
       - Week 1/.keep
       - Week 2/.keep
       - Week 3/.keep
