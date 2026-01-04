@@ -18,7 +18,7 @@ third_nav_title: Week 3
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 10:30am – 12:00pm</strong>
+<p><strong>Time: 2.00pm – 6:00pm</strong>
 </p>
 </td>
 </tr>
@@ -47,3 +47,5 @@ on a decade of LKYCIC research, the session invites all — students, residents,
 policymakers — to rethink what resilience means today. Join this cross-sectoral
 conversation on how we can prepare, adapt, and thrive together in changing
 times.</p>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/fqTKE5azP4"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<p></p>
