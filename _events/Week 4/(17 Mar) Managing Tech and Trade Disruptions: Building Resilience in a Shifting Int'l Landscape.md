@@ -54,3 +54,8 @@ Join us to exchange insights, build partnerships, and shape resilient strategies
 for a more inclusive and adaptive global economy. Joint efforts among businesses,
 policymakers, innovators, consumers, NGOs, and the broader community are
 essential to build resilience and drive sustained and inclusive growth.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
+</div>
+<p></p>
