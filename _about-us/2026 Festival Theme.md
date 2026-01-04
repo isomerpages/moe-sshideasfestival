@@ -15,7 +15,7 @@ is a huge topic that matters to pretty much every field in the social sciences
 and humanities. With 32 events out there, we've split our events into six
 helpful categories, each focused on different questions and aspects of
 resilience.</p>
-<p>Read more about our respective sub-themes below!</p>
+<p>Learn more about our events on the <a href="/launch-week" rel="noopener nofollow" target="_blank">events calendar</a>!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
