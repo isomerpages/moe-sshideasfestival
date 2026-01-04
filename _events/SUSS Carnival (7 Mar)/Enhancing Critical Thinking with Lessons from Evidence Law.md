@@ -49,3 +49,7 @@ shielding juries from prejudicial evidence — and how these principles can
 be applied in everyday contexts. By drawing on legal safeguards, the session
 demonstrates how key concepts can strengthen critical thinking and build
 resilience against information-based threats such as scams and manipulation.</p>
+<a class="isomer-image-wrapper" href="https://suss.au1.qualtrics.com/jfe/form/SV_81vnhTwkbE9tBrg?Q_CHL=qr">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png">
+</a>
+<p></p>
