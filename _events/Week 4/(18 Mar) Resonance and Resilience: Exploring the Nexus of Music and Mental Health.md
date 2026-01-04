@@ -19,7 +19,7 @@ third_nav_title: Week 4
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 10:30am – 12:00pm</strong>
+<p><strong>Time: 2.30pm – 4.00pm</strong>
 </p>
 </td>
 </tr>
@@ -31,7 +31,7 @@ third_nav_title: Week 4
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: "Adapting to Change II: AI &amp; Emerging Technologies"</strong>
+<p><strong>Theme: Resilience and Mental Wellbeing</strong>
 </p>
 </td>
 </tr>
