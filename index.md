@@ -22,7 +22,7 @@ sections:
           url: /launch-week/
   - infopic:
       title: Reimagining Resilience
-      subtitle: Events calendar
+      subtitle: Festival Theme
       id: infopic
       description: Explore how people, communities, and systems adapt as technology,
         work, culture, and society transform the world around us.
