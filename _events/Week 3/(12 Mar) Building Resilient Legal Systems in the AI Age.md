@@ -36,16 +36,17 @@ third_nav_title: Week 3
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<p>Artificial intelligence is reshaping the global environment in which legal
+systems operate—not only by transforming how individuals, firms, and governments
+act, but also by reconfiguring the broader political economy that sustains
+them.</p>
+<p>Resilience in this context means ensuring that legal systems can anticipate,
+absorb, and adapt to technological disruption while continuing to deliver
+justice, maintain legitimacy, and safeguard rights. Without deliberate
+strategies for resilience, legal systems risk narrowing into brittle, tech-dominated
+structures: constrained in their options, vulnerable to capture, and unable
+to fulfil their core functions.</p>
+<p>Engage with this panel that convenes experts across academia, government,
+and industry to explore how law can remain a stabilising force in the age
+of AI and to identify practical strategies for embedding resilience “by
+design” into legal institutions.</p>
