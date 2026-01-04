@@ -14,7 +14,7 @@ amid profound technological, cultural, and societal change.</p>
 is a huge topic that matters to every field in the social sciences and
 humanities. To aid navigation, we've tagged our events into six helpful
 categories, each focused on different questions and aspects of resilience.</p>
-<p>Learn more about our events on the <a href="/launch-week" rel="noopener nofollow" target="_blank">events calendar</a>!</p>
+<p>Explore the full range of events on the <a href="/launch-week" rel="noopener nofollow" target="_blank">events calendar</a>!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
