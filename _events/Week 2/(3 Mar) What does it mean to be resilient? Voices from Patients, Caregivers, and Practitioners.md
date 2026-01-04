@@ -73,5 +73,5 @@ to the practice of mindful compassion in medical education.</p>
 <p>Join us to reimagine care beyond stoicism and strength, and to hear authentic
 voices that reveal what it truly means to endure, adapt, and find meaning
 in illness.</p>
-<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/TSV1pGHiNB"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/TSV1pGHiNB"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
