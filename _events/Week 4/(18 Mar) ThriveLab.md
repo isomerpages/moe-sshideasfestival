@@ -36,16 +36,34 @@ third_nav_title: Week 4
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>How do we build communities that bounce back from crisis and adapt to
+constant change?
+<br>&nbsp;
+<br>From climate disruptions to social fragmentation, today's challenges demand
+more than good policies—they require understanding how people actually
+make decisions. Resilient societies aren't built on perfect plans; they're
+built on small, smart nudges that help individuals make better choices
+for themselves and their communities.
+<br>&nbsp;
+<br>ThriveLab is a high-energy, half-day "nudgathon" where you'll apply behavioural
+economics and psychology to design real-world interventions. Working in
+teams, you'll tackle pressing issues—from encouraging sustainable habits
+to improving mental health support—creating evidence-based solutions that
+strengthen our collective capacity to thrive.
+<br>&nbsp;
+<br>No textbooks or lectures—just hands-on problem-solving that shows you
+how academic insights translate into tangible impact. Whether you're exploring
+career paths in policy, social innovation, or simply want to make a difference,
+you'll leave with practical skills and a prototype ready for the real world.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
