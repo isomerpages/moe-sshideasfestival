@@ -18,7 +18,7 @@ third_nav_title: SUSS Carnival (7 Mar)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 9.00am – 11.30am</strong>
+<p><strong>Time: 2.00pm – 3.30pm</strong>
 </p>
 </td>
 </tr>
@@ -36,17 +36,16 @@ third_nav_title: SUSS Carnival (7 Mar)
 </tr>
 </tbody>
 </table>
-<p>AI is a mirror and amplifier of our assumptions. If we do not stop to
-question the ideas we bring into how we design and use AI, we risk carrying
-forward the same problems from old education systems into the future.</p>
-<p>"Speculative Future Frames" creates a space for experimentation and conversation.
-It invites participants to go beyond optimisation and improvement of existing
-systems, and instead engage in radical imagination to rethink teaching
-and learning at the level of our assumptions. What if education was fundamentally
-reconfigured? What would learning feel like, look like, and ask of us in
-such a future?</p>
-<p>Be part of this 2-hour in-person workshop that brings together cross-disciplinary
-groups of participants to examine and deconstruct current assumptions about
-higher education (such as grading, credentials, institutional structures,
-and linear curriculum) and to prototype future frames through speculative
-design.</p>
+<p>Rapid advances in generative AI have intensified concerns about the harms
+of “deep fakes” and other fabricated content. Beyond scams and election
+manipulation, the flood of AI-generated material risks eroding shared knowledge
+and social trust.</p>
+<p>Yet misinformation is not a new problem. While technology accelerates
+its creation and spread, the core response remains unchanged: individuals
+must cultivate critical thinking rather than rely solely on regulation
+or technology for protection. This informal talk explores how the legal
+system addresses bad information through Evidence Law — for example, by
+shielding juries from prejudicial evidence — and how these principles can
+be applied in everyday contexts. By drawing on legal safeguards, the session
+demonstrates how key concepts can strengthen critical thinking and build
+resilience against information-based threats such as scams and manipulation.</p>
