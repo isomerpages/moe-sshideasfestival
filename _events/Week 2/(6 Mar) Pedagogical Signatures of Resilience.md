@@ -49,3 +49,8 @@ and society at large.</p>
 <p>We invite dialogue, collaboration, and reflection on how the performing
 arts can help students in all majors recognise multiple employment possibilities,
 to inspire resilient, creative communities for the future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
+</div>
+<p></p>
