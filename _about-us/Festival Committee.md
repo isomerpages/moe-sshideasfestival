@@ -74,6 +74,6 @@ Public Policy, NUS. She is a leading expert on how China wields power and
 influence via infrastructure and water resource capture in Asia.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ingrid" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Ingrid Wilson </div><div class="isomer-card-description">Ingrid is Associate Professor at the Singapore Institute of Technology. Her interests lie in gender issues, with a focus on women’s health and empowerment. Her research specialises in preventing family violence and elder abuse, and improving the quality of intimate relationships. </div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
