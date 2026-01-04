@@ -13,19 +13,19 @@ third_nav_title: Week 2
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 3 March 2026</strong>
+<p><strong>Date: 2 March 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 5.00pm – 8:00pm</strong>
+<p><strong>Time: 2.00pm – 5:00pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: The Pod @ National Library Board</strong>
+<p><strong>Venue: NTU Innovation Port at Wee Cho Yaw Plaza</strong>
 </p>
 </td>
 </tr>
