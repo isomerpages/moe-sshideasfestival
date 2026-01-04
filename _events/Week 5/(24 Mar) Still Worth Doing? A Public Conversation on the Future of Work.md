@@ -12,40 +12,53 @@ third_nav_title: Week 5
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 27 Feb 2026</strong>
+<p><strong>Date: 24 March 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 10:30am – 12:00pm</strong>
+<p><strong>Time: 4.00pm – 5.30pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: Function Lounge 4-2, SMU Yong Pung How School of Law, 55 Armenian Street, Singapore 179943 </strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: "Adapting to Change II: AI &amp; Emerging Technologies"</strong>
+<p><strong>Theme: Adapting to Change II: AI &amp; Emerging Technologies</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Perhaps the only thing clear about the future of work is its own uncertainty.
+Yet, amid economic disruption and the rise of AI, public discussion has
+mostly been limited to predicting available jobs and “employable” degrees.
+This panel shifts our attention back to the question of work and its role
+in social life. What will change in the everyday tasks we fulfil as workers,
+and what meaning should we give to such efforts? What sort of career is
+still worthy of human skill and emotion? How do we review a performance
+when labor is partly outsourced to technology?</p>
+<p></p>
+<p>Featuring researchers from across Singapore’s universities, this panel
+will discuss the changes and challenges in three major aspects of work:
+care, creativity, and communications. In looking ahead, this panel explores
+not only what jobs will likely persist, but how work must and should evolve.
+Join us to reimagine the future of work!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
