@@ -12,40 +12,37 @@ third_nav_title: Week 5
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 27 Feb 2026</strong>
+<p><strong>Date: 27 Mar 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 10:30am – 12:00pm</strong>
+<p><strong>Time: 2.00pm – 5.00pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: SUTD Lecture Theatre 4</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: "Adapting to Change II: AI &amp; Emerging Technologies"</strong>
+<p><strong>Theme: Adapting to Change II: AI &amp; Emerging Technologies</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<p>There is an increasing overlap between A.I. and the creative arts, whether
+in music, literature or the visual arts. But what line should we draw (if
+any) between machine and human creativity? Is it even possible for machines
+to create art as we recognise it?</p>
+<p>Does the development of A.I. mean we must rethink what art is? SUTD will
+host a great debate between A.I. experts, philosophers, technologists and
+practicing artists to answer these very questions and to debate the role
+that A.I. can and should play in the artistic process. A customized A.I.
+model, BOTicelli, developed and trained by SUTD students, will also participate
+in the debate alongside real human faculty from SUTD and other universities.</p>
