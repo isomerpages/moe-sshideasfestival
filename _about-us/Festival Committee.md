@@ -92,5 +92,19 @@ many articles and a book, Rewriting Buddhism (UCL, 2020).</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.sutd.edu.sg/profile/cai-yanjun/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="yanjun" src="/images/2026 Festival Committee/cai yanjun.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[SUTD] Dr Cai Yanjun</div><div class="isomer-card-description">Yanjun Cai is Research Fellow at the Lee Kuan Yew Centre for Innovative Cities. Her research focuses on climate resilience and urban sustainability in the face of digital transformation, paying additional attention to disadvantaged populations.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Nick-Powdthavee" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="nick" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[NTU] Assoc Prof Nick Powdthavee</div>
+<div class="isomer-card-description">Nick is Professor of Economics at Nanyang Technological University and
+a Fellow of the Royal Economic Society specializing in behavioral economics
+and happiness research.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Xu-Hong" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="xuhong" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Xu Hong</div><div class="isomer-card-description">Xu Hong is Associate Professor of Psychology at School of Social Sciences, Nanyang Technological University. Her research studies neural mechanisms of visual perception and cognition and its application to human-computer interaction (HCI).</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
