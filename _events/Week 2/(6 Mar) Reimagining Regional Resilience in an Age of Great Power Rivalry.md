@@ -36,29 +36,6 @@ third_nav_title: Week 2
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>How should Singapore and Southeast Asia navigate an increasingly complex
 and volatile strategic landscape?</p>
 <p>The region is not only contending with enduring hard security risks—such
@@ -70,3 +47,5 @@ of ASEAN's regional resilience.</p>
 <p>This half-day event consists of two inter-varsity and interdisciplinary
 panels: (1) emerging orders and institutions; and (2) technology and global
 value chain resilience.</p>
+<p></p><a class="isomer-image-wrapper" href="https://nus.syd1.qualtrics.com/jfe/form/SV_d7pZUylbVVh8pQG"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<p></p>
