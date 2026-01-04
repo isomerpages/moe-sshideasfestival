@@ -60,7 +60,7 @@ third_nav_title: Week 2
 </tr>
 </tbody>
 </table>
-<p>"When illness strikes, we often speak of “fighting” disease and “staying
+<p>When illness strikes, we often speak of “fighting” disease and “staying
 strong.” But what does resilience really mean in the hospital ward? Is
 it an empowering ideal or can it sometimes obscure pain, dependence, and
 vulnerability?</p>
@@ -72,6 +72,6 @@ diverse perspectives on healing from the power and limits of battle metaphors
 to the practice of mindful compassion in medical education.</p>
 <p>Join us to reimagine care beyond stoicism and strength, and to hear authentic
 voices that reveal what it truly means to endure, adapt, and find meaning
-in illness."</p>
+in illness.</p>
 <p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/TSV1pGHiNB"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
