@@ -2,7 +2,6 @@ collections:
   temp-holding-for-pages:
     output: true
     order:
-      - (3 Mar) Lab Visit for Studies in Experimental Psychology.md
       - "(6 Mar) From Exhibition to Economy: Exploring Cultural Economics in
         Action.md"
       - "(6 Mar) Doing Creative Practice Research: Methods for Building Unusual
