@@ -42,3 +42,5 @@ like the prefrontal cortex and amygdala.</p>
 <p>Through interactive, hands-on activities and neuroimaging demonstrations,
 the session makes complex neuroscience accessible while highlighting practical
 strategies for building resilience.</p>
+<p></p><a class="isomer-image-wrapper" href="https://suss.au1.qualtrics.com/jfe/form/SV_81vnhTwkbE9tBrg?Q_CHL=qr"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<p></p>
