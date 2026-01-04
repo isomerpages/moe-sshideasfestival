@@ -75,5 +75,20 @@ influence via infrastructure and water resource capture in Asia.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.singaporetech.edu.sg/directory/faculty/ingrid-wilson" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ingrid" src="/images/2026 Festival Committee/SIT___Ingrid_Wilson.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[SIT] Assoc Prof Ingrid Wilson</div><div class="isomer-card-description">Ingrid is Associate Professor at the Singapore Institute of Technology. Her interests lie in gender issues, with a focus on women’s health and empowerment. Her research specialises in preventing family violence and elder abuse, and improving the quality of intimate relationships.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.sutd.edu.sg/profile/alastair-gornall/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="alastair" src="/images/2026 Festival Committee/Alastair_Gornall.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[SUTD] Assoc Prof Alastair Gornall</div>
+<div class="isomer-card-description">Alastair Gornall is Associate Professor of History and Religion and Associate
+Head in the Humanities, Arts and Social Sciences at SUTD. He gained his
+PhD in Asian Studies from the University of Cambridge in 2013. He has published
+many articles and a book, Rewriting Buddhism (UCL, 2020).</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
 </div>
 <p></p>
