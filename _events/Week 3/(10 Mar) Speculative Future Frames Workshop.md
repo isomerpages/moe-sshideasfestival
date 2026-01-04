@@ -12,7 +12,7 @@ third_nav_title: Week 3
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 27 Feb 2026</strong>
+<p><strong>Date: 10 Mar 2026</strong>
 </p>
 </td>
 </tr>
@@ -24,7 +24,9 @@ third_nav_title: Week 3
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: Seminar Room 3-12, SMU Yong Pung How School of Law, Level 3,</strong>
+</p>
+<p><strong>55 Armenian Street Singapore 179943</strong>
 </p>
 </td>
 </tr>
@@ -36,16 +38,22 @@ third_nav_title: Week 3
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<p>AI is a mirror and amplifier of our assumptions. If we do not stop to
+question the ideas we bring into how we design and use AI, we risk carrying
+forward the same problems from old education systems into the future.</p>
+<p>"Speculative Future Frames" creates a space for experimentation and conversation.
+It invites participants to go beyond optimisation and improvement of existing
+systems, and instead engage in radical imagination to rethink teaching
+and learning at the level of our assumptions. What if education was fundamentally
+reconfigured? What would learning feel like, look like, and ask of us in
+such a future?</p>
+<p>Be part of this 2-hour in-person workshop that brings together cross-disciplinary
+groups of participants to examine and deconstruct current assumptions about
+higher education (such as grading, credentials, institutional structures,
+and linear curriculum) and to prototype future frames through speculative
+design.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
+</div>
+<p></p>
