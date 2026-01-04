@@ -2,8 +2,6 @@ collections:
   temp-holding-for-pages:
     output: true
     order:
-      - "(27 Feb) Choose your own Ethical Adventure: Exploring the use of AI
-        agents.md"
       - Lab Visit for Studies in Experimental Psychology.md
       - "From Exhibition to Economy: Exploring Cultural Economics in Action.md"
       - "Doing Creative Practice Research: Methods for Building Unusual
