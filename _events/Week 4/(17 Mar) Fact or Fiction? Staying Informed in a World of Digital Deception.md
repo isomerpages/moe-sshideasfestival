@@ -12,40 +12,51 @@ third_nav_title: Week 4
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 27 Feb 2026</strong>
+<p><strong>Date: 17 March 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 10:30am – 12:00pm</strong>
+<p><strong>Time: 2.00pm – 4.00pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: Lee Foundation Lecture Theatre, Wee Kim Wee School of Communication and Information</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: "Adapting to Change II: AI &amp; Emerging Technologies"</strong>
+<p><strong>Theme: Adapting to Change II: AI &amp; Emerging Technologies</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In a world where anyone can publish anything easily online, how do we
+know what and whom to trust? From viral rumors to fake news to AI-generated
+deepfakes, today’s information ecosystem is increasingly shaped by speed,
+hype, and unknown agendas. This seminar covers misinformation and disinformation,
+showing how false content spreads, why we fall for it, and emerging research
+about combating digital deception.
+<br>&nbsp;
+<br>Join us as we explore these issues to strengthen information resilience.
+Our panel of experts will discuss cutting-edge work on verification, fact-checking,
+media literacy, and the human behaviours that allow falsehoods to thrive.
+If you are an everyday media user, parent, educator, or simply curious
+about fighting falsehoods, this seminar is for you.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
