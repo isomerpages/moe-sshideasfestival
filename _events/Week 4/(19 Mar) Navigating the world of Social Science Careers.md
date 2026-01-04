@@ -12,40 +12,43 @@ third_nav_title: Week 4
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 27 Feb 2026</strong>
+<p><strong>Date: 19 March 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 10:30am – 12:00pm</strong>
+<p><strong>Time: 10.00am – 12.00pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: Function Room 6-1, SMU Administration Building Level 6, 81 Victoria Street Singapore 188065 </strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: "Adapting to Change II: AI &amp; Emerging Technologies"</strong>
+<p><strong>Theme: Careers, Education and Skills for the Future</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<p>Social sciences is known to open doors to diverse and meaningful career
+paths—from shaping public policy to driving corporate culture, building
+community awareness, and understanding human behaviour. In a rapidly changing
+and technologically evolving world, how can Social Sciences careers continue
+to maintain their relevance and importance?</p>
+<p>“Navigating the World of Social Science Careers” is an interactive session
+which will include a brief overview of SMU’s Social sciences programmes
+followed by a panel discussion with industry representatives who will share
+their personal experiences and insights designed to help students explore
+the wide spectrum of opportunities available in this field. They will offer
+their views on the top skills and competencies expected of graduates training
+in social sciences to ensure they can meaningfully contribute to both public
+and private sectors. Come and find out how your personal interests and
+values combined with a robust academic training in Social Sciences can
+make for an impactful career!</p>
+<p></p>
