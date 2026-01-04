@@ -14,10 +14,10 @@ alike.</p>
 <blockquote>
 <p>Have you noticed the speech bubbles linked to our events?</p>
 </blockquote>
-<p>Resilience is a large topic and holds relevance to every social science
-and humanities discipline. With so many events out there, we've split our
-events into six helpful categories, each focused on different aspects of
-resilience.</p>
+<p>Resilience is a huge topic that matters to pretty much every field in
+the social sciences and humanities. With so many events out there, we've
+split our events into six helpful categories, each focused on different
+questions and aspects of resilience.</p>
 <p>Read more about our respective sub-themes below!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
