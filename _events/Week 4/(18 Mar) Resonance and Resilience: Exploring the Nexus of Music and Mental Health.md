@@ -25,7 +25,7 @@ third_nav_title: Week 4
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: W1-03-04 Connexion 1, SIT Punggol Campus</strong>
 </p>
 </td>
 </tr>
