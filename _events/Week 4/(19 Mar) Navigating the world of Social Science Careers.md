@@ -24,7 +24,7 @@ third_nav_title: Week 4
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Function Room 6-1, SMU Administration Building Level 6, 81 Victoria Street Singapore 188065 </strong>
+<p><strong>Venue: Function Room 6-1, SMU Administration Building Level 6, 81 Victoria Street Singapore 188065</strong>
 </p>
 </td>
 </tr>
@@ -51,4 +51,8 @@ in social sciences to ensure they can meaningfully contribute to both public
 and private sectors. Come and find out how your personal interests and
 values combined with a robust academic training in Social Sciences can
 make for an impactful career!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
+</div>
 <p></p>
