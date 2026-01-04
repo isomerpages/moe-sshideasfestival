@@ -1,5 +1,5 @@
 collections:
-  calendar:
+  calendar-of-events:
     output: true
     order:
       - Launch Week (26 – 28 Feb).md
