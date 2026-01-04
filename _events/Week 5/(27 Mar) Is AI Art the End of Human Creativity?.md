@@ -46,3 +46,5 @@ practicing artists to answer these very questions and to debate the role
 that A.I. can and should play in the artistic process. A customized A.I.
 model, BOTicelli, developed and trained by SUTD students, will also participate
 in the debate alongside real human faculty from SUTD and other universities.</p>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/6Wvwj2VfA5"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<p></p>
