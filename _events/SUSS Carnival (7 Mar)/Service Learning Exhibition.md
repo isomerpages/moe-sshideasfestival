@@ -44,6 +44,5 @@ social inclusion, ageing, sustainability, and environmental conservation.
 Through posters and student sharings, visitors can see how classroom learning
 translates into real-world impact, and how service-learning nurtures not
 only knowledge and skills, but also care, creativity, and responsibility
-in building stronger communities.</p>
-<p></p><a class="isomer-image-wrapper" href="https://suss.au1.qualtrics.com/jfe/form/SV_81vnhTwkbE9tBrg?Q_CHL=qr"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+in building stronger communities.</p><a class="isomer-image-wrapper" href="https://suss.au1.qualtrics.com/jfe/form/SV_81vnhTwkbE9tBrg?Q_CHL=qr"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
