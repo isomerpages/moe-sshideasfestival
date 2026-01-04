@@ -12,7 +12,7 @@ third_nav_title: Week 4
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 27 Feb 2026</strong>
+<p><strong>Date: 18 March 2026</strong>
 </p>
 </td>
 </tr>
@@ -24,7 +24,7 @@ third_nav_title: Week 4
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: Chinese Heritage Centre Level 2</strong>
 </p>
 </td>
 </tr>
