@@ -36,29 +36,6 @@ third_nav_title: Week 2
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>How can we reimagine resilience?</p>
 <p>This roundtable brings together artist-educators from music, dance, and
 theatre to explore how resilience is cultivated as a multifaceted pedagogical
@@ -71,5 +48,4 @@ these practices can extend beyond the classroom to benefit learners, educators,
 and society at large.</p>
 <p>We invite dialogue, collaboration, and reflection on how the performing
 arts can help students in all majors recognise multiple employment possibilities,
-to inspire resilient, creative communities for the future."adapt, and find
-meaning in illness."</p>
+to inspire resilient, creative communities for the future.</p>
