@@ -15,7 +15,7 @@ description: ""
 <div class="isomer-card-body">
 <div class="isomer-card-title">[27 Feb] Choose your own Ethical Adventure: Exploring the use of AI agents</div>
 <div class="isomer-card-description">Your ethics, powered by AI. The interactive future of moral decision-making.</div>
-<div class="isomer-card-link">Register here!</div>
+<div class="isomer-card-link">Register here</div>
 </div>
 </a>
 </div>
