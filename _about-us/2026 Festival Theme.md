@@ -12,7 +12,7 @@ changing workplace and much more. Ideal for SSH practitioners and enthusiasts
 alike.</p>
 <p></p>
 <blockquote>
-<p>Have you noticed the speech bubbles linked to our events?</p>
+<p>Have you noticed the unique speech bubbles linked to each event?</p>
 </blockquote>
 <p>Resilience is a huge topic that matters to pretty much every field in
 the social sciences and humanities. With so many events out there, we've
@@ -30,8 +30,19 @@ questions and aspects of resilience.</p>
 <div class="isomer-card-title">Resilience and Mental Wellbeing</div>
 <div class="isomer-card-description">What if we re-imagine mental health as social wealth?</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cities" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Adapting to Change I: Urban, Social, Cultural</div><div class="isomer-card-description">What if cities are built around belonging, not buildings?</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cities" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Adapting to Change I: Urban, Social, Cultural</div>
+<div class="isomer-card-description">What if cities are built around belonging, not buildings?</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png">
@@ -40,10 +51,20 @@ questions and aspects of resilience.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Adapting to Change II: AI &amp; Emerging Technologies</div>
 <div class="isomer-card-description">What if AI's hardest problems are human problems?</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_35.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Regional, Policy and Global Resilience</div><div class="isomer-card-description">Or if resilience is built into policy?</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_35.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Regional, Policy and Global Resilience</div>
+<div class="isomer-card-description">Or if resilience is built into policy?</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Adaptability" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png">
@@ -52,9 +73,19 @@ questions and aspects of resilience.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Careers, Education and Skills for the Future</div>
 <div class="isomer-card-description">Or if adapability is the most important skill?</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="interdisc" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Research &amp; Interdisciplinarity</div><div class="isomer-card-description">And if answers live between disciplines?</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="interdisc" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Research &amp; Interdisciplinarity</div>
+<div class="isomer-card-description">And if answers live between disciplines?</div>
+</div>
+</div>
 </div>
 <hr>
 <p></p>
