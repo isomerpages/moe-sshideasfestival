@@ -10,7 +10,7 @@ contributions from social science and humanities researchers in Singapore.
 Our theme for 2026 is <strong>Reimagining Resilience: Flourishing in a Changing World</strong>,
 which explores how people, communities, and systems can adapt and thrive
 amid profound technological, cultural, and societal change.</p>
-<p><strong>Have you noticed the unique speech bubbles?</strong> Resilience
+<p><strong>Have you spotted our colourful speech bubbles?</strong> Resilience
 is a huge topic that matters to pretty much every field in the social sciences
 and humanities. With 32 events out there, we've tagged our events into
 six helpful categories, each focused on different questions and aspects
