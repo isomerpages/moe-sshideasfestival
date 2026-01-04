@@ -21,7 +21,7 @@ description: ""
 <div class="isomer-card-link">Register here!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/neuroscience-of-stress-and-resilience-interactive-demos-and-booths/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[7 Mar] Neuroscience of Stress and Resilience: Interactive Demos and Booths</div><div class="isomer-card-description">Your stress, decoded. Neuroscience to build real resilience.</div><div class="isomer-card-link">Register here!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/enhancing-critical-thinking-with-lessons-from-evidence-law/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png">
