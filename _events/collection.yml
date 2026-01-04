@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Week 2/.keep
       - Week 1/.keep
