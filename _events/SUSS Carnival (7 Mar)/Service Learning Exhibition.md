@@ -30,7 +30,7 @@ third_nav_title: SUSS Carnival (7 Mar)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: Research and Interdisciplinarity</strong>
+<p><strong>Theme: Research &amp; Interdisciplinarity</strong>
 </p>
 </td>
 </tr>
