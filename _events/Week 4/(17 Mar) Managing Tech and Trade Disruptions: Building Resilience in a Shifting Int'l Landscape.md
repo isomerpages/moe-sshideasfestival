@@ -13,19 +13,19 @@ third_nav_title: Week 4
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 27 Feb 2026</strong>
+<p><strong>Date: 17 March 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 10:30am – 12:00pm</strong>
+<p><strong>Time: TBC</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: TBC, SMU</strong>
 </p>
 </td>
 </tr>
@@ -37,16 +37,20 @@ third_nav_title: Week 4
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<p>We are entering a new era of global trade (dis)order, shaped by powerful
+waves of technological and economic disruption. From generative AI transforming
+production and services, to tariff escalations redrawing trade routes,
+these shifts are reconfiguring the foundations of international commerce.
+They bring real opportunities—efficiency gains from emerging technologies,
+new markets, and innovative business models—but also serious challenges,
+including fragmentation, heightened uncertainty, and systemic complexity.
+Together, these dynamics underscore the urgent need for resilience.</p>
+<p>Bringing together diverse perspectives, this event will explore how businesses
+and other actors in the region can adapt to and navigate this fast-changing
+landscape. Key questions include: How can we better understand and prepare
+for emerging trends? Do these disruptions challenge our long-held assumptions?
+And how can actors remain resilient and agile in the face of volatility?
+Join us to exchange insights, build partnerships, and shape resilient strategies
+for a more inclusive and adaptive global economy. Joint efforts among businesses,
+policymakers, innovators, consumers, NGOs, and the broader community are
+essential to build resilience and drive sustained and inclusive growth.</p>
