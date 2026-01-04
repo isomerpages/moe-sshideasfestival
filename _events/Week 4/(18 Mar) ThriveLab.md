@@ -66,4 +66,5 @@ you'll leave with practical skills and a prototype ready for the real world.</p>
 </tr>
 </tbody>
 </table>
+<p></p><a class="isomer-image-wrapper" href="https://forms.gle/oqEYx5CjdMQvbZ2N7"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
