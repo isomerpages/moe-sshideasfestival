@@ -4,8 +4,8 @@ permalink: /week-2/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[2 Mar] Failing Forward: What the Humanities and Social Sciences Teach Us About Resilience​</div><div class="isomer-card-description">Failure is just research: How to leverage the setback.</div><div class="isomer-card-link">Register here!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/failing-forward-what-the-humanities-and-social-sciences-teach-us-about-resilience/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[2 Mar] Failing Forward: What the Humanities and Social Sciences Teach Us About Resilience​</div><div class="isomer-card-description">Failure is just research: How to leverage the setback.</div><div class="isomer-card-link">Register here!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/lab-visit-for-studies-in-experimental-psychology/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png">
