@@ -17,7 +17,7 @@ description: ""
 <div class="isomer-card-link">Register here</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/what-does-it-mean-to-be-resilient-voices-from-patients-caregivers-and-practitioners/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[3 Mar] What does it mean to be resilient? Voices from Patients, Caregivers, and Practitioners</div><div class="isomer-card-description">The human cost to staying strong for someone else.</div><div class="isomer-card-link">Register here!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/building-financial-resilience-pensions-financial-literacy/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_35.png">
