@@ -18,7 +18,7 @@ third_nav_title: Week 2
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 5.00pm – 8:00pm</strong>
+<p><strong>Time: 2:30pm – 4:00pm</strong>
 </p>
 </td>
 </tr>
