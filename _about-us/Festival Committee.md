@@ -15,7 +15,8 @@ the National University of Singapore (NUS), Nanyang Technological University
 (NTU), Singapore Management University (SMU), Singapore University of Social
 Sciences (SUSS), Singapore University of Technology and Design (SUTD),
 Singapore Institute of Technology (SIT) and the University of the Arts
-Singapore (UAS). The Festival is supported by the <a href="https://www.ssrc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Social Science Research Council</a> (SSRC),
+Singapore (UAS).</p>
+<p>The Festival is also supported by the <a href="https://www.ssrc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Social Science Research Council</a> (SSRC),
 which promotes and supports SSH research in areas of strategic relevance
 to Singapore and the region.</p>
 <hr>
