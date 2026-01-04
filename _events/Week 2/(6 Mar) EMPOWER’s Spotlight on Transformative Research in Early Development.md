@@ -24,7 +24,7 @@ third_nav_title: Week 2
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Clinical Sciences Building</strong>
+<p><strong>Venue: <em>NTU LKC&nbsp;<a href="https://www.google.com/search?q=Novena+Campus&amp;client=safari&amp;hs=IxKU&amp;sca_esv=6353da8ae3806300&amp;rls=en&amp;ei=NMlEabesB5Ko4-EP-o9X&amp;ved=2ahUKEwjZ-eq73ciRAxUFSWwGHR1pD_8QgK4QegQIAxAC&amp;uact=5&amp;oq=NTU+CSB+ADDRESS&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiD05UVSBDU0IgQUREUkVTUzIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBDIFEAAY7wVIsgtQuAVY7QhwAXgBkAEAmAFBoAG4AaoBATO4AQPIAQD4AQGYAgSgAs8BwgIKEAAYsAMY1gQYR8ICBxAAGIAEGA3CAgYQABgNGB6YAwCIBgGQBgiSBwE0oAe4DbIHATO4B8kBwgcDMi00yAcOgAgA&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfAKiBWMfkI3wYpRPM6z3zUDWpf9smfrZx2c7RxuoIII0IHEBm3J_iRtw6vbokF3toWaM4yohHAB5AJCvwDf2qb6OKhhiFIHTB1jntf_9Kszvwj0ZprQbNAlSnR8sF3mF9mEUmTVIWjb_JUIDD9rkPJQO6iH9ECbTRNSK_yjtsg-qC4YIptRcIfx_pb9g7-2QTe3&amp;csui=3" rel="noopener noreferrer" target="_blank"><u>Novena Campus</u></a>,&nbsp;Clinical Sciences Building (CSB), Level 4 Foyer,&nbsp;11 Mandalay Road, 308232&nbsp;</em></strong>
 </p>
 </td>
 </tr>
