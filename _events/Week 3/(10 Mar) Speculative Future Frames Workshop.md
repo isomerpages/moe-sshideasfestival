@@ -24,9 +24,7 @@ third_nav_title: Week 3
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Seminar Room 3-12, SMU Yong Pung How School of Law, Level 3,</strong>
-</p>
-<p><strong>55 Armenian Street Singapore 179943</strong>
+<p><strong>Venue: Seminar Room 3-12, SMU Yong Pung How School of Law, Level 3, 55 Armenian Street Singapore 179943</strong>
 </p>
 </td>
 </tr>
