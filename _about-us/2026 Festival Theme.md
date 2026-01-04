@@ -14,7 +14,7 @@ amid profound technological, cultural, and societal change.</p>
 and humanities. To help break down our full range of events, we've grouped
 them into six helpful categories, each focused on different questions and
 aspects of resilience.</p>
-<p>Explore the our events on the <a href="/launch-week" rel="noopener nofollow" target="_blank">events calendar</a>!</p>
+<p>Explore all events on the <a href="/launch-week" rel="noopener nofollow" target="_blank">events calendar</a>!</p>
 <h3>Event Categories</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
