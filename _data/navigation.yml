@@ -2,5 +2,5 @@ logo: /images/Logos & Assets/MOE_Ideas_Fest_Website_Logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Events Calendar
-    collection: calendar
+  - title: Calendar Of Events
+    collection: calendar-of-events
