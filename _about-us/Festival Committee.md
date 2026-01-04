@@ -4,8 +4,15 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
-<h4><strong>The Ideas Festival is co-organised by seven partner universities in Singapore</strong>, namely the National University of Singapore (NUS), Nanyang Technological University (NTU), Singapore Management University (SMU), Singapore University of Social Sciences (SUSS), Singapore University of Technology and Design (SUTD), Singapore Institute of Technology (SIT) and University of the Arts Singapore (UAS).</h4>
-<h4>The Festival is supported by the <strong><a href="https://www.ssrc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Social Science Research Council</a></strong> (SSRC), which promotes and supports social science and humanities research in areas of strategic relevance to Singapore and the region.</h4>
+<p><strong>The Ideas Festival is co-organised by seven partner universities in Singapore</strong>,
+namely the National University of Singapore (NUS), Nanyang Technological
+University (NTU), Singapore Management University (SMU), Singapore University
+of Social Sciences (SUSS), Singapore University of Technology and Design
+(SUTD), Singapore Institute of Technology (SIT) and University of the Arts
+Singapore (UAS).</p>
+<p>The Festival is supported by the <a href="https://www.ssrc.edu.sg" rel="noopener nofollow" target="_blank">Social Science Research Council (SSRC)</a>,
+which promotes and supports social science and humanities research in areas
+of strategic relevance to Singapore and the region.</p>
 <hr>
 <h3>2026 Festival Committee</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://discovery.nus.edu.sg/3057-lynnee-elaine-ho" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elaine Ho" src="/images/About Us/Elaine_Ho.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Elaine Ho</div><div class="isomer-card-description">Elaine is Provost Chair Professor at NUS Geography, Vice-Dean of Research at FASS, and Senior Research Fellow at the Asia Research Institute. Her research addresses citizenship geographies, focusing on transnational ageing and care in the Asia-Pacific, and diaspora engagement and diplomacy.</div><div class="isomer-card-link">Click for full profile</div></div></a>
