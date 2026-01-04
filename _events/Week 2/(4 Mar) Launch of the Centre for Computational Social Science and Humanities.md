@@ -36,39 +36,15 @@ third_nav_title: Week 2
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<blockquote>
-<p>How can computational tools revolutionise the way we understand society,
-culture, and human behaviour?</p>
-</blockquote>
-<p>Join us for the official launch of the NUS Centre for Computational Social
-Science and Humanities (CSSH), a new interdisciplinary initiative that
-brings together the methods of computing with the questions and insights
-of the social sciences and humanities. Serving as a vibrant nexus for innovation
-and collaboration, CSSH aims to advance research that bridges data, technology,
+<p><strong>How can computational tools revolutionise the way we understand society, culture, and human behaviour? </strong>Join
+us for the official launch of the NUS Centre for Computational Social Science
+and Humanities (CSSH), a new interdisciplinary initiative that brings together
+the methods of computing with the questions and insights of the social
+sciences and humanities. Serving as a vibrant nexus for innovation and
+collaboration, CSSH aims to advance research that bridges data, technology,
 and human experience.</p>
 <p>This launch marks the beginning of an exciting platform for scholars,
 students, and practitioners to explore new frontiers in knowledge creation
 and redefine what it means to study society in the digital age.</p>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/6QKDLVJXdw"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<p></p>
