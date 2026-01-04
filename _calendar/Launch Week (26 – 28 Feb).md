@@ -17,6 +17,6 @@ description: ""
 <div class="isomer-card-description">Your ethics, powered by AI. The interactive future of moral decision-making.</div>
 <div class="isomer-card-link">Register here!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[28 Feb] From Passion to Prosperity: Prototyping Satellite Creative Community Labs for Social Impact</div><div class="isomer-card-description">[pending]</div><div class="isomer-card-link">More details to come!</div></div></a>
+</a>
 </div>
 <p></p>
