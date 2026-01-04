@@ -45,18 +45,33 @@ Her recent projects examine ethics, AI, time and space</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/academics/schools-college/faculty-listing/detail/ong-chong-hao-nathanael" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NatOng" src="/images/2026 Festival Committee/nathanael ong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[SUSS] Dr Nathanael Ong</div><div class="isomer-card-description">Nathanael is the Provost’s Chair and Lecturer at the College of Interdisciplinary &amp; Experiential Learning, SUSS. His expertise is in the field of sport and performance psychology and has published more than 15 journal articles in areas such as competitive anxiety, burnout, and smartphone addiction.</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/our-people/faculty/joelle-fong" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/2026 Festival Committee/joelle fong.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-title">[NUS] Assoc Prof Joelle Fong</div>
+<div class="isomer-card-description">Joelle is Associate Professor at the Lee Kuan Yew School of Public Policy,
+NUS. Her broad research agenda focuses on the economic and health aspects
+of population aging, and their implications for policy. Her research interests
+include pension economics, insurance, financial literacy and retirement.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/our-people/faculty/selina-ho" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[NUS] Assoc Prof Selina Ho</div><div class="isomer-card-description">Selina Ho is Dean’s Chair Associate Professor in International Affairs and Vice-Dean (Research and Development) at the Lee Kuan Yew School of Public Policy, NUS. She is a leading expert on how China wields power and influence via infrastructure and water resource capture in Asia. </div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="jack" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof Jack Chia</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
 </div>
 <p></p>
 <p></p>
