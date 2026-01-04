@@ -13,13 +13,13 @@ third_nav_title: Week 3
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 27 Feb 2026</strong>
+<p><strong>Date: 14 March 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 10:30am – 12:00pm</strong>
+<p><strong>Time: 9.00am – 11:00am</strong>
 </p>
 </td>
 </tr>
@@ -31,7 +31,7 @@ third_nav_title: Week 3
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: "Adapting to Change II: AI &amp; Emerging Technologies"</strong>
+<p><strong>Theme: Adapting to Change I: Urban, Social, Cultural</strong>
 </p>
 </td>
 </tr>
