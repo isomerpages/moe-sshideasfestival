@@ -16,20 +16,22 @@ of strategic relevance to Singapore and the region.</p>
 <hr>
 <h3>2026 Festival Committee</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://socsc.smu.edu.sg/faculty/profile/7891/kenneth-benoit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="KBenoit" src="/images/2026 Festival Committee/kbenoit.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[SMU] Prof Kenneth Benoit</div><div class="isomer-card-description">Ken is Dean and Professor of Computational Social Science at the School of Social Sciences, Singapore Management University. His research focuses on computational, quantitative methods for processing large amounts of textual data, mainly political texts and social media.</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://socsc.smu.edu.sg/faculty/profile/1536/q-forrest-zhang" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://business.smu.edu.sg/faculty/profile/2236/hannah-h-chang" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Forrest" src="/images/2026 Festival Committee/Forrest_Zhang.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Hannah" src="/images/2026 Festival Committee/Hannah_Chang.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">[SMU] Assoc Prof Q Forrest Zhang</div>
-<div class="isomer-card-description">Forrest is Associate Professor of Sociology and Lee Kong Chian Fellow
-at the School of Social Sciences, Singapore Management University. His
-research focuses on China’s agrarian political economy and rural development.</div>
+<div class="isomer-card-title">[SMU] Assoc Prof Hannah H. Chang</div>
+<div class="isomer-card-description">Hannah is Associate Professor of Marketing at the Lee Kong Chian School
+of Business, Singapore Management University. She studies consumer behaviour
+and digital technologies, focusing on how consumers engage with products
+and services across digital platforms to inform marketing practice and
+policy.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://business.smu.edu.sg/faculty/profile/2236/hannah-h-chang" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hannah" src="/images/2026 Festival Committee/Hannah_Chang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[SMU] Assoc Prof Hannah H. Chang</div><div class="isomer-card-description">Hannah is Associate Professor of Marketing at the Lee Kong Chian School of Business, Singapore Management University. She studies consumer behaviour and digital technologies, focusing on how consumers engage with products and services across digital platforms to inform marketing practice and policy.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://socsc.smu.edu.sg/faculty/profile/1536/q-forrest-zhang" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Forrest" src="/images/2026 Festival Committee/Forrest_Zhang.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[SMU] Assoc Prof Q Forrest Zhang</div><div class="isomer-card-description">Forrest is Associate Professor of Sociology and Lee Kong Chian Fellow at the School of Social Sciences, Singapore Management University. His research focuses on China’s agrarian political economy and rural development.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/about-suss/faculty-and-staff/detail/jennifer-ang" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
