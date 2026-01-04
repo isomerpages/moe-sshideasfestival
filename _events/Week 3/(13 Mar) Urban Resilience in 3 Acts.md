@@ -24,7 +24,7 @@ third_nav_title: Week 3
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: SUTD Hokkien Foundation Lecture Theatre 4</strong>
 </p>
 </td>
 </tr>
