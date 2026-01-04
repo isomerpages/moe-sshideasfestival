@@ -37,16 +37,15 @@ third_nav_title: Week 4
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<p>How can the arts – particularly music – support resilience and mental
+well-being in a rapidly changing world? This panel discussion, hosted by
+Peter Tay, psychologist in the Health and Social Sciences Cluster at SIT,
+brings together insights from his collaborative research with The TENG
+Company on the therapeutic potential of music. Their study, conducted with
+undergraduate students, working adults, and seniors, highlights how sound
+and rhythm can ease anxiety and promote emotional well-being.</p>
+<p>Attendees will not only engage in dialogue about the intersection of music
+and health but also experience the effects of auditory stimulation in an
+immersive session. The panel will explore practical ways to deepen connections
+between creative expression and healthcare, sparking ideas for how music
+can be harnessed to help individuals and communities to flourish.</p>
