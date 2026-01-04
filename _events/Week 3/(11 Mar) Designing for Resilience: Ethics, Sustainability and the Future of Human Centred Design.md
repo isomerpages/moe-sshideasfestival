@@ -19,34 +19,33 @@ third_nav_title: Week 3
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 10:30am – 12:00pm</strong>
+<p><strong>Time: 2.00pm – 5:00pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: SUTD Lecture Theatre 4</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: "Adapting to Change II: AI &amp; Emerging Technologies"</strong>
+<p><strong>Theme: Research &amp; Interdisciplinarity</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<p>The world is going through a period of upheaval and facing many serious
+challenges, whether from climate change, war, or new diseases. Societies
+across the world are having to grapple with the difficulty of living in
+the face of such adversities. In this cross-disciplinary symposium, we
+raise the question of how design can contribute to fostering more resilient
+forms of life.</p>
+<p>Rather than treating design as a tool for erasing difficulty, we will
+consider how it can cultivate the capacities, whether social, material,
+and imaginative, that enable communities to endure, adapt, and even flourish
+under pressure. This includes asking how design can scaffold mutual care,
+create infrastructures that absorb shocks, and open up new ways of organising
+collective life in uncertain times.</p>
