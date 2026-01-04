@@ -91,6 +91,6 @@ PhD in Asian Studies from the University of Cambridge in 2013. He has published
 many articles and a book, Rewriting Buddhism (UCL, 2020).</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.sutd.edu.sg/profile/cai-yanjun/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="yanjun" src="/images/2026 Festival Committee/cai yanjun.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[SUTD] Dr Cai Yanjun</div><div class="isomer-card-description">Yanjun Cai is Research Fellow at the Lee Kuan Yew Centre for Innovative Cities. Her research focuses on climate resilience and urban sustainability in the face of digital transformation, paying additional attention to disadvantaged populations.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
