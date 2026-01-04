@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - (3 Mar) What does it mean to be resilient? Voices from Patients,
+        Caregivers, and Practitioners.md
       - "Week 1/From Passion to Prosperity:  Prototyping Satellite Creative
         Community Labs for Social Impact.md"
       - "Week 1/(27 Feb) Choose your own Ethical Adventure: Exploring the use of
