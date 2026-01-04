@@ -6,4 +6,5 @@ variant: tiptap
 description: ""
 third_nav_title: Week 1
 ---
+<h4>Stay tuned for more details!</h4>
 <p></p>
