@@ -25,7 +25,7 @@ third_nav_title: Week 3
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: SMU Yong Pung How School of Law, 55 Armenian Street, Singapore 179943</strong>
 </p>
 </td>
 </tr>
@@ -37,16 +37,26 @@ third_nav_title: Week 3
 </tr>
 </tbody>
 </table>
-<p>All professionals face ethical conundrums in their field, however in healthcare,
-ethical considerations are integral to every aspect of healthcare practice,
-where clinicians act not only as providers of care but also as moral agents.</p>
-<p>Each clinical encounter presents potential dilemmas with significant consequences
-for patients, families, and society. While educators use established frameworks
-to guide ethical reasoning, practice often reveals persistent ambiguity
-and complexity. This workshop examines how emerging AI agents can support
-students and practitioners in navigating these “grey zones.”</p>
-<p>By clarifying conflicting values and drawing on real-world case scenarios,
-participants will explore the personal, professional, moral, and cultural
-dimensions of ethical decision-making. Interactive discussions and demonstrations
-will illustrate how AI-assisted tools can enhance ethical reasoning and
-complement traditional teaching approaches.</p>
+<p>The history of Singapore’s urban centre is a showcase for resilience in
+the island city. Its changing landscape is a direct reflection of the things
+that have made Singapore, from the early port to the agricultural areas,
+military and civic development, to the reclamation projects. Their development
+has been the cornerstone of, and reflected, social and economic growth,
+as Singapore moved through good times, and bad. Each of these socio-economic
+shifts has left its memory inscribed into the landscape and with them,
+a story.</p>
+<p>Starting from Armenian Street at the front of SMU’s Yong Pung How School
+of Law, this tour delves into the landscape under our feet, imagining a
+Singapore as it was at different points in its chronology, from the agricultural
+development of the nineteenth century, to the technological innovations
+of the early twentieth century, to the Japanese occupation, and beyond.
+This will be a predominantly social and environmental history, as opposed
+to a classic national history, one which will tell lesser-known stories
+from Singapore’s past and highlight parts of our history and landscape
+that might be commonly overlooked. All these stories point toward one thing
+however: resilience. Collectively they demonstrate that change can be viewed
+in a positive light, even if it might not have seemed that way once.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
+</div>
+<p></p>
