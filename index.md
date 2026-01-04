@@ -22,12 +22,12 @@ sections:
           url: /launch-week/
   - infopic:
       title: Reimagining Resilience
-      subtitle: Festival Theme
+      subtitle: Events calendar
       id: infopic
       description: Explore how people, communities, and systems adapt as technology,
         work, culture, and society transform the world around us.
       button: learn more
-      url: /if2026-theme/
+      url: /launch-week/
       alt: Image alt text
       image: /images/Logos & Assets/MOE_Ideas_Fest_Website_Graphic.png
 ---
