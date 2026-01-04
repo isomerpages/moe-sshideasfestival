@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - "Week 1/From Passion to Prosperity:  Prototyping Satellite Creative
+        Community Labs for Social Impact.md"
       - "Week 1/(27 Feb) Choose your own Ethical Adventure: Exploring the use of
         AI agents.md"
       - Week 1/.keep
