@@ -10,6 +10,15 @@ workshops and roundtable discussions that focus on today's most pertinent
 topics, including Al, the metaverse, mental health and well-being, the
 changing workplace and much more. Ideal for SSH practitioners and enthusiasts
 alike.</p>
+<p></p>
+<blockquote>
+<p>Have you noticed the speech bubbles linked to our events?</p>
+</blockquote>
+<p>Resilience is a large topic and holds relevance to every social science
+and humanities discipline. With so many events out there, we've split our
+events into six helpful categories, each focused on different aspects of
+resilience.</p>
+<p>Read more about our respective sub-themes below!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
