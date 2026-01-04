@@ -6,4 +6,4 @@ variant: tiptap
 description: ""
 third_nav_title: Week 1
 ---
-<p>No writeup??!</p>
+<p></p>
