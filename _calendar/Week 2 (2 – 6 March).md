@@ -30,7 +30,7 @@ Literacy</div>
 for millions</div>
 <div class="isomer-card-link">Register here!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[4 Mar] Embedding Holistic Wellbeing into the Fabric of the University</div><div class="isomer-card-description">Designing communities that help students Thrive, not just Survive</div><div class="isomer-card-link">Register here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/embedding-holistic-wellbeing-into-the-fabric-of-the-university/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[4 Mar] Embedding Holistic Wellbeing into the Fabric of the University</div><div class="isomer-card-description">Designing communities that help students Thrive, not just Survive</div><div class="isomer-card-link">Register here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
