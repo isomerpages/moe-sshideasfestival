@@ -36,31 +36,10 @@ third_nav_title: Week 2
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/WD7pbFj1p6PTVKpu9"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Location_button_2.png"></a>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</th>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white_background_long.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Lab visit for experimental psychology on experiment equipment (such as
 psychophysics experiment, virtual reality simulations, driving simulator,
 hologram, eye tracker, and EEG), to experience the procedure in studying
 human visual perception, cognition, judgment and decision, and behaviours
 at Psychology Programme, School of Social Sciences, NTU</p>
+<p></p><a class="isomer-image-wrapper" href="https://forms.gle/pztgonF2ymmEBdVWA"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<p></p>
