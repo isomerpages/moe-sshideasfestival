@@ -50,3 +50,7 @@ to fulfil their core functions.</p>
 and industry to explore how law can remain a stabilising force in the age
 of AI and to identify practical strategies for embedding resilience “by
 design” into legal institutions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
+</div>
+<p></p>
