@@ -46,3 +46,7 @@ experience controlling and engaged with these service robots' telepresence
 and remote monitoring capabilities. Finally, there will be a discussion
 and Q&amp;A for participants to consider the various challenges and approaches
 to effectively organize AI and robots as part of human work teams.</p>
+<a class="isomer-image-wrapper" href="https://suss.au1.qualtrics.com/jfe/form/SV_81vnhTwkbE9tBrg?Q_CHL=qr">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png">
+</a>
+<p></p>
