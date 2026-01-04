@@ -12,19 +12,19 @@ third_nav_title: Week 3
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 27 Feb 2026</strong>
+<p><strong>Date: 12 March 2026</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 10:30am – 12:00pm</strong>
+<p><strong>Time: 4.00pm – 5.30pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SIT Punggol Campus</strong>
+<p><strong>Venue: Function Lounge 4-2, SMU Yong Pung How School of Law, Level 4, 55 Armenian Street Singapore 179943</strong>
 </p>
 </td>
 </tr>
