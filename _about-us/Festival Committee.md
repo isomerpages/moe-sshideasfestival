@@ -35,7 +35,7 @@ policy.</div>
 <a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Nick-Powdthavee" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="nick" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="nick" src="/images/2026 Festival Committee/Nick.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -45,7 +45,7 @@ a Fellow of the Royal Economic Society specializing in behavioral economics
 and happiness research.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Xu-Hong" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="xuhong" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[NTU] Assoc Prof Xu Hong</div><div class="isomer-card-description">Xu Hong is Associate Professor of Psychology at School of Social Sciences, Nanyang Technological University. Her research studies neural mechanisms of visual perception and cognition and its application to human-computer interaction (HCI).</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Xu-Hong" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="xuhong" src="/images/2026 Festival Committee/Xu_Hong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[NTU] Assoc Prof Xu Hong</div><div class="isomer-card-description">Xu Hong is Associate Professor of Psychology at School of Social Sciences, Nanyang Technological University. Her research studies neural mechanisms of visual perception and cognition and its application to human-computer interaction (HCI).</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://fass.nus.edu.sg/hist/people/jack-chia-meng-tat/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
