@@ -12,7 +12,7 @@ third_nav_title: SUSS Carnival (7 Mar)
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 10 March 2026</strong>
+<p><strong>Date: 7 March 2026</strong>
 </p>
 </td>
 </tr>
