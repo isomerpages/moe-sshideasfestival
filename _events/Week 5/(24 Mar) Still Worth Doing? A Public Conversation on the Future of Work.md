@@ -24,7 +24,7 @@ third_nav_title: Week 5
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Function Lounge 4-2, SMU Yong Pung How School of Law, 55 Armenian Street, Singapore 179943 </strong>
+<p><strong>Venue: Function Lounge 4-2, SMU Yong Pung How School of Law, 55 Armenian Street, Singapore 179943</strong>
 </p>
 </td>
 </tr>
@@ -61,4 +61,8 @@ Join us to reimagine the future of work!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
+</div>
 <p></p>
