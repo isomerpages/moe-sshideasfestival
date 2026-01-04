@@ -49,3 +49,8 @@ and health but also experience the effects of auditory stimulation in an
 immersive session. The panel will explore practical ways to deepen connections
 between creative expression and healthcare, sparking ideas for how music
 can be harnessed to help individuals and communities to flourish.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
+</div>
+<p></p>
