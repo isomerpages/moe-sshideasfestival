@@ -25,7 +25,6 @@ of resilience.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Resilience and Mental Wellbeing</div>
-<div class="isomer-card-description">What if we re-imagine mental health as social wealth?</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -36,7 +35,6 @@ of resilience.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Adapting to Change I: Urban, Social, Cultural</div>
-<div class="isomer-card-description">What if cities are built around belonging, not buildings?</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -47,7 +45,6 @@ of resilience.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Adapting to Change II: AI &amp; Emerging Technologies</div>
-<div class="isomer-card-description">What if AI's hardest problems are human problems?</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -58,7 +55,6 @@ of resilience.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Regional, Policy and Global Resilience</div>
-<div class="isomer-card-description">Or if resilience is built into policy?</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -69,7 +65,6 @@ of resilience.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Careers, Education and Skills for the Future</div>
-<div class="isomer-card-description">Or if adapability is the most important skill?</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -80,7 +75,6 @@ of resilience.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Research &amp; Interdisciplinarity</div>
-<div class="isomer-card-description">And if answers live between disciplines?</div>
 </div>
 </div>
 </div>
