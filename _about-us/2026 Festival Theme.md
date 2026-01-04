@@ -11,10 +11,9 @@ Our theme for 2026 is <strong>Reimagining Resilience: Flourishing in a Changing 
 which explores how people, communities, and systems can adapt and thrive
 amid profound technological, cultural, and societal change.</p>
 <p><strong>Have you spotted our colourful speech bubbles?</strong> Resilience
-is a huge topic that matters to pretty much every field in the social sciences
-and humanities. With 32 events out there, we've tagged our events into
-six helpful categories, each focused on different questions and aspects
-of resilience.</p>
+is a huge topic that matters to every field in the social sciences and
+humanities. To aid navigation, we've tagged our events into six helpful
+categories, each focused on different questions and aspects of resilience.</p>
 <p>Learn more about our events on the <a href="/launch-week" rel="noopener nofollow" target="_blank">events calendar</a>!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
