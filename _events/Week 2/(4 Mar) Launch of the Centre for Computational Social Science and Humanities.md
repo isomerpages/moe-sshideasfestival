@@ -30,7 +30,7 @@ third_nav_title: Week 2
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: "Adapting to Change II: AI &amp; Emerging Technologies"</strong>
+<p><strong>Theme: Research and Interdisciplinarity</strong>
 </p>
 </td>
 </tr>
