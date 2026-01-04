@@ -25,7 +25,7 @@ third_nav_title: Week 2
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: The Pod @ National Library Board</strong>
+<p><strong>Venue: The POD @ National Library Board,&nbsp;National Library Building, Level 16,&nbsp;100 Victoria Street,&nbsp;Singapore 188064&nbsp;</strong>
 </p>
 </td>
 </tr>
