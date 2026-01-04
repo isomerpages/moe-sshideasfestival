@@ -4,13 +4,7 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
-<p>The Ideas Festival is a month-long showcase of the latest insights and
-contributions from social science and humanities (SSH) researchers in Singapore.
-Across a wide range of 32 events, our festival dives into fascinating and
-timely topics which include the future of work, social wellbeing, technological
-disruption, geopolitics and the future of work.
-<br>
-<br>The Ideas Festival is co-organised by seven partner universities, namely
+<p>The Ideas Festival is co-organised by seven partner universities, namely
 the National University of Singapore (NUS), Nanyang Technological University
 (NTU), Singapore Management University (SMU), Singapore University of Social
 Sciences (SUSS), Singapore University of Technology and Design (SUTD),
