@@ -59,4 +59,5 @@ about fighting falsehoods, this seminar is for you.</p>
 </tr>
 </tbody>
 </table>
+<p></p><a class="isomer-image-wrapper" href="https://forms.gle/re3Z6RZ3oGodcyjD6"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
