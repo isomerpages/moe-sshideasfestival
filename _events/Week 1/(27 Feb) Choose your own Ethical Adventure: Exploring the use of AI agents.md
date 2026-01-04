@@ -73,4 +73,8 @@ dimensions of ethical decision-making. Interactive discussions and demonstration
 will illustrate how AI-assisted tools can enhance ethical reasoning and
 complement traditional teaching approaches.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
+</div>
+<p></p>
 <p></p>
