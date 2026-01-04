@@ -4,17 +4,19 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
-<p>The inaugural Ideas Festival is a showcase of the latest insights and
-contributions from humanities and social science (HSS) researchers in Singapore.
-It features multiple events that explore a diverse and thought-provoking
-range of topics, from the impact of artificial intelligence on society,
-to well-being and the changing workplace.
+<p>The Ideas Festival is a month-long showcase of the latest insights and
+contributions from social science and humanities (SSH) researchers in Singapore.
+Across a wide range of 32 events, our festival dives into fascinating and
+timely topics which include the future of work, social wellbeing, technological
+disruption, geopolitics and the future of work.
 <br>
-<br>The Ideas Festival is co-organised by the National University of Singapore
-(NUS), Nanyang Technological University (NTU), Singapore Management University
-(SMU), Singapore University of Social Sciences (SUSS), Singapore University
-of Technology and Design (SUTD), and supported by the <a href="https://www.ssrc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Social Science Research Council</a> (SSRC),
-which promotes and supports HSS research in areas of strategic relevance
+<br>The Ideas Festival is co-organised by seven partner universities, namely
+the National University of Singapore (NUS), Nanyang Technological University
+(NTU), Singapore Management University (SMU), Singapore University of Social
+Sciences (SUSS), Singapore University of Technology and Design (SUTD),
+Singapore Institute of Technology (SIT) and the University of the Arts
+Singapore (UAS). The Festival is supported by the <a href="https://www.ssrc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Social Science Research Council</a> (SSRC),
+which promotes and supports SSH research in areas of strategic relevance
 to Singapore and the region.</p>
 <hr>
 <h4>Organising Committee</h4>
