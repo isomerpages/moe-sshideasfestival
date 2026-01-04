@@ -12,8 +12,9 @@ which explores how people, communities, and systems can adapt and thrive
 amid profound technological, cultural, and societal change.</p>
 <p><strong>Have you spotted our colourful speech bubbles?</strong> Resilience
 is a huge topic that matters to every field in the social sciences and
-humanities. To aid navigation, we've tagged our events into six helpful
-categories, each focused on different questions and aspects of resilience.</p>
+humanities. To help break down our events, we've grouped them into six
+helpful categories, each focused on different questions and aspects of
+resilience.</p>
 <p>Explore the full range of events on the <a href="/launch-week" rel="noopener nofollow" target="_blank">events calendar</a>!</p>
 <h3>Event Categories</h3>
 <div class="isomer-card-grid">
