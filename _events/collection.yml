@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - SUSS Carnival (7 Mar)/.keep
       - Week 1/.keep
       - "Week 1/(27 Feb) Choose your own Ethical Adventure: Exploring the use of
         AI agents.md"
