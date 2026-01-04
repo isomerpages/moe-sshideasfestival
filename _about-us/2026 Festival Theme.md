@@ -4,20 +4,19 @@ permalink: /if2026-theme/
 variant: tiptap
 description: ""
 ---
-<p>Join us for a series of events that gathers the best minds and developments
-in the Humanities and Social Sciences (HSS). With networking sessions,
-workshops and roundtable discussions that focus on today's most pertinent
-topics, including Al, the metaverse, mental health and well-being, the
-changing workplace and much more. Ideal for SSH practitioners and enthusiasts
-alike.</p>
+<p>The Ideas Festival is a month-long showcase of the latest insights and
+contributions from social science and humanities (SSH) researchers in Singapore.
+Our theme for 2026 is Reimagining Resilience: Flourishing in a Changing
+World, which explores how people, communities, and systems adapt amid profound
+technological, cultural, and societal change.</p>
 <p></p>
 <blockquote>
 <p>Have you noticed the unique speech bubbles linked to each event?</p>
 </blockquote>
 <p>Resilience is a huge topic that matters to pretty much every field in
-the social sciences and humanities. With so many events out there, we've
-split our events into six helpful categories, each focused on different
-questions and aspects of resilience.</p>
+the social sciences and humanities. With 32 events out there, we've split
+our events into six helpful categories, each focused on different questions
+and aspects of resilience.</p>
 <p>Read more about our respective sub-themes below!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
