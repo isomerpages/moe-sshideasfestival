@@ -16,7 +16,7 @@ description: ""
 <div class="isomer-card-description">It starts now: Designing education for the future</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/designing-for-resilience-ethics-sustainability-and-the-future-of-human-centred-design/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[11 Mar] Designing for Resilience: Ethics, Sustainability and the Future of Human Centred Design</div><div class="isomer-card-description">From surviving to thriving: How design shapes resilient communities</div><div class="isomer-card-link">More details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/designing-for-resilience-ethics-sustainability-and-the-future-of-human-centred-design/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[11 Mar] Designing for Resilience: Ethics, Sustainability and the Future of Human Centred Design</div><div class="isomer-card-description">From surviving to thriving: How design shapes resilient communities</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/building-resilient-legal-systems-in-the-ai-age/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
