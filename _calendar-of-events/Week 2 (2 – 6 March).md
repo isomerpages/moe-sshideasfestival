@@ -33,7 +33,7 @@ and Practitioners</div>
 <a rel="noopener noreferrer nofollow" href="/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png">
 </div>
 </div>
 <div class="isomer-card-body">
