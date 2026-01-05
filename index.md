@@ -16,7 +16,7 @@ sections:
       alignment: left
       key_highlights:
         - title: Sign up for our events!
-          description: 26 Feb to 30 Mar 2026
+          description: 26 Feb - 30 Mar 2026
           url: /launch-week/
   - infopic:
       title: Reimagining Resilience
