@@ -36,16 +36,15 @@ third_nav_title: Week 2
 </tr>
 </tbody>
 </table>
-<p>EMPOWER will showcase three key projects. The first identifies neural
-hallmarks of effective teacher–child interactions that shape executive
-function development and school readiness in both typically developing
-children and those at risk for ASD or ADHD.</p>
-<p>The second advances digital learning through live, contingent interaction
-studies and a personalised avatar that mitigates the “video deficit” for
-young learners.</p>
-<p>The third highlights the Playpod project, a community-based, scalable
-screening tool from the Wellcome LEAP 1kD programme, designed to support
-healthy infant brain development through accessible, play-based assessments
-and early identification of developmental needs.</p>
+<p>Every child can learn, but no child has exactly the same learning needs.</p>
+<p>See how EMPOWER's science is uncovering the brain basis of how children
+learn differently. We will demonstrate how every child's brain has a unique
+personal rhythm for processing information. We will aslo explain how human
+brains are built to form social connections with other brains, and how
+this neural connection determines how and what we learn from social partners,
+including parents and teachers.</p>
+<p>Discover how this new science is powering tools for neuropersonalised
+learning at home and in the classroom, leading to earlier and deeper insights
+into children's developing mental potential.&nbsp; &nbsp;</p>
 <p></p><a class="isomer-image-wrapper" href="https://event.ntu.edu.sg/EMPOWER-Centre-NTU-Ideas-Festival-2026"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
