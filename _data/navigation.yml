@@ -1,8 +1,6 @@
-logo: /images/MINIMUM_SIZE_VERSION.png
+logo: /images/Logos & Assets/MOE_Ideas_Fest_Website_Logo.png
 links:
-  - title: About us
-    url: /about-us
-  - title: Events
-    collection: events
-  - title: Media
-    collection: media
+  - title: About Us
+    collection: about-us
+  - title: Calendar Of Events
+    collection: calendar-of-events

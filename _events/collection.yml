@@ -2,28 +2,57 @@ collections:
   events:
     output: true
     order:
-      - Ideas Festival Singapore 2024 Events.md
-      - Week 1 (20 – 24 March)/.keep
-      - "Week 1 (20 – 24 March)/Conversation on Computational Social Science:
-        Issues, Insights and Applications.md"
-      - Week 2 (25 – 31 March)/.keep
-      - Week 2 (25 – 31 March)/Gazing into the Metaverse.md
-      - Week 3 (1 – 7 April)/.keep
-      - Week 3 (1 – 7 April)/Helping the Youth Become Leaders of Sustainable and
-        Climate Resilient Societies.md
-      - Week 3 (1 – 7 April)/Mental Health and Culture.md
-      - Week 3 (1 – 7 April)/How the Humanities and Social Sciences Can Help Us
-        Hack the STEM Fields.md
-      - "Week 3 (1 – 7 April)/After the PhD: The Early Years.md"
-      - "Week 3 (1 – 7 April)/Growing Up in an AI–Fuelled World: Reflections on
-        Childhood Amid Digital Acceleration.md"
-      - Week 4 (8 – 14 April)/.keep
-      - Week 4 (8 – 14 April)/Challenges and Opportunities of the Changing
-        Workplace.md
-      - Week 4 (8 – 14 April)/Foundations of Home–Based Work.md
-      - Week 4 (8 – 14 April)/Whole–of–Society Approach to Well–Being.md
-      - Week 5 (15 – 21 April)/.keep
-      - "Week 5 (15 – 21 April)/Singapura Before Raffles: Early Modern Asia in
-        the Global Renaissance.md"
-      - Week 5 (15 – 21 April)/AI x Workers ＋ Making Sense of the Future.md
-      - Week 5 (15 – 21 April)/AI and Fake News.md
+      - Launch Week/.keep
+      - "Launch Week/(27 Feb) Choose your own Ethical Adventure: Exploring the
+        use of AI agents.md"
+      - Week 2/.keep
+      - "Week 2/(2 Mar) Failing Forward: What the Humanities and Social Sciences
+        Teach Us About Resilience​.md"
+      - Week 2/(3 Mar) What does it mean to be resilient? Voices from Patients,
+        Caregivers, and Practitioners.md
+      - "Week 2/(4 & 9 Mar) Building Financial Resilience: Pensions & Financial
+        Literacy.md"
+      - Week 2/(4 Mar) Embedding Holistic Wellbeing into the Fabric of the
+        University.md
+      - Week 2/(4 Mar) Launch of the Centre for Computational Social Science and
+        Humanities.md
+      - Week 2/(6 Mar) EMPOWER’s Spotlight on Transformative Research in Early
+        Development.md
+      - Week 2/(6 Mar) Reimagining Regional Resilience in an Age of Great Power
+        Rivalry.md
+      - Week 2/(6 Mar) Pedagogical Signatures of Resilience.md
+      - "Week 2/(6 Mar) Doing Creative Practice Research: Methods for Building
+        Unusual Archives.md"
+      - "Week 2/(6 Mar) From Exhibition to Economy: Exploring Cultural Economics
+        in Action.md"
+      - SUSS Carnival (7 Mar)/.keep
+      - SUSS Carnival (7 Mar)/Service Learning Exhibition.md
+      - "SUSS Carnival (7 Mar)/Service Robots: The Future of Work.md"
+      - "SUSS Carnival (7 Mar)/Neuroscience of Stress and Resilience:
+        Interactive Demos and Booths.md"
+      - SUSS Carnival (7 Mar)/Enhancing Critical Thinking with Lessons from
+        Evidence Law.md
+      - Week 3/(9 Mar) Lab Visit for Studies in Experimental Psychology.md
+      - Week 3/.keep
+      - Week 3/(10 Mar) Speculative Future Frames Workshop.md
+      - "Week 3/(11 Mar) Designing for Resilience: Ethics, Sustainability and
+        the Future of Human Centred Design.md"
+      - Week 3/(12 Mar) Building Resilient Legal Systems in the AI Age.md
+      - Week 3/(13 Mar) Urban Resilience in 3 Acts.md
+      - "Week 3/(14 Mar) Resilient Singapore: Reimagining the Civic Core through
+        Environmental History.md"
+      - "Week 4/(17 Mar) Managing Tech and Trade Disruptions: Building
+        Resilience in a Shifting Int'l Landscape.md"
+      - Week 4/(17 Mar) Fact or Fiction? Staying Informed in a World of Digital
+        Deception.md
+      - Week 4/(18 Mar) ThriveLab.md
+      - "Week 4/(18 Mar) Resonance and Resilience: Exploring the Nexus of Music
+        and Mental Health.md"
+      - Week 4/(19 Mar) Navigating the world of Social Science Careers.md
+      - Week 4/.keep
+      - Week 5/.keep
+      - Week 5/(24 Mar) Still Worth Doing? A Public Conversation on the Future
+        of Work.md
+      - "Week 5/(25 Mar) Future Horizons: Envisioning the Humanities and Social
+        Sciences.md"
+      - Week 5/(27 Mar) Is AI Art the End of Human Creativity?.md

@@ -1,25 +1,23 @@
-title: Ideas Festival Singapore 2024
+title: Ideas Festival Singapore 2026
 url: https://ideasfestival.edu.sg
-favicon: /images/Moe_isomer_32x32.png
+favicon: /images/Logos & Assets/MOE_Ideas_Fest_Favicon.png
 colors:
-  primary-color: "#eb0a8c"
-  secondary-color: "#7961aa"
+  primary-color: "#334566"
+  secondary-color: "#011a46"
   media-colors:
     - title: media-color-one
-      color: "#e636a9"
+      color: "#bd10e0"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#011a46"
     - title: media-color-three
       color: "#eb2196"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: The official website of the 2024 Ideas Festival, a showcase of the
+description: The official website of the 2026 Ideas Festival, a showcase of the
   latest insights and contributions from humanities and social sciences (HSS) in
-  Singapore. Sign up for our series of diverse and exciting events, ranging from
-  the impact of artificial intelligence on society, to well-being and the
-  changing workplace.
+  Singapore.
 permalink: none
 baseurl: ""
 exclude:
@@ -56,7 +54,7 @@ plugins:
 staging: https://staging-lite.d33e2v0cur0mnw.amplifyapp.com
 prod: https://master.d2w045bt49x23s.amplifyapp.com
 facebook-pixel: "1446024739674738"
-resources_name: news-archive
+resources_name: events-calendar
 shareicon: /images/MINIMUM_SIZE_VERSION.png
 is_government: true
 google_analytics_ga4: G-0Q8R87LV7L

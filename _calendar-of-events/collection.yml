@@ -1,0 +1,10 @@
+collections:
+  calendar-of-events:
+    output: true
+    order:
+      - Launch Week (26 – 28 Feb).md
+      - Week 2 (2 – 6 March).md
+      - SUSS Carnival (7 March).md
+      - Week 3 (9 – 14 March).md
+      - Week 4 (16 – 19 March).md
+      - Week 5 (23 – 27 March).md
