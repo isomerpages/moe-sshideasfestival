@@ -36,12 +36,13 @@ third_nav_title: Week 2
 </tr>
 </tbody>
 </table>
-<p><strong>How can computational tools revolutionise the way we understand society, culture, and human behaviour? </strong>Join
-us for the official launch of the NUS Centre for Computational Social Science
-and Humanities (CSSH), a new interdisciplinary initiative that brings together
-the methods of computing with the questions and insights of the social
-sciences and humanities. Serving as a vibrant nexus for innovation and
-collaboration, CSSH aims to advance research that bridges data, technology,
+<p>How can computational tools revolutionise the way we understand society,
+culture, and human behaviour?</p>
+<p>Join us for the official launch of the NUS Centre for Computational Social
+Science and Humanities (CSSH), a new interdisciplinary initiative that
+brings together the methods of computing with the questions and insights
+of the social sciences and humanities. Serving as a vibrant nexus for innovation
+and collaboration, CSSH aims to advance research that bridges data, technology,
 and human experience.</p>
 <p>This launch marks the beginning of an exciting platform for scholars,
 students, and practitioners to explore new frontiers in knowledge creation
