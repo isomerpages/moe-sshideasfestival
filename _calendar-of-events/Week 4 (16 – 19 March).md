@@ -13,7 +13,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">[17 Mar] Fact or Fiction? Staying Informed in a World of Digital Deception</div>
-<div class="isomer-card-description">Stop Falling for tricks in a fact vs fiction world.</div>
+<div class="isomer-card-description">Stop falling for tricks in a fact vs fiction world.</div>
 <div class="isomer-card-link">More details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/thrivelab/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[18 Mar] Thrivelab</div><div class="isomer-card-description">No textbooks or lectures—just hands-on problem-solving</div><div class="isomer-card-link">More details</div></div></a>
