@@ -68,7 +68,7 @@ art.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.sutd.edu.sg/profile/dorien-herremans/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="dorien" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="dorien" src="/images/SUTD/AI art human creativity/dorien.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -79,11 +79,11 @@ AI technologies for multimodal applications, with a focus on generative
 models and affective computing for music.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.ngyisheng.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="yisheng" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ng Yi-Sheng</div><div class="isomer-card-description">Ng Yi-Sheng is a multidisciplinary, award-winning writer, researcher and activist. He is the co-author of the “Collective Statement from Singapore's Literary Community on AI”, which advised the National Language to proceed with caution in the endorsement of Generative AI technology.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ngyisheng.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="yisheng" src="/images/SUTD/AI art human creativity/yisheng.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ng Yi-Sheng</div><div class="isomer-card-description">Ng Yi-Sheng is a multidisciplinary, award-winning writer, researcher and activist. He is the co-author of the “Collective Statement from Singapore's Literary Community on AI”, which advised the National Language to proceed with caution in the endorsement of Generative AI technology.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.sutd.edu.sg/profile/stylianos-dritsas/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="stylianos" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="stylianos" src="/images/SUTD/AI art human creativity/image_2026_01_05_225613531.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -94,7 +94,7 @@ design computation and digital fabrication, with extensive interdisciplinary
 work across science, engineering, medicine, and marine biology.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.sutd.edu.sg/profile/ryutaro-uchiyama/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/SUTD/AI art human creativity/ryutaro.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Ryutaro Uchiyama</div><div class="isomer-card-description">Ryutaro Uchiyama is an interdisciplinary behavioral scientist bridging evolutionary biology, computational neuroscience, and cultural psychology. He is an Assistant Professor at SUTD and holds a PhD from LSE and an MA from Cornell. He has also worked as a spatial designer in Tokyo.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
 <p></p>
