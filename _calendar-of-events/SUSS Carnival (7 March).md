@@ -8,7 +8,7 @@ description: ""
 <blockquote>
 <h4>A day of intellectual play: Engaging with the issues that define our time.</h4>
 </blockquote>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/service-learning-exhibition/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[7 Mar] Service Learning Exhibition</div><div class="isomer-card-description">Beyond the textbook: The projects that are reshaping communities.</div><div class="isomer-card-link">More details</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/service-learning-exhibition/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[7 Mar] Service Learning Exhibition</div><div class="isomer-card-description">Beyond the textbook: The projects that are reshaping communities.</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/service-robots-the-future-of-work/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
