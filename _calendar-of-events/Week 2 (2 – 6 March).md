@@ -8,7 +8,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="/lab-visit-for-studies-in-experimental-psychology/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png">
 </div>
 </div>
 <div class="isomer-card-body">
