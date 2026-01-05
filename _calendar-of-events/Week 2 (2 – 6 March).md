@@ -17,7 +17,7 @@ and Practitioners</div>
 <div class="isomer-card-description">The human cost to staying strong for someone else.</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/building-financial-resilience-pensions-financial-literacy/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_35.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[4 &amp; 9 Mar] Building Financial Resilience: Pensions &amp; Financial Literacy</div><div class="isomer-card-description">Asia's financial resilience blueprint: How policymakers are securing retirement for millions</div><div class="isomer-card-link">More details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/building-financial-resilience-pensions-financial-literacy/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[4 &amp; 9 Mar] Building Financial Resilience: Pensions &amp; Financial Literacy</div><div class="isomer-card-description">Asia's financial resilience blueprint: How policymakers are securing retirement for millions</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/embedding-holistic-wellbeing-into-the-fabric-of-the-university/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
