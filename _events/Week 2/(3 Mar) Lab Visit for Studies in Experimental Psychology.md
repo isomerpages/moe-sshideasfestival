@@ -12,7 +12,7 @@ third_nav_title: Week 2
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date: 3 March 2026</strong>
+<p><strong>Date: 9 March 2026</strong>
 </p>
 </td>
 </tr>
