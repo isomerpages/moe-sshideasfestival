@@ -30,7 +30,7 @@ third_nav_title: SUSS Carnival (7 Mar)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: Research &amp; Interdisciplinarity</strong>
+<p><strong>Theme: Adapting to Change I: Urban, Social, Cultural</strong>
 </p>
 </td>
 </tr>
