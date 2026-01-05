@@ -26,10 +26,11 @@ and Practitioners</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">[4 Mar] Embedding Holistic Wellbeing into the Fabric of the University</div>
-<div class="isomer-card-description">Designing communities that help students Thrive, not just Survive</div>
+<div class="isomer-card-description">The art of flourishing: designing communities that help students Thrive,
+not just Survive</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/launch-of-the-centre-for-computational-social-science-and-humanities/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[4 Mar] Launch of the Centre for Computational Social Science and Humanities</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">More details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/launch-of-the-centre-for-computational-social-science-and-humanities/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[4 Mar] Launch of the Centre for Computational Social Science and Humanities</div><div class="isomer-card-description">Where computation meets the social sciences and humanities</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
