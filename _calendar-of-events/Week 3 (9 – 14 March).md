@@ -31,5 +31,17 @@ world</div>
 <div class="isomer-card-link">More details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/resilient-singapore-reimagining-the-civic-core-through-environmental-history/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[14 Mar] Resilient Singapore: Reimagining the Civic Core through Environmental History</div><div class="isomer-card-description">Singapore’s wild roots: Uncover the civic core’s layered past on foot.</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/lab-visit-for-studies-in-experimental-psychology/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="lab" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[9 Mar] Lab Visit for Studies in Experimental Psychology</div>
+<div class="isomer-card-description">You think, we track. The Psychology Lab is open for your hypotheses.</div>
+<div class="isomer-card-link">More details</div>
+</div>
+</a>
 </div>
 <p></p>
