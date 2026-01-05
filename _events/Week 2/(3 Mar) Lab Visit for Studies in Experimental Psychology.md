@@ -36,10 +36,16 @@ third_nav_title: Week 2
 </tr>
 </tbody>
 </table>
-<p>Lab visit for experimental psychology on experiment equipment (such as
-psychophysics experiment, virtual reality simulations, driving simulator,
-hologram, eye tracker, and EEG), to experience the procedure in studying
-human visual perception, cognition, judgment and decision, and behaviours
-at Psychology Programme, School of Social Sciences, NTU</p>
+<p>One of the intriguing questions in Psychology is: How to decipher the
+black box of human brain? For example, how do we process information? We
+sense­­­ information through our sensory and perceptual systems, process
+it further in cognitive system, influenced by our memory and learning as
+well as past experiences, make judgment and decision, and take action or
+inaction.</p>
+<p>In a series of experiments, we infer this process by studying sensory
+and perceptual inputs, cognitive process, and behavioural outputs in Psychology
+labs through carefully controlled experiments and recording equipment such
+as eye tracking and EEG. Please join us for the lab visit to experience
+some of these experiments. &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p><a class="isomer-image-wrapper" href="https://forms.gle/pztgonF2ymmEBdVWA"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
