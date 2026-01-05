@@ -15,8 +15,8 @@ sections:
       backgroundColor: white
       alignment: left
       key_highlights:
-        - title: Learn about resilience in a changing world
-          description: Sign up for our events!
+        - title: Sign up for our events!
+          description: 26 Feb to 30 Mar 2026
           url: /launch-week/
   - infopic:
       title: Reimagining Resilience
