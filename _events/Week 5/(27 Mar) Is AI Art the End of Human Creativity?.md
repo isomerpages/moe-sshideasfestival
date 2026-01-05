@@ -65,6 +65,36 @@ art.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Melvin-Chen" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SUTD/AI art human creativity/melvin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Melvin Chen</div><div class="isomer-card-description">Melvin Chen is Senior Lecturer in Philosophy at Nanyang Technological University, Singapore. He holds a PhD in Philosophy and is also a published poet, practising visual artist, and amateur Python programmer. He is the author of Art-Making as Problem-Solving (Palgrave Macmillan, 2025).</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.sutd.edu.sg/profile/dorien-herremans/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="dorien" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assoc Prof Dorien Herremans</div>
+<div class="isomer-card-description">Dorien Herremans is an Associate Professor at SUTD, where she leads the
+Audio, Music, and AI (AMAAI) Lab. Her research focuses on developing cutting-edge
+AI technologies for multimodal applications, with a focus on generative
+models and affective computing for music.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ngyisheng.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="yisheng" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ng Yi-Sheng</div><div class="isomer-card-description">Ng Yi-Sheng is a multidisciplinary, award-winning writer, researcher and activist. He is the co-author of the “Collective Statement from Singapore's Literary Community on AI”, which advised the National Language to proceed with caution in the endorsement of Generative AI technology.  </div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.sutd.edu.sg/profile/stylianos-dritsas/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="stylianos" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assoc Prof Stylianos Dritsas</div>
+<div class="isomer-card-description">Stylianos Dritsas is Associate Professor and Associate Head of Pillar
+in Architecture and Sustainable Design at SUTD. His research focuses on
+design computation and digital fabrication, with extensive interdisciplinary
+work across science, engineering, medicine, and marine biology.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
 </div>
 <p></p>
 <p></p>
