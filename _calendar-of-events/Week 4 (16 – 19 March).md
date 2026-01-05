@@ -29,6 +29,6 @@ Health</div>
 <div class="isomer-card-description">The therapeutic frequency that fosters emotional balance</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/navigating-the-world-of-social-science-careers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[19 Mar] Navigating the world of Social Science Careers</div><div class="isomer-card-description">Beyond the Degree: Careers That Value Social Science Thinking</div><div class="isomer-card-link">More details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/navigating-the-world-of-social-science-careers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[19 Mar] Navigating the world of Social Science Careers</div><div class="isomer-card-description">Impactful, dynamic, essential. Careers that thrive on social science thinking</div><div class="isomer-card-link">More details</div></div></a>
 </div>
 <p></p>
