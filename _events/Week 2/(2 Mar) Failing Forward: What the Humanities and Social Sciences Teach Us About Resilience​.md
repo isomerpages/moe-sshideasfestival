@@ -31,7 +31,7 @@ third_nav_title: Week 2
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: Research &amp; Interdisciplinarity</strong>
+<p><strong>Theme: Resilience and Mental Wellbeing</strong>
 </p>
 </td>
 </tr>
