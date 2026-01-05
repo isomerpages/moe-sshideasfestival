@@ -4,7 +4,7 @@ title: Ideas Festival Singapore 2026
 description: The official website of the 2026 Ideas Festival, a showcase of the
   latest insights and contributions from humanities and social sciences (HSS) in
   Singapore.
-image: /images/MINIMUM_SIZE_VERSION.png
+image: /images/Logos & Assets/if26 reimagining resilience.png
 permalink: /
 notification: ""
 sections:
