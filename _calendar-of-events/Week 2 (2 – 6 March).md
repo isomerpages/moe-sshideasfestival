@@ -26,7 +26,7 @@ and Practitioners</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">[4 Mar] Embedding Holistic Wellbeing into the Fabric of the University</div>
-<div class="isomer-card-description">The art of flourishing: designing communities that help students Thrive,
+<div class="isomer-card-description">The art of flourishing: Designing communities that help students Thrive,
 not just Survive</div>
 <div class="isomer-card-link">More details</div>
 </div>
