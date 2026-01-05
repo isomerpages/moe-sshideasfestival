@@ -42,7 +42,7 @@ for millions</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] EMPOWER’s Spotlight on Transformative Research in Early Development</div><div class="isomer-card-description">Going beyond a “one size fits all” approach to children’s learning</div><div class="isomer-card-link">More details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] EMPOWER’s Spotlight on Transformative Research in Early Development</div><div class="isomer-card-description">One size can’t fit them all: Why tailoring children’s learning matters</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/reimagining-regional-resilience-in-an-age-of-great-power-rivalry/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
