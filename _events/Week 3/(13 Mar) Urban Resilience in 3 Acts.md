@@ -64,5 +64,20 @@ Future Digital Economies initiative).</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/researchers/suhaila-zainal-shah/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SUTD/Urban Resilience 3 Acts/Suhaila.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Suhaila Binte Zainal Shah</div><div class="isomer-card-description">Suhaila Zainal Shah is Research Fellow at the Lee Kuan Yew Centre for Innovative Cities. A sociologist with expertise in interdisciplinary and applied social research, she studies social inequalities, inclusivity, and urban challenges.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="www.linkedin.com/in/jeremy-mok-7096a230" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SUTD/Urban Resilience 3 Acts/Jeremy_Mok.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Jeremy Mok</div>
+<div class="isomer-card-description">Jeremy Mok has served in the eldercare sector with Lions Befrienders since
+2017. His work in community building through engaging residents, volunteers
+and partners has given him first-hand experience on how seniors can be
+meaningfully engaged and inspired to contribute back.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/centre-leadership/harvey-neo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Harvey Neo</div><div class="isomer-card-description">Harvey Neo’s research focuses on urban futures, citizen urban science, policy-making, and nature-society interactions. He is Southeast Asian editor of Human Geography and Frontiers in Sustainable Cities, and serves on advisory boards including Geoforum and Progress in Environmental Geography.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
