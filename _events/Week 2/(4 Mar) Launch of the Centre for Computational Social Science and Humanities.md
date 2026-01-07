@@ -48,4 +48,20 @@ and human experience.</p>
 students, and practitioners to explore new frontiers in knowledge creation
 and redefine what it means to study society in the digital age.</p>
 <p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/6QKDLVJXdw"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<h4>Speakers</h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.comp.nus.edu.sg/disa/people/atreyi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NUS/CSSH/Atreyi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Atreyi Kankanhalli </div><div class="isomer-card-description">Atreyi Kankanhalli is Provost’s Chair Professor NUS School of Computing and co-director Centre for Computational Social Science and Humanities. Her research on human-AI collaboration and digital innovation has received numerous grants and awards and has appeared in premium journals with high impact.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
