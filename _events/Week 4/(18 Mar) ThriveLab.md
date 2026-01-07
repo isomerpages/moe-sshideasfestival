@@ -83,6 +83,21 @@ controlled laboratory experiments to study how preferences, beliefs, behavioral
 biases, and institutions shape individual and group decision-making.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/joshua-lanier/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/ThriveLab/JLainer.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Joshua Lanier</div><div class="isomer-card-description">Josh is an Assistant Professor of Economics at NTU who works in the area of revealed preference theory and the study of consumer behavior. His work investigates how to perform welfare analysis with consumers who do not act as utility maximizers</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/joshua-lanier/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/ThriveLab/JLainer.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Joshua Lanier</div><div class="isomer-card-description">Josh is an Assistant Professor of Economics at NTU who works in the area of revealed preference theory and the study of consumer behavior. His work investigates how to perform welfare analysis with consumers who do not act as utility maximizers.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Yeow-Hwee-Chua" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/ThriveLab/Yeow_Hwee_Chua.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Asst Prof Yeow Hwee Chua</div>
+<div class="isomer-card-description">Yeow Hwee Chua is Assistant Professor of Economics at NTU and Deputy Director
+of the Economic Growth Centre. His research examines how expectations and
+information frictions shape household financial decisions and macroeconomic
+outcomes.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
 </div>
 <p></p>
