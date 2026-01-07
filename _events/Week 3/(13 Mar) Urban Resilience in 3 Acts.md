@@ -93,5 +93,19 @@ Social Responsibility (CSR), and Communications.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/about-suss/leadership-governance/board-of-trustees/ms-melissa-kwee" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SUTD/Urban Resilience 3 Acts/MelKwee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Melissa Kwee</div><div class="isomer-card-description">Melissa Kwee co-founded Beautiful People in 2006, a volunteer-driven mentorship initiative for at-risk youth and families. From 2014 to 2022, she served as CEO of the National Volunteer and Philanthropy Centre (NVPC), championing civic campaigns like Giving.sg and the “Company of Good” movement.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/patrick-tay-teck-guan-9880479/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SUTD/Urban Resilience 3 Acts/PatrickTay.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Patrick Tay</div>
+<div class="isomer-card-description">Patrick Tay is Assistant Secretary-General of NTUC and Member of Parliament
+of Pioneer SMC. He chairs the Government Parliamentary Committee for Education
+and co-chairs the Financial Sector Tripartite Committee.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/researchers/cai-yanjun/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SUTD/Urban Resilience 3 Acts/CaiYanjun.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Yanjun Cai</div><div class="isomer-card-description">Yanjun Cai is Research Fellow at the Lee Kuan Yew Centre for Innovative Cities. Her research focuses on climate resilience and urban sustainability in the face of digital transformation, paying additional attention to disadvantaged populations.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
