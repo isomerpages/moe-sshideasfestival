@@ -15,8 +15,8 @@ contacts:
       - other: ""
     title: NTU
   - content:
-      - phone: +65 6808 5320
-      - email: CIS_events@smu.edu.sg
+      - phone: +65 6828 0831
+      - email: socsc_seminar@smu.edu.sg
       - other: ""
     title: SMU
   - content:
