@@ -25,7 +25,7 @@ third_nav_title: Week 4
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: W1-03-04 Connexion 1, SIT Punggol Campus</strong>
+<p><strong>Venue: SIT Punggol Campus,&nbsp;1 Punggol Coast Road, Singapore&nbsp;829979</strong>
 </p>
 </td>
 </tr>
