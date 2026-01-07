@@ -78,6 +78,20 @@ and partners has given him first-hand experience on how seniors can be
 meaningfully engaged and inspired to contribute back.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/centre-leadership/harvey-neo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Harvey Neo</div><div class="isomer-card-description">Harvey Neo’s research focuses on urban futures, citizen urban science, policy-making, and nature-society interactions. He is Southeast Asian editor of Human Geography and Frontiers in Sustainable Cities, and serves on advisory boards including Geoforum and Progress in Environmental Geography.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/centre-leadership/harvey-neo/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SUTD/Urban Resilience 3 Acts/Harvey.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Harvey Neo</div><div class="isomer-card-description">Harvey Neo’s research focuses on urban futures, citizen urban science, policy-making, and nature-society interactions. He is Southeast Asian editor of Human Geography and Frontiers in Sustainable Cities, and serves on advisory boards including Geoforum and Progress in Environmental Geography.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/tony-tan-90b97785/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SUTD/Urban Resilience 3 Acts/TonyTan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Tony Tan</div>
+<div class="isomer-card-description">Tony Tan is the Chief Corporate Officer of CapitaLand Development (CLD),
+where he oversees the corporate functions of Human Resources, Corporate
+Social Responsibility (CSR), and Communications.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/about-suss/leadership-governance/board-of-trustees/ms-melissa-kwee" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SUTD/Urban Resilience 3 Acts/MelKwee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Melissa Kwee</div><div class="isomer-card-description">Melissa Kwee co-founded Beautiful People in 2006, a volunteer-driven mentorship initiative for at-risk youth and families. From 2014 to 2022, she served as CEO of the National Volunteer and Philanthropy Centre (NVPC), championing civic campaigns like Giving.sg and the “Company of Good” movement.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
