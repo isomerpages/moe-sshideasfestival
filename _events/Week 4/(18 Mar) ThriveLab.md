@@ -83,6 +83,6 @@ controlled laboratory experiments to study how preferences, beliefs, behavioral
 biases, and institutions shape individual and group decision-making.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/joshua-lanier/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/ThriveLab/JLainer.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Joshua Lanier</div><div class="isomer-card-description">Josh is an Assistant Professor of Economics at NTU who works in the area of revealed preference theory and the study of consumer behavior. His work investigates how to perform welfare analysis with consumers who do not act as utility maximizers</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
