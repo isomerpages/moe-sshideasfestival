@@ -39,7 +39,7 @@ policy.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">[NTU] Assoc Prof Nick Powdthavee</div>
+<div class="isomer-card-title">[NTU] Prof Nick Powdthavee</div>
 <div class="isomer-card-description">Nick is Professor of Economics at Nanyang Technological University and
 a Fellow of the Royal Economic Society specializing in behavioral economics
 and happiness research.</div>
