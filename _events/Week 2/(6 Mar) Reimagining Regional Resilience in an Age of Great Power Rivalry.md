@@ -99,7 +99,7 @@ and international security.</div>
 <a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/chang-pao-li-1201" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Regional Resilience/ChangPaoLi.png">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Regional Resilience/ChangPaoLi__1_.png">
 </div>
 </div>
 <div class="isomer-card-body">
