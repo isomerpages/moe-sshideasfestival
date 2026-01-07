@@ -49,10 +49,7 @@ participants will explore the personal, professional, moral, and cultural
 dimensions of ethical decision-making. Interactive discussions and demonstrations
 will illustrate how AI-assisted tools can enhance ethical reasoning and
 complement traditional teaching approaches.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/bxEFJTdpUv"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speakers</h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singaporetech.edu.sg/directory/faculty/audrey-lim" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SIT/Ethical Adventure /audrey.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Audrey Lim</div><div class="isomer-card-description">Audrey Lim is an Assistant Professor at the Singapore Institute of Technology, leading the BSc (Hons) Physiotherapy programme. She teaches professionalism, ethics and musculoskeletal physiotherapy. Her research focuses on ethics and healthcare education, and using technology to enhance learning.</div><div class="isomer-card-link">Click for full profile</div></div></a>
