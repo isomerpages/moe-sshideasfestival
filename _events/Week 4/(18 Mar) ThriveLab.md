@@ -99,5 +99,20 @@ outcomes.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Lisa-Christine-Walsh" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/Failing Forward/LisaWalsh.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Lisa Walsh</div><div class="isomer-card-description">Lisa Walsh is Assistant Professor of Psychology at NTU. Her research explores the who, what, where, when, why, and how of happiness. She investigates the architecture of subjective well-being, including its outcomes, predictors, mediators, moderators, and downstream consequences.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Bao-Te" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/ThriveLab/BaoTe.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assoc Prof Bao Te</div>
+<div class="isomer-card-description">Bao Te is an Associate Professor in Social Sciences and Assistant Dean
+at NTU Singapore. His research focuses on behavioral finance, computational
+economics, and FinTech, with publications in leading journals including
+Management Science, Economic Journal, EER, and JEDC.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/items/e389c3c0-7df3-4971-9e2a-41410fa25f83" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/ThriveLab/TaiSen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof He Tai-Sen </div><div class="isomer-card-description">He Tai-Sen is a Senior Lecturer in Economics at Nanyang Technological University. He uses experimental methods to study questions at the intersection of economics, finance, psychology, and linguistics, particularly how language influences economic decision-making.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
