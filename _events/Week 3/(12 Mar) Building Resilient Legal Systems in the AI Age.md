@@ -54,18 +54,21 @@ design” into legal institutions.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
 </div>
 <h4>Speakers</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/jason-grant-allen-6551" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Resilient Legal Systems/JGrant__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Jason Grant Allen </div><div class="isomer-card-description">Jason is Director, Centre for Digital Law and Associate Professor of Law at the Yong Pung How School of Law, Singapore Management University. His research spans law, technology, and political economy, with a focus on AI governance, digital assets, and the concept of office in public law. </div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/jason-grant-allen-6551" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Resilient Legal Systems/JGrant__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Jason Grant Allen</div><div class="isomer-card-description">Jason is Director, Centre for Digital Law and Associate Professor of Law at the Yong Pung How School of Law, Singapore Management University. His research spans law, technology, and political economy, with a focus on AI governance, digital assets, and the concept of office in public law.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://law.smu.edu.sg/faculty/profile/7451/liu-han-wei" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Resilient Legal Systems/weiliu.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Assoc Prof Han-Wei Liu</div>
+<div class="isomer-card-description">Han-Wei studies law and technology, focusing on digital regulation, AI
+governance, and cross-border data flows. His research spans across international
+economic law, trade agreements, and financial regulation, with projects
+on semiconductor supply chains and platform governance.</div>
+<div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://law.smu.edu.sg/faculty/profile/7481/phang-rachel" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Resilient Legal Systems/rachelphang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Rachel Phang</div><div class="isomer-card-description">Rachel is an Assistant Professor of Law at the Yong Pung How School of Law, Singapore Management University. Her research interests are in the areas of financial law and regulation, contract law and tort law.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
