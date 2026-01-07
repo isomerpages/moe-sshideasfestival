@@ -47,4 +47,8 @@ including parents and teachers.</p>
 learning at home and in the classroom, leading to earlier and deeper insights
 into children's developing mental potential.&nbsp; &nbsp;</p>
 <p></p><a class="isomer-image-wrapper" href="https://event.ntu.edu.sg/EMPOWER-Centre-NTU-Ideas-Festival-2026"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<h4>Speaker</h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Victoria-Leong-Vik-Ee" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/EMPOWER/Vicky.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Victoria Leong</div><div class="isomer-card-description">Victoria Leong is Professor of Developmental Cognitive Neuroscience and Director of the NTU Early Mental Potential and Wellbeing Research (EMPOWER) Centre. Her research examines the neural basis of the parent-infant social interaction, learning and developing executive function. </div><div class="isomer-card-link">Click for full profile</div></div></a>
+</div>
 <p></p>
