@@ -48,4 +48,7 @@ labs through carefully controlled experiments and recording equipment such
 as eye tracking and EEG. Please join us for the lab visit to experience
 some of these experiments. &nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p><a class="isomer-image-wrapper" href="https://forms.gle/pztgonF2ymmEBdVWA"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<h4>Organiser</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Xu-Hong" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/Lab Visits in Psych/Xu_Hong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Xu Hong</div><div class="isomer-card-description">Xu Hong is Associate Professor of Psychology at School of Social Sciences, Nanyang Technological University. Her research studies neural mechanisms of visual perception and cognition and its application to human-computer interaction (HCI).</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</div>
 <p></p>
