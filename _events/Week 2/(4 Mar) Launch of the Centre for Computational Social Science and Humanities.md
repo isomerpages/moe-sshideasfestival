@@ -65,18 +65,22 @@ Her research examines how digital platforms, AI systems, and emerging technologi
 shape social interaction, and political engagement.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://english.princeton.edu/people/meredith-martin" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NUS/CSSH/meredith.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Meredith Martin</div><div class="isomer-card-description">Meredith Martin is Professor of English and Faculty Director of the Center for Digital Humanities at Princeton. Her research focus is anglophone poetry, computational and data-driven approaches to culture, and how collaborative infrastructures that bridge disciplines drive discovery.  </div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://english.princeton.edu/people/meredith-martin" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NUS/CSSH/meredith.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Meredith Martin</div><div class="isomer-card-description">Meredith Martin is Professor of English and Faculty Director of the Center for Digital Humanities at Princeton. Her research focus is anglophone poetry, computational and data-driven approaches to culture, and how collaborative infrastructures that bridge disciplines drive discovery.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.comp.nus.edu.sg/cs/people/kanmy/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/CSSH/MinYen.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Assoc Prof Min-Yen Kan</div>
+<div class="isomer-card-description">Min-Yen Kan (BS;MS;PhD Columbia Univ.; SACM, SIEEE) is an Associate Professor
+&amp; Vice Dean of Undergraduate Studies at NUS. Min is an active member
+of the Association of Computational Linguistics, currently serving as a
+co-chair for its Ethics Committee &amp; survey editor for the Journal of
+AI Research.</div>
+<div class="isomer-card-link">Click for full profile</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.millican.org" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/CSSH/Millican.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Peter Millican</div><div class="isomer-card-description">Peter Millican is Tan Chorh Chuan Professor at NUS, and Gilbert Ryle Fellow and Professor of Philosophy at Hertford College, Oxford. He has published extensively across epistemology, ethics, philosophy of AI, logic and language, and religion, but especially on the work of David Hume and Alan Turing.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
