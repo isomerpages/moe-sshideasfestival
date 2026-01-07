@@ -81,5 +81,35 @@ She received the 2023 Commendation Medal for advancing ASEAN Community-building.
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/cag/about-us/our-team/hew-denis" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Regional Resilience/DenisH.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Denis Hew</div><div class="isomer-card-description">Denis Hew is a Senior Research Fellow at the Centre on Asia and Globalisation, LKYSPP, NUS. His research covers regional economic integration, international trade policy, and global economic architecture. He previously worked with APEC, ADB and ISEAS on policy-relevant analysis.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/cag/about-us/our-team/gomez-miguel-alberto" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Regional Resilience/Gomez.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Miguel Alberto Gomez</div>
+<div class="isomer-card-description">Miguel Alberto Gomez is a Senior Research Fellow at the Centre on Asia
+and Globalisation, Lee Kuan Yew School of Public Policy, NUS. His research
+is found at the intersection of emerging technology, political psychology,
+and international security.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Mely-Caballero-Anthony" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Regional Resilience/Caballero.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Mely Caballero-Anthony </div><div class="isomer-card-description">Mely Caballero-Anthony holds the President's Chair in International Relations and Security Studies at S. Rajaratnam School of International Studies, NTU, where she also serves as Head of the Centre for Non-Traditional Security Studies and Associate Dean for External Engagement. </div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/chang-pao-li-1201" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Regional Resilience/ChangPaoLi.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assoc Prof Pao-Li Chang</div>
+<div class="isomer-card-description">Pao-Li is Associate Dean (Research) and Director of the Centre for Research
+on International Trade at SMU’s School of Economics. With a PhD from Michigan,
+she studies trade policy, WTO, GVCs, FDI, and firm-level productivity.
+She has published in leading journals and secured MOE Tier 2 and 3 grants.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
 </div>
 <p></p>
