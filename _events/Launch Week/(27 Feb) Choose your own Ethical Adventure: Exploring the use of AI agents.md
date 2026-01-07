@@ -53,5 +53,23 @@ complement traditional teaching approaches.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
 </div>
+<h4>Speakers</h4>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singaporetech.edu.sg/directory/faculty/audrey-lim" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SIT/Ethical Adventure /audrey.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Audrey Lim</div><div class="isomer-card-description">Audrey Lim is an Assistant Professor at the Singapore Institute of Technology, leading the BSc (Hons) Physiotherapy programme. She teaches professionalism, ethics and musculoskeletal physiotherapy. Her research focuses on ethics and healthcare education, and using technology to enhance learning.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.singaporetech.edu.sg/directory/faculty/cheryl-lian" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SIT/Ethical Adventure /cheryl.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assoc Prof Cheryl Lian</div>
+<div class="isomer-card-description">Cheryl Lian is an Associate Professor at the Singapore Institute of Technology.
+She aims to improve medical radiation science education through technology-enhanced,
+personalised learning. Her recent work includes designing AI-assisted digital
+mentors for allied health professional development.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
+</div>
 <p></p>
