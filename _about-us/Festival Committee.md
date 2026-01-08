@@ -84,10 +84,10 @@ via infrastructure and water resource capture in Asia.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">[SUSS] Assoc Prof Jennifer Ang</div>
-<div class="isomer-card-description">Jennifer is Associate Professor of Philosophy at the S R Nathan School
-of Human Development, SUSS. She is the author of Sartre and the Moral Limits
-of War and Terrorism, and a forthcoming book Unforgiveness towards Injustice.
-Her recent projects examine ethics, AI, time and space</div>
+<div class="isomer-card-description">Jennifer is Associate Professor of Philosophy at SUSS. She is the author
+of Justified Forgiveness: A Moral Case Against Silence, Neglect and Forgetfulness
+and Sartre and the Moral Limits of War and Terrorism. Her recent projects
+examine AI ethics, and relationships between technology, time and space</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/academics/schools-college/faculty-listing/detail/ong-chong-hao-nathanael" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NatOng" src="/images/2026 Festival Committee/natong new.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[SUSS] Dr Nathanael Ong</div><div class="isomer-card-description">Nathanael is the Provost’s Chair and Lecturer at the College of Interdisciplinary &amp; Experiential Learning, SUSS. His expertise is in the field of sport and performance psychology and has published more than 15 journal articles in areas such as competitive anxiety, burnout, and smartphone addiction.</div><div class="isomer-card-link">Click for full profile</div></div></a>
