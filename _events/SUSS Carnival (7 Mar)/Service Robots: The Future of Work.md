@@ -79,8 +79,7 @@ to effectively organize AI and robots as part of human work teams.</p>
 <p>10.00am – 11.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ideasfestival.edu.sg/service-robots-the-future-of-work/" rel="noopener nofollow" target="_blank">Service Robots: The Future of Work</a>
-</p>
+<p>Service Robots: The Future of Work</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>C.8.11</strong>
