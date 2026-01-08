@@ -24,7 +24,7 @@ third_nav_title: SUSS Carnival (7 Mar)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Seminar Room C.8.07, SUSS Campus Block C Level 8</strong>
+<p><strong>Venue: C.8.07 Seminar Room, SUSS Campus Block C Level 8</strong>
 </p>
 </td>
 </tr>
