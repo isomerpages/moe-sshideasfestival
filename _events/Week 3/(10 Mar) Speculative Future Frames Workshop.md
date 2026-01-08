@@ -54,4 +54,22 @@ design.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
 </div>
+<h4>Speakers</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/tamas-makany-1821" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Speculative Future Frames/tamas m.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Tamas Makany</div><div class="isomer-card-description">Tamas is Associate Provost (Teaching and Learning Innovation), Director for the Centre for Teaching Excellence and Associate Professor of Communication Management (Education) at the Lee Kong Chian School of Business, Singapore Management University. He teaches design communication at SMU.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://socsc.smu.edu.sg/faculty/profile/6821/jacinth-tan" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Speculative Future Frames/jacinth.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assoc Prof Jacinth Tan</div>
+<div class="isomer-card-description">Jacinth is Associate Professor of Psychology at Singapore Management University
+and the principal investigator of the SMU Social Health Lab. She studies
+how social class and group differences shape emotion, health, and interpersonal
+experience across diverse contexts.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.singaporetech.edu.sg/directory/faculty/jawn-lim" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Speculative Future Frames/jawnlim.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Jawn Lim</div><div class="isomer-card-description">Jawn Lim is Associate Professor of Design Innovation at SIT. He is the Emerging Fellows Programme Director at the Association of Professional Futurists and Chief Design Officer at the Singapore Productivity Centre. His work connects design innovation and futures thinking in education and industry.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</div>
 <p></p>
