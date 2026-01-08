@@ -65,7 +65,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>C.8.11</strong>
+<p><strong>C.8.11 Seminar Room</strong>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>C.8.08</strong>
+<p><strong>C.8.08 Seminar Room</strong>
 </p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>C.8.10</strong>
+<p><strong>C.8.10 Seminar Room</strong>
 </p>
 </td>
 </tr>
@@ -117,7 +117,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>C.8.07</strong>
+<p><strong>C.8.07 Seminar Room</strong>
 </p>
 </td>
 </tr>
