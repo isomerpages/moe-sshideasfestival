@@ -34,7 +34,7 @@ description: ""
 </div>
 </a>
 </div>
-<h4>Carnival Programme</h4>
+<h4>SUSS Carnival (7 March) Programme</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
