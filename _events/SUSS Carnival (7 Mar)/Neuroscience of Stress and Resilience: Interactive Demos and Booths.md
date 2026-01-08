@@ -24,7 +24,7 @@ third_nav_title: SUSS Carnival (7 Mar)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: SUSS Campus Block C Level 8 Seminar Rooms; 463 Clementi Road, Singapore 599494</strong>
+<p><strong>Venue: C.8.08 Seminar Room, SUSS Campus Block C Level 8 </strong>
 </p>
 </td>
 </tr>
