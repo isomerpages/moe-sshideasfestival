@@ -24,7 +24,7 @@ third_nav_title: SUSS Carnival (7 Mar)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: C.8.08 Seminar Room, SUSS Campus Block C Level 8 </strong>
+<p><strong>Venue: C.8.08 Seminar Room, SUSS Campus Block C Level 8</strong>
 </p>
 </td>
 </tr>
@@ -98,8 +98,7 @@ strategies for building resilience.</p>
 <p>12.30pm – 2.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ideasfestival.edu.sg/neuroscience-of-stress-and-resilience-interactive-demos-and-booths/" rel="noopener nofollow" target="_blank">Neuroscience of Stress and Resilience: Interactive Demos and Booths</a>
-</p>
+<p>Neuroscience of Stress and Resilience: Interactive Demos and Booths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>C.8.08</strong>
