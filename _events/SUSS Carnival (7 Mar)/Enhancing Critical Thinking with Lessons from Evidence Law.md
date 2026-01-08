@@ -121,8 +121,7 @@ resilience against information-based threats such as scams and manipulation.</p>
 <p>2.00pm – 3.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ideasfestival.edu.sg/enhancing-critical-thinking-with-lessons-from-evidence-law/" rel="noopener nofollow" target="_blank">Enhancing Critical Thinking with Lessons from Evidence Law</a>
-</p>
+<p>Enhancing Critical Thinking with Lessons from Evidence Law</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>C.8.10</strong>
