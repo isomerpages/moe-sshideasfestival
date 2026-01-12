@@ -19,13 +19,13 @@ third_nav_title: Week 4
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: TBC</strong>
+<p><strong>Time: 3.40pm - 5.00pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue:   SMU Administration Building, Level 6, Function Room 6-1</strong>
+<p><strong>Venue: SMU Administration Building, Level 6, Function Room 6-1</strong>
 </p>
 </td>
 </tr>
