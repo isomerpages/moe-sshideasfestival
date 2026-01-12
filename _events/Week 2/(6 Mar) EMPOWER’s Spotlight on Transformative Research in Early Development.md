@@ -39,7 +39,7 @@ third_nav_title: Week 2
 <p>Every child can learn, but no child has exactly the same learning needs.</p>
 <p>See how EMPOWER's science is uncovering the brain basis of how children
 learn differently. We will demonstrate how every child's brain has a unique
-personal rhythm for processing information. We will aslo explain how human
+personal rhythm for processing information. We will also explain how human
 brains are built to form social connections with other brains, and how
 this neural connection determines how and what we learn from social partners,
 including parents and teachers.</p>
@@ -49,6 +49,6 @@ into children's developing mental potential.&nbsp; &nbsp;</p>
 <p></p><a class="isomer-image-wrapper" href="https://event.ntu.edu.sg/EMPOWER-Centre-NTU-Ideas-Festival-2026"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speaker</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Victoria-Leong-Vik-Ee" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/EMPOWER/Vicky.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Victoria Leong</div><div class="isomer-card-description">Victoria Leong is Professor of Developmental Cognitive Neuroscience and Director of the NTU Early Mental Potential and Wellbeing Research (EMPOWER) Centre. Her research examines the neural basis of the parent-infant social interaction, learning and developing executive function. </div><div class="isomer-card-link">Click for full profile</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Victoria-Leong-Vik-Ee" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/EMPOWER/Vicky.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Victoria Leong</div><div class="isomer-card-description">Victoria Leong is Professor of Developmental Cognitive Neuroscience and Director of the NTU Early Mental Potential and Wellbeing Research (EMPOWER) Centre. Her research examines the neural basis of the parent-infant social interaction, learning and developing executive function.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
