@@ -66,36 +66,37 @@ of Gender Inequality funded by Ministry of Education. She received her
 Ph.D. from the University of Wisconsin-Madison in 2023.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="www.linkedin.com/in/xin-wen-b8155b133" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NUS/Financial Resilience/Dr_Xin_Wen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Xin Wen</div><div class="isomer-card-description">Xin Wen is a Postdoctoral Fellow at NUS. She holds a PhD in Economics from the University of New South Wales. Her research agenda focuses on household and individual financial decision-making, with interests in financial literacy, population aging, gender, and financial well-being.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/our-people/faculty/ba-yuhao" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NUS/Financial Resilience/Dr_Xin_Wen.png">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Yuhao_Ba.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Dr Xin Wen</div>
-<div class="isomer-card-description">Xin Wen is a Postdoctoral Fellow at NUS. She holds a PhD in Economics
-from the University of New South Wales. Her research agenda focuses on
-household and individual financial decision-making, with interests in financial
-literacy, population aging, gender, and financial well-being.</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/our-people/faculty/ba-yuhao" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Yuhao_Ba.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Yuhao Ba</div><div class="isomer-card-description">Yuhao Ba is an Assistant Professor in the Lee Kuan Yew School of Public Policy at NUS. His research explores how stakeholders from the private and nonprofit sectors work with the government to collectively address policy challenges within the realm of environment and sustainability.</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/ies/about-us/our-people/ies-team/xia-yiyun" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Yiyun.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Yiyun Xia</div>
-<div class="isomer-card-description">Yiyun is a Research Associate at the Institute for Environment and Sustainability,
-NUS. She holds a Master’s degree in Public Policy from LKYSPP. Her research
-focuses on collaborative environmental governance, as well as governance
-systems and policy processes in Southeast Asia’s energy transition.</div>
+<div class="isomer-card-title">Asst Prof Yuhao Ba</div>
+<div class="isomer-card-description">Yuhao Ba is an Assistant Professor in the Lee Kuan Yew School of Public
+Policy at NUS. His research explores how stakeholders from the private
+and nonprofit sectors work with the government to collectively address
+policy challenges within the realm of environment and sustainability.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/chakorn131/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Chakorn_Loetnithat.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Chakorn Loetnithat</div><div class="isomer-card-description">Chakorn is currently a PhD student at NUS where his research centers on pension systems, public policy, economic development, and financial inclusion. He has worked as a researcher at the Research Institute in Thailand, where he led projects addressing national economic issues and public policy.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/ies/about-us/our-people/ies-team/xia-yiyun" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Yiyun.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Yiyun Xia</div><div class="isomer-card-description">Yiyun is a Research Associate at the Institute for Environment and Sustainability, NUS. She holds a Master’s degree in Public Policy from LKYSPP. Her research focuses on collaborative environmental governance, as well as governance systems and policy processes in Southeast Asia’s energy transition.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/chakorn131/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Chakorn_Loetnithat.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Chakorn Loetnithat</div>
+<div class="isomer-card-description">Chakorn is currently a PhD student at NUS where his research centers on
+pension systems, public policy, economic development, and financial inclusion.
+He has worked as a researcher at the Research Institute in Thailand, where
+he led projects addressing national economic issues and public policy.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
