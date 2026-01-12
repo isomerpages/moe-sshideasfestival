@@ -52,7 +52,4 @@ and private sectors. Come and find out how your personal interests and
 values combined with a robust academic training in Social Sciences can
 make for an impactful career!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
-</div>
 <p></p>
