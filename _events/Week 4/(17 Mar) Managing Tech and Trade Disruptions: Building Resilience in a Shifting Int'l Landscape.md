@@ -25,7 +25,7 @@ third_nav_title: Week 4
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: TBC, SMU</strong>
+<p><strong>Venue:   SMU Administration Building, Level 6, Function Room 6-1</strong>
 </p>
 </td>
 </tr>
