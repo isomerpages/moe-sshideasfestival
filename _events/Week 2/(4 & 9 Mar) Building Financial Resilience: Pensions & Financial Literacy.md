@@ -50,4 +50,51 @@ in retirement systems.</p>
 opportunity to engage "live" with the students and researchers from 2-5pm
 on 4 &amp; 9 March.</p>
 <p></p><a class="isomer-image-wrapper" href="https://nus.syd1.qualtrics.com/jfe/form/SV_55A47vwtvHD1Lr8"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<h4>Researchers </h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2026 Festival Committee/jfong hires.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://fass.nus.edu.sg/cfpr/centre-staff/#" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NUS/Financial Resilience/Dr_Talia_Ye_Tao.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Talia Ye Tao</div>
+<div class="isomer-card-description">Talia Ye Tao is a Postdoctoral Fellow at the Center for Family and Population
+Research, NUS. She is currently a team member of the project Health Implications
+of Gender Inequality funded by Ministry of Education. She received her
+Ph.D. from the University of Wisconsin-Madison in 2023.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NUS/Financial Resilience/Dr_Xin_Wen.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Xin Wen</div>
+<div class="isomer-card-description">Xin Wen is a Postdoctoral Fellow at NUS. She holds a PhD in Economics
+from the University of New South Wales. Her research agenda focuses on
+household and individual financial decision-making, with interests in financial
+literacy, population aging, gender, and financial well-being.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/our-people/faculty/ba-yuhao" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Yuhao_Ba.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Yuhao Ba</div><div class="isomer-card-description">Yuhao Ba is an Assistant Professor in the Lee Kuan Yew School of Public Policy at NUS. His research explores how stakeholders from the private and nonprofit sectors work with the government to collectively address policy challenges within the realm of environment and sustainability.  </div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/ies/about-us/our-people/ies-team/xia-yiyun" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Yiyun.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Yiyun Xia</div>
+<div class="isomer-card-description">Yiyun is a Research Associate at the Institute for Environment and Sustainability,
+NUS. She holds a Master’s degree in Public Policy from LKYSPP. Her research
+focuses on collaborative environmental governance, as well as governance
+systems and policy processes in Southeast Asia’s energy transition.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
+</div>
 <p></p>
