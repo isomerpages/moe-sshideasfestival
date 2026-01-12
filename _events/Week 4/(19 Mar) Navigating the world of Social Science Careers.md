@@ -51,7 +51,7 @@ in social sciences to ensure they can meaningfully contribute to both public
 and private sectors. Come and find out how your personal interests and
 values combined with a robust academic training in Social Sciences can
 make for an impactful career!</p>
-<h4>Speakers</h4>
+<h4>Moderator and Panelists</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/prasanthiguda" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Navigating Soc Sci careers/Prasanthi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Prasanthi Guda</div><div class="isomer-card-description">Prasanthi is a trained career coach and head of undergraduate careers at SMU’s career centre. She and her team deliver employability training workshops, offer personalised career coaching services, administer internships for students, and support SMU’s employer partners with their campus recruitment</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/karen-wong-weiling/" class="isomer-card">
 <div class="isomer-card-image">
