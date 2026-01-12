@@ -51,5 +51,22 @@ in social sciences to ensure they can meaningfully contribute to both public
 and private sectors. Come and find out how your personal interests and
 values combined with a robust academic training in Social Sciences can
 make for an impactful career!</p>
-<p></p>
+<h4>Speakers</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/prasanthiguda" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Navigating Soc Sci careers/Prasanthi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Prasanthi Guda</div><div class="isomer-card-description">Prasanthi is a trained career coach and head of undergraduate careers at SMU’s career centre. She and her team deliver employability training workshops, offer personalised career coaching services, administer internships for students, and support SMU’s employer partners with their campus recruitment</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/karen-wong-weiling/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Navigating Soc Sci careers/Karen.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Karen Wong</div>
+<div class="isomer-card-description">As the Talent Acquisition M&amp;A lead, Karen drives seamless integration
+by leading recruitment for newly acquired companies and helping teams connect
+with BlackRock’s talent strategy. She also partners with business groups
+on hiring, guided by her passion for connecting talent with opportunity.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
