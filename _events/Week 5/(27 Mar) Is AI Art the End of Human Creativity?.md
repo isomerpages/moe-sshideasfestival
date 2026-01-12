@@ -52,7 +52,7 @@ in the debate alongside real human faculty from SUTD and other universities.</p>
 <a rel="noopener noreferrer nofollow" href="https://discovery.nus.edu.sg/23284-samar-faruqi" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="samar" src="/images/SUTD/AI art human creativity/image_2026_01_05_224504084.png">
+<img style="width: 100%" height="auto" width="100%" alt="samar" src="/images/SUTD/AI art human creativity/Faruqi.png">
 </div>
 </div>
 <div class="isomer-card-body">
