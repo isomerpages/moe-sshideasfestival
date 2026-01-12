@@ -61,11 +61,7 @@ Join us to reimagine the future of work!</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
-</div>
-<p></p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/YEkTGdfc0h"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speakers</h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://socsc.smu.edu.sg/faculty/profile/1121/yasmin-ortiga" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="yasmin" src="/images/SMU/Still worth doing/yasmin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Yasmin Y. Ortiga</div><div class="isomer-card-description">Yasmin is Associate Professor of Sociology at SMU’s School of Social Sciences. She studies how the changing ideas of “skill” shapes how and why people migrate across borders. Her book, Stuck at Home: Pandemic Immobilities in the Nation of Emigration was published by Stanford University Press.</div><div class="isomer-card-link">Click for full profile</div></div></a>
