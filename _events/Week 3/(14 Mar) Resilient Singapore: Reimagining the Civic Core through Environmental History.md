@@ -56,9 +56,9 @@ from Singapore’s past and highlight parts of our history and landscape
 that might be commonly overlooked. All these stories point toward one thing
 however: resilience. Collectively they demonstrate that change can be viewed
 in a positive light, even if it might not have seemed that way once.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
-</div>
+<a class="isomer-image-wrapper" href="https://forms.office.com/r/E0sCQaqTbk">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png">
+</a>
 <h4>Facilitator</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://urbanistsingapore.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Civic Core Environmental Hist/UrbanistYong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Ho Yong Min</div><div class="isomer-card-description">Yong is the brains and heart behind The Urbanist Singapore. With a deep passion for Singapore's heritage and urban design, he has led heritage walks as a hobby since 2010, bringing history to life for the community and a whole new generation.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
