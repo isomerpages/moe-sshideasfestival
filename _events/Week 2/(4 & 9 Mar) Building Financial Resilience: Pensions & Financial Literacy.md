@@ -95,6 +95,20 @@ focuses on collaborative environmental governance, as well as governance
 systems and policy processes in Southeast Asia’s energy transition.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/chakorn131/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Chakorn_Loetnithat.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Chakorn Loetnithat </div><div class="isomer-card-description">Chakorn is currently a PhD student at NUS where his research centers on pension systems, public policy, economic development, and financial inclusion. He has worked as a researcher at the Research Institute in Thailand, where he led projects addressing national economic issues and public policy. </div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/chakorn131/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Chakorn_Loetnithat.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Chakorn Loetnithat</div><div class="isomer-card-description">Chakorn is currently a PhD student at NUS where his research centers on pension systems, public policy, economic development, and financial inclusion. He has worked as a researcher at the Research Institute in Thailand, where he led projects addressing national economic issues and public policy.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Lu_Xu.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lu Xu</div>
+<div class="isomer-card-description">Lu Xu is a Research Associate at NUS. He holds a master’s degree in Educational
+Policy and Administration from the University of Pennsylvania’s Graduate
+School of Education. His research focuses on financial education and cost-effectiveness,
+guided by economic and organizational theories.</div>
+</div>
+</div>
 </div>
 <p></p>
