@@ -50,9 +50,7 @@ to fulfil their core functions.</p>
 and industry to explore how law can remain a stabilising force in the age
 of AI and to identify practical strategies for embedding resilience “by
 design” into legal institutions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/gejppbBnvg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speakers</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://faculty.smu.edu.sg/profile/jason-grant-allen-6551" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Resilient Legal Systems/JGrant__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Jason Grant Allen</div><div class="isomer-card-description">Jason is Director, Centre for Digital Law and Associate Professor of Law at the Yong Pung How School of Law, Singapore Management University. His research spans law, technology, and political economy, with a focus on AI governance, digital assets, and the concept of office in public law.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://law.smu.edu.sg/faculty/profile/7451/liu-han-wei" class="isomer-card">
