@@ -55,7 +55,7 @@ for a more inclusive and adaptive global economy. Joint efforts among businesses
 policymakers, innovators, consumers, NGOs, and the broader community are
 essential to build resilience and drive sustained and inclusive growth.</p>
 <p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/aFx5h1dQ30"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
-<h4>Chair and Panelists</h4>
+<h4>Chair and Panellists</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://law.smu.edu.sg/faculty/profile/6696/pasha-l-hsieh" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Trade Disruptions/pashahsieh.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Pasha L. Hsieh</div><div class="isomer-card-description">Pasha is LKC Professor of Law and Jean Monnet Chair at SMU’s Yong Pung How School of Law. He has held visiting faculty and fellowship positions at the University of Melbourne, Seoul National University, and the United Nations University Institute on Comparative Regional Integration Studies</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/chrishumphrey/" class="isomer-card">
 <div class="isomer-card-image">
