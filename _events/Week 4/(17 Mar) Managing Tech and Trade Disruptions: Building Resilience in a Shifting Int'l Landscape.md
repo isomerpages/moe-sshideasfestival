@@ -86,5 +86,20 @@ Research Office. Her book Geopolitics, China and Global Supply Chain: Issues
 and Implications will be published by Routledge</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://law.smu.edu.sg/faculty/profile/7161/heng-wang" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SMU/Trade Disruptions/hengwang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Heng Wang</div><div class="isomer-card-description">Heng is Professor of Law at SMU’s Yong Pung How School of Law. He is recognized as Australia’s research leader in international law. His work is often cited by intergovernmental organisations and engages with the UN, IMF, World Bank and WTO as advisor or speaker.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/maha-el-dimachki-b70aa3b/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SMU/Trade Disruptions/dimachki.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Maha El Dimachki</div>
+<div class="isomer-card-description">Maha is Centre Head of the BIS Innovation Hub Singapore, leading the development
+of tech public goods to support central banks in a digital economy. Former
+FCA senior leader, Pay.UK Chief Payments Office &amp; author of Fintech
+Regulation in Practice, she focuses on safe, responsible fintech innovation</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
 </div>
 <p></p>
