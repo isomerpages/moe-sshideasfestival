@@ -71,7 +71,7 @@ on hiring, guided by her passion for connecting talent with opportunity.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/nesan-govender-b6309a9/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SMU/Navigating Soc Sci careers/Nesan_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -83,6 +83,6 @@ complex change—reimagining work, workforce strategies &amp; AI-enabled
 transformation.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.ncss.gov.sg/about-us/who-we-are/our-management/mr-lim-shung-yar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Lim Shung Yar</div><div class="isomer-card-description">As CEO (Designate) of NCSS, Shung Yar leads efforts to strengthen social service delivery, build sector capabilities and foster a robust social service ecosystem. He brings a passion for people development, community engagement and public sector leadership experience from PSD, MCCY and MOE.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ncss.gov.sg/about-us/who-we-are/our-management/mr-lim-shung-yar/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SMU/Navigating Soc Sci careers/ShungYar.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Lim Shung Yar</div><div class="isomer-card-description">As CEO (Designate) of NCSS, Shung Yar leads efforts to strengthen social service delivery, build sector capabilities and foster a robust social service ecosystem. He brings a passion for people development, community engagement and public sector leadership experience from PSD, MCCY and MOE.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
