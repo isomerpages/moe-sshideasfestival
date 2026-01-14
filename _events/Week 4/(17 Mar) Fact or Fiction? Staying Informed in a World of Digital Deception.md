@@ -61,18 +61,18 @@ about fighting falsehoods, this seminar is for you.</p>
 </table>
 <p></p><a class="isomer-image-wrapper" href="https://forms.gle/re3Z6RZ3oGodcyjD6"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speaker Profiles</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Yuan-Wang" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/Fact or Fiction/YuanWang.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Asst Prof Yuan Wang</div><div class="isomer-card-description">Yuan is an assistant professor at the Wee Kim Wee School of Communication and Information (WKWSCI). Her research focuses on health communication, with a particular focus on health and science misinformation.</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Goh-Hoe-Lian-Dion" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Goh-Hoe-Lian-Dion" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/Fact or Fiction/Dion_Goh.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Dion Goh</div><div class="isomer-card-description">Dion is a Professor at the Wee Kim Wee School of Communication and Information. His research focuses on online information sharing behavior with particular interest in misinformation, information seeking and AI literacy.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Yuan-Wang" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/Fact or Fiction/Dion_Goh.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NTU/Fact or Fiction/YuanWang.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Prof Dion Goh</div>
-<div class="isomer-card-description">Dion is a Professor at the Wee Kim Wee School of Communication and Information.
-His research focuses on online information sharing behavior with particular
-interest in misinformation, information seeking and AI literacy.</div>
+<div class="isomer-card-title">Asst Prof Yuan Wang</div>
+<div class="isomer-card-description">Yuan is an assistant professor at the Wee Kim Wee School of Communication
+and Information (WKWSCI). Her research focuses on health communication,
+with a particular focus on health and science misinformation.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Lee-Chu-Keong" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/NTU/Fact or Fiction/Lee_Chu_Keong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Lee Chu Keong</div><div class="isomer-card-description">Chu Keong is Senior Lecturer at the Wee Kim Wee School of Communication and Information (WKWSCI).</div><div class="isomer-card-link">Click for full profile</div></div></a>
