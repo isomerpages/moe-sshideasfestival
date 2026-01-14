@@ -83,6 +83,6 @@ teacher of Mindful Self-Compassion and has a strong interest in student
 wellbeing.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Graham-John-Matthews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/What does it mean Resilient/Graham.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Graham Matthews</div><div class="isomer-card-description">Graham Matthews is Provost’s Chair in Medical Humanities and the Director of the Centre for Health, Culture &amp; Society. He also serves as the Associate Chair (Research) in the School of Humanities. His research interests are in literature &amp; medicine, and mental health narratives</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
