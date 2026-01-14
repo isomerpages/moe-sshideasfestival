@@ -75,6 +75,6 @@ His research focuses on online information sharing behavior with particular
 interest in misinformation, information seeking and AI literacy.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Lee-Chu-Keong" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/NTU/Fact or Fiction/Lee_Chu_Keong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Lee Chu Keong</div><div class="isomer-card-description">Chu Keong is Senior Lecturer at the Wee Kim Wee School of Communication and Information (WKWSCI).</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
