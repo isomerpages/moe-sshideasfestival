@@ -81,14 +81,14 @@ and commodities across East and Southeast Asia.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Yeo-Puay-Hwa-Jesvin" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Future Horizons/Jesvin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Jesvin Yeo</div><div class="isomer-card-description">Jesvin Yeo is Deputy Associate Provost (Strategy) and Professor at the School of Art, Design and Media, Nanyang Technological University. Her research interests are in cultural value, human experience and behaviour, and their applications in cultural heritage, education and wellbeing.</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="www.linkedin.com/in/yu-jin-seng-54413834" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/yu-jin-seng-54413834" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Future Horizons/Yujin.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Seng Yu Jin</div>
+<div class="isomer-card-title">Dr Seng Yu Jin</div>
 <div class="isomer-card-description">Seng Yu Jin is a Senior Curator and Director (Curatorial, Research &amp;
 Exhibitions) at The National Gallery Singapore. His research interests
 cover regional art histories focusing on Southeast Asian art in relation
