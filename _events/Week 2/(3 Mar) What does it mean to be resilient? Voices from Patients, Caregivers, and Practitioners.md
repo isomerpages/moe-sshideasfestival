@@ -84,5 +84,20 @@ such as end-of-life conversations in Advanced Care Planning</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.ntu.edu.sg/medicine/our-people/faculty/dr-tanya-tierney" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/What does it mean Resilient/Tanya.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Tanya Tierney</div><div class="isomer-card-description">Tanya is Assistant Dean, Clinical Communication at LKCMedicine, NTU. She teaches communication skills and medical humanities and is a taskforce member for the Office of Patient Engagement (OPEN). She is a certified teacher of Mindful Self-Compassion and has a strong interest in student wellbeing.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Rachel-S-Y-Chen" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/What does it mean Resilient/Rachel2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Asst Prof Rachel S. Y. Chen</div>
+<div class="isomer-card-description">Dr. Rachel Chen is an Assistant Professor of Linguistics and Multilingual
+Studies at the School of Humanities. She is the Co-coordinator of the Medical
+Humanities Research Cluster. Her research bridges the study of disability,
+social interaction, and inclusive design.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
 </div>
 <p></p>
