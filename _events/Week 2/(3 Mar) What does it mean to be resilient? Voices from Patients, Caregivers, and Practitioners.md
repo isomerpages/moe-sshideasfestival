@@ -92,7 +92,7 @@ such as end-of-life conversations in Advanced Care Planning</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Asst Prof Rachel S. Y. Chen</div>
-<div class="isomer-card-description">Dr. Rachel Chen is an Assistant Professor of Linguistics and Multilingual
+<div class="isomer-card-description">Rachel Chen is an Assistant Professor of Linguistics and Multilingual
 Studies at the School of Humanities. She is the Co-coordinator of the Medical
 Humanities Research Cluster. Her research bridges the study of disability,
 social interaction, and inclusive design.</div>
