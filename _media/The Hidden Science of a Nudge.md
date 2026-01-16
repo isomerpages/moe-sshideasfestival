@@ -15,7 +15,19 @@ description: ""
 </div>
 <p>Do check out our events on Behavioural Science below!</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] EMPOWER’s Spotlight on Transformative Research in Early Development</div><div class="isomer-card-description">One size can’t fit them all: Why tailoring children’s learning matters</div><div class="isomer-card-link">More details</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/failing-forward-what-the-humanities-and-social-sciences-teach-us-about-resilience/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[2 Mar] Failing Forward: What the Humanities and Social Sciences Teach Us About Resilience​</div><div class="isomer-card-description">Failure is just research: How to leverage the setback.</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/launch-of-the-centre-for-computational-social-science-and-humanities/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[4 Mar] Launch of the Centre for Computational Social Science and Humanities</div>
+<div class="isomer-card-description">Where computation meets the social sciences and humanities</div>
+<div class="isomer-card-link">Learn More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] EMPOWER’s Spotlight on Transformative Research in Early Development</div><div class="isomer-card-description">One size can’t fit them all: Why tailoring children’s learning matters</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/neuroscience-of-stress-and-resilience-interactive-demos-and-booths/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -28,30 +40,30 @@ description: ""
 <div class="isomer-card-link">More details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/lab-visit-for-studies-in-experimental-psychology/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[9 Mar] Lab Visit for Studies in Experimental Psychology</div><div class="isomer-card-description">You think, we track. The Psychology Lab is open for your hypotheses.</div><div class="isomer-card-link">More details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/resonance-and-resilience-exploring-the-nexus-of-music-and-mental-health/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/designing-for-resilience-ethics-sustainability-and-the-future-of-human-centred-design/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">[18 Mar] Resonance and Resilience: Exploring the Nexus of Music and Mental
-Health</div>
-<div class="isomer-card-description">The therapeutic frequency that fosters emotional balance</div>
+<div class="isomer-card-title">[11 Mar] Designing for Resilience: Ethics, Sustainability and the Future
+of Human Centred Design</div>
+<div class="isomer-card-description">From surviving to thriving: How design shapes resilient communities</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/thrivelab/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[18 Mar] Thrivelab</div><div class="isomer-card-description">No textbooks or lectures—just hands-on problem-solving</div><div class="isomer-card-link">More details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/future-horizons-envisioning-the-humanities-and-social-sciences/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/resonance-and-resilience-exploring-the-nexus-of-music-and-mental-health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[18 Mar] Resonance and Resilience: Exploring the Nexus of Music and Mental Health</div><div class="isomer-card-description">The therapeutic frequency that fosters emotional balance</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/thrivelab/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">[25 Mar] Future Horizons: Envisioning the Humanities and Social Sciences</div>
-<div class="isomer-card-description">The journey forward: Why the human story will always lead the future.</div>
+<div class="isomer-card-title">[18 Mar] Thrivelab</div>
+<div class="isomer-card-description">No textbooks or lectures—just hands-on problem-solving</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/future-horizons-envisioning-the-humanities-and-social-sciences/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[25 Mar] Future Horizons: Envisioning the Humanities and Social Sciences</div><div class="isomer-card-description">The journey forward: Why the human story will always lead the future.</div><div class="isomer-card-link">More details</div></div></a>
 </div>
 <p></p>
