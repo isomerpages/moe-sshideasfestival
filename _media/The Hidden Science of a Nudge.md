@@ -15,18 +15,31 @@ description: ""
 </div>
 <p>Do check out our events on Behavioural Science below!</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">(6 Mar) EMPOWER’s Spotlight on Transformative Research in Early Development</div><div class="isomer-card-description">One size can’t fit them all: Why tailoring children’s learning matters</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] EMPOWER’s Spotlight on Transformative Research in Early Development</div><div class="isomer-card-description">One size can’t fit them all: Why tailoring children’s learning matters</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/neuroscience-of-stress-and-resilience-interactive-demos-and-booths/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">[7 Mar] Neuroscience of Stress and Resilience: Interactive Demos and Booths</div>
+<div class="isomer-card-description">Your stress, decoded. Neuroscience to build real resilience.</div>
+<div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/lab-visit-for-studies-in-experimental-psychology/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[9 Mar] Lab Visit for Studies in Experimental Psychology</div><div class="isomer-card-description">You think, we track. The Psychology Lab is open for your hypotheses.</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/resonance-and-resilience-exploring-the-nexus-of-music-and-mental-health/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[18 Mar] Resonance and Resilience: Exploring the Nexus of Music and Mental
+Health</div>
+<div class="isomer-card-description">The therapeutic frequency that fosters emotional balance</div>
+<div class="isomer-card-link">More details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/thrivelab/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[18 Mar] Thrivelab</div><div class="isomer-card-description">No textbooks or lectures—just hands-on problem-solving</div><div class="isomer-card-link">More details</div></div></a>
 </div>
 <p></p>
