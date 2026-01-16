@@ -29,7 +29,7 @@ sections:
       alt: Image alt text
       image: /images/Logos & Assets/MOE_Ideas_Fest_Website_Graphic.png
   - infopic:
-      title: The Hidden Science of A Nudge!
+      title: The Hidden Science of a Nudge!
       subtitle: Content partnership
       id: infopic
       description: Small Nudge. Nation-wide Impact. See Behavioural Science in action!
