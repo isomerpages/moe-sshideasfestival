@@ -34,7 +34,7 @@ sections:
       id: infopic
       description: Small Nudge. Nation-wide Impact. See Behavioural Science in action!
       button: Click here
-      url: https://www.instagram.com/p/DTjrC8iD2-0/
+      url: /the-hidden-science-of-a-nudge/
       image: /images/Biogirl_MJ.png
       alt: Image alt text
 ---
