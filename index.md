@@ -32,8 +32,8 @@ sections:
       title: The Hidden Science of A Nudge!
       subtitle: Content partnership
       id: infopic
-      description: Behavioural Science in Action!
-      button: Find out more
+      description: Small Nudge. Nation-wide Impact. See behavioural science in action!
+      button: Click here
       url: https://www.instagram.com/p/DTjrC8iD2-0/
       image: /images/Biogirl_MJ.png
       alt: Image alt text
