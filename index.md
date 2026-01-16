@@ -28,4 +28,13 @@ sections:
       url: /if2026-theme/
       alt: Image alt text
       image: /images/Logos & Assets/MOE_Ideas_Fest_Website_Graphic.png
+  - infopic:
+      title: The Hidden Science of A Nudge
+      subtitle: Content partnership
+      id: infopic
+      description: Behavioural Science in Action!
+      button: Find out more
+      url: https://www.instagram.com/p/DTjrC8iD2-0/
+      image: /images/Biogirl_MJ.png
+      alt: Image alt text
 ---
