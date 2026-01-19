@@ -43,5 +43,19 @@ not just Survive</div>
 <div class="isomer-card-link">More details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/reimagining-regional-resilience-in-an-age-of-great-power-rivalry/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_35.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] Reimagining Regional Resilience in an Age of Great Power Rivalry</div><div class="isomer-card-description">Finding resilience in a volatile time: the Singapore and ASEAN strategic playbook.</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/ground-up-pathways-for-resilience/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[5 Mar] From Ecosystem Services to Cultural Wellbeing: Ground Up Pathways
+for Resilience</div>
+<div class="isomer-card-description">Design with nature, not against it: Building community wellbeing from
+the ground up</div>
+<div class="isomer-card-link">More details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/pedagogical-signatures-of-resilience/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] Pedagogical Signatures of Resilience: Fostering Multifaceted Dispositions in the Performing Arts for Future Creative Economies</div><div class="isomer-card-description">More than performance: The resilience taught behind the curtain</div><div class="isomer-card-link">More details</div></div></a>
 </div>
 <p></p>
