@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Week 2
 ---
+<h4><strong>Pedagogical Signatures of Resilience: Fostering Multifaceted Dispositions in the Performing Arts for Future Creative Economies</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
