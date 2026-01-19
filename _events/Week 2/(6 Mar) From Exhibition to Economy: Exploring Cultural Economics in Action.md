@@ -69,17 +69,20 @@ and deepen your understanding of cultural economics!</p>
 <h4>Speakers</h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/chun-aik-goh-4859a860/?originalSubdomain=sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Goh_Chun_Aik__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Goh Chun Aik&nbsp;</div><div class="isomer-card-description">Chun Aik&nbsp;is an artist and curator who explores the intersection of individual and shared realities. Attuned to often-overlooked moments and different ways of seeing, he materialises individual realities into shared experiences through images, text, collaborations and exhibition-making.</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://michaeleko.com/bio-contact/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Michael_Eko__1_.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Michael Eko</div>
+<div class="isomer-card-description">Michael Eko&nbsp;is an Indonesian documentary photographer whose work
+addresses environmental, sociocultural, human rights issues. He collaborates
+with media outlets, civil society groups and local communities to foster
+meaningful societal change through image and visual storytelling.</div>
+<div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/su-fern-hoe?originalSubdomain=sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Su_Fern.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Hoe Su Fern</div><div class="isomer-card-description">Su Fern is Principal Research Fellow directing the Culture Policy and Evidence Lab at NAFA, UAS. She specialises in the analysis of cultural policy with three strands (i) culture-led place transformation, (ii) cultural governance and policy-making, (iii) cultural value and impact evaluation.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
