@@ -19,7 +19,7 @@ third_nav_title: Week 2
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time: 2.00pm – 5:00pm</strong>
+<p><strong>Time: 5.00pm - 6.30pm</strong>
 </p>
 </td>
 </tr>
@@ -37,17 +37,20 @@ third_nav_title: Week 2
 </tr>
 </tbody>
 </table>
-<p>What if failure isn't the opposite of success, but a crucial stepping
-stone toward it?</p>
-<p>Across the humanities and social sciences, scholars have long studied
-how setbacks shape human behavior, innovation, and growth. Yet in achievement-oriented
-societies, failure remains stigmatized—something to hide rather than harness.</p>
-<p>This panel discussion brings together diverse disciplinary perspectives
-to reframe failure as a learning opportunity. Discover how psychologists
-understand resilience-building, how historians trace innovation born from
-setbacks, and how sociologists examine cultural attitudes toward "failing
-forward."</p>
-<p>Whether you're navigating career challenges, academic pressures, or personal
-growth, you'll leave with practical strategies to build grit, embrace productive
-failure, and transform obstacles into opportunities. Learn why your biggest
-setbacks might become your greatest assets.</p>
+<p>How can the ways we value and experience nature strengthen wellbeing and
+resilience in our urban lives? This session introduces the concept of Cultural
+Ecosystem Services (CES) — the non-material benefits people gain from nature,
+such as identity, belonging, and connection. It explores how these often-overlooked
+cultural and emotional dimensions of nature can guide us toward building
+more resilient communities.</p>
+<p>These ideas come into focus through the work of Terrapy SG, a community-focused
+and socially driven enterprise dedicated to harnessing horticultural therapy
+and other nature-based interventions to support diverse populations. Participants
+will take part in hapa zome (leaf pounding), a therapeutic horticulture
+activity that exemplifies how CES — including aesthetic appreciation, cultural
+expression, and social connection — can be activated through creative interaction
+with plants to promote holistic health and wellbeing.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
+</div>
+<p></p>
