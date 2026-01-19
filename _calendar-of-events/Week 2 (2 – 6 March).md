@@ -69,6 +69,6 @@ Archives</div>
 <div class="isomer-card-description">The invisible archive: Telling stories that get overlooked.</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/from-exhibition-to-economy-exploring-cultural-economics-in-action/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] From Exhibition to Economy: Exploring Cultural Economics in Action</div><div class="isomer-card-description"> Beyond the price tag: the essential value of culture in society</div><div class="isomer-card-link">More details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/from-exhibition-to-economy-exploring-cultural-economics-in-action/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] From Exhibition to Economy: Exploring Cultural Economics in Action</div><div class="isomer-card-description">Beyond the price tag: the essential value of culture in society</div><div class="isomer-card-link">More details</div></div></a>
 </div>
 <p></p>
