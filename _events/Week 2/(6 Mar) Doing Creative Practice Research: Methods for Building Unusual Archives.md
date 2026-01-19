@@ -69,4 +69,23 @@ creative practice research.&nbsp;</p>
 </tbody>
 </table>
 <p></p><a class="isomer-image-wrapper" href="https://tinyurl.com/lasalleuas-creativepractice"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<h4>Speakers</h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.lasalle.edu.sg/academics/rosslyn-prosser/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Prosser.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Rosslyn Prosser</div><div class="isomer-card-description">Rosslyn is Programme Leader for the Masters, Creative Writing at LASALLE, UAS. She specialises in life-writing and queer memory and is nearing completion of an Australian Research Council Linkage Grant exploring LGBTQ life stories with the History Trust of South Australia.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.lasalle.edu.sg/academics/woo-yen-yen/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/WYY.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assoc Prof Woo Yen Yen</div>
+<div class="isomer-card-description">Yen Yen leads LASALLE’s MA Arts Pedagogy and Practice Programme. From
+making films to comics, theatre, and festivals, she blends creative practice
+with scholarly research. Catch her latest project Eat by Ear, the docu-dramedy
+food podcast, on Spotify and Apple Podcasts. IG: wooyenyen</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
