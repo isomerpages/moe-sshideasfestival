@@ -22,7 +22,7 @@ sections:
       title: The Hidden Science of a Nudge!
       subtitle: Media
       id: infopic
-      description: Small Nudge. Nation-wide Impact. See Behavioural Science in action!
+      description: Small Nudge. Nation-wide Impact. See behavioural insights in action!
       button: Click here
       url: /the-hidden-science-of-a-nudge/
       image: /images/Biogirl_MJ.png
