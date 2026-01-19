@@ -4,6 +4,7 @@ permalink: /the-hidden-science-of-a-nudge/
 variant: tiptap
 description: ""
 ---
+<h4>What if we could foster <strong>nation-wide change</strong> with <strong>small design choices</strong>?</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -11,7 +12,6 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>What if we could foster <strong>nation-wide change</strong> with <strong>small design choices</strong>?</h4>
 <h4>Introducing...</h4>
 </th>
 </tr>
