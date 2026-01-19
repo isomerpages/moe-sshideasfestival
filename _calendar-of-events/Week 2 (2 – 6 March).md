@@ -31,18 +31,6 @@ not just Survive</div>
 <div class="isomer-card-link">More details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/launch-of-the-centre-for-computational-social-science-and-humanities/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[4 Mar] Launch of the Centre for Computational Social Science and Humanities</div><div class="isomer-card-description">Where computation meets the social sciences and humanities</div><div class="isomer-card-link">More details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">[6 Mar] EMPOWER’s Spotlight on Transformative Research in Early Development</div>
-<div class="isomer-card-description">One size can’t fit them all: Why tailoring children’s learning matters</div>
-<div class="isomer-card-link">More details</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/reimagining-regional-resilience-in-an-age-of-great-power-rivalry/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_35.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] Reimagining Regional Resilience in an Age of Great Power Rivalry</div><div class="isomer-card-description">Finding resilience in a volatile time: the Singapore and ASEAN strategic playbook.</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/ground-up-pathways-for-resilience/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -56,17 +44,30 @@ for Resilience</div>
 the ground up</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/pedagogical-signatures-of-resilience/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] Pedagogical Signatures of Resilience: Fostering Multifaceted Dispositions in the Performing Arts for Future Creative Economies</div><div class="isomer-card-description">More than performance: The resilience taught behind the curtain</div><div class="isomer-card-link">More details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/doing-creative-practice-research-methods-for-building-unusual-archives/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] EMPOWER’s Spotlight on Transformative Research in Early Development</div><div class="isomer-card-description">One size can’t fit them all: Why tailoring children’s learning matters</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/reimagining-regional-resilience-in-an-age-of-great-power-rivalry/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_35.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">[6 Mar] Doing Creative Practice Research: Methods for Building Unusual
-Archives</div>
-<div class="isomer-card-description">The invisible archive: Telling stories that get overlooked.</div>
+<div class="isomer-card-title">[6 Mar] Reimagining Regional Resilience in an Age of Great Power Rivalry</div>
+<div class="isomer-card-description">Finding resilience in a volatile time: the Singapore and ASEAN strategic
+playbook.</div>
+<div class="isomer-card-link">More details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/doing-creative-practice-research-methods-for-building-unusual-archives/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] Doing Creative Practice Research: Methods for Building Unusual Archives</div><div class="isomer-card-description">The invisible archive: Telling stories that get overlooked.</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/pedagogical-signatures-of-resilience/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[6 Mar] Pedagogical Signatures of Resilience: Fostering Multifaceted Dispositions
+in the Performing Arts for Future Creative Economies</div>
+<div class="isomer-card-description">More than performance: The resilience taught behind the curtain</div>
 <div class="isomer-card-link">More details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/from-exhibition-to-economy-exploring-cultural-economics-in-action/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] From Exhibition to Economy: Exploring Cultural Economics in Action</div><div class="isomer-card-description">Beyond the price tag: the essential value of culture in society</div><div class="isomer-card-link">More details</div></div></a>
