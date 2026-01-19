@@ -25,7 +25,7 @@ sections:
       description: Small Nudge. Nation-wide Impact. See behavioural insights in action!
       button: learn more
       url: /the-hidden-science-of-a-nudge/
-      image: /images/image_2026_01_19_160654580.png
+      image: /images/Biogirl_collab__1_.png
       alt: Image alt text
   - infopic:
       title: Reimagining Resilience
