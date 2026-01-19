@@ -49,9 +49,5 @@ these practices can extend beyond the classroom to benefit learners, educators,
 and society at large.</p>
 <p>We invite dialogue, collaboration, and reflection on how the performing
 arts can help students in all majors recognise multiple employment possibilities,
-to inspire resilient, creative communities for the future.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
-</div>
+to inspire resilient, creative communities for the future.</p><a class="isomer-image-wrapper" href="https://tinyurl.com/nafauas-resilience"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
