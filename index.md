@@ -20,7 +20,7 @@ sections:
           url: /launch-week/
   - infopic:
       title: The Hidden Science of a Nudge!
-      subtitle: Media
+      subtitle: Content Partnership
       id: infopic
       description: Small Nudge. Nation-wide Impact. See behavioural insights in action!
       button: learn more
