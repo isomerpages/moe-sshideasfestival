@@ -41,6 +41,6 @@ History</div>
 <div class="isomer-card-description">Singapore’s wild roots: Uncover the civic core’s layered past on foot.</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/exploring-estrangement-through-design-process/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[10 Mar] Exploring Estrangement through Design Process</div><div class="isomer-card-description">Challenge the familiar: Design education that rewires how we see cities</div><div class="isomer-card-link">More details</div></div></a>
 </div>
 <p></p>
