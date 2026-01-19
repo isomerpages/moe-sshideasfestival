@@ -47,7 +47,7 @@ third_nav_title: Week 3
 explore estrangement through design, turning ordinary urban life up-side-down
 to reveal new ways of seeing, sensing and thinking.
 <br>&nbsp;
-<br>An Invitation to imagine the city anew through playful disruption and
+<br>An invitation to imagine the city anew through playful disruption and
 creative experimentation. Discover alternative meanings hidden within the
 spaces and objects we often overlook. Expect to be surprised, challenged,
 and re-energised as you transform the familiar into fresh possibilities
