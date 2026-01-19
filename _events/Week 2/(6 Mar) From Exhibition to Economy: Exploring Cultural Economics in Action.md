@@ -30,7 +30,7 @@ third_nav_title: Week 2
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Theme: Regional, Policy, and Global Resilience</strong>
+<p><strong>Theme: Adapting to Change I: Urban, Social, Cultural</strong>
 </p>
 </td>
 </tr>
