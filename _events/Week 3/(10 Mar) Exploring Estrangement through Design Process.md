@@ -57,11 +57,11 @@ for design and community.</p>
 </tbody>
 </table><a class="isomer-image-wrapper" href="https://tinyurl.com/nafauas-exploringestrangement"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speakers</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/teng-mei-yong-christabel" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Christabel_Teng.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Christabel Teng</div><div class="isomer-card-description">Christabel Teng is an educator and design leader in visual communication, service design, and design management. As Vice Dean of the Faculty of Art &amp; Design at NAFA, her work examines affective place attachment through visual and narrative inquiry.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/teng-mei-yong-christabel" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Christabel_Teng__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Christabel Teng</div><div class="isomer-card-description">Christabel Teng is an educator and design leader in visual communication, service design, and design management. As Vice Dean of the Faculty of Art &amp; Design at NAFA, her work examines affective place attachment through visual and narrative inquiry.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/tay-siang-hwee" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Siang_Wee.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Siang_Wee__1_.png">
 </div>
 </div>
 <div class="isomer-card-body">
