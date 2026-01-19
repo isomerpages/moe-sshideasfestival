@@ -2,8 +2,8 @@ collections:
   events:
     output: true
     order:
-      - "Launch Week/From Passion to Prosperity:  Prototyping Satellite Creative
-        Community Labs for Social Impact.md"
+      - "Launch Week/(27 Feb) From Passion to Prosperity: Prototyping Satellite
+        Creative Community Labs for Social Impact.md"
       - Launch Week/.keep
       - "Launch Week/(27 Feb) Choose your own Ethical Adventure: Exploring the
         use of AI agents.md"
