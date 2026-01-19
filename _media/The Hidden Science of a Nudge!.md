@@ -26,7 +26,7 @@ description: ""
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<h4><strong>Curious to know more? </strong>Sign up for our events to learn more about how behavioural insights can be applied in everyday life!</h4>
+<h4><strong>Curious to know more? </strong>Sign up for these events to learn more about how behavioural insights can be applied in everyday life!</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/failing-forward-what-the-humanities-and-social-sciences-teach-us-about-resilience/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[2 Mar] Failing Forward: What the Humanities and Social Sciences Teach Us About Resilience​</div><div class="isomer-card-description">Failure is just research: How to leverage the setback.</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/launch-of-the-centre-for-computational-social-science-and-humanities/" class="isomer-card">
 <div class="isomer-card-image">
