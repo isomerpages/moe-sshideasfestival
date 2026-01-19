@@ -25,7 +25,7 @@ third_nav_title: Launch Week
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: 45 Sultan Gate</strong>
+<p><strong>Venue: Serambi Kampong Gelam, 45 Sultan Gate, Singapore 198492</strong>
 </p>
 </td>
 </tr>
