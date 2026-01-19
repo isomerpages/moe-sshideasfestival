@@ -18,5 +18,19 @@ description: ""
 resilience. More details to come!</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="/choose-your-own-ethical-adventure-exploring-the-use-of-ai-agents/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ethical adventure" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[27 Feb] Choose your own Ethical Adventure: Exploring the use of AI agents</div><div class="isomer-card-description">Your ethics, powered by AI. The interactive future of moral decision-making.</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/from-passion-to-prosperity/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[27 Feb] From Passion to Prosperity: Prototyping Satellite Creative Community
+Labs for Social Impact</div>
+<div class="isomer-card-description">Creativity isn't just expression, it's how we engage communities and drive
+social change</div>
+<div class="isomer-card-link">More details</div>
+</div>
+</a>
 </div>
 <p></p>
