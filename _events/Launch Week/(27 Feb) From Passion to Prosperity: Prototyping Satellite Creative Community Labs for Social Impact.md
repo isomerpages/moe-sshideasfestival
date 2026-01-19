@@ -81,6 +81,22 @@ social enterprise that leverages architecture and design for social impact.
 She is also a WELL AP, certified Universal Design Consultant and permaculturist.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/raihan-syahmi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Raihan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Muhammad Raihan Syahmi Bin Abdul Hadi</div><div class="isomer-card-description">Raihan recently graduated from NAFA, UAS with a Bachelor of Arts (Honours) in Design Practice and a Best Graduate Award. With interests in woodworking and community-centric design, he is winner of the ASEAN Furniture Design Award 2025. Raihan is GLab's current project coordinator. </div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/raihan-syahmi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Raihan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Muhammad Raihan Syahmi Bin Abdul Hadi</div><div class="isomer-card-description">Raihan recently graduated from NAFA, UAS with a Bachelor of Arts (Honours) in Design Practice and a Best Graduate Award. With interests in woodworking and community-centric design, he is winner of the ASEAN Furniture Design Award 2025. Raihan is GLab's current project coordinator.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/su-fern-hoe?originalSubdomain=sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/UAS/Su_Fern.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Hoe Su Fern</div>
+<div class="isomer-card-description">Su Fern&nbsp;is Principal Research Fellow directing the Culture Policy
+and Evidence Lab at NAFA, UAS. She specialises in the analysis of cultural
+policy with three strands (i) culture-led place transformation, (ii) cultural
+governance and policy-making,&nbsp;&nbsp;(iii) cultural value and impact
+evaluation.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
 </div>
 <p></p>
