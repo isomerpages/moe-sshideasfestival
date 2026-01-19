@@ -57,5 +57,18 @@ the ground up</div>
 <div class="isomer-card-link">More details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/pedagogical-signatures-of-resilience/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] Pedagogical Signatures of Resilience: Fostering Multifaceted Dispositions in the Performing Arts for Future Creative Economies</div><div class="isomer-card-description">More than performance: The resilience taught behind the curtain</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/doing-creative-practice-research-methods-for-building-unusual-archives/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[6 Mar] Doing Creative Practice Research: Methods for Building Unusual
+Archives</div>
+<div class="isomer-card-description">The invisible archive: Telling stories that get overlooked.</div>
+<div class="isomer-card-link">More details</div>
+</div>
+</a>
 </div>
 <p></p>
