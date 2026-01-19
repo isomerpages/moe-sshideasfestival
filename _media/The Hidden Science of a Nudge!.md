@@ -4,7 +4,7 @@ permalink: /the-hidden-science-of-a-nudge/
 variant: tiptap
 description: ""
 ---
-<h4>What if we could foster <strong>nation-wide change</strong> with <strong>small design choices</strong>? </h4>
+<h4>What if we could foster <strong>nation-wide change</strong> with <strong>small design choices</strong>?</h4>
 <h4>Introducing...</h4>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/reel/DTjrC8iD2-0/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
@@ -26,7 +26,7 @@ description: ""
 <div class="isomer-card-body">
 <div class="isomer-card-title">[4 Mar] Launch of the Centre for Computational Social Science and Humanities</div>
 <div class="isomer-card-description">Where computation meets the social sciences and humanities</div>
-<div class="isomer-card-link">Learn More</div>
+<div class="isomer-card-link">More details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/empower-s-spotlight-on-transformative-research-in-early-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] EMPOWER’s Spotlight on Transformative Research in Early Development</div><div class="isomer-card-description">One size can’t fit them all: Why tailoring children’s learning matters</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/neuroscience-of-stress-and-resilience-interactive-demos-and-booths/" class="isomer-card">
