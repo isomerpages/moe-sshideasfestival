@@ -71,7 +71,7 @@ on semiconductor supply chains and platform governance.</div>
 <a rel="noopener noreferrer nofollow" href="https://law.smu.edu.sg/faculty/profile/7931/dirk-hartung" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SMU/Resilient Legal Systems/Dirk.png">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SMU/Resilient Legal Systems/Dirk__1_.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -82,11 +82,11 @@ Center for Legal Informatics. His research focuses on computational legal
 studies, the regulation and future of the legal profession, and legal complexity</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/anh-nguyen-61a973288/?originalSubdomain=nl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SMU/Resilient Legal Systems/Ngyuen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Anh Nguyen</div><div class="isomer-card-description">Anh is a PhD researcher at the Institute for Information Law, University of Amsterdam. She investigates the geoeconomics, law and political economy within the emerging quantum value chain as part of Quantum Delta Netherlands’ Societal Impact Action Line.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/anh-nguyen-61a973288/?originalSubdomain=nl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SMU/Resilient Legal Systems/Ngyuen__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Anh Nguyen</div><div class="isomer-card-description">Anh is a PhD researcher at the Institute for Information Law, University of Amsterdam. She investigates the geoeconomics, law and political economy within the emerging quantum value chain as part of Quantum Delta Netherlands’ Societal Impact Action Line.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/alex-toh-law/?originalSubdomain=sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SMU/Resilient Legal Systems/Alex.png">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SMU/Resilient Legal Systems/Alex__1_.png">
 </div>
 </div>
 <div class="isomer-card-body">
