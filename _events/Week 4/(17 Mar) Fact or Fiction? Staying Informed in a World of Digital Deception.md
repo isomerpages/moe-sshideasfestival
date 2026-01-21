@@ -76,5 +76,20 @@ with a particular focus on health and science misinformation.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Lee-Chu-Keong" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/NTU/Fact or Fiction/Lee_Chu_Keong.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Lee Chu Keong</div><div class="isomer-card-description">Chu Keong is Senior Lecturer at the Wee Kim Wee School of Communication and Information (WKWSCI).</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/items/bfb5112a-2f3f-49d2-8a08-3552ff71fcb1" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/Fact or Fiction/Saifuddin_Ahmed__1_.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Assoc Prof Saifuddin Ahmed</div>
+<div class="isomer-card-description">Dr Ahmed is an Associate Professor at the Wee Kim Wee School of Communication
+and Information. His research focuses on how social media platforms shape
+individuals’ political perceptions, learning, and engagement, particularly
+in the context of misinformation and deepfakes.</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
 </div>
 <p></p>
