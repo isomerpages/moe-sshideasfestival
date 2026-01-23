@@ -84,7 +84,7 @@ with a particular focus on health and science misinformation.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Assoc Prof Saifuddin Ahmed</div>
-<div class="isomer-card-description">Dr Ahmed is an Associate Professor at the Wee Kim Wee School of Communication
+<div class="isomer-card-description">Ahmed is an Associate Professor at the Wee Kim Wee School of Communication
 and Information. His research focuses on how social media platforms shape
 individuals’ political perceptions, learning, and engagement, particularly
 in the context of misinformation and deepfakes.</div>

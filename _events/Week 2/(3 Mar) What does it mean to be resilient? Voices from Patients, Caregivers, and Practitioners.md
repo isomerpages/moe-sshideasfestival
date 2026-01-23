@@ -98,6 +98,6 @@ Humanities Research Cluster. Her research bridges the study of disability,
 social interaction, and inclusive design.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Ian-Dixon" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/What does it mean Resilient/Ian_Dixon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Ian Dixon</div><div class="isomer-card-description">Ian Dixon is a filmmaker, writer, and academic who completed his PhD at the Victorian College of the Arts, University of Melbourne, and publishes internationally on film, celebrity, and performance, including the book I’m Not a Film Star: David Bowie as Actor.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
 <p></p>
