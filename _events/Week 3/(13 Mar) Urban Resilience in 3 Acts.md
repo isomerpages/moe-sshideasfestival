@@ -64,7 +64,7 @@ Future Digital Economies initiative).</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/researchers/suhaila-zainal-shah/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SUTD/Urban Resilience 3 Acts/Suhaila.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Suhaila Binte Zainal Shah</div><div class="isomer-card-description">Suhaila Zainal Shah is Research Fellow at the Lee Kuan Yew Centre for Innovative Cities. A sociologist with expertise in interdisciplinary and applied social research, she studies social inequalities, inclusivity, and urban challenges.</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="www.linkedin.com/in/jeremy-mok-7096a230" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/jeremy-mok-7096a230/?originalSubdomain=sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SUTD/Urban Resilience 3 Acts/Jeremy_Mok.png">
