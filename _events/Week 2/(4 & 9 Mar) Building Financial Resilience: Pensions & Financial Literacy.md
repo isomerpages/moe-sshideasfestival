@@ -43,9 +43,9 @@ is the role of financial literacy in retirement and economic decision-making?</p
 research projects carried out as part of the graduate coursework for the
 ""Pensions &amp; Retirement Policies"" module, alongside new findings from
 national surveys on financial literacy and financial capability in Singapore.
-The 2-week exhibition serves as an open platform for sharing applied research
-and for fostering critical reflection on addressing financial resilience
-in retirement systems.</p>
+The 2-week exhibition (from 3-13 March 2026) serves as an open platform
+for sharing applied research and for fostering critical reflection on addressing
+financial resilience in retirement systems.</p>
 <p>Join us for evidence-based insights on the topic. Guests will have the
 opportunity to engage "live" with the students and researchers from 2-5pm
 on 4 &amp; 9 March.</p>
