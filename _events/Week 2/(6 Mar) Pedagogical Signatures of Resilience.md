@@ -54,12 +54,16 @@ dance and theatre students from the Nanyang Academy of Fine Arts, University
 of the Arts Singapore. A closing work, titled <em>Here, There &amp; Fly&nbsp;Where?</em>,&nbsp;reimagines
 flight attendants through various Afro-dance styles with contemporary and
 street elements.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Student Performers</strong>: Shavaun Toh (Cellist, School of Music);
 Joelle Wong Jing Yee and Muhammad Razin&nbsp;Nurulhaq&nbsp;Bin Sirhan (School
 of Theatre); Muhammad&nbsp;Shazlan&nbsp;bin Roslan (Choreographer, School
 of Dance); Siti Nur-Afiqah Binte&nbsp;Azli, Siti Nur-Atiqah Binte&nbsp;Azli,
 Chandrasekaran Richard Solomon, Kendra Alexa Kurniawan, Rabano&nbsp;Rhailly&nbsp;Espiritu,
 Wan Mohamed&nbsp;Qhairunnas&nbsp;Bin Wan Mohamed Ramdan (School of Dance)&nbsp;</p>
+</li>
+</ul>
 <p></p><a class="isomer-image-wrapper" href="https://tinyurl.com/nafauas-resilience"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speakers</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/lena-ching" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Lena_Ching.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lena Ching</div><div class="isomer-card-description">Lena Ching is an established pianist and educator in Singapore with close to 40 years of teaching experience. She specialises in nurturing gifted and high-ability learners and music professionals, and draws on her conservatory and music psychology training to support cross-sector collaborations.</div><div class="isomer-card-link">Click for full profile</div></div></a>
