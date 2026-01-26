@@ -54,15 +54,17 @@ and definitions of what cultural assets like exhibitions mean to them and
 others.&nbsp; By engaging in these conversations and reflections, participants
 will experience first-hand how the arts and cultural economics can expand
 our understanding of value that can be foundational to a more inclusive
-and resilient future.
-<br>&nbsp;
-<br>Whether you are interested in the arts, policy or cultural economics,
+and resilient future.</p>
+<p></p>
+<p>Whether you are interested in the arts, policy or cultural economics,
 this workshop aims to foster a deeper appreciation of the intrinsic and
 instrumental value of the arts and culture in society.
 <br>&nbsp;
 <br>Don’t miss this opportunity to expand your perspectives, challenge assumptions
 and deepen your understanding of cultural economics!</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>This workshop includes an exhibition tour to "Kapuas Mahakam: A Chronicle
 of Two Rivers in the Anthropocene" at&nbsp;Objectifs, a non-profit visual
 arts space in Singapore dedicated to film and photography. This&nbsp;upcoming&nbsp;exhibition
@@ -70,6 +72,8 @@ featuring documentary photographer Michael Eko and curated by Goh Chun
 Aik explores the Kapuas and Mahakam rivers, Borneo’s vital freshwater lifelines
 now threatened by deforestation and industrial exploitation. It also follows
 indigenous communities adapting to environmental and cultural change.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
