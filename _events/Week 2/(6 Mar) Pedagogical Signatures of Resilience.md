@@ -50,34 +50,34 @@ and society at large.</p>
 arts can help students in all majors recognise multiple employment possibilities,
 to inspire resilient, creative communities for the future.</p><a class="isomer-image-wrapper" href="https://tinyurl.com/nafauas-resilience"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/gillian-tan" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gillian Tan</div><div class="isomer-card-description">Gillian Tan is a Senior Lecturer and Programme Leader (Dance) at NAFA, UAS with a MFA in Choreography at Purchase College, Conservatory of Dance (New York). Her pedagogical work was published in Springer’s Teaching and Learning the Arts in Higher Education with Technology (2021).</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/andrew-james-mowatt" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/dr.-kan-yen-pei-rebecca" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/UAS/RebeccaKan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rebecca Kan</div><div class="isomer-card-description">Rebecca works across the visual and performing arts on research in professional education, signature pedagogies, and the space in-between. She is co-editor of Teaching and Learning the Arts in Higher Education with Technology (2021) and Signature Pedagogies for Professions in Arts and Design (2025)</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/gillian-tan" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Gillian_Chan.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Andrew James Mowatt</div>
-<div class="isomer-card-description">Andrew James Mowatt is a theatre educator and practitioner committed to
-empowering emerging artists through rigorous training and creative collaboration.
-He champions inclusive practice and imaginative risk-taking, bridging theory
-and craft to nurture reflective storytellers.</div>
+<div class="isomer-card-title">Gillian Tan</div>
+<div class="isomer-card-description">Gillian Tan is a Senior Lecturer and Programme Leader (Dance) at NAFA,
+UAS with a MFA in Choreography at Purchase College, Conservatory of Dance
+(New York). Her pedagogical work was published in Springer’s Teaching and
+Learning the Arts in Higher Education with Technology (2021).</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/lena-ching" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lena Ching</div><div class="isomer-card-description">Lena Ching is an established pianist and educator in Singapore with close to 40 years of teaching experience. She specialises in nurturing gifted and high-ability learners and music professionals, and draws on her conservatory and music psychology training to support cross-sector collaborations.</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/dr.-kan-yen-pei-rebecca" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/andrew-james-mowatt" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Mowatt.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Andrew James Mowatt</div><div class="isomer-card-description">Andrew James Mowatt is a theatre educator and practitioner committed to empowering emerging artists through rigorous training and creative collaboration. He champions inclusive practice and imaginative risk-taking, bridging theory and craft to nurture reflective storytellers.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/lena-ching" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Lena_Ching.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Rebecca Kan</div>
-<div class="isomer-card-description">Rebecca works across the visual and performing arts on research in professional
-education, signature pedagogies, and the space in-between. She is co-editor
-of Teaching and Learning the Arts in Higher Education with Technology (2021)
-and Signature Pedagogies for Professions in Arts and Design (2025)</div>
+<div class="isomer-card-title">Lena Ching</div>
+<div class="isomer-card-description">Lena Ching is an established pianist and educator in Singapore with close
+to 40 years of teaching experience. She specialises in nurturing gifted
+and high-ability learners and music professionals, and draws on her conservatory
+and music psychology training to support cross-sector collaborations.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a>
