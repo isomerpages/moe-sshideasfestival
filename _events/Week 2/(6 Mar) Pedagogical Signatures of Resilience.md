@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Week 2
 ---
-<h4><strong>Pedagogical Signatures of Resilience: Fostering Multifaceted Dispositions in the Performing Arts for Future Creative Economies</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -52,16 +51,19 @@ arts can help students in all majors recognise multiple employment possibilities
 to inspire resilient, creative communities for the future.</p><a class="isomer-image-wrapper" href="https://tinyurl.com/nafauas-resilience"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/gillian-tan" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gillian Tan</div><div class="isomer-card-description">Gillian Tan is a Senior Lecturer and Programme Leader (Dance) at NAFA, UAS with a MFA in Choreography at Purchase College, Conservatory of Dance (New York). Her pedagogical work was published in Springer’s Teaching and Learning the Arts in Higher Education with Technology (2021).</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/andrew-james-mowatt" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Andrew James Mowatt</div>
+<div class="isomer-card-description">Andrew James Mowatt is a theatre educator and practitioner committed to
+empowering emerging artists through rigorous training and creative collaboration.
+He champions inclusive practice and imaginative risk-taking, bridging theory
+and craft to nurture reflective storytellers.</div>
+<div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
