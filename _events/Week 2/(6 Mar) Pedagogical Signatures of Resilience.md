@@ -37,15 +37,15 @@ third_nav_title: Week 2
 </tbody>
 </table>
 <p>How can we reimagine resilience?</p>
-<p>This roundtable brings together artist-educators from music, dance, and
-theatre to explore how resilience is cultivated as a multifaceted pedagogical
-disposition in the performing arts. Participants will share lived experiences,
-discuss contemporary teaching approaches, and examine learning challenges
-in navigating ambiguity, uncertainty, and vulnerability. Drawing on insights
-from performance practices, the session will highlight how resilience has
-been intentionally fostered in our higher education curricula, and how
-these practices can extend beyond the classroom to benefit learners, educators,
-and society at large.</p>
+<p>This roundtable brings together veteran&nbsp;artist-educators from music,
+dance, and theatre to explore how resilience is cultivated as a multifaceted
+pedagogical disposition in the performing arts. Participants will share
+lived experiences, discuss contemporary teaching approaches, and examine
+learning challenges in navigating ambiguity, uncertainty, and vulnerability.
+Drawing on insights from performance practices, the session will highlight
+how resilience has been intentionally fostered in our higher education
+curricula, and how these practices can extend beyond the classroom to benefit
+learners, educators, and society at large.</p>
 <p>We invite dialogue, collaboration, and reflection on how the performing
 arts can help students in all majors recognise multiple employment possibilities,
 to inspire resilient, creative communities for the future.</p>
