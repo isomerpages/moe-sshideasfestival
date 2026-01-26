@@ -66,5 +66,20 @@ and craft to nurture reflective storytellers.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/lena-ching" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lena Ching</div><div class="isomer-card-description">Lena Ching is an established pianist and educator in Singapore with close to 40 years of teaching experience. She specialises in nurturing gifted and high-ability learners and music professionals, and draws on her conservatory and music psychology training to support cross-sector collaborations.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/dr.-kan-yen-pei-rebecca" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Rebecca Kan</div>
+<div class="isomer-card-description">Rebecca works across the visual and performing arts on research in professional
+education, signature pedagogies, and the space in-between. She is co-editor
+of Teaching and Learning the Arts in Higher Education with Technology (2021)
+and Signature Pedagogies for Professions in Arts and Design (2025)</div>
+<div class="isomer-card-link">Click for full profile</div>
+</div>
+</a>
 </div>
 <p></p>
