@@ -63,8 +63,6 @@ instrumental value of the arts and culture in society.
 <br>Don’t miss this opportunity to expand your perspectives, challenge assumptions
 and deepen your understanding of cultural economics!</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p>This workshop includes an exhibition tour to "Kapuas Mahakam: A Chronicle
 of Two Rivers in the Anthropocene" at&nbsp;Objectifs, a non-profit visual
 arts space in Singapore dedicated to film and photography. This&nbsp;upcoming&nbsp;exhibition
@@ -72,8 +70,6 @@ featuring documentary photographer Michael Eko and curated by Goh Chun
 Aik explores the Kapuas and Mahakam rivers, Borneo’s vital freshwater lifelines
 now threatened by deforestation and industrial exploitation. It also follows
 indigenous communities adapting to environmental and cultural change.</p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>
