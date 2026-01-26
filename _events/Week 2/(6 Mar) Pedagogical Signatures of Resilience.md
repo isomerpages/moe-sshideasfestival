@@ -49,7 +49,7 @@ and society at large.</p>
 <p>We invite dialogue, collaboration, and reflection on how the performing
 arts can help students in all majors recognise multiple employment possibilities,
 to inspire resilient, creative communities for the future.</p><a class="isomer-image-wrapper" href="https://tinyurl.com/nafauas-resilience"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
-<p></p>
+<h4>Speakers</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/dr.-kan-yen-pei-rebecca" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/UAS/RebeccaKan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rebecca Kan</div><div class="isomer-card-description">Rebecca works across the visual and performing arts on research in professional education, signature pedagogies, and the space in-between. She is co-editor of Teaching and Learning the Arts in Higher Education with Technology (2021) and Signature Pedagogies for Professions in Arts and Design (2025)</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/gillian-tan" class="isomer-card">
 <div class="isomer-card-image">
