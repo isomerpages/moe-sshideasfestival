@@ -46,7 +46,7 @@ third_nav_title: Launch Week
 <td rowspan="1" colspan="1">
 <p>As Singapore faces a rapidly ageing population, it is imperative to find
 sustainable ways to support active, connected and inclusive communities
-for all ages. Arts- and design-led community initiatives are serve as powerful
+for all ages. Arts- and design-led community initiatives serve as powerful
 platforms that promote active participation, self-expression and wellbeing.
 Additionally, the arts are an effective medium for intercultural, intergenerational
 and inclusive learning that facilitates meaningful interactions, promoting
