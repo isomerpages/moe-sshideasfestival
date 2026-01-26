@@ -50,7 +50,5 @@ will take part in hapa zome (leaf pounding), a therapeutic horticulture
 activity that exemplifies how CES — including aesthetic appreciation, cultural
 expression, and social connection — can be activated through creative interaction
 with plants to promote holistic health and wellbeing.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Website_assets.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://tinyurl.com/nafauas-ecosystem"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
