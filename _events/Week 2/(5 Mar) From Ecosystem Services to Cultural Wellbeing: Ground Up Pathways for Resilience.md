@@ -49,6 +49,21 @@ and other nature-based interventions to support diverse populations. Participant
 will take part in hapa zome (leaf pounding), a therapeutic horticulture
 activity that exemplifies how CES — including aesthetic appreciation, cultural
 expression, and social connection — can be activated through creative interaction
-with plants to promote holistic health and wellbeing.</p>
-<p></p><a class="isomer-image-wrapper" href="https://tinyurl.com/nafauas-ecosystem"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+with plants to promote holistic health and wellbeing.</p><a class="isomer-image-wrapper" href="https://tinyurl.com/nafauas-ecosystem"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<h4>Facilitators</h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.nafa.edu.sg/experience/why-nafa/teaching-staff/profile/park-hye-young" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/UAS/Park.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Park Hye Young</div><div class="isomer-card-description">Park Hye Young&nbsp;is Programme Leader for BA (Hons) Biophilic Design at NAFA, UAS. She specialises in sustainable landscape design and regenerative urban environments. Her doctoral research focuses on operationalising cultural ecosystem services in socio-ecological urban green planning</div><div class="isomer-card-link">Click for full profile</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
