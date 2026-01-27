@@ -81,7 +81,7 @@ and nonprofit sectors work with the government to collectively address
 policy challenges within the realm of environment and sustainability.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/ies/about-us/our-people/ies-team/xia-yiyun" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Yiyun.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Yiyun Xia</div><div class="isomer-card-description">Yiyun is a Research Associate at the Institute for Environment and Sustainability, NUS. She holds a Master’s degree in Public Policy from LKYSPP. Her research focuses on collaborative environmental governance, as well as governance systems and policy processes in Southeast Asia’s energy transition.</div><div class="isomer-card-link">Click for full profile</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://lkyspp.nus.edu.sg/ies/about-us/our-people/ies-team/xia-yiyun" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NUS/Financial Resilience/Yiyun.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yiyun Xia</div><div class="isomer-card-description">Yiyun is a Research Associate at the Institute for Environment and Sustainability, NUS. She holds a Master’s degree in Public Policy from LKYSPP. Her research focuses on collaborative environmental governance, as well as governance systems and policy processes in Southeast Asia’s energy transition.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/chakorn131/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -104,7 +104,7 @@ he led projects addressing national economic issues and public policy.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lu Xu</div>
+<div class="isomer-card-title">Mr Lu Xu</div>
 <div class="isomer-card-description">Lu Xu is a Research Associate at NUS. He holds a master’s degree in Educational
 Policy and Administration from the University of Pennsylvania’s Graduate
 School of Education. His research focuses on financial education and cost-effectiveness,
