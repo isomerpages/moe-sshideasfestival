@@ -46,14 +46,14 @@ and happiness research.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Xu-Hong" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="xuhong" src="/images/2026 Festival Committee/xu hong new.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[NTU] Assoc Prof Xu Hong</div><div class="isomer-card-description">Xu Hong is Associate Professor of Psychology at School of Social Sciences, Nanyang Technological University. Her research studies neural mechanisms of visual perception and cognition and its application to human-computer interaction (HCI).</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://fass.nus.edu.sg/hist/people/jack-chia-meng-tat/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://discovery.nus.edu.sg/6833-jack-mengtat-chia" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="jack" src="/images/2026 Festival Committee/jack chia.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">[NUS] Assoc Prof Jack Chia</div>
+<div class="isomer-card-title">[NUS] Assoc Prof Jack Meng-Tat Chia</div>
 <div class="isomer-card-description">Jack Meng-Tat Chia is Foo Hai Associate Professor in Buddhist Studies
 at the National University of Singapore, where he serves as Assistant Dean
 of Research in FASS. He is a historian of religion focusing on Buddhism
