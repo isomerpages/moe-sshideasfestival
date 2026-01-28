@@ -49,6 +49,8 @@ of the 21st century. Whether you are an academic, policymaker, student,
 or engaged citizen, this is a call to action to reaffirm the vital importance
 of HSS in informing ethical leadership, strengthening communities, and
 humanising technological and societal transformation.</p>
+<p><a href="/files/Future_Horizons_Program_012326.pdf" rel="noopener nofollow" target="_blank">Download the Event Programme here!</a>
+</p>
 <p></p><a class="isomer-image-wrapper" href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gr-d2ohuJPNPidBQNQwdT59UN0JDWjdIUUpVMTVNUlJLMUgyWlUwQzFNOS4u&amp;route=shorturl"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speaker Profiles</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://socsc.smu.edu.sg/faculty/profile/7891/kenneth-benoit" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/2026 Festival Committee/kbenoit.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Kenneth Benoit</div><div class="isomer-card-description">Ken is Dean and Professor of Computational Social Science at the School of Social Sciences, Singapore Management University. His research focuses on computational, quantitative methods for processing large amounts of textual data, mainly political texts and social media.</div><div class="isomer-card-link">Click for full profile</div></div></a>
