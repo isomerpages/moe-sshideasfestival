@@ -94,10 +94,10 @@ and Implications will be published by Routledge</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Maha El Dimachki</div>
-<div class="isomer-card-description">Maha is Centre Head of the BIS Innovation Hub Singapore, leading the development
-of tech public goods to support central banks in a digital economy. Former
-FCA senior leader, Pay.UK Chief Payments Office &amp; author of Fintech
-Regulation in Practice, she focuses on safe, responsible fintech innovation</div>
+<div class="isomer-card-description">Maha is CEO for the Solutions arm of The Global Finance and Technology
+Network. She served as Centre Head of the BIS Innovation Hub Singapore,
+leading the development of tech public goods to support central banks in
+a digital economy. She focuses on safe, responsible fintech innovation.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a>
