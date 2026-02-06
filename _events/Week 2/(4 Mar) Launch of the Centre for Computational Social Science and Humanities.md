@@ -47,6 +47,8 @@ and human experience.</p>
 <p>This launch marks the beginning of an exciting platform for scholars,
 students, and practitioners to explore new frontiers in knowledge creation
 and redefine what it means to study society in the digital age.</p>
+<p>Visit the <a href="https://cssh.nus.edu.sg/cssh-launch-event/" rel="noopener nofollow" target="_blank">CSSH launch website</a> to
+learn more about the centre and its work!</p>
 <p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/6QKDLVJXdw"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speakers</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.comp.nus.edu.sg/disa/people/atreyi/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/NUS/CSSH/Atreyi.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Prof Atreyi Kankanhalli</div><div class="isomer-card-description">Atreyi Kankanhalli is Provost’s Chair Professor NUS School of Computing and co-director Centre for Computational Social Science and Humanities. Her research on human-AI collaboration and digital innovation has received numerous grants and awards and has appeared in premium journals with high impact.</div><div class="isomer-card-link">Click for full profile</div></div></a>
