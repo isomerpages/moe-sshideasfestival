@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blackboard.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IF_Calendar.png">
 </div>
 <p></p>
 <h4>Week 1 (26-27 Feb)</h4>
