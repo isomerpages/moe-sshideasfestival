@@ -155,7 +155,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Week 1</h4>
+<h4>Week 1 (26-27 Feb)</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -192,6 +192,22 @@ description: ""
 <p>SIT Punggol Campus</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Feb 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.00pm – 7.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From Passion to Prosperity: Prototyping Satellite Creative Community Labs
+for Social Impact</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Serambi Kampong Gelam, 45 Sultan Gate, Singapore 198492</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
