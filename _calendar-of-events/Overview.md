@@ -18,7 +18,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>[27 Feb] Choose your own Ethical Adventure: Exploring the use of AI agents
+<p>[27 Feb] <a href="https://www.ideasfestival.edu.sg/choose-your-own-ethical-adventure-exploring-the-use-of-ai-agents/" rel="noopener nofollow" target="_blank">Choose your own Ethical Adventure: Exploring the use of AI agents </a>
 <br>Time: 10.30am - 12.00pm
 <br>Venue: SIT Punggol Campus</p>
 </td>
@@ -31,9 +31,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>[27 Feb] From Passion to Prosperity: Prototyping Satellite Creative Community
-Labs for Social Impact</p>
-<p>Time: 5.00pm - 7.00pm</p>
-<p>Venue: Serambi Kampong Gelam, 45 Sultan Gate, Singapore 198492</p>
+Labs for Social Impact
+<br>Time: 5.00pm - 7.00pm
+<br>Venue: Serambi Kampong Gelam, 45 Sultan Gate, Singapore 198492</p>
 </td>
 </tr>
 </tbody>
