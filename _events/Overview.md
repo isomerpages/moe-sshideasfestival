@@ -17,13 +17,13 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Event</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time</p>
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Description</p>
@@ -40,19 +40,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Biogirl_collab__1_.png">
-</div>
+<p>27 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choose your own Ethical Adventure: Exploring the use of AI agents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIT Punggol Campus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
