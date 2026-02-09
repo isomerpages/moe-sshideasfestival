@@ -30,8 +30,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>[27 Feb] From Passion to Prosperity: Prototyping Satellite Creative Community
-Labs for Social Impact
+<p>[27 Feb] <a href="https://www.ideasfestival.edu.sg/from-passion-to-prosperity/" rel="noopener nofollow" target="_blank">From Passion to Prosperity: Prototyping Satellite Creative Community Labs for Social Impact</a>
 <br>Time: 5.00pm - 7.00pm
 <br>Venue: Serambi Kampong Gelam, 45 Sultan Gate, Singapore 198492</p>
 </td>
