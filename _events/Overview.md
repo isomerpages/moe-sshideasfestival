@@ -155,4 +155,43 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4>Week 1</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Feb 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30am - 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choose your own Ethical Adventure: Exploring the use of AI agents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIT Punggol Campus</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
