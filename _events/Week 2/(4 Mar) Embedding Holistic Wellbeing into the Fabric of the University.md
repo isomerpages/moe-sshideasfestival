@@ -51,15 +51,7 @@ and collaborative partnerships both within and beyond campus.</p>
 where we help students find their footing to succeed, engendering pathways
 to a life of flourishing. Don’t miss this opportunity to be part of the
 movement toward holistic student wellbeing!</p>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Interested to attend this event?</div>
-<div class="isomer-card-description">Reach out to the organisers for more information at socsc_seminar@smu.edu.sg</div>
-</div>
-</div>
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/yHgeW7XP1m"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speaker</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/alvin-sim-21abba63/?originalSubdomain=sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/SMU/Holistic Wellbeing/Alvin4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Alvin Sim</div><div class="isomer-card-description">Alvin is Head, Co-Curriculum Development and Student Care &amp; Support Services at the Singapore Management University. He led the development of the SMU Resilience Framework for holistic student wellbeing and now oversees its implementation across the University.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 </div>
