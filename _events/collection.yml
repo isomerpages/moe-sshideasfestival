@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Overview.md
       - Launch Week/.keep
       - "Launch Week/(27 Feb) Choose your own Ethical Adventure: Exploring the
         use of AI agents.md"
