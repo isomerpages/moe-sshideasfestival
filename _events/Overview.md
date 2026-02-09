@@ -17,30 +17,33 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Mon</p>
+<p>Event</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tue</p>
+<p>Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Wed</p>
+<p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Thu</p>
+<p>Description</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Fri</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sat</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sun</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Biogirl_collab__1_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -52,13 +55,13 @@ description: ""
 <p>26 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Feb</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Feb</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Mar</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -75,13 +78,13 @@ description: ""
 <p>5 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 Mar</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -98,13 +101,13 @@ description: ""
 <p>12 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Mar</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -121,13 +124,13 @@ description: ""
 <p>19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 Mar</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -144,13 +147,13 @@ description: ""
 <p>26 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 Mar</p>
+<p></p>
 </td>
 </tr>
 </tbody>
