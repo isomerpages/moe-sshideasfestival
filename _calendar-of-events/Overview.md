@@ -4,10 +4,10 @@ permalink: /overview/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IF_Calendar.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coverpage.png">
+</div>
 <h4>Week 1 (26-27 Feb)</h4>
 <table style="minWidth: 50px">
 <colgroup>
