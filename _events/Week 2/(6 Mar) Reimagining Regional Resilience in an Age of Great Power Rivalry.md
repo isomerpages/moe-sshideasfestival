@@ -45,8 +45,8 @@ pandemics, cyber vulnerabilities, and uneven demographic transitions. The
 convergence of these strategic challenges requires a fundamental re-examination
 of ASEAN's regional resilience.</p>
 <p>This half-day event consists of two inter-varsity and interdisciplinary
-panels: (1) emerging orders and institutions; and (2) technology and global
-value chain resilience.</p>
+panels: (1) emerging orders and institutions; and (2) technology, global
+value chains and health security.</p>
 <p></p><a class="isomer-image-wrapper" href="https://nus.syd1.qualtrics.com/jfe/form/SV_d7pZUylbVVh8pQG"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <h4>Speaker Profiles</h4>
 <p></p>
