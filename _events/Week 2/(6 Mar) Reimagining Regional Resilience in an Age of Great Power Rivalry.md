@@ -24,7 +24,7 @@ third_nav_title: Week 2
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue: Seminar Room 4-4, Level 4, Block B, Faculty of Law, NUS Bukit Timah Campus</strong>
+<p><strong>Venue: Seminar Room 4-4, Level 4, Block B, Lee Kuan Yew School of Public Policy, NUS Bukit Timah Campus</strong>
 </p>
 </td>
 </tr>

@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: Sign up for our events!
           description: 26 Feb - 30 Mar 2026
-          url: /launch-week/
+          url: /overview
   - infopic:
       title: The Hidden Science of a Nudge!
       subtitle: Content Partnership
