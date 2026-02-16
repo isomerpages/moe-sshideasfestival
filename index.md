@@ -19,15 +19,6 @@ sections:
           description: 26 Feb - 30 Mar 2026
           url: /overview
   - infopic:
-      title: The Hidden Science of a Nudge!
-      subtitle: Content Partnership
-      id: infopic
-      description: Small Nudge. Nation-wide Impact. See behavioural insights in action!
-      button: learn more
-      url: /the-hidden-science-of-a-nudge/
-      image: /images/Biogirl_collab__1_.png
-      alt: Image alt text
-  - infopic:
       title: Reimagining Resilience
       subtitle: Festival Theme
       id: infopic
