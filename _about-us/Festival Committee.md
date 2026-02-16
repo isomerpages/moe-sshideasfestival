@@ -4,6 +4,9 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Ideas_Festival_updated.png">
+</div>
 <p><strong>The Ideas Festival is co-organised by seven partner universities in Singapore</strong>,
 namely the National University of Singapore (NUS), Nanyang Technological
 University (NTU), Singapore Management University (SMU), Singapore University
