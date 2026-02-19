@@ -14,7 +14,7 @@ amid profound technological, cultural, and societal change.</p>
 and humanities. To help break down our full range of events, we've grouped
 them into six helpful categories, each focused on different questions and
 aspects of resilience.</p>
-<p>Explore all our events on the <a href="/launch-week" rel="noopener nofollow" target="_blank">events calendar</a>!</p>
+<p>Explore all our events on the <a href="/overview" rel="noopener nofollow" target="_blank">events calendar</a>!</p>
 <h3>Event Categories</h3>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/DTzKexDgeix/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
