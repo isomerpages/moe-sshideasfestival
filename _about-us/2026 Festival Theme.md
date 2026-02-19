@@ -24,7 +24,7 @@ aspects of resilience.</p>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<h3>Explore by Event Category</h3>
+<h3>Explore by Event Topics</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/resilience-and-mental-wellbeing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilience and Mental Wellbeing</div><div class="isomer-card-link">Explore Events</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/adapting-to-change-i-urban-social-cultural/" class="isomer-card">
 <div class="isomer-card-image">
