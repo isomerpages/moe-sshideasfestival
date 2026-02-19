@@ -21,7 +21,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/exploring-estrangement-through-design-process/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -33,7 +33,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/urban-resilience-in-3-acts/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png">
 </div>
 </div>
 <div class="isomer-card-body">
