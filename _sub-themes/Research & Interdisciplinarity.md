@@ -20,5 +20,17 @@ the ground up</div>
 <div class="isomer-card-link">More details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/doing-creative-practice-research-methods-for-building-unusual-archives/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[6 Mar] Doing Creative Practice Research: Methods for Building Unusual Archives</div><div class="isomer-card-description">The invisible archive: Telling stories that get overlooked.</div><div class="isomer-card-link">More details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/thrivelab/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[18 Mar] Thrivelab</div>
+<div class="isomer-card-description">No textbooks or lectures—just hands-on problem-solving</div>
+<div class="isomer-card-link">More details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/future-horizons-envisioning-the-humanities-and-social-sciences/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[25 Mar] Future Horizons: Envisioning the Humanities and Social Sciences</div><div class="isomer-card-description">The journey forward: Why the human story will always lead the future.</div><div class="isomer-card-link">More details</div></div></a>
 </div>
 <p></p>
