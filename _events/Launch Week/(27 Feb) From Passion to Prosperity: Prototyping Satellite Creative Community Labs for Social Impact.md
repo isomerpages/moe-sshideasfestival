@@ -90,7 +90,7 @@ She is also a WELL AP, certified Universal Design Consultant and permaculturist.
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr Hoe Su Fern</div>
-<div class="isomer-card-description">Su Fern&nbsp;is Principal Research Fellow directing the Culture Policy
+<div class="isomer-card-description">Su Fern&nbsp;is Principal Research Fellow directing the Cultural Policy
 and Evidence Lab at NAFA, UAS. She specialises in the analysis of cultural
 policy with three strands (i) culture-led place transformation, (ii) cultural
 governance and policy-making,&nbsp;&nbsp;(iii) cultural value and impact
