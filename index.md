@@ -36,4 +36,5 @@ sections:
       button: Learn more
       url: /the-hidden-science-of-a-nudge/
       alt: Image alt text
+      image: /images/Biogirl_collab__1_.png
 ---
