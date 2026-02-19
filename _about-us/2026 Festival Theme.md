@@ -25,8 +25,8 @@ aspects of resilience.</p>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ideasfestival.edu.sg/resilience-and-mental-wellbeing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilience and Mental Wellbeing</div><div class="isomer-card-link">Explore Events</div></div></a>
-<div class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/resilience-and-mental-wellbeing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_31.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilience and Mental Wellbeing</div><div class="isomer-card-link">Explore Events</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/adapting-to-change-i-urban-social-cultural/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cities" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_33.png">
@@ -34,19 +34,10 @@ aspects of resilience.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Adapting to Change I: Urban, Social, Cultural</div>
+<div class="isomer-card-link">Explore Events</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Adapting to Change II: AI &amp; Emerging Technologies</div>
-</div>
-</div>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/adapting-to-change-ii-ai-emerging-technologies/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_32.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Adapting to Change II: AI &amp; Emerging Technologies</div><div class="isomer-card-link">Explore Events</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/regional-policy-and-global-resilience/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_35.png">
@@ -54,19 +45,10 @@ aspects of resilience.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Regional, Policy and Global Resilience</div>
+<div class="isomer-card-link">Explore Events</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adaptability" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Careers, Education and Skills for the Future</div>
-</div>
-</div>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/careers-education-and-skills-for-the-future/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Adaptability" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_34.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Careers, Education and Skills for the Future</div><div class="isomer-card-link">Explore Events</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/research-interdisciplinarity/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="interdisc" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic_36.png">
@@ -74,8 +56,9 @@ aspects of resilience.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Research &amp; Interdisciplinarity</div>
+<div class="isomer-card-link">Explore Events</div>
 </div>
-</div>
+</a>
 </div>
 <hr>
 <p></p>
