@@ -114,7 +114,7 @@ many articles and a book, Rewriting Buddhism (UCL, 2020).</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">[UAS] Dr Hoe Su Fern</div>
-<div class="isomer-card-description">Su Fern is Principal Research Fellow directing the Culture Policy and
+<div class="isomer-card-description">Su Fern is Principal Research Fellow directing the Cultural Policy and
 Evidence Lab at NAFA, UAS. She specialises in the analysis of cultural
 policy with three strands (i) culture-led place transformation, (ii) cultural
 governance and policy-making, (iii) cultural value and impact evaluation.</div>
