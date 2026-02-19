@@ -2,6 +2,7 @@ collections:
   sub-themes:
     output: true
     order:
+      - Regional, Policy and Global Resilience.md
       - "Adapting to Change II: AI & Emerging Technologies.md"
       - "Adapting to Change I: Urban, Social, Cultural.md"
       - Resilience and Mental Wellbeing.md
