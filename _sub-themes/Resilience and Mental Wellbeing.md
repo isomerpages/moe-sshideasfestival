@@ -43,6 +43,6 @@ Health</div>
 <div class="isomer-card-description">The therapeutic frequency that fosters emotional balance</div>
 <div class="isomer-card-link">More details</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ideasfestival.edu.sg/neuroscience-of-stress-and-resilience-interactive-demos-and-booths/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[7 Mar] Neuroscience of Stress and Resilience: Interactive Demos and Booths</div><div class="isomer-card-description">Your stress, decoded. Neuroscience to build real resilience.</div><div class="isomer-card-link">More details</div></div></a>
 </div>
 <p></p>
