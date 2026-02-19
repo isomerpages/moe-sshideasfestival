@@ -84,18 +84,17 @@ outcomes such as well-being, health psychology, performance &amp; decision-makin
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Kim-Hye-Kyung" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/Failing Forward/KayKIm.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Kay Kim</div><div class="isomer-card-description">Hye Kyung “Kay” Kim is an Associate Professor in the Wee Kim Wee School of Communication and Information at NTU. Her work develops evidence-based strategies to improve health behaviors and public understanding of health risks.</div><div class="isomer-card-link">Click for full profile</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/items/3b0fa22d-7164-4994-b959-345fa4ba69fc" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Nick-Powdthavee" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/Failing Forward/Sufilkar.png">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/2026 Festival Committee/Nick.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Assoc Prof Sulfikar Amir</div>
-<div class="isomer-card-description">Sulfikar Amir is Associate Professor of Science, Technology, and Society
-and faculty in Sociology at NTU. His research examines institutional, political,
-and epistemological dimensions of science and technology, spanning technological
-nationalism, risk and disaster, resilience, and more.</div>
+<div class="isomer-card-title">Prof Nick Powdthavee</div>
+<div class="isomer-card-description">Nick is Professor of Economics at Nanyang Technological University and
+a Fellow of the Royal Economic Society specializing in behavioral economics
+and happiness research.</div>
 <div class="isomer-card-link">Click for full profile</div>
 </div>
 </a>
