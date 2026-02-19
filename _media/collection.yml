@@ -2,4 +2,5 @@ collections:
   media:
     output: true
     order:
+      - ifteaser.md
       - The Hidden Science of a Nudge!.md
