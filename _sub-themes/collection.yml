@@ -2,9 +2,9 @@ collections:
   sub-themes:
     output: true
     order:
-      - Research & Interdisciplinarity.md
-      - Careers, Education and Skills for the Future.md
-      - Regional, Policy and Global Resilience.md
-      - "Adapting to Change II: AI & Emerging Technologies.md"
-      - "Adapting to Change I: Urban, Social, Cultural.md"
       - Resilience and Mental Wellbeing.md
+      - "Adapting to Change I: Urban, Social, Cultural.md"
+      - "Adapting to Change II: AI & Emerging Technologies.md"
+      - Regional, Policy and Global Resilience.md
+      - Careers, Education and Skills for the Future.md
+      - Research & Interdisciplinarity.md
