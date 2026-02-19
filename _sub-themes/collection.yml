@@ -1,0 +1,4 @@
+collections:
+  sub-themes:
+    output: true
+    order: []
