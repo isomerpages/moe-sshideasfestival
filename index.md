@@ -19,6 +19,15 @@ sections:
           description: 26 Feb - 30 Mar 2026
           url: /overview
   - infopic:
+      title: The Hidden Science of A Nudge!
+      subtitle: Content Partnership
+      id: infopic
+      description: Small Nudge. Nation-wide Impact. See behavioural insights in action!
+      button: Learn more
+      url: /the-hidden-science-of-a-nudge/
+      alt: Image alt text
+      image: /images/Biogirl_collab__1_.png
+  - infopic:
       title: Reimagining Resilience
       subtitle: Festival Theme
       id: infopic
@@ -28,13 +37,4 @@ sections:
       url: /if2026-theme/
       alt: Image alt text
       image: /images/Logos & Assets/MOE_Ideas_Fest_Website_Graphic.png
-  - infopic:
-      title: The Hidden Science of A Nudge!
-      subtitle: Content Partnership
-      id: infopic
-      description: Small Nudge. Nation-wide Impact. See behavioural insights in action!
-      button: Learn more
-      url: /the-hidden-science-of-a-nudge/
-      alt: Image alt text
-      image: /images/Biogirl_collab__1_.png
 ---
