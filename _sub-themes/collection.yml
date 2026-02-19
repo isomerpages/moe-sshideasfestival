@@ -2,6 +2,7 @@ collections:
   sub-themes:
     output: true
     order:
+      - Research & Interdisciplinarity.md
       - Careers, Education and Skills for the Future.md
       - Regional, Policy and Global Resilience.md
       - "Adapting to Change II: AI & Emerging Technologies.md"
