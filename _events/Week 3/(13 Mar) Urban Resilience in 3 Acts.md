@@ -81,7 +81,7 @@ boards including Geoforum and Progress in Environmental Geography.</div>
 </div>
 </a>
 </div>
-<h4>Emcee and Panelists </h4>
+<h4>Emcee, Moderator and Panelists</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/researchers/cai-yanjun/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/SUTD/Urban Resilience 3 Acts/CaiYanjun.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Yanjun Cai</div><div class="isomer-card-description">Yanjun Cai is Research Fellow at the Lee Kuan Yew Centre for Innovative Cities. Her research focuses on climate resilience and urban sustainability in the face of digital transformation, paying additional attention to disadvantaged populations.</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://lkycic.sutd.edu.sg/people/centre-leadership/cheong-koon-hean/" class="isomer-card">
 <div class="isomer-card-image">
