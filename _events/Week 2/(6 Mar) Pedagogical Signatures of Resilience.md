@@ -61,7 +61,8 @@ Joelle Wong Jing Yee and Muhammad Razin&nbsp;Nurulhaq&nbsp;Bin Sirhan (School
 of Theatre); Muhammad&nbsp;Shazlan&nbsp;bin Roslan (Choreographer, School
 of Dance); Siti Nur-Afiqah Binte&nbsp;Azli, Siti Nur-Atiqah Binte&nbsp;Azli,
 Chandrasekaran Richard Solomon, Kendra Alexa Kurniawan, Rabano&nbsp;Rhailly&nbsp;Espiritu,
-Wan Mohamed&nbsp;Qhairunnas&nbsp;Bin Wan Mohamed Ramdan (School of Dance)&nbsp;</p>
+Wan Mohamed&nbsp;Qhairunnas&nbsp;Bin Wan Mohamed Ramdan (School of Dance),
+Elysia Zhang Mingjia<strong> </strong>(School of Dance)</p>
 </li>
 </ul>
 <p></p><a class="isomer-image-wrapper" href="https://tinyurl.com/nafauas-resilience"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
