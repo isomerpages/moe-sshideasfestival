@@ -72,7 +72,7 @@ in illness.</p>
 <p>5:30 pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Welcome&nbsp;&nbsp;
+<p><strong>Welcome&nbsp;&nbsp; </strong>
 <br>Assoc. Prof. Graham Matthews, NTU School of Humanities&nbsp;</p>
 </td>
 </tr>
@@ -81,7 +81,7 @@ in illness.</p>
 <p>5:40 pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Voices and Stories: Patient Narratives of Resilience&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Voices and Stories: Patient Narratives of Resilience</strong>&nbsp;&nbsp;&nbsp;</p>
 <ul>
 <li>
 <p>Ms. Candy Gan: Journey through type 1 diabetes&nbsp;&nbsp;</p>
@@ -118,7 +118,7 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 <p>6:30 pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Beyond Resilience: The Cost of Staying Strong &nbsp;</p>
+<p><strong>Beyond Resilience: The Cost of Staying Strong</strong> &nbsp;</p>
 <ul>
 <li>
 <p>Asst. Prof. Michelle Chiang: Imagination, resilience, and storytelling&nbsp;</p>
@@ -136,7 +136,8 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 <p>7:05 pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Performance: Embodying Resilience through relational exchange&nbsp;</p>
+<p><strong>Performance: Embodying Resilience through relational exchange&nbsp;</strong>
+</p>
 <ul>
 <li>
 <p>Ms. April Thant Aung&nbsp;</p>
@@ -149,7 +150,7 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 <p>7:20 pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Feature Film: Ashes and Sighs&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Feature Film: Ashes and Sighs</strong>&nbsp;&nbsp;&nbsp;</p>
 <ul>
 <li>
 <p>Assoc. Prof. Ian Dixon&nbsp;</p>
@@ -162,7 +163,7 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 <p>7:50pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Closing &amp; Open Reflection&nbsp;</p>
+<p><strong>Closing &amp; Open Reflection</strong>&nbsp;</p>
 </td>
 </tr>
 </tbody>
