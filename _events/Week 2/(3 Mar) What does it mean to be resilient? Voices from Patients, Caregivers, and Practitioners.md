@@ -53,6 +53,8 @@ in illness.</p>
 <p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/TSV1pGHiNB"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
 <p></p>
 <h4>Programme</h4>
+<p><em>Dinner buffet will be provided. The menu is halal-certified and contains vegetarian-friendly dishes.</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -162,6 +164,7 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4>Speaker Profiles</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Graham-John-Matthews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/What does it mean Resilient/Graham.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Graham Matthews</div><div class="isomer-card-description">Graham Matthews is Provost’s Chair in Medical Humanities and the Director of the Centre for Health, Culture &amp; Society. He also serves as the Associate Chair (Research) in the School of Humanities. His research interests are in literature &amp; medicine, and mental health narratives</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Michael-Stanley-Baker" class="isomer-card">
