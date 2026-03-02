@@ -51,6 +51,122 @@ to the practice of mindful compassion in medical education.</p>
 voices that reveal what it truly means to endure, adapt, and find meaning
 in illness.</p>
 <p></p><a class="isomer-image-wrapper" href="https://forms.office.com/r/TSV1pGHiNB"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Logos &amp; Assets/Registration_Button_v2.png"></a>
+<p></p>
+<h4>Programme</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5:00 pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registration &amp; Open Exhibition&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5:30 pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Welcome&nbsp;&nbsp;
+<br>Assoc. Prof. Graham Matthews, NTU School of Humanities&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5:40 pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voices and Stories: Patient Narratives of Resilience&nbsp;&nbsp;&nbsp;</p>
+<ul>
+<li>
+<p>Ms. Candy Gan: Journey through type 1 diabetes&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Ms. Serene Mai: Colours in the midst of Grey Times&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Mr. Rajendran K S: Beyond the Burden: Sketching Resilience in the Caregivers
+Journey&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Chaired by: Dr. Tanya Tierney&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6:15 pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Short Break / Exhibition&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6:30 pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Beyond Resilience: The Cost of Staying Strong &nbsp;</p>
+<ul>
+<li>
+<p>Asst. Prof. Michelle Chiang: Imagination, resilience, and storytelling&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Assoc. Prof. Lim Ni Eng: The Courage to Let Go&nbsp;&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:05 pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performance: Embodying Resilience through relational exchange&nbsp;</p>
+<ul>
+<li>
+<p>Ms. April Thant Aung&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:20 pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Feature Film: Ashes and Sighs&nbsp;&nbsp;&nbsp;</p>
+<ul>
+<li>
+<p>Assoc. Prof. Ian Dixon&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7:50pm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closing &amp; Open Reflection&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Speaker Profiles</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Graham-John-Matthews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/NTU/What does it mean Resilient/Graham.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Assoc Prof Graham Matthews</div><div class="isomer-card-description">Graham Matthews is Provost’s Chair in Medical Humanities and the Director of the Centre for Health, Culture &amp; Society. He also serves as the Associate Chair (Research) in the School of Humanities. His research interests are in literature &amp; medicine, and mental health narratives</div><div class="isomer-card-link">Click for full profile</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://dr.ntu.edu.sg/entities/person/Michael-Stanley-Baker" class="isomer-card">
