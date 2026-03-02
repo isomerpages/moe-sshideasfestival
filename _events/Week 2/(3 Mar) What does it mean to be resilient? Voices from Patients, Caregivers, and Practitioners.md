@@ -61,7 +61,7 @@ in illness.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5:00 pm&nbsp;</p>
+<p>5.00pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration &amp; Open Exhibition&nbsp;&nbsp;</p>
@@ -69,7 +69,7 @@ in illness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5:30 pm&nbsp;</p>
+<p>5.30pm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Welcome&nbsp;&nbsp; </strong>
@@ -78,27 +78,22 @@ in illness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5:40 pm&nbsp;</p>
+<p>5.40pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Voices and Stories: Patient Narratives of Resilience</strong>&nbsp;&nbsp;&nbsp;</p>
-<ul>
+<p><strong>Voices and Stories: Patient Narratives of Resilience</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Ms Candy Gan: Journey through type 1 diabetes&nbsp;&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Ms Serene Mai: Colours in the midst of Grey Times&nbsp;&nbsp;&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Mr Rajendran K S: Beyond the Burden: Sketching Resilience in the Caregivers
 Journey&nbsp;&nbsp;&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Chaired by: Dr Tanya Tierney&nbsp;</p>
 </li>
@@ -107,24 +102,22 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6:15 pm&nbsp;</p>
+<p>6.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Short Break / Exhibition&nbsp;</p>
+<p>Short Break / Exhibition</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6:30 pm&nbsp;</p>
+<p>6.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Beyond Resilience: The Cost of Staying Strong</strong> &nbsp;</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Asst Prof Michelle Chiang: Imagination, resilience, and storytelling&nbsp;</p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Assoc Prof Lim Ni Eng: The Courage to Let Go&nbsp;&nbsp;</p>
 </li>
@@ -133,12 +126,12 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7:05 pm&nbsp;</p>
+<p>7.05pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Performance: Embodying Resilience through relational exchange&nbsp;</strong>
 </p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Ms April Thant Aung&nbsp;</p>
 </li>
@@ -147,11 +140,12 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7:20 pm&nbsp;</p>
+<p>7.20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Feature Film: Ashes and Sighs</strong>&nbsp;&nbsp;&nbsp;</p>
-<ul>
+<p><strong>Feature Film: Ashes and Sighs</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Assoc Prof Ian Dixon&nbsp;</p>
 </li>
@@ -160,10 +154,10 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7:50pm&nbsp;</p>
+<p>7.50pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Closing &amp; Open Reflection</strong>&nbsp;</p>
+<p>Closing &amp; Open Reflection&nbsp;</p>
 </td>
 </tr>
 </tbody>
