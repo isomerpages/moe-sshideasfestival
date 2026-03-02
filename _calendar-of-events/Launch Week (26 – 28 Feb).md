@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/singapore/parenting-education/moe-to-raise-spending-to-556m-over-next-five-years-to-boost-social-science-and-humanities-research" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[26 Feb] Ideas Festival Launch Event</div><div class="isomer-card-description">Discover how the humanities and social sciences can help build lasting resilience.</div><div class="isomer-card-link">View media coverage</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moe.gov.sg/news/speeches/20260226-speech-by-minister-for-education-mr-desmond-lee-at-the-2026-ideas-festival-launch-event" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Logos &amp; Assets/MOE_Ideas_Fest_Website_Graphic.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[26 Feb] Ideas Festival Launch Event</div><div class="isomer-card-description">Discover how the humanities and social sciences can help build lasting resilience.</div><div class="isomer-card-link">More details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/choose-your-own-ethical-adventure-exploring-the-use-of-ai-agents/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
