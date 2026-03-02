@@ -73,7 +73,7 @@ in illness.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Welcome&nbsp;&nbsp; </strong>
-<br>Assoc. Prof. Graham Matthews, NTU School of Humanities&nbsp;</p>
+<br>Assoc Prof Graham Matthews, NTU School of Humanities&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -84,23 +84,23 @@ in illness.</p>
 <p><strong>Voices and Stories: Patient Narratives of Resilience</strong>&nbsp;&nbsp;&nbsp;</p>
 <ul>
 <li>
-<p>Ms. Candy Gan: Journey through type 1 diabetes&nbsp;&nbsp;</p>
+<p>Ms Candy Gan: Journey through type 1 diabetes&nbsp;&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Ms. Serene Mai: Colours in the midst of Grey Times&nbsp;&nbsp;&nbsp;</p>
+<p>Ms Serene Mai: Colours in the midst of Grey Times&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Mr. Rajendran K S: Beyond the Burden: Sketching Resilience in the Caregivers
+<p>Mr Rajendran K S: Beyond the Burden: Sketching Resilience in the Caregivers
 Journey&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Chaired by: Dr. Tanya Tierney&nbsp;</p>
+<p>Chaired by: Dr Tanya Tierney&nbsp;</p>
 </li>
 </ul>
 </td>
@@ -121,12 +121,12 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Beyond Resilience: The Cost of Staying Strong</strong> &nbsp;</p>
 <ul>
 <li>
-<p>Asst. Prof. Michelle Chiang: Imagination, resilience, and storytelling&nbsp;</p>
+<p>Asst Prof Michelle Chiang: Imagination, resilience, and storytelling&nbsp;</p>
 </li>
 </ul>
 <ul>
 <li>
-<p>Assoc. Prof. Lim Ni Eng: The Courage to Let Go&nbsp;&nbsp;</p>
+<p>Assoc Prof Lim Ni Eng: The Courage to Let Go&nbsp;&nbsp;</p>
 </li>
 </ul>
 </td>
@@ -140,7 +140,7 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 </p>
 <ul>
 <li>
-<p>Ms. April Thant Aung&nbsp;</p>
+<p>Ms April Thant Aung&nbsp;</p>
 </li>
 </ul>
 </td>
@@ -153,7 +153,7 @@ Journey&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Feature Film: Ashes and Sighs</strong>&nbsp;&nbsp;&nbsp;</p>
 <ul>
 <li>
-<p>Assoc. Prof. Ian Dixon&nbsp;</p>
+<p>Assoc Prof Ian Dixon&nbsp;</p>
 </li>
 </ul>
 </td>
