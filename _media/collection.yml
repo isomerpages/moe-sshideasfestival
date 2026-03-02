@@ -2,4 +2,5 @@ collections:
   media:
     output: true
     order:
+      - Are Humanities still relevant in an AI driven world?.md
       - The Hidden Science of a Nudge!.md
