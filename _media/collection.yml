@@ -2,6 +2,6 @@ collections:
   media:
     output: true
     order:
-      - What if Collective Wellbeing is one we build together?.md
       - The Hidden Science of a Nudge!.md
       - Are the humanities still relevant in an AI driven world?.md
+      - What if Collective Wellbeing is one we build together?.md
