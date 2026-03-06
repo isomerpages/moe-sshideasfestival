@@ -2,7 +2,7 @@ collections:
   media:
     output: true
     order:
-      - Who should the AI save? The self driving car dilemma.md
       - The hidden science of a nudge!.md
       - Are the humanities still relevant in an AI driven world?.md
       - What if collective wellbeing is one we build together?.md
+      - Who should the AI save? The self driving car dilemma.md
