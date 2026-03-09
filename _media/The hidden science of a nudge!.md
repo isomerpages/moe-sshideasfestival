@@ -1,5 +1,5 @@
 ---
-title: The Hidden Science of a Nudge!
+title: The hidden science of a nudge!
 permalink: /the-hidden-science-of-a-nudge/
 variant: tiptap
 description: ""
