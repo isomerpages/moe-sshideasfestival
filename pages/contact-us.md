@@ -5,17 +5,17 @@ permalink: /contact-us/
 agency_name: The Organisers
 contacts:
   - content:
-      - phone: +65 6516 6666
+      - phone: ""
       - email: nus.comms@nus.edu.sg
       - other: ""
     title: NUS
   - content:
-      - phone: +65 6791 1744
+      - phone: ""
       - email: HASSEvents@ntu.edu.sg
       - other: ""
     title: NTU
   - content:
-      - phone: +65 6828 0831
+      - phone: ""
       - email: socsc_seminar@smu.edu.sg
       - other: ""
     title: SMU
@@ -25,7 +25,7 @@ contacts:
       - other: ""
     title: SUSS
   - content:
-      - phone: +65 6303 6600
+      - phone: ""
       - email: email@marcom.sutd.edu.sg
       - other: ""
     title: SUTD
