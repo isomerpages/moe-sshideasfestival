@@ -2,6 +2,7 @@ collections:
   media:
     output: true
     order:
+      - What's your take on resilience?.md
       - The hidden science of a nudge!.md
       - Are the humanities still relevant in an AI driven world?.md
       - What if collective wellbeing is one we build together?.md
