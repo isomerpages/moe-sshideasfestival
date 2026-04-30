@@ -17,7 +17,7 @@ sections:
       key_highlights:
         - title: Closing Event Highlights
           description: 25 March 2026
-          url: /overview
+          url: /future-horizons
   - infopic:
       title: The Hidden Science of A Nudge!
       subtitle: Content Partnership
