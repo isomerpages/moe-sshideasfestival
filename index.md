@@ -15,8 +15,8 @@ sections:
       backgroundColor: white
       alignment: left
       key_highlights:
-        - title: Sign up for our events!
-          description: 26 Feb - 30 Mar 2026
+        - title: Closing Event Highlights
+          description: 25 March 2026
           url: /overview
   - infopic:
       title: The Hidden Science of A Nudge!
